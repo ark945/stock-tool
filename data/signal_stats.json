@@ -1,16 +1,16 @@
 {
-  "computedAt": 1784916765879,
+  "computedAt": 1784926535588,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1549,
+        "total": 1550,
         "winners": 38,
-        "losers": 296,
+        "losers": 297,
         "open": 1215,
-        "winRate": 0.1138,
+        "winRate": 0.1134,
         "avgWin": 27.29,
-        "avgLoss": -5.96,
-        "avgReturn": -2.18,
+        "avgLoss": -5.94,
+        "avgReturn": -2.17,
         "sharpe": -0.34,
         "avgHoldDays": 48
       }
@@ -31,10 +31,10 @@
     },
     "triple_resonance": {
       "trailing_252d": {
-        "total": 161,
+        "total": 162,
         "winners": 8,
         "losers": 47,
-        "open": 106,
+        "open": 107,
         "winRate": 0.1455,
         "avgWin": 28.69,
         "avgLoss": -0.31,
@@ -45,14 +45,14 @@
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 666,
+        "total": 668,
         "winners": 8,
-        "losers": 60,
-        "open": 598,
-        "winRate": 0.1176,
+        "losers": 61,
+        "open": 599,
+        "winRate": 0.1159,
         "avgWin": 28.11,
-        "avgLoss": -4.36,
-        "avgReturn": -0.54,
+        "avgLoss": -4.29,
+        "avgReturn": -0.53,
         "sharpe": -0.09,
         "avgHoldDays": 50
       }

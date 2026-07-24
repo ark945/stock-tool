@@ -5046,11 +5046,11 @@
       "symbol": "ENS",
       "triggeredAt": "2026-05-25T18:25:38.422Z",
       "entryPrice": 232.24,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 232.24,
+      "exitDate": "2026-07-24T20:55:35.576Z",
       "stopLoss": 213.6608,
       "target": 267.076,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-05-25_ENS",
@@ -5058,11 +5058,11 @@
       "symbol": "ENS",
       "triggeredAt": "2026-05-25T18:25:38.422Z",
       "entryPrice": 232.24,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 232.24,
+      "exitDate": "2026-07-24T20:55:35.576Z",
       "stopLoss": 213.6608,
       "target": 267.076,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-05-26_VSAT",
@@ -35542,6 +35542,54 @@
       "exitDate": null,
       "stopLoss": 223.0448,
       "target": 278.806,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-07-24_LABU",
+      "type": "rs_leader",
+      "symbol": "LABU",
+      "triggeredAt": "2026-07-24T20:52:34.701Z",
+      "entryPrice": 245.6,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 225.952,
+      "target": 282.44,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-07-24_KOD",
+      "type": "triple_resonance",
+      "symbol": "KOD",
+      "triggeredAt": "2026-07-24T20:52:34.701Z",
+      "entryPrice": 41.41,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.0972,
+      "target": 47.6215,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-07-24_LABU",
+      "type": "vcp_breakout",
+      "symbol": "LABU",
+      "triggeredAt": "2026-07-24T20:52:34.701Z",
+      "entryPrice": 245.6,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 225.952,
+      "target": 282.44,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-07-24_KOD",
+      "type": "vcp_breakout",
+      "symbol": "KOD",
+      "triggeredAt": "2026-07-24T20:52:34.701Z",
+      "entryPrice": 41.41,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.0972,
+      "target": 47.6215,
       "status": "open"
     }
   ]
