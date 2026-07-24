@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-24T18:09:27.913Z",
+  "scannedAt": "2026-07-24T20:52:37.353Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 29,
@@ -130,7 +130,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 8.0,
+          "actual": 8,
           "estimate": 6.85744,
           "surprisePct": 0.1666
         },
@@ -152,7 +152,7 @@
         "current": 61.2829,
         "pct90d": 48.26,
         "pct30d": 30.34,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -355,7 +355,7 @@
         "current": 0.3458,
         "pct90d": -6.22,
         "pct30d": 5.87,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 0,
@@ -766,7 +766,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 1.0,
+          "actual": 1,
           "estimate": 1.69,
           "surprisePct": -0.4083
         }
@@ -782,7 +782,7 @@
         "current": 8.8937,
         "pct90d": 5.69,
         "pct30d": 0.9,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -1897,7 +1897,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
