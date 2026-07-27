@@ -1,58 +1,58 @@
 {
-  "computedAt": 1785168226326,
+  "computedAt": 1785176423094,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1575,
+        "total": 1577,
         "winners": 38,
-        "losers": 346,
-        "open": 1191,
-        "winRate": 0.099,
+        "losers": 366,
+        "open": 1173,
+        "winRate": 0.0941,
         "avgWin": 27.29,
-        "avgLoss": -5.1,
-        "avgReturn": -1.9,
-        "sharpe": -0.31,
+        "avgLoss": -4.82,
+        "avgReturn": -1.8,
+        "sharpe": -0.3,
         "avgHoldDays": 50
       }
     },
     "discovery": {
       "trailing_252d": {
-        "total": 519,
+        "total": 520,
         "winners": 8,
-        "losers": 99,
-        "open": 412,
-        "winRate": 0.0748,
+        "losers": 109,
+        "open": 403,
+        "winRate": 0.0684,
         "avgWin": 37.42,
-        "avgLoss": -3.86,
-        "avgReturn": -0.77,
+        "avgLoss": -3.51,
+        "avgReturn": -0.71,
         "sharpe": -0.13,
-        "avgHoldDays": 49
+        "avgHoldDays": 50
       }
     },
     "triple_resonance": {
       "trailing_252d": {
         "total": 168,
         "winners": 8,
-        "losers": 51,
-        "open": 109,
-        "winRate": 0.1356,
+        "losers": 55,
+        "open": 105,
+        "winRate": 0.127,
         "avgWin": 28.69,
-        "avgLoss": -0.28,
-        "avgReturn": 3.65,
-        "sharpe": 0.7,
+        "avgLoss": -0.26,
+        "avgReturn": 3.41,
+        "sharpe": 0.68,
         "avgHoldDays": 57
       }
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 688,
+        "total": 689,
         "winners": 8,
-        "losers": 69,
-        "open": 611,
-        "winRate": 0.1039,
+        "losers": 78,
+        "open": 603,
+        "winRate": 0.093,
         "avgWin": 28.11,
-        "avgLoss": -3.79,
-        "avgReturn": -0.48,
+        "avgLoss": -3.35,
+        "avgReturn": -0.43,
         "sharpe": -0.08,
         "avgHoldDays": 52
       }
@@ -60,9 +60,9 @@
     "earnings_play": {
       "trailing_252d": {
         "insufficientData": true,
-        "sampleSize": 11,
-        "total": 87,
-        "open": 76
+        "sampleSize": 13,
+        "total": 88,
+        "open": 75
       }
     }
   }
