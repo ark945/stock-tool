@@ -1,80 +1,22 @@
 {
-  "generatedAt": 1784926549847,
+  "generatedAt": 1785168241926,
   "market": "TW",
   "bySymbol": {
-    "1303.TW": [
-      {
-        "title": "外資喊合理股價300元！台塑、南亞迎反攻 四寶復甦行情真的升溫了？",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOVEJkWFBmZENHdlNaZUwzc1VPTlVqSFJHYkJtN3hBUk9rMDk3OXlISXVacUFCSTJKZlFaY0NTQ2E3ZF9YOE1LWnNabFlrUUZoZTJYOFNWMEpXcFlwRXZGSmU1QXc1aHk2YXpoV1BkQV9JS3BoOTRnTU9EQWRucFNSRzBCUDVOemJwWUMxUFBKeVpZSEhEQzhuVFByVHFhdWx0bGtHbWo2MllpZ1JVNjlQX0V1VXNoVDFXaERNb013a3ZyV2RDMmVlOUR5RHZQLVEyM2ozWURpWWNyS1VuaG1Id2ZabWZ5VjZYMS1OVzF6aU56WVBzdm14Y3g3UTBsYTI5ZWtlSTBhV1RHRGtSZE9UcTdSM2dFck5xTmVTUzdHLW5sSkhMTFcxeXhsRjJERmFMQWdzTEp1c2dZbUdpcW03NVQ4SzJ6akM3RDd0cWViZ2tTTXo0ZGxrZXRPdngyZXlEUC1NSE5vMk0zSWpKZzlUNVhob0pfeXI2Njc1dkJoSFVwUzBzcFhjZUZwcV90VFZvZXlKbVctVGFZblk?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 03:30:05 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "Factset 最新調查：南亞(1303-TW)目標價調升至265元，幅度約13.73%｜新聞快訊｜豐雲學堂",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wTTNhNWpwZFByZ0VkLVhycWJJejFmaGktVldTTGdXUndVVEpMdmI1THhRLVRGZGlISmJEd1ByVW5WS003eE5fUlZWNjBtMjd2cmZLWkJZM242eHc0TWg5ZW9MZDRxQzI3S0E0OU9CczZRTzdqbUE?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 11:10:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【即時新聞】南亞(1303)下挫逾6％遇修正，這「5檔概念股」買盤逆勢湧入接棒上攻！",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWMmxhc01hal9JU2drOGk0MkROUFlEQzEybFozS3FON1pTNWl3WGVtZnphSllBMWw0OVkyc3dYMDdKVFZWZ3ludThTTzluNk1lUnVTbnhjeWR6LXRBd3NxZ0wyVF9va0E?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 03:32:37 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【13:30 即時新聞】南亞(1303)股價上漲至208元、漲幅6.39%，AI電子材料漲價與獲利創高激發買盤續攻＋中長期多頭結構支撐籌碼偏多",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVnB3VEZBczVUOWJwUWhkcTMtNTlYRDk1ZVlJUlBPRm5JTk1fQXZXYzZHVTVtWEM4TDAwbC0xSXNHcmtwQlVNSDdidHBacE9OSno3OEVhU3RPLXdHNXo5OUFWMHMxaGJkNU4wbEZiUGRheTlhMFF4ZDV2RTJjUmpXMHl1M29RTWhWR25OMTBR?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 05:32:05 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "南亞蛻變AI電子材料王者| 雜誌",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFdm1PdElpbmlOb2p1WUdRSUFwNXJvd2M3bzRmYzRLNTJmbHB3OFB3X0V2ckR3TDBWRW94MmlDTHVkd0hUREVwazJWQWcwWlln?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 07:01:09 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "台塑4寶Q1轉盈 台塑、南亞︰Q2會更好",
-        "publisher": "自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42TXpHMUlNYUs3Y1ZtOWpLellrUlR5RDU3aG01ekdhcWg5YmVyN25SSEdzV2Y3U2sxZU54MzVRZEgyOWtjdVlUTkI0WDRuZnRsOVdhRWdMM0U?oc=5",
-        "pubTime": "Mon, 20 Jul 2026 23:23:24 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "南亞電子材料占比過半，Q2每股賺3.37元",
-        "publisher": "台視全球資訊網",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdzJQTVZ3ZUI3Z3JvdFgxT3hDRDBkZ1FkTjVFcW1sb1ZqVzlxYTdpMmZHell0ME9fSnNVQ1dfbFR0OEltM3pBOGFIZE10a1NtbV9vcGNkS2k2VG8xdkdGTFNraDczN3gtal9BX0ZxVEFTYkJhOHU0QUhCejlHQmlDVG81S3ZxcGdIcjRZcU9RVE9GUQ?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 05:39:32 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "南亞「母子均貴」大翻身！塑化股變AI材料王法人喊出3字頭驚人目標價- 證券",
-        "publisher": "工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaVlpR19yNHU1QWstWl9JWHd0U1FXUTVkUnc3dVdOeFNZaXcwdnNKeGNGRzVnVlZYSXA0VUFEdmswMkh4dWdCd3VfNlBXSE9QVEZTLTNCcmdPMndWalFV?oc=5",
-        "pubTime": "Sun, 19 Jul 2026 01:31:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "三大法人買賣超 – 外資買超(8150)南茂、(6770)力積電，投信買超(1303)南亞、(2059)川湖，法人合計賣超431.43億元",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxOLVA5d1VNOGJoQVVMcDVuODA2d2NEV1Rna09GNGVmblJlZ2wtY2E3bDdJNDd2bjh6R1lvTXI1ZHRhSVVkZDctSkMta3hTejM1QnRqakUwb193M250c3A1WnRYSG02dDFUbmdQaTc3THVLS25Vc3dod0plLUVKMkxhcmxRd3I2UmFlVWpmRG1OXzNGN0V0ZTBlWWxrZmNQcVZWM0JIZk53ZHJ2T1h4Ym1LQUpkdmFjWmdHc0ZZRDRKSUVfVXFROE8xUjRJRVlkcmdhUFJjZWtJUXV1UXgtTWV4R3VqNUh6QWtEbGN3Sm0zV0JST2l5bTNBOE5BWHNwVmstWmxmNVQ0blBtb3FvN193NUFZWjRlUjY2aHN6RTlKVnR6V1N5SGVUSm9mU0hhaGtzT0FvWGlsbDY4MEJHaUZVVTM3Y3A3YTVrUnR4VTEwUjJMdDU2ZTVUa04zcHRGTUVCcjlVOEZUSFhtMTkwaWJ6VDZxWGJCdF9GbGlwdm44Y2Fac1VYVktWVlRRZzFNSC1kZ3IwUHI2V1dEUUxKc2NNNnI5ak1YaWdZSmtzaXZWdXdIWDlmcEpUVmhETWh6bTZ4bzR2ZXdFM29tMXU1NUExekREVklBQ0xFelMtYkwxS3owN2N4cGtBS1RaUXRyNkF3c0RqZFZjcVE0VzQzTUt3N0dhLWtVZXdZZkd6YnZPZDdsd2M2WXM3WnFiSURzbWZXVzVtZ2pWWWt4bDFzT0REdmlqR3IycU1wcXFZTWhFRDYtZw?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "南亞科貢獻136億神助攻！這「電子材料大廠」不甩產品報價下滑 Q2獲利超預期",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQMlplcnBfRGc4aEk2M1l4NTZobkxSeUg3MjJkVzU0UFNyYTFoZnRVTFg3M1U3LTV4aVlJS2x5ZTd4TDg4SXI5elYxd2pwWDhTVF9rOXNXbmpTR29VU2NVdVFOVzZiRUxhdDIzUTdMSEpYTHRCR1E2SUNjN1Jzb0FLbG4tU1RoQVR4QTJGOFhJcGV4TmNscUtxR2xVUk9DTkFLYkdacnVIQUx3cmIwenNac0pEZXJQWTdON0pjcE1ERWh2b3RpS1U0OXNnMkkzR3djeVFwQUtpc1FkWWRxRlZUNEtFZGF0QUx2S0FYalF5OUdBbFU1a2NrWW5lRmZXcW1pNURRQVhabm9OYXpCWUxORFpncG94YTE1QnVhRDNGQmlOTmdmbEkwbHNUSElmTjlFU3gwY1d2TTZrdlBfbUpncXJubUpoS1J6TTdSNjNXWjFibnBWbEk1VXhQcjZmNnh6RTNCTlRsUEZFN1F1MEdjczNFRW1mVXR1MjdqdTJjUkpkSmM5bmVSYldERk9zOXZBblJ6ajFfRzhGVXlTZ0dzZmdJelFyLVFYMVp2TENPVEhXSGMycFpjdFlmRE8tbXBiYmRR?oc=5",
-        "pubTime": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      }
-    ],
     "2408.TW": [
+      {
+        "title": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/china-memory-champion-cxmt-set-230000143.html",
+        "pubTime": "2026-07-26T23:00:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Memory Frenzy Primes China Champion CXMT for Historic Debut",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/memory-frenzy-primes-china-champion-000000045.html",
+        "pubTime": "2026-07-26T00:00:00Z",
+        "source": "yfinance"
+      },
       {
         "title": "Nanya Technology Corp (TPE:2408) Q2 2026 Earnings Call Highlights: Revenue Surges Amidst Supply ...",
         "publisher": "GuruFocus.com",
@@ -132,31 +74,89 @@
         "source": "yfinance"
       },
       {
-        "title": "May 2026's Asian Stock Selections Believed To Be Trading Below Estimated Value",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/may-2026s-asian-stock-selections-043759798.html",
-        "pubTime": "2026-05-18T04:37:59Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Asian Stocks Trading Up To 35.3% Below Intrinsic Value Estimates",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-trading-35-3-223422061.html",
-        "pubTime": "2026-05-17T22:34:22Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "兩樣情！南亞科漲停後翻黑4.38%炸380億元 「這檔」連4漲24.8%噴374億元",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVUZNUUNiTUtOUXJmcWdJT1lTeEhpT0ZOMlV2ZkVlNEFjZXNsck1yUHJmdUtKZU9CelhvZmEyX2dyUEt0NkNPUVMzOGk1M1FvNVRrZ1pwZTE4bk1qcGtxMzdKT0hHdnNPSGJFNjJKWGNXaGk3clFXZHh1eFV2RXBJeXdxVmlNSDJOLWhFODFGaXhTYTdiMkpGYTRpbjNHWXp0bXU3OElNTl8wTkFfNktnYVUwZktVOUR2ckZYRVF4MWs4T3pjYURhMmdqaGIydVphMmp2QWh1V1RCeEYtWXlqOU9yTFFWVTlUc0IzYWtIanZCRVFxNFlmV1V6UGRsZVlGdFM2Z25mZkFIdlJGX0RGUUgwbWIyVzhuRDBwdFY1OVVOeXJaLTdfZw?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 06:50:00 GMT",
+        "title": "【12:43 即時新聞】南亞科(2408)股價上漲至414元、漲幅3.24%，AI記憶體需求與建廠題材加持，獲利成長搭配評價修正成為盤面焦點",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWpCZGYxZy0xMU85TmFBSWtLQkYxQXFQdDVOQ0NYU1NNLVJEMlV5UUwtOWRtdmhJSGZmMWxXVUZyM3dkZmxadVAwXzlwc0FoTjJFTzdxYUlHRnBXSmNrdm4zSVpuU2k1SjZ4OTI5aE1WSVhzT3dMaEJLUVRoSmhXWDVSc2ZGRnFqYnc1WGxR?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 04:43:38 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "全民權證／南亞科 二檔聚光",
+        "title": "大摩一發話！南亞科暴力反彈8％「記憶體驚天大修正已結束？」極佳進場點竟然是這時候- 上市櫃",
+        "publisher": "旺得富理財網",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tN2N3N292ZF9ERzE3cjI5S3dtMV9Zbk9CakJVZ3pfMnNmYnJVNkM0M05adk5wLVp6dmJpeEZfOXZNMVZXSWtPLUVzRU4wYURFcjJodFhCTFBuZlhRdUhJWTFaSER4TVhxYXc?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 06:19:12 GMT",
+        "source": "google_news_zh_tw"
+      }
+    ],
+    "1303.TW": [
+      {
+        "title": "三大法人買賣超 – 外資買超(2303)聯電、(1303)南亞，投信買超(6669)緯穎、(3008)大立光，法人合計賣超0.96億元",
+        "publisher": "sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPcks5bk9kTDl4RXZyakJ1V194QUhpWmRVNGJBVHRaenNfc0M1d3puY0hCRUFHWlVySTFOanVVVHpRRi0zYXIzcFFwRDhzeV9XN3lQTVZaNmdQbGNpZ05UV19uUHdGWFpfbndwRy1la09SYUhaVkUtWEp3T1lWaEVMck16cjItQl94eHIyT3VyOVRWc2RtM21qSFBUUDlEX1BocTluYUJTNXprYXpldE82Nk1VUDNDN0JpUGc5Wk5pVHpEYmJCZ2tWVG10NF9oZ252dHNYd3FXYWI4LVktQTBjSkw3V183N3N1cFJzYy1WUkpqX3MtZS1FOTBxa09xTXM0YlpwOTY4LWo0WFM1UjBLbnV3Njg5WDdfSXk2azk0MjJlLUpObUw4X2Y4NWlvRkxfRGJWdEF3bWJ0d0hSZml2ckNNLUp6MXF1TzVHMkdTQUdOMUhGUjZLOFlFMGdjTV9NRzA0bG4tOVdlQmpBXzFtTHh4LWhjQmJHSjQ3aG9XY2JtWUhzQ1BhbTA4UzdEbERoM1BISTZEQzAxeks1Q2hWTU1QSEg2c1RzNzgtMG9jbXNXdGxwVDdNRW9MU092Nm5QVlp2cnVvWDVKRWkxQi0tTnU2cUJJcHFMUG95aVJwV3FtWkhzSmZTZUp4R2NfWFJNakRBcnRGNzNxYi1RWUQtVmFEZERzNTFCMnNXM2RhLXJnRC11OGlmNVJXQTA2dXk4Q2ZWZ0N2cE9adjAwQ3RrYnFCTGs0bEFSUkxndUNsdw?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 08:49:15 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "南亞》南亞：跌破月線 網喊抄底",
+        "publisher": "自由財經",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wNUpJSEoxUjgxZUlGYlhReHVBeWtVaUMzOGotemhaUlBVSmRtZjdDdzBtSkJYQmstVVoybU1DaDJlUXNPOHEzSmVXdTRwa0s1N3NYZDBEcDF2ZG5Za2lF0gFkQVVfeXFMTXZ3VEpkcmotOW1SekZTZkNqT0h2SHNUTUIwNVVkdDhsa2hkd3pTX21TZGx1bk10N1dqSDZVSDdSOWpLVXhqcHhGZXZPNXNnZzdrZUMtT2hIM1duaDNoUnFuSEh0Mw?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 03:05:02 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "外資喊合理股價300元！台塑、南亞迎反攻 四寶復甦行情真的升溫了？",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOVEJkWFBmZENHdlNaZUwzc1VPTlVqSFJHYkJtN3hBUk9rMDk3OXlISXVacUFCSTJKZlFaY0NTQ2E3ZF9YOE1LWnNabFlrUUZoZTJYOFNWMEpXcFlwRXZGSmU1QXc1aHk2YXpoV1BkQV9JS3BoOTRnTU9EQWRucFNSRzBCUDVOemJwWUMxUFBKeVpZSEhEQzhuVFByVHFhdWx0bGtHbWo2MllpZ1JVNjlQX0V1VXNoVDFXaERNb013a3ZyV2RDMmVlOUR5RHZQLVEyM2ozWURpWWNyS1VuaG1Id2ZabWZ5VjZYMS1OVzF6aU56WVBzdm14Y3g3UTBsYTI5ZWtlSTBhV1RHRGtSZE9UcTdSM2dFck5xTmVTUzdHLW5sSkhMTFcxeXhsRjJERmFMQWdzTEp1c2dZbUdpcW03NVQ4SzJ6akM3RDd0cWViZ2tTTXo0ZGxrZXRPdngyZXlEUC1NSE5vMk0zSWpKZzlUNVhob0pfeXI2Njc1dkJoSFVwUzBzcFhjZUZwcV90VFZvZXlKbVctVGFZblk?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 03:30:05 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "1303 南亞 - 南亞急跌近23%！161元會是最佳打底買點嗎？ - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CcWV2ZW5mZVlvVUJTMHp0V1phYjRXWkZFWFMya19YUndNMFFQQzI2cjAzM215Z1k1RktCVFQtNGFmbUJKbW05M1JHTkxKSDNXenZXLWxhVW0?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 01:20:03 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "南亞蛻變AI電子材料王者| 雜誌",
         "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DRVVTM1BvNk00Y054YUh0M1VKWmlEU3JrS0Jla19Cc0ZEN0dBQjRnelI1bUY0U0JXRXVDSUs5UmFEaE82LVpKYUh3ZXZRY1hC0gFWQVVfeXFMUEJWdUZlMzFZTDZEeHdTcllSR082SGh4UllNNUVGVmJuS2NCeV9hX2JWOGM5NTIwTjlmNTZCMlpOM0RvRk9tU2Fuel9mR1pYRTRtbFVpNUE?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 16:55:53 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFdm1PdElpbmlOb2p1WUdRSUFwNXJvd2M3bzRmYzRLNTJmbHB3OFB3X0V2ckR3TDBWRW94MmlDTHVkd0hUREVwazJWQWcwWlln?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 07:01:09 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "討論牆 | 盤中速報 - 南亞(1303)股價殺至跌停，跌停價177.5元，成交52,522張",
+        "publisher": "LINE TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtYmtsOERnRmQxNnhIMTRhakExZUlSa3IxTm8wRkh6TzFiaXVLbkZQc3psa1RldUU1UUpfTU1CVkdZSU04RHRIY0Y3eFIyd0d0ZnkzbDhyQ3YxQzk5OWFEODFvS04?oc=5",
+        "pubTime": "Sun, 26 Jul 2026 18:28:07 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【13:30 即時新聞】南亞(1303)股價上漲至208元、漲幅6.39%，AI電子材料漲價與獲利創高激發買盤續攻＋中長期多頭結構支撐籌碼偏多",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVnB3VEZBczVUOWJwUWhkcTMtNTlYRDk1ZVlJUlBPRm5JTk1fQXZXYzZHVTVtWEM4TDAwbC0xSXNHcmtwQlVNSDdidHBacE9OSno3OEVhU3RPLXdHNXo5OUFWMHMxaGJkNU4wbEZiUGRheTlhMFF4ZDV2RTJjUmpXMHl1M29RTWhWR25OMTBR?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 05:32:05 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2大動能助攻南亞獲利噴發！Q2EPS3.37元、上半年EPS衝5.17元齊創新高- 產業",
+        "publisher": "工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PNVRhOUJHeVRfMUw4YUVZbkdDeWx0cDU4TmZuZFRBNnRqNGRRdGNpNXJ2U1ZWMjNXZ05lQkRKamFXRGdPQ2ppRjQ0Rk9pQmFzWHByVzFlNWF2NVpBQnhV?oc=5",
+        "pubTime": "Thu, 09 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "南亞(1303) 轉型電子材料長期看好",
+        "publisher": "理財周刊",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aeEwxWEpqdWVEaEhmM2hLa1ZMdkF1Rk8zalhjVHZnb1NDM25lOWI1X2RGMWtfMHM4UlVPd1ZGcW5yXzlYS0l6WFJtS0FHak5JWVFQY2ItbG1ZQjJTcy1HcFRZajItWFJ3TWNjOW5XUQ?oc=5",
+        "pubTime": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【台塑四寶換車潮？2】南亞率先修正一成後…1.8萬股東上周進場了",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNNTNpRmVvS1A5d1pHNi1lWWY5bzUxU1lYcmNyVndQTnhUZU1HT1EtRi1OemtDYVRVUFBBNmlqY2U5dC1aXzJDbF9ZaHFHZFpWTEdNWWtxaEJEMk1HcDJuVERMRzZwOE9XNFFNbWstMDBSb25LbmFSbHR2eVJGeEVLcDZYUEZGX25qY2FhM3lGLVRwcVZsWnFVTTNNV2g4VmRMX19mUDhuY2JWeVZmTjdzQzVpSjJpLXJVNG8tNEtzM1VYaUlhbzBfV05oenRCOHE3TTU1dzg2VGkzR1NmQW1KakUtOGJicmctVXRzbkxGSldGTW5lUEg3M1FvLUNESWNmZHF3WXVsMUlQSU9aTm5WMkoySTRVUGc5aTFuem1Nc3dZZ1NoUWZmSV9zQTJjREZQaHRjRG9tZ2FXUWIwSm41UWFzcWlJZ3VWV2lrSjd3SWdjc3hJS19DcGx4NnhBblJLNURJWGVQUm5tV0ZFSy1QckpSUjAtcW1kNXVvaXRSV2ZfeG5EbW15QWtaMGE5UzhWTnFid1lraVRReUxnZ19McV9mYw?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 23:40:09 GMT",
         "source": "google_news_zh_tw"
       }
     ],
@@ -169,17 +169,17 @@
         "source": "google_news_zh_tw"
       },
       {
+        "title": "【12:10 即時新聞】麗正(2302)亮燈漲停43.55元，營收連月強勢帶動買盤迴流＋短線均線翻多與主力回補成盤面焦點",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OdnMzXzRlX2ZKYmhzeG1peWRaWFlNMzQ4eWhiaDRhMUp2MXRvbzJwTHppcURtN2xET0xIZGNWaVJhV1NHMkVlRFh0dzNYWnFoMEtweVBWY1g?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 04:10:32 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
         "title": "出關即巔峰？老牌二極體廠麗正飆漲停 揭密53倍本益比背後的「AI電源」 轉機真相",
         "publisher": "理財周刊",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ycGZKNDItRHlZeVZob3cwVDBkMmFPV2Y0RnpBVktydTUxeUs1SUU3NVVzemZVMk5jeUI0Sl9jRTJ0ejdHVVFNeFE0VzFwWlZnYTB6OVB4XzZ4WHVGQ3J1eFBNNGlHai1jUW5LTjZQVQ?oc=5",
         "pubTime": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "2302 麗正 - 多單先獲利賣出 - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTOFhhTXY1NHlLbWdkdmV3YllqcjI3dTJqSTVoaXJqd0RKOUt1dy1qMFZ2M1pYRzZ2OC01azd4aXhibUJyaEdDSXlZNG5jc0NsVUs2RVZkSWs?oc=5",
-        "pubTime": "Thu, 16 Jul 2026 01:53:28 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -190,17 +190,10 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "【12:10 即時新聞】麗正(2302)亮燈漲停43.55元，營收連月強勢帶動買盤迴流＋短線均線翻多與主力回補成盤面焦點",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUF6YlA4bnNrQTBfZ3RZRTd0WjZNZWFqOUszY1otenAzYk12Q2Z5OVFIeDRDRktwOFQtOEJ5TW1uSDlGTVZCVWw0TVdNTXBGOFdPdi01SkRraVJld3prN2NDQUNtTW5xUXVmbG5DLWs5UmNRRlRfVUJKOFN5U182NTFNa0lidDc5X0M4S25B?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 04:10:31 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "2302 麗正- AI媽祖託夢最近開始有變數- 股市爆料同學會",
+        "title": "2302 麗正 - 別再殺了啊😭😭 - 股市爆料同學會",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzQ3BvWmV6UXZTSHZOa3RTYTIwY2NodmJxUXpsVU9Mck93aWV5a2ZaNHFZQjlLZGlmRzZmS0RQYXRZM0JGV0tlLU45b0hKaVJnSlFReXVGQTQ?oc=5",
-        "pubTime": "Wed, 13 May 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KV2FLVkFCckZWSjhhZS1iWUw4NU52WnI1eTNDb21pbjRhSTdYQklrcnJ6ZmlmNVFVSDcxNkkteHZ1RUIyV3p5S3RvRG1QQ1NveFNTTEdDQks?oc=5",
+        "pubTime": "Sun, 21 Jun 2026 11:19:25 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -211,10 +204,10 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "【13:02 即時新聞】麗正(2302)強勢攻高7.85%，外資連日大舉回補、技術面多頭訊號明確，整流二極體題材受關注",
+        "title": "【即時新聞】麗正(2302)外資點火強勢鎖漲停！這「3檔概念股」買盤接棒狂飆？",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92V0Z1M3A5X0tiWlJDeVE4WURzakMwVi1EQVQ3X0lSZUtaQkd3dUdZcEh4TE15elFhYzJtUlNndXZJb2x5U3pad19ZOS1lNzBPVEZaeXh5UEI?oc=5",
-        "pubTime": "Sun, 18 Jan 2026 08:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45aWhWSHVPeEg3RkU2MkJmSko3WTg1WTQ4NlBaLTRuT2pxUzdwQTNERHRTWXpRRFlBeE1BdUd5S1A3SGhNLS1ZdkloTm5KMWVDcDg5SmNPY0g?oc=5",
+        "pubTime": "Fri, 15 May 2026 18:23:41 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -225,14 +218,35 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "2302 麗正 - 別再殺了啊😭😭 - 股市爆料同學會",
+        "title": "2302 麗正- AI媽祖託夢最近開始有變數- 股市爆料同學會",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KV2FLVkFCckZWSjhhZS1iWUw4NU52WnI1eTNDb21pbjRhSTdYQklrcnJ6ZmlmNVFVSDcxNkkteHZ1RUIyV3p5S3RvRG1QQ1NveFNTTEdDQks?oc=5",
-        "pubTime": "Sun, 21 Jun 2026 11:19:25 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzQ3BvWmV6UXZTSHZOa3RTYTIwY2NodmJxUXpsVU9Mck93aWV5a2ZaNHFZQjlLZGlmRzZmS0RQYXRZM0JGV0tlLU45b0hKaVJnSlFReXVGQTQ?oc=5",
+        "pubTime": "Wed, 13 May 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       }
     ],
     "2885.TW": [
+      {
+        "title": "2885 元大金- 2026/07/27 金融股進出紀錄- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HTk9qNUNPZ2prX0QtYS1la1VCX3FZNG02d0FhOWxfaW9NWWZFcXV2Zlo4aGNNSXpsclhYR3dmVi1RSVNlekhIUlBoSGhMRHVUcXZoT0tZSHk?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 06:27:05 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "元大金放量噴出！「這群」大金主狂撒錢 45萬股東爽領錢",
+        "publisher": "自由財經",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xMEtYaVVyUWFjWHEyNmw4c0xqWHpQbXRESFlNUktic3AwYWhsVk8zTWYwY2MtN1h4dGhNMzlfRjZJS0VrUjhpUjA0VW1mY2J1OXlkaDNsUnd1VGpaY1Jz0gFkQVVfeXFMTkc2dzUtTTE3Y29JSW5PRFZNdnVXc2xYM0tNMzN6TmZkVHhHT3RYNnRFdUpEd1NkUXNiN0RuSDYxNm52R3VqU1kxVWlRTUtzN29OOW1jenNEcUk3WEdaYjB6ZXNTOA?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 08:59:01 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【11:46 即時新聞】元大金(2885)股價溫和走強至64.5元，盤後跌停鉅額交易疑慮緩解＋法人買盤延續支撐區間",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0dXT1FfZG00OWxoVDZ2ZDhKWHlBVm9jWVhvc01xRmN0QzR3NDJTQUh4V25qd2lmQldFd2pISFdlRnVLWXpGUG5ZcEVGQ25ZRTU4RENfUlR5cEVBSkJYOGVjM1Q3b05mcW5FMmtKRnVKU21URWFuZ3VqWDk0WEw2OXJtZVR6QUw2bHhuQm53?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 03:46:31 GMT",
+        "source": "google_news_zh_tw"
+      },
       {
         "title": "Factset 最新調查：元大金(2885-TW)目標價調升至59.9元，幅度約7.06%｜新聞快訊｜豐雲學堂",
         "publisher": "sinotrade.com.tw",
@@ -241,24 +255,10 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "證券劃撥增速放緩，元大金 (2885) 還有哪三個受惠訊號？-梁文謙",
+        "title": "四貸同堂拆彈，元大金 (2885) 反而藏資金行情線索？-梁文謙",
         "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX1JmMzFHT0NaRVRBaFV1bjlxWFN1ZC1PR0VpOE4tS2dUR3lvWWhLVGptLTloSTJGSFkyWTQ2czhpcHNyMmk0WEc2RkhKRmR3aVRlMURrV0htMVg0STN2VjgySFNkZUs5ZjRNS0N6UkhMNlFPUFBNS1FnSmRCMVpSN0lIeU1WUQ?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 05:02:35 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "2885 元大金 - 【元大金(2885)盤後解析】外資連二日大買，股價反彈 元... - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kS0p5RDdUWGhVNm1QUVVqQXlRaEdha0lmZ3FpV2hhMGlSYTBFVzZVSHZPR0o4RWltcHctVVBvZExIbHhRVm85ajl4aXBaZkRxX2V6NzlUSmY?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 12:58:55 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "元大金、台新新光金除息 但雙雙陷入貼息窘境",
-        "publisher": "經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdnRlWF9mX2ZtdzZIUkR3LU1SQ3JfNWhvYTJQUjhpTTRKLWlERmxGckZvd290bmdnWkQ5aTZ2akpDd2FMYmhoalBnZU0xelE4X0RxX01NV2FsZ9IBX0FVX3lxTE9lWGx4TUJucnI3S3JGX3FuVlBYdXJzcmRDMGtOcG5pcHBINFJyMGNLb0pOcjhub1VtX3F5bnlHRURRQWQ2NHlhWHVNYjVLLW5tazFqdjdZcmNHYUpLcjV3?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 09:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlYxbjFHa1M2VDhyZG5SdGpwa1M1Q2VvRUtzVENRYVc5Q1FxR0gzcURwWENYLUdBaDY0LVpKeWIyNVg1VFIxazlTSENXWjdtVGloYU16ZEx6d3g4Tjdic1RWT1ZGWUo2NExnYjBRY2ZOWFB5Z1AwbldGYTFTV1JrSnFLT1VzUQ?oc=5",
+        "pubTime": "Sun, 26 Jul 2026 23:40:08 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -269,10 +269,17 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "台股報復性V轉，元大金 (2885) 藏哪個補漲訊號？-梁文謙",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOWYySnBhSUhjc3FJdHo0VWJybDlvQTNGUmFlbW5fOEViUWtMTUlndS1Hb2ozTThpT0k1b2pkUlJLbmUtY2xyb3pmQXpCS2FfczlBSnhBREhrZW9hRC11cWpzc09fS05OMUZZVDBvY0hYeG4zVGtmRm5tU25pcmtxRVlPcnBZZw?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 23:33:05 GMT",
+        "title": "元大金獲利／自結上半年再創歷史同期新高 每股稅後純益2.74元",
+        "publisher": "經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tNHRYOVZxa3VWZ3pNSlBUUEZzNmJ0NjdDaGVnRDBXNW84MFlNWkVyVDZ3RlpmQWtueWdFQW5qQnBBRGVOcXpZRy1CV1hIVGVoTmN4VVBYR2ZVUdIBX0FVX3lxTFB4VmxZRlZoOVZYMWVhUXFWR0JKcWVFSWNBSk1pT1VMcU5YbkpFeGpiQzBOV2I5eEVFTmZVbGo3ZmEtWTltN2tBQkhFYWtzVTdwUHhpZWN6VjZxMGpLZWpr?oc=5",
+        "pubTime": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "台股天量爆不停！元大金5月營收「年增928％」豪配2.2元股利 這些金融股也起舞",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTl4RUtPN0ZKZUJzRHRSeTNCWUtFTEdCUEp1Tm11YnRCWXhKT1lVWVJsa0hrRzVQa3JLVmFidVpNRGY1aURNcTZTRV9VY01SQTgzaWkwUUhlRi1keG9UdXJkcTY3SmFzQ2hvRmx6amZSYXozZWxxcEJaVTltTnRlR0FMbVVhTERLTk1hbkhjelBJWkVDb1ZZOG1DS09pcGFNZjJqcTlaMGtGUWlSWEs5WGw0NlZpb3pYT2tTZ2czdEhoeDlvUEV3ZjliSkpJYVNYbi1xMU91SFNJM2N0eWt2R0F0NWp0Vnp3c3Q2UEluV1lFWW9FY3p1Rms5TmN4S2Vad0JhanQwMk8zcmNpS3dKaDQyVFpzOFd0bjlPdFZrNS1BVkc4eFRHQUU3ZWhQWEVhMW1IbldHVFhkal9IWFFOa213NFlDT2ZCNnJaMWNCMEt4M0p3MWRUTA?oc=5",
+        "pubTime": "Mon, 15 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -280,343 +287,6 @@
         "publisher": "CMoney",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CT1VPTWlrRkxlNnlqY24xNThwMXVEWXRhQ19xQ3V3Y2x0NlZEMHREVHFuc0lmQ3dkbUpsQjdWWkN2b0hLUUc5ZDZIOUhxUXJBY1lHeWgtRS0?oc=5",
         "pubTime": "Mon, 08 Jun 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "營收速報 - 元大金(2885)6月營收195.76億元年增率高達72.83％｜新聞快訊｜豐雲學堂",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KM01vcGswVVQzc2tpbzNSTTRlLXNtY25hQWh5cldpWUg1dTZ3eDlTd3N6R19NN2tPaUluY01Mb0tjZ2x5aENfbTdBVXRsTE9WYWV3aTlyaERRdHo3cnhKaEU4bzk4V21kMDFEVlQ1UVE0Vmhsc2c?oc=5",
-        "pubTime": "Tue, 14 Jul 2026 17:20:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "元大金今年來股價漲贏大盤",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsMFY5ZmgwbVRhNDhpeU1JaG94b04xN091OGU5RXlzWVl4VHZjX2Q4WkdOZ1J0eFN0dDRjZi1UVlk2WmcwRGxQeGQzT0diTjdM0gFWQVVfeXFMTkF5S2M5eTJ2YUYzRUN2YUhJUVRXNUsxV1JIQ2VBcjQyU3FRcVZQZ0lsVm8tdW9aTzNUYnQyWEdlVHJzY2d5WVFmbm1Vck1SUWlOaUdGVFE?oc=5",
-        "pubTime": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "券商獲利創高，元大金 (2885) 下一個關鍵訊號是什麼？-梁文謙",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQS1UcmhlMzFiMG9ZU0w3eHNfazFWRlUzcTNYNVZnTjVuUDFoSXpZb25CbC1Gcm5wM1FBckIzYjc5RjZSaE5XbUVPekswOEpuOHZVSzh5T2d4T25wWmc1UDhKV3htYzlCeFZEVl9DaWhYNVRvOXExRjUyMXhldXFoNzFuSkNnUQ?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 13:23:47 GMT",
-        "source": "google_news_zh_tw"
-      }
-    ],
-    "2409.TW": [
-      {
-        "title": "AUO Corp (AUOTY) Q1 2026 Earnings Call Highlights: Navigating Challenges and Advancing in Micro ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/auo-corp-auoty-q1-2026-190031733.html",
-        "pubTime": "2026-05-01T19:00:31Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is Applied Materials (AMAT) Outperforming Other Computer and Technology Stocks This Year?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/applied-materials-amat-outperforming-other-144006722.html",
-        "pubTime": "2026-02-25T14:40:06Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AUO Corp (AUOTY) Q4 2025 Earnings Call Highlights: Navigating Challenges with Strategic Growth ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/news/auo-corp-auoty-q4-2025-010113094.html",
-        "pubTime": "2026-02-14T01:01:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is AUO Corporation - Sponsored ADR (AUOTY) Stock Outpacing Its Computer and Technology Peers This Year?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/auo-corporation-sponsored-adr-auoty-144003762.html",
-        "pubTime": "2026-02-09T14:40:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "All You Need to Know About AUO (AUOTY) Rating Upgrade to Buy",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/know-auo-auoty-rating-upgrade-170003521.html",
-        "pubTime": "2025-12-02T17:00:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AUO Corp (AUOTY) Q3 2025 Earnings Call Highlights: Navigating Currency Challenges and Strategic ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/news/auo-corp-auoty-q3-2025-010036236.html",
-        "pubTime": "2025-11-08T01:00:36Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AUO: Q3 Earnings Snapshot",
-        "publisher": "Associated Press Finance",
-        "link": "https://finance.yahoo.com/news/auo-q3-earnings-snapshot-090547476.html",
-        "pubTime": "2025-10-30T09:05:47Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "2409 友達 - 友達明天會不會開人道走廊，讓散戶融券回補？開盤鎖漲停怎麼辦？ - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHQjNzVW85WHdfVjh2OU0yRGZWMHEycnZHdGZjdHBYV2trdjZQZlZoM3FveEdKTjFWclE4UkdlelBzY3hxdTMwRGpsVWZFdVpiRG9rSm4wSFE?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 06:09:42 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "三大法人買賣超 – 外資買超(2409)友達、(2454)聯發科，投信買超(3189)景碩、(2344)華邦電，法人合計買超31.5億元",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiywRBVV95cUxPREp3am95R1Nzdi1sSWtQWDBqeDRKblU5Y2NpNTZGdmpYRlA2RjZBaEdSNklmbm9WRE5IZkFjQjZmRjg3Z3g4cWVqR3FoMi1JRFZWeXJRU1RmNld2SWdrYzlSWTdPSkxpWW1kelY5N1k3UXRiZFp2T004cEZ3VGV6Nmp0a2JkbUtjX040MFpXaVpvUENBcEdDa2thOTVuSjVjSW9xazZabnU1REU2d3owbGtPaUNvWlg1V05ReE1NaGx5MGdFcXRLWmpyS29kLUVNRmc3T1ZZQkE5VFZBaE5rMFl6Y3NEUEdmUkR0am9MSUF1dlNFb2xMaFcyc1A2X3U0RzJ1Z2pDZldKWjRDR2ItQ3hFcFhERUNfMEFKd05WNEJPYnRQZldSZWR5a0psSWxWTlJ2R3VyZ2piSlpFaTBPWGYwTktfSzBhYml3MjhWcWZHbXFtWnVjX3BIWmM3czFfMWxtMVpHOTl5NklBdUJsRWFSbDd4WXR0bVRjQzYtcGROa0hzcHZpdndmbkdOYkxaQ0p0Z3ljU05CU3p0a29PNlNucGxESGJERktDLVlaRjJJMFF6NWYxdW1NZTBHdTVsWXhTVkpHNVZ2VG4zSDhjbllQWXJQNE4zQVNLTFhEX1loM3NsTFBOaGp2X0J2THNDd3BBTC1VQ0FyZDNCMTY0a1VNVlRpMlY4Zk80ZVA5M3hSbW0xdWxMLVRrUVlBVW1lZHN4QzdSNUZlVmlYYkU4bXVYSUNFbFhnUFVxRFBOVlI5YjJxNmtqd1d2Zw?oc=5",
-        "pubTime": "Mon, 29 Jun 2026 08:40:49 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "友達首推「供應商流域地圖」 攜70家夥伴打造水韌性供應鏈",
-        "publisher": "自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12Tm9Lc2ZVbC1QUk9URHFzZlRLNlExbUJUaDJoN3ZfZVl5OGQtZDJPYUtKMUg0bnk3TkZmRWRlbFdfVGFyYTFUSG5PN085SXZFVjEyMFRVMVo?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 16:35:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "台股5萬點前必大崩盤？蔡明翰示警友達(2409)和這檔「千萬別攤平」！川湖、金像電...4大AI績優股「跌深就買點」",
-        "publisher": "今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3JwRXhIbG90ZHB0cmpBVnFaQ28xRm51QnFWQS1acTcxakF0SThnZUFuUjhUOHpMQi1kY1RxRDZfd3FzS3RuTnh6ejBWV3lqdzRzdUtOaHJRQ3M2cTAwc1NOVkZCbHRKWXB3UkR5U0lPM1NXN3V4cUx0bXFFQTJBdA?oc=5",
-        "pubTime": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "關廠出售傳言再起 群創、友達股價帶量走揚",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFMzZxaUhUeTNoYkZlaHROa1I1eWo1V1k2ZnJxekIycjRocG0tZ0tiLWJ4M2h5c1FLN1ZFMVJRamhicUVEY2hiZWFIazZ3TzBN0gFWQVVfeXFMTlJubUZjVGF1ajRRb1FXZ2lCWS00S1ZXVWpuVlNacVhtUE9ZREtMTjU5OWlSc2xkelFXTDc1N2xLM3JKZ2ZRVjR6MWh1R3FTeHpKREpPa0E?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 03:51:52 GMT",
-        "source": "google_news_zh_tw"
-      }
-    ],
-    "3008.TW": [
-      {
-        "title": "大立光擴產 再度獵地 斥資5.6億取得台中南屯土地建物",
-        "publisher": "經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cWlha3cyWnJ5Ymp6bnBGYzdZSjRDWXFuVE5aeWFscWVZWWxSYkVyTVpWSGFhRlE4eHJIRHJaaGFFbmQ3TFh1X01xcTROR3dTYlVzWVR3eWQtZ9IBX0FVX3lxTE9qSkFSRndoX3dTSUxwTWFFa19tY0ZxdjJNWjJTUV9TWUkzMU9RbV9ZVTRvbmluU0QtQk9CZWhkVjhqSC1IMHlGN0pZVVJEM0poanBmaVlvOXhhNXF2ZWtJ?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 16:45:18 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "大立光(3008)一個月內第三度公告取得不動產，擴產布局加速",
-        "publisher": "news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ycWNHX3VkZGlTaTM4d2ROeU9Hd0lSTWJzeENESkN2aDlMam5YSkk0c1dRNE5sdzZ3dEFyckptMVhrbE5GYk5RNG1Ic2ZteFE?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 08:00:12 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "大立光連砸近12億元獵地！FAU量產倒數？法人喊買給出這目標價- 證券",
-        "publisher": "工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0OVZ4ZzQ1LWNLSWtQYzVMLXBlT1ZwcHBiemFGMHA5el83MmUzNUFMeWF3OUM1LXYtYm5xR0Vrb2lJODN2ZURDNjcwdTRiQUZRdXdxczltQjF0ZGs4bmV3?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 01:44:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "3008 大立光 - 憑什麼上詮一直漲。。。 - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZRkJhV2xXOTk4bV9UNUxuN3J3b2d6WDN1U19vZTEyZDdpZG9Kb09wUm15ZzVUTWRuY2FkekIyU3RUQ0pvbjBYdXpUbmllSXRqNnFVZFBZNnk?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 04:26:56 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "大立光 (3008) 30天獵地訊號藏什麼？CPO需求能撐起新故事嗎-周哲翰",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWE3Ql84S0JmUTFaNTgwVUlXN2dTbVg3RFc1a0E2ZlBZSzVuRm1xRGdfV2FjMW9ZNmozUnJXcjNaTXZEbVZHcGNKMm9LTGY2UVRnUmtXaERfSmpiTGQwUDF0aGoxM19tUjlKR1lQZ0xjX1J5Z08tUmpTM0UzakYzNWRhZw?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 08:24:14 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "法說精華：大立光｜2026 Q2——首張 CPO 訂單落地，但真正的訊號是「GC 不會消失」",
-        "publisher": "Simple Tech and Trend",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXZtdndyUVNwOXF3blVFWjlFSWpHTHVhUkZtOTZkaTE2WG9mSlpnOFgxbFBLRENRVXo1SnNNRmNtQ25yTlV1dFUzcEw5VDlFRXl1MjBiVXZXSUI4VGRJVWIzY2ZaaV9vRDliZ2VOT1ZyVFJ3Y1pOZzVLTXk0NWhSVEtVQlVHT1k?oc=5",
-        "pubTime": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "大立光（3008）做什麼、法說有何重點？ Q2 EPS 35.72元，上半年獲利年增44%，EPS 82.35元！林恩平：CPO最快明年中放量，Q4為全年最旺季｜股市話題｜豐雲學堂2026 年 07 月",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiowVBVV95cUxNYjdoRTUzaDBYU0xOZU55UDlYMzVQcm5vOWVGS2N3NlNWSVJFWTlPOGhiQkJZMkpuNHd2WWJCY1I5V3NEMHBFc3hEWFhTZ2Vibk1ENUFweDhIUk1aS0haa09fdV9EQmZkQnNENDh4em9LNmxTQVRraTE5U0RXQUlLSDRjeDZ2SVhHT2JMTG5FSXg2d2FYdW1pNkVSX1NjZ1VVSVkwX1drbVBMRE1VMjZNaFZFak1UYU5WaG93T3J2ZkFYdkNXUkFua0hZREU5Zkp3Q3lvelNNcTI3cDJUVkRKN1NuZGZPMGk1dHI0YUkxUWNEY3E1d3FXSU4wYWNIdTRLSkNVME5oRWlzQkxtOWFocGFON0lFU2FMeDQwYl95U1d3QmV4cjk2M1lIME1sYTN4OUhFaXAzX3RsLTgtdm43bFBST0p3VmhUWmRnWlcwRF9VUEZ4bDdOUm5nZ0pCd0pubE93S1dPZkxrT21IazRLSnN6X3lPcmV0QkZBQV9uUWVNSnhkMEdoWGpQR1VIRVNjOW9HMnF6WVdmcUp5MzhoU09hZkZLRXNsdjJJYWpIci1LV2tlZWo2QXZiZVo5NkhOVTJKMDFlb2RZOHlISHMxUGRYb1FHTmFpdTFabjhWMm4tRjMxNmtLaERsckZXaWpCa2tmOUNoZDhZTUh6WF9qTXgwMzdxeDJsbDVuSURSTzlwNmpHZnBDRXJoZi1Tb180M2x6NTBYdW16R3dDdXc1Y1RpcE45RUVmek5heDJBVVNrdjVmSmZ5bjdGaDVOSmp4XzFoTFZkUFBfRHBuQWJ6djM2YUVlVy1IVHZYUWxxQmtfVDA3NlBxSEF6WUMzVFRtbWtWZmVrNGE1TmFLdUZFN1BnQ2FpVEdOa2pqSzB2dGJFVHM?oc=5",
-        "pubTime": "Thu, 09 Jul 2026 08:22:57 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "大立光再砸13.79億購地！一個月獵地25.68億，CPO進度、法人目標價一次看",
-        "publisher": "數位時代",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSdl9KdFZ2YUlmdE9XSXhQMDJCVnhHUlJGOGl2QnYzQjNYMnpzRGcyamVpc2o1Wmd4RVQwVFJtclpZRWxyWFpnbnNGUjRtejFhYVptZENRZm82Q3pIdFZWdW9CQmxIcGs5OE04MzlFVWlLdjAzZjlJYW9BRHg?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 08:53:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "大立光法說》上半年每股賺82.35元 老實樹林恩平釋展望：7月、8月動能逐月增",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxOakNlLW9HZXNJVVlkQXlwWDdycEFST0phSWQtRlJDOFdKNUZrbDI4RlNnYjljTXpFWEhNNGpkR0hReEhlelZESmJqSU9nT1MxX25scWpYNS10R1hySnQxbDBETmJIZVJ6bXNEdGNpOHhHLXlMVkxnY1NCVGFpVlhZdnBQaXA5d182WTc1U09JSmxDdTBqQXJfZVhnSXB0U0VaMmxqQXZhYWI0NnE2eEl6cWFTNm1NcDBKaTN2VEFxcnFCYjUxZnJtUEhjYnNQUXNRQ2FPakJMYlBxRzZ5ZDc2dVJEMmNoRmFuTzRJSmphbnl3dGs3R09RbFFydjZVZ2t1N2ZTZl91UzYzX3p1RHdMMGxkVHFRT3V0YlgxRXpMQjhQNURkbEV6RkJSaWk2QTRDTjdsdFR1clJZcF9yNDBzX0xOM09fdWdNZHNTWmlINzI5SFR4Ums1eGVrVHJXMGZ3SWFRYTlpdGlCQUp2bTBsNDJWQXhIWHpyMk1mNDlkMTVaTUc0X2RURUZldHZjU05rUU5IVmxORGxzNXJRQ2VNVF9hU3BPcnRKRHhBdWVoaU5fLUFRNFNQano2ZmVtZUhMRUJmbVo2Y3NyX1JjejhVM05EYi1FNlN0?oc=5",
-        "pubTime": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "大立光出手！　13.8億拿台中工業區逾3000坪廠房",
-        "publisher": "ETtoday房產雲",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Y2plZDlpRk5jZ2Y3aFRtZVpkTUk0TjI5RTdRMUVNZ1Z3Q1BEYUxBREpqeUNZSDdFRHZ1YVF0cnpjUGI5X052SzFlQzc3SEnSAU5BVV95cUxObUlXc29YdHRtTklnaVBKOS0xcjZsS3IxVkJkS0xLbU4zamlUMERpeHYxVWNONWZYS1FBRjF3am5wd0JBclpSbjFpWG9EWXc?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 08:26:00 GMT",
-        "source": "google_news_zh_tw"
-      }
-    ],
-    "0050.TW": [
-      {
-        "title": "0050換006208能多賺股利？他想「5張全賣轉倉」 網傻眼揭1盲點：不如買00929",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPNEgyeG1yTmxuWDJaaGM5UzVzLVJsNm1JNGJTT002a1laRUNMalB5T3RlejN4T2FKTjVlM1pyaW5wVEgwM1l1djdwSHpBdldBUVBSMXpzN2hGSDhjamlwWmc0S0VjZUh0dUE0MzVDY3pvdmdYdlkyT2M0NHB0VHVLXzdubjU2a2dNUEl0QzJUWWZnUS1yM1UzNmhxVTdwUk9RUU41MnN6M01kenUxZExIM053bjVJU1BlVzRkWU5IbVVmY0k1bW10WS1vLWNtQmM5dkRoa1A2U2d2RXZKRDdxbUFWREJjUy1NMWhrV2ZsWUVHZk5iWWNMS0hEaHdVR1hEREJOakdBR2ZhUHptNnFSNzh6cjFuTzlVcXo2cTBjLVJrWDVhVE5XOXk0T2JhXzh2YWJYTm9OeWhiN2RodEg3VzZhUTluYXhfelVOdDZNTWZZQldzZUd6ZnBieXpBYkd3QVU1Z0dwWHo5c1lhN3JZOGZaTi1kd1RrNjF3SWxROA?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 03:38:12 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【零股排行榜】盤中零股排行榜TOP 20｜0050 元大台灣50、2330 台積電、00631L 元大台灣50正2、2303 聯電、00981A 主動統一台股增長(0724)｜豐雲學堂2026 年 07 月",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxQelBFd1JiRm5DeGIzMGwzUlVkVGF3VmtUQURBXzhSSHNBYTRjMDJIbUtKV2p1aV9vZG9RbmJXekRFRHpNc0FETEZ5akJua0V5RnJZaFFyQjQtbzlJSVJFZl9qVUU0ZDg4a3pYOGRVYTYyY1JERktBVHBJbkpBMFJEajhwaG0yOU04NE41RVlMLTNxNGhKZkR3NTRQc09VMU85ZWM2Q29xTTY3cFdUYUc3Vm1hUlJnWEMyaEVjU29RVzFLYmtOS0RwSlk2MUFTRTRWaFJ4QVF6eER5RTdHN0d5UktDZ1dobDBTc0FQWjZZTFNGUHZNQ1NsN0haaldRd21xRWxGWjhDWWVuX2pYWHFmdk9DTy0wY0ZnLU1QT2xIMGdoUFd4THdGR0FMVW1fb1RvU2FoanJ0SWU4cEpYdEdFQlk2NEt5LVdfZV9JQ2hTemV3cVBFeW0tcEtpWkEzdnVDWEdqcXI3SnJJZTJVRjluSGVLUXh2TmV6cTJGTmtjQkxLbVdtaHoxM3VqUzQ0SEZpZjFRTUNNbnhrQmxoQWVMUENIdUlLWk5JTnlXUDhWc1pjTlVPTEQ0OUJPMDhsOTBXRXNBd3pnVDZtTWYwdWxoU0hDNEYwZHZUdTFHM2FSNTQ2d2lkRDJ0a3VNVGdxQ0NmS2hCU2praHBTWXlNVGZXYWU4MnBNX0o1SGZFN2xWNXNBVWdmOEpaNHpVcDBJNlF6cEN4ZXFsdlJ6UmFKTDBfZGxqMEh0YU0xTGlpY3QtVnAyWTlGQ2E3NDhEd18xMlBNNnZqTkZrNmlfTXlt?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 07:55:56 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "0050 元大台灣50 - 回測0050 上市前10 年：沒有科技狂潮，它還能賺錢嗎- 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJOXpvQU9pRjBpUGRGNGQ0Ty1KOVlhREx4Z2Y4TmpEcTNVd2JhZ0x3SDBIbXVDR0hpcVAtNUpGSWlqSWE3SXFWdDktTXFLN1JHU20xUVRPQ2c?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 23:43:34 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "0050想全換00685L拚長抱！網見帳損11萬勸退 曝「長期報酬未必贏」原因",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Bc1huQ0ljRHNMNDh6UXV3OV9EQXU3VzFDbVhOdk9GejgzSHFpeTZBSDZaUUJIcWpvX2FOVkE0bmJTYUdJODYwTnJqYk9ocmp5Q2FZ0gFYQVVfeXFMT1NqekU0N1dDaVE0clBHenVvR1FuWkY1UW5DaGR2YS1Mb3gwMzNGYnFNVDFqd2NPZUx3X1ZoU3RVWUNlc3hJaDUxUWpiM01KQ2FLOTYtTFlIRg?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 00:00:09 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "新手抄底0050「一週虧2萬」 過來人點破真兇：錯在這動作",
-        "publisher": "東森電視",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdHVVWUNpSjBpNE5meU55SEp6T2ZuT25KQUJ5RnY5OXEzRlVHRGM2OXBoa1NVblh2TXlDRHdzdVFiZXlCRzdxWWd1MTZZcWxMN01SNkNB?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 08:59:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "0050 元大台灣50 - 上市外資賣超一週以來排行- 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WcF95c2JiQkZpZzYycko0M2RlNTV0bHZsQWNVVG9Ec1FKbWZhZTlmdjhCcHdBMGI5M2R6N1Uwdm5jNXFQZE5ianN1V1ZScjFWSW0yME5vY3k?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 09:06:55 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【Follow法人】力積電淪倒貨王！外資賣超4.3萬張居冠 0050和4檔主動式ETF也遭狙殺",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOWFZPTDMwQnpZOEVTbTU1b3NEeDZSR3FoWFlYQXNTSXhabG9mallCS3g3TWxGbDFmWHFUTC03MGp6UjZXMkhjaGtQN1hGTy0zaG5HYVBUV1dsdk5uUk5yVGVHWE9uSnJlY01iNm44LUJoNmptTEMyZjlRcmhKTmR6M1lVYncxemM2dnpxUkQ4SVFfLWJjb29ZdzRHc25jd3hjdWJWS1V2SHlTbklqRnRzZkliVi13TjYweGEyNTh6c2dBSnM1UnhvY3NydGMxdGtwTHd1ZTlSRzZBWFl2OHdLbDc0OGV0dTA2OTNObkw0eEVJZ25PZXNtQzNfNXprN1dYVTJ0eFJEUEFaVHY3MURyOGdrVllxaUUydVUwTEJPSm1MUVd4YUdUYV9QX0RZeXozSmJFWkw5RER6NVEwQlg1eGN4VDdscDR6VXg3MVV3ckhkREg5RzVTcENhVWdyMUtUZ1BueDFDRnAxY3pJZEhSOTcwcGFWb1FVS05IbkhnTGlMc2tWTWxKYWtHLWh2SWpOUmw4R2hXeUNjdzA5YlFHMG9wekZIVzRuYzV6X3BNbFFSb01rbVY3Ukk5T280eG1TS21BUFhMeVh5Q2lPQmc?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 09:00:13 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "前五大 ETF 將換股！0050及006208可能新增四檔 AI 股 剔除和泰車、台塑等",
-        "publisher": "經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVXJuRGp1bFZlSnJsa3pBZVJwQ0xZSXZwN1RGdFJKVTdEUFdSNFJfcW9BNEwzWVloOFlxX3NrU2YwcTJWdF9KVnJoQUhWZXR2dG44YkVYMlpzQdIBX0FVX3lxTE16S3dpVjRBckx2MTg3VkpHZlN1M0Z3SWVFWWVhTzM4bmRpa3pnWDBkQTV3cWJ3aVlvbkJwRzRCVWJsY3drWTNxejNRdXlaV3VwdkU4dENQWExGRnhaRlNz?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 09:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【零股排行榜】盤中零股成交量TOP20｜散戶最愛這幾檔？0050元大台灣50、2330台積電、2408南亞科、3231緯創、2317鴻海 (0722)｜豐雲學堂2026 年 07 月",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPZjZzWlQ3RU5NOXJ5OGdZbmUyM0RfcGtkSjYwYS00OFFBVGJyYkdmYklveU96YjRtUjdOMGNUdkxaNjlubWVDSW5ybDBiRnRnb3NVa2dGZm5uWnhKVUdXNUN3eGQxSnpPY0VSN1ZIUG8zbGdnQkNoNW1zS3VwV1ZlanJKT3BGSTFodEZ6V0RGeUpaTU5WY1p2Wm1QbnpJejd4dUctYmkzUTFOZDMzdkNQN1pNTzNSVHBtTHdNRi1VbGMwTXlNWm5CX0ZXMXRjeHJxXzNzMlBFYW5mLThrRS1mRURkQXVNcG1Ga3lCc3lpUFJ2eVdaS0YyOTNDUmxmZ1lPd1F2YjE5MjAtVUdJZ0t4clNYZzVhY3ptUmZHZUtkMUxVZXFqOFQxX2pzUXhTUGd5M0FpaExoUjFheTUxUjNsNHV1a0h0N1dpWGcxU3IwRlFvOU1sODd0TjNFOUlDSzFydmo2U2pOZHEybENzSllBSVBFTmhxY2lWal9IT0JnbGxzRV9IN2U1T1kwRmlxZVRJVm5uby1abHYySEJKUTdWcXRPYUpXMVlubEhydDh3?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 12:21:50 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "近500萬人關注！0050、0056今除息「最狂秒填息」 股息8/10入袋",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQSDQ5c0xxc2J3alU5VUFMN2NtM0ZlMUotVVl4aC1xdThreDBrdTNzZGpxZDZKbXJmMTNSVTE5dUVGT252d1NRc1JGWlJCX1JYN2cwVng2ZFA0ZzR5RWtjVkkxQjhzXzlSLUxYRnUyU2REdkZZdTRuN1hpZkFzcEZlQ2dmX1NXRWNGNjR1ckcwN2R2amNzXzRDVUNtWkQyd2VIT0FFZ0lYODR5dTg3YkVfVG1TS1R0SEsyUzd0aVctb05idnNYc3lRVk5JVmoweS1FTkxMS2FiZWctUTBPZndxODZxS2JyNW5tYklmWFJQd09mak4tY3B4WjZwNFEtR2N2TXBIN1FVRWxGdDBZMzN2anVSMzdvXzRQNk5FMnYtWnk3TEdpTXlyUVVENWNaYVJEeC1KOUhsbjRWZDlnNjNrRUhDRU9PY2xKSmZnS1UxWVYzZ09ieTZQcFVJWkxUSWx1dWlVNFk5eGN4NWM?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 01:39:41 GMT",
-        "source": "google_news_zh_tw"
-      }
-    ],
-    "2330.TW": [
-      {
-        "title": "Intel’s Strong Earnings Couldn’t Save the Stock From an AI Spending Panic",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/intel-stock-price-earnings-ai-panic-0c53fe8c?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-07-24T20:31:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners",
-        "publisher": "Investopedia",
-        "link": "https://www.investopedia.com/chip-stocks-slide-friday-memory-favorites-micron-sandisk-among-big-decliners-mu-sndk-intel-intc-12026380",
-        "pubTime": "2026-07-24T17:10:48Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Qualcomm Tells Customers That Prices Are Going Up by Double Digits",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/technology/articles/qualcomm-tells-customers-prices-going-161051194.html",
-        "pubTime": "2026-07-24T16:10:51Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/07/24/intel-rises-3-on-q2-earnings-beat-upbeat-q3-outlook-as-chip-sector-stays-flat/",
-        "pubTime": "2026-07-24T13:16:15Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Amkor Jumps on $1.5 Billion Nvidia Packaging Deal",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amkor-jumps-1-5-billion-124203060.html",
-        "pubTime": "2026-07-24T12:42:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/07/24/david-tepper-has-5-of-his-portfolio-in-this-little/",
-        "pubTime": "2026-07-24T06:25:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "2 Hidden Businesses to Watch as AI Keeps Heating Up",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/07/23/2-hidden-businesses-to-watch-as-ai-keeps-heating-up/",
-        "pubTime": "2026-07-24T01:27:16Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AI Chip Stocks Just Got Crushed. 3 Semiconductor ETFs to Buy the Dip On",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/etf/2026/07/23/ai-chip-stocks-just-got-crushed-3-semiconductor-etfs-to-buy-the-dip-on/",
-        "pubTime": "2026-07-23T22:14:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amkor-strike-1-5-214417511.html",
-        "pubTime": "2026-07-23T21:44:17Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Advanced Micro Devices Bets on Helios, Agentic AI to Drive Data Center Growth",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-bets-on-helios-agentic-ai-to-drive-data-center-growth-2026-07-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-07-23T21:07:31Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "台積電(2330) 個股概覽 | 個股 - 股市",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SVkxvYUp1Tnk1ZXpiVjE5NnVGN01xajlQOE9obFZzT1hRLTV3OV94MWxlQWpwNkRQenlmVUJXb1ZScEtlc2xUYWs4WjNnRHhpNzlJ?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 16:49:34 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【零股排行榜】盤中零股排行榜TOP 20｜0050 元大台灣50、2330 台積電、00631L 元大台灣50正2、2303 聯電、00981A 主動統一台股增長(0724)｜豐雲學堂2026 年 07 月",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxQelBFd1JiRm5DeGIzMGwzUlVkVGF3VmtUQURBXzhSSHNBYTRjMDJIbUtKV2p1aV9vZG9RbmJXekRFRHpNc0FETEZ5akJua0V5RnJZaFFyQjQtbzlJSVJFZl9qVUU0ZDg4a3pYOGRVYTYyY1JERktBVHBJbkpBMFJEajhwaG0yOU04NE41RVlMLTNxNGhKZkR3NTRQc09VMU85ZWM2Q29xTTY3cFdUYUc3Vm1hUlJnWEMyaEVjU29RVzFLYmtOS0RwSlk2MUFTRTRWaFJ4QVF6eER5RTdHN0d5UktDZ1dobDBTc0FQWjZZTFNGUHZNQ1NsN0haaldRd21xRWxGWjhDWWVuX2pYWHFmdk9DTy0wY0ZnLU1QT2xIMGdoUFd4THdGR0FMVW1fb1RvU2FoanJ0SWU4cEpYdEdFQlk2NEt5LVdfZV9JQ2hTemV3cVBFeW0tcEtpWkEzdnVDWEdqcXI3SnJJZTJVRjluSGVLUXh2TmV6cTJGTmtjQkxLbVdtaHoxM3VqUzQ0SEZpZjFRTUNNbnhrQmxoQWVMUENIdUlLWk5JTnlXUDhWc1pjTlVPTEQ0OUJPMDhsOTBXRXNBd3pnVDZtTWYwdWxoU0hDNEYwZHZUdTFHM2FSNTQ2d2lkRDJ0a3VNVGdxQ0NmS2hCU2praHBTWXlNVGZXYWU4MnBNX0o1SGZFN2xWNXNBVWdmOEpaNHpVcDBJNlF6cEN4ZXFsdlJ6UmFKTDBfZGxqMEh0YU0xTGlpY3QtVnAyWTlGQ2E3NDhEd18xMlBNNnZqTkZrNmlfTXlt?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 07:55:56 GMT",
         "source": "google_news_zh_tw"
       }
     ],
@@ -629,10 +299,17 @@
         "source": "yfinance"
       },
       {
-        "title": "台新新光金合併滿周年 董座吳東亮給全體員工的一封信曝光",
-        "publisher": "經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6Q3BXMldZaXJxX1FRTmtFb2lQckdQZ1pza1pXejRhRHdRYzVZLXdIdl9QSmFncHVLcG9pTkxhUEZVSkg3NlBRTG5CMHRXeU1zVW9kNkFRTmR5QdIBX0FVX3lxTE1CNENyRGlGSGpzcDZPUC1yYkMzWmxWUDBWQ3hTS2lsMFRXNU1YNWVUSmF0cXlRaGg5RlBiU1JRQjVGblFFT19VR0xyX212bXlOdThQdGZTa09OVGRHYlZr?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 11:38:04 GMT",
+        "title": "2887 台新新光金- 兆豐金創下歷史新高，華南金、彰銀、第一金都創波段新高！ - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSb1RWY21tU2loam16VnZuUmNxemtJVWtIUlpDeUxaODVDUEp6ejB5MXRtQ2tIZGJOOVlfQ2pjVnFYYnBkYVhnaGhTWVFWbkhLam1uUE9LaWw?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 03:50:15 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【12:06 即時新聞】臺新新光金(2887)股價走強，填息買盤延續＋外資回補帶動結構穩固",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTlrbDlpdlpVS2RiQzcwWHNzLUJnZEhpbUU2ZFVpN2psRWJVZnpmeHpNUlVkRUFoV09JaHhOMUtwY2oxUXhmdHBMdVl4VXlJTU52SlhsWWRVNXlla25JMGJwUHB2TzBMdFZBajFRUmg4MGE5bUtvZ2hTMk9aUW41QXI0U3I0YVlQMGhuOHFB?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 04:06:39 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -650,45 +327,31 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "快訊／「這金融公司」16:30召開重訊記者會 魏寶生親自出面解釋原因",
-        "publisher": "三立新聞",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3MXJaNjNDVFdCanBfVDJ0YnNMMVRVU0hWdnFjYnh1QzRaV0dfSHpvNWtmWWo2Z2lsS1FscWJxRElzN2FBMGxLa0pPZw?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 11:06:29 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "台新新光金合併週年！股價「漲逾100%」 總資產躍居第4大金控",
-        "publisher": "TVBS新聞網",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53cUxZUXBtX3lBWUFrX2pmdTVrc0l5Mmt4aFJoVF91cG8xY1RvSGxkYWhHblBIeUZIODlMbzdhZkM0MDVOaWc0eDk0Zmp2SFU?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 05:31:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "台新新光金挺台灣少棒隊",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ya1dOOXMxaE92SFBIblZlQ3hYYnV1SDZ5YkFpR2dFd282WGlVMldqMnBVZzFyeWRfVkg5MGc0eU9wYldRaTQxSXlOWVpFRzEy0gFWQVVfeXFMTjJheWNvUFlXZldzNUw1OXFHUlVqbmNjU3NDaWU1LTkwNFl0YTVDYjl4am00Xy1kNjdCVVctc3BGN1RUc1ZGNlJ4UUtDSDRERGlYVkJjRkE?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 18:17:47 GMT",
+        "title": "金融股成避風港？台新新光金除息前夕獲外資逆勢買近3萬張稱霸 「這檔」獲利亮眼也受寵",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNUHlFOG9WZkRrM2M5WjRKVU5BbU1BTmQteFYwb0ZKV3BWb0YtbEx2TXpYb1ZMYTd3bm5wellTVkNmWjFPNnBmYXc2bUVmUFBfM1NZdFRvU0NTd1BjZkFVaG5Qa2dObmwxTFU2amJRV0cyc0x4Vm5hQjFqZ3lKSEdEcEJsdDFPazFGWTBNUGp5SU9TWFRCNjI1S1pKQ1Q0UjRJQTBXMEludEw4SUU4U05ib0w4WWh3b1E1UFlxd3BmSXBMYm53dTQ3NUZJc2VxMXNGNHNtS0pTanNHdU1VZEtLazJTbkdGRTZ4b0ZTV1FiZm9wYTBxSGRJSTh5eTU3bFJzU0lEWTdkU1kzYnlKSHNlTWJaeDBPZUYxT0JERFRnd083Vm1OUXJVYVk4dHNieko1Zmd5aTBqTTJIMFZuNnBoVTl2ZFdndjlvUlRDMWJxWHZUNzZhUEZTTmFRcHN5X2gyQ0ZOcVhEd2FIVGxyM2VNcjRzQnZmRUtoT3B5c1hDckFmTHN1SDBheFZ0ZUs2QXlWbkl2UGRIdWIwQ19PNVA2M2JzR3hKcUNxb052VXRwRWYtQ0s4OERpaEJBTjVqRGxLX2o1djJTdUc0MG9MYjA1eXgyNlJ2QkVSd0tOdFVUbW91Z2hxSjVzSG9kandINXhyRFZkenFYZVJoM1NjanMwMXRNbzA2QnBPcXBLOXhUcFY?oc=5",
+        "pubTime": "Tue, 07 Jul 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
         "title": "台新新光金下午4點半召開重訊記者會 魏寶生說明取得不動產跟都更權益",
         "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9heW5VazhUQ0lLY3ZQOFVhaXVZZTVPTVBYSGl0MlZoVjBsU0dZRWVsaGNZbFBwT1EzNFZyY08yaERXbUl0clZzM3J6eGhqbmJW0gFWQVVfeXFMTUtYeTlkZlBpUHpJeV94ODdVYUdYTmFTTTFNckp2dTNMbkFHX2tlUzl5czVSYUdzU0pQT2JwY3pNRHlwVzYtdnlMN2F1czhPbEFFX2ZfckE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2NmlIUk9FekcycG5MN0M0QVhjY3ZFWU9FaEFsNXFvN1ZKRU5jUVNsMm5vWVlscm1fTi1ndXhQeXZLSjNZRDlDV3V4UWdaRF8z0gFWQVVfeXFMT2NYY1VxUzZxMnNEM0RNSDdfQlR3YVZhb1BKbUNGYUxUQ0NBbkhOMlNEOUIyYy11bEd2YzJ6QTBPUklwWm4xX3hmbVg4QXBCb3ctb1BEUEE?oc=5",
         "pubTime": "Fri, 24 Jul 2026 07:27:08 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "2887 台新新光金 - 7.8月新壽股利入帳高峰，新壽放在fvtpl的股票只有13億... - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMHRVajNEbnFCYzRPTG9nT3pqM0lSSnVzQlJXbFdleWNva0VqOENOQTFiQjJoSjBkaGVMRllhcUJWdXIwek5Xb2xTOGVnTThpU1BGbFJCWmI?oc=5",
-        "pubTime": "Sun, 19 Jul 2026 06:36:11 GMT",
+        "title": "新新併周年繳佳績！台新新光金上半年狂賺438億獲大哥狂買16萬張奪冠「這檔金融」同獲18億力挺也入列",
+        "publisher": "FTNN 新聞網",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YSDNtY2dOZzdQNVF4V0pwLXI2SjF5UDBKODRyQU52YnVsQnBVME5OT2pLSkJTcTNsWlh3TlhjU2FoRXA2NHRfbnJiUQ?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 11:10:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "元大金、台新新光金除息首日 雙雙苦陷貼權息窘境",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOWXFLTHdHNlRETjYzM081eEVScm9WN3hEeXpZbnZYLThBdHp2WWQxWEVDQ2NzdUpueTlMTXVhUkxVREhuZUdEVE9zS2otYjJLVERFb1FFWUMtRlpWekFjcUI0azcydEVJWkNaeGxzbUgyTGdsZ182SFpIVk4wU2poUXBNVS1OQUl3X0MxcFdTa0xlRjlZTG1HSVdfMklJWHR2SXZSZ0tNR1lwRzJGVnQxWGgtaWRtVkFPUjFWTVppZ3VBTXpUYW9MQXppV0FGUUFDMUdhRkQtdzJZUTV5VXpIZGpXcm5JZW4zZDc3U21HUnZVU21WR1M0NEx3YlRXSk1tb1FaMHFJbWJIYURzNUI3Z2NObHVxdFBjT0pVMWxCMGxjeTEwVFpMajRQT1BRUzM5TmxBZTliOHlfa09GNFIyWjBBOTNpUU1PWFlZYW5oeTRxb2tzRlN2Tmw0azBaemdrNUJkVQ?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 03:53:34 GMT",
+        "title": "2887 台新新光金- 西瓜半年賺1.71元*2=全年有機會3.42元 - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wSlJOaUtGalVSS0toMFRhTy1jWUNPa2ZOWmdUcTZ0bWE1aDQxVm40NU14NmNZLWc0NFhqREJHN0UtS1pxZDNqZHU1czBIeDBZTExEaUJFM3M?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 10:29:10 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -696,6 +359,13 @@
         "publisher": "CMoney投資網誌",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVJ6OXBzUmc2S1NVTEtPMUc5WE4wMW9YczFRcHFhZW81NERrbnJZRWROckpXeHVxa2t5MXJlbDFUREZzbjNWRGsycGVPdGhMR2Y5NUpKZDJjd3pyNkxzWHZjbmNiUFJ2TDhINGVKRHNnWEV1dGdwSVJvREZqMldpMGQyUUlzUQ?oc=5",
         "pubTime": "Fri, 24 Jul 2026 08:46:43 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "TWA00 加權指數- 台新新光金合併滿周年上半年獲利438億創同期新高- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wMXlsZXYta0VLczJLWloxdE5aTW9xcHBISkFnVlNMSUhmekR1d0dBZG5hNzh6cmVXVDFJcUtKSFF5X1NMWk1OSExfZHhlVXlLWlZNeHpUUGE?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 10:29:40 GMT",
         "source": "google_news_zh_tw"
       }
     ],
@@ -771,103 +441,89 @@
         "source": "yfinance"
       },
       {
-        "title": "輝達、超微加持！緯創股價本周天天上漲　同集團緯穎拚前高",
-        "publisher": "ETtoday財經雲",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SU1NIOEVneEV0UWpOT1RuRnpxMTAyRENlSU9jYXFFckc5NWZVSlJ3UGtCNWptdnkzODlSTV9iSWlwS3p6eUZMNWNJSllJMmEydHfSAVBBVV95cUxPeGNfQzlGVmZZd2N1ckdjUU5meXNRLVhMejFJc2k3M1I3a3pzQ21sU05rYlRLbnkzRUl1SEJPeUdNREpITHZyaXVJN2V0Rkt3bA?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 05:05:00 GMT",
+        "title": "三大法人買賣超 – 外資買超(2303)聯電、(1303)南亞，投信買超(6669)緯穎、(3008)大立光，法人合計賣超0.96億元",
+        "publisher": "sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPcks5bk9kTDl4RXZyakJ1V194QUhpWmRVNGJBVHRaenNfc0M1d3puY0hCRUFHWlVySTFOanVVVHpRRi0zYXIzcFFwRDhzeV9XN3lQTVZaNmdQbGNpZ05UV19uUHdGWFpfbndwRy1la09SYUhaVkUtWEp3T1lWaEVMck16cjItQl94eHIyT3VyOVRWc2RtM21qSFBUUDlEX1BocTluYUJTNXprYXpldE82Nk1VUDNDN0JpUGc5Wk5pVHpEYmJCZ2tWVG10NF9oZ252dHNYd3FXYWI4LVktQTBjSkw3V183N3N1cFJzYy1WUkpqX3MtZS1FOTBxa09xTXM0YlpwOTY4LWo0WFM1UjBLbnV3Njg5WDdfSXk2azk0MjJlLUpObUw4X2Y4NWlvRkxfRGJWdEF3bWJ0d0hSZml2ckNNLUp6MXF1TzVHMkdTQUdOMUhGUjZLOFlFMGdjTV9NRzA0bG4tOVdlQmpBXzFtTHh4LWhjQmJHSjQ3aG9XY2JtWUhzQ1BhbTA4UzdEbERoM1BISTZEQzAxeks1Q2hWTU1QSEg2c1RzNzgtMG9jbXNXdGxwVDdNRW9MU092Nm5QVlp2cnVvWDVKRWkxQi0tTnU2cUJJcHFMUG95aVJwV3FtWkhzSmZTZUp4R2NfWFJNakRBcnRGNzNxYi1RWUQtVmFEZERzNTFCMnNXM2RhLXJnRC11OGlmNVJXQTA2dXk4Q2ZWZ0N2cE9adjAwQ3RrYnFCTGs0bEFSUkxndUNsdw?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 08:49:15 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "緯穎 兩檔強強滾",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xaGpJZUJlclhpT0E1MXZITzlEek1IeldUQWwtUHZfQWUybTQ2ZlNaVkQ2S3lxQUNLUW5FOV9KZjVUaC1iMDJYcFIyVDZ5WVh20gFWQVVfeXFMTWxwZ2JLaFdvOEZrOG96eWF1UXdDdVZTYXpPU1J1ejJrS2lHdmJqcnNCNU4xWmc4X2VzNjF1ZUEwZUVqNDF0MHBFbDllT3FuS2pubmVPOFE?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 16:04:46 GMT",
+        "title": "6669 緯穎- 07/27主動式ETF籌碼日報（金流版） - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RQmJWcVFwZ0w1SjJPZEJuVjFMTGpnS210T1l6eWtGMDNtb2FYdm51dXNrMVBSOG1RTHpudHdrcUhaVkZKc2FpMnVnTGs0WFpITWI2R002TWU?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 12:04:09 GMT",
         "source": "google_news_zh_tw"
       }
     ],
-    "2301.TW": [
+    "3055.TW": [
       {
-        "title": "Lite-On Technology to establish $919M manufacturing campus in Texas",
-        "publisher": "Manufacturing Dive",
-        "link": "https://www.manufacturingdive.com/news/lite-on-electronics-r-d-manufacturing-919-million-mckinney-texas/825250/",
-        "pubTime": "2026-07-15T11:41:58Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "High Growth Tech Stocks In Asia To Watch April 2026",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/high-growth-tech-stocks-asia-043812722.html",
-        "pubTime": "2026-04-07T04:38:12Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "A Look At POET Technologies (NasdaqCM:POET) Valuation After New AI Optics Partnerships And OFC 2026 Showcases",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/look-poet-technologies-nasdaqcm-poet-230450340.html",
-        "pubTime": "2026-03-20T23:04:50Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "光寶科 全年AI貢獻拉升至3成",
-        "publisher": "自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IRkNWS0k3LTI0RkgydE8wZERERFRNbzNZLTQxVlMyeXpzdUtFQmZPbkdvbGlmdGwwS0FZajkwcnNEdWowTzc1ZUxGYS10eEtQbkZDR2ktQ2I?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 21:25:20 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "光寶科營收加持出量大漲近9% 分析師揭關鍵價位",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNSTBaWUNlZEs3R2NUbHZlYkk0eUdpT3BhU0wxTnVfczM5ZUVJMXZNZjFsX2VxcmZEanMwWUNmR2lOZUhrY0tHNWVjU2V4b3NXY29ZbWpNYmZISHN4cl8ybHZoemdwQm9fM2ZFWEN3dXZ2Ym9VaTJNSk11Tm50cUhQN3pSSTNYbWFpall3amc2aE1tMDFjY09JLVRqOURLVHMzTjZ3UTZzdzZNT0gwaG5Ra1lIT183MEJNZEw4eExzYUg4YnpsMjduc1dmYWwxT1ozWlFGS0k3Smp1UjR3eFdPbXJ4T3BMZldWMm9Eck1XdHVXaE1UYzZJMkRKVzBQWDJKYWNSR1lEQVNER2RVb0ZJT09TM3BjRWJ6bHNBV1NoTnpjTUFORnh0VlpBY2lwMjNTQldwUEE5cGxtODhIRHdaMW1GS012ZXVmcFl5Y2dn?oc=5",
-        "pubTime": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "光寶科AI相關營收佔比近3成，德州斥資9億美元擴產",
-        "publisher": "台視全球資訊網",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGNHT0wwRXV3eFhIeGhrYXpUUzZvNGJKSWNOU2xZRTFxSGd0YVQxLWgxTF9PY1BoOEl0c3cyRERBSGNxM2MxSDlPOXRFZGVGa1ZSZUJ3QkhPUG1OV3M4bWNDZGwyV0U2eWtEbkdBRmMyUGxOeGdBWDFtVGFCMTg2cmhOZUc2ZHdvQU5VQk1oS29hUQ?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 04:22:25 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "光寶科，2026.Q1 財報回顧😊",
+        "title": "3055 蔚華科 - 跌停打開，希望洗完要北上了 - 股市爆料同學會",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtUzYwY1paRDJidlhzelkzZzJxeGZHU0RUcXZtTm5lMHRwck4xWEFlOXg0Vm0wajRESVJ1V3l6ZFRobWZIQkhqTjRTM3dmYUdYcDhVdDRNcEI?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 13:42:44 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QZGNCLU1sSEVZZ0hXYlctb29KTzluUVVzR1A1WHNBaHMzOG43eUFyNjFBMXZHanR4SGpLUDFhcUFzMVVvMkNJRHJDaHQzT3dJX28zTnpXcmM?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 05:31:42 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "光寶科6月營收187億元年月雙增 AI伺服器電源及BBU需求強勁",
-        "publisher": "news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uOGdhSFBRaU9KMFpVeURjNndINHlZdHdNSnNEYzBiOG03WWxyX3VZOGdoMFdqR0xEMkJzN3cxazJFVEJHOFZacnlIXy15aDQ?oc=5",
-        "pubTime": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "光寶科7/31法說，聚焦AI電源/液冷/HVDC展望",
+        "title": "蔚華科技股份有限公司",
         "publisher": "MoneyDJ",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS3JmNkF6N2N4Vm1PVVJFU3NMLWFzb0tCeG5mSG1WUTJJdnZEOWJ4dXY5UHFTcGxoVHZHYldUajRDWXRkQ2tod244ZXQ4ODlQdHR4aWhmYnI1WDdsaDF4SjRNdFp2SGZsendMS04xczB2V0k3R1Nwc0dta29pM2JHMzg0VVdPOVhWSjJLUUI0aDNSZw?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 03:59:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmREei1hMURCS0dNY0dEWTZEN045aHVsejZqbncxcVI3Q3hwQ0JyN29Qc3Y2TGRjeVVkenB1NE1JWVdDR3Y3aU5yNl9Zd3ZHZkI1MnpHVWZNdWkwU3RadUhsME5Hcm8wMU5ZN2VoMjVsY3Zvb3VXeFExQ2ZoSE96c2dvVExoa001RGhEa2lPdFhySUp6ZGV3?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 03:24:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "300億元砸對了！光寶科赴美大投資法人看法曝光目標價、EPS一次看- 上市櫃",
-        "publisher": "旺得富理財網",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qOFpUYXNvNWJNRXI3TUZ3a1U3R2F2Y0daLVItbk1hUGpYMm5keHBXeEs1eGQ3N2hqbkVZanNwSlJwTFdxTGhBSWU0VHBQMXdnZnd6RWJYa1VscjhVcWtIWmxKbmhfeElxZnc?oc=5",
-        "pubTime": "Thu, 16 Jul 2026 21:27:25 GMT",
+        "title": "4檔飆股「抓去關」新名單　蔚華科延長處置到7／22",
+        "publisher": "ETtoday財經雲",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Uak9EMlRuMVV1UnY0UGZqM0RQZDdDTjVoSTRwcWhSZXE5ZENzcWliRDRUSmFnZjNYcVJkR1FaOEpPUTViVUJ4OGpjbEN4aGVPV1HSAVBBVV95cUxQS2lZNS16TU1zOUE5MWgxRktRdXRiTFRhUmdja2VJY1hUN1Y1aWVxUUpBa00zb2dLNHZ3U1hfUy0teE5YOHRZNmJ5NmN3TGpDcA?oc=5",
+        "pubTime": "Wed, 08 Jul 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "光寶營收／6月187億元、月增8% 為近八年新高",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02ZlI1bkMxbHJFMTRxNDZ6MVR6dm9yZWQ1Q3k5dXM1RFdQd2RWOGV2OUlyV2Z1b0t6TGw3N2hvM0E2N3lodkN3LXh3YlZyQUZF0gFWQVVfeXFMUHhpTDdRREp4Q3U3NmZ3Y2RWenQ0TWdyQjQ3Vnd3ckdTLWNGeGVuVi03WXQ3WGdGeXZlZUVmd21KOC15UVMxWUdfZzZBbTB4Z0RDbjVFaGc?oc=5",
-        "pubTime": "Thu, 09 Jul 2026 07:00:00 GMT",
+        "title": "討論牆 | 盤中速報 - 蔚華科(3055)大跌9.67%，報149.5元",
+        "publisher": "LINE TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lTnhGMmk2Qmsydm50aTRjWEtTbmFPeEYyeldZOC1VM3VndTZPcTJmQ0V0V2ozMElpZ0lxc2JxQlpfTGQ3QVVrYkNua1NmU1dCUmNPb2tvU29OVVJSQzNZVVBTU28?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 18:33:06 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "AI伺服器帶旺電源鏈！光寶科6月營收186億元 年增逾3成",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOUE5NdzJjYy1QN1lETHh4SGY2SFNjUU8zam1FZUtHcEJKU01MaUVEYTlONUZlYmdxOERBTXpPYUppb1hpNHVXQ0R6eS16VHk2RnhGZnVqLVcwb21HTlkyZkN2eEpJME9wcWRteEVSaFBKcVVDNzI4ZnkzdG02c3M3ZTJXZ2NReFM5RTF6ZFF0RWFnQ1A2QXVWWm5UMDE4R0pJSmFSRVNVUk9RWWdyWjRMQjdEYk9FMmhJUWVSa1FaUnBMd1J3cjhJZW9lazVyS2FhUU5hTnpqZ3RYTkhZNTEtLU52dWF3WVhSWTJrNy00MGpRUjFIOW1VTDlVOEg1Z0tzd0dzZTdWMFdWdWNnc3pxTi14R1pvWkhwOWRyTmZRN29PNWtfdmFXN196ZkgtdklCWEdTazh5ZndDWHd5VGkwczJWMkZtNjVaQ1VsaFF0b2hmYUNZUDVINkRtTkwtZ3NZa3c?oc=5",
-        "pubTime": "Thu, 09 Jul 2026 07:00:00 GMT",
+        "title": "AI半導體設備需求爆表 蔚華科(3055)4 月營收單月抵一季強鎖漲停再創巔峰",
+        "publisher": "理財周刊",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2U3FtcVVLcGppcTBxZ3pYZU9aNE1IZWsxRXh0RXJ6V25TaUVwcFkzamJBYTVGSG1odk1VaVdEUmFCYjFCNVM1WmExRktuNGFGQXFyTzItcHBQcm1paHdRMUs3ZjdnakxGeFgxTXh6VQ?oc=5",
+        "pubTime": "Tue, 12 May 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "3055 蔚華科- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hZDVRdFUtRHhFY3FXNGx4aTVwZXdzdTJwWnhwcElwcjBRQjVFV2JXN1ZkVngtVHduVGtvN1VvYk1ZYUJUSW1UZU02MG1FR3VwRnNfOWMySmY?oc=5",
+        "pubTime": "Sun, 26 Jul 2026 08:41:50 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "揮別轉型陣痛！蔚華科自製TGV檢測設備奪晶圓大廠大單。2026下半年迎先進封裝全面放量新契機",
+        "publisher": "理財周刊",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNZkpCVzRNN1k2LTg4ZnlMNmFZNkJBVnQyNXIzdkZCQ0UzSHRrbDJha2lnWE15d0RHbDlnQ0ltZ2g1UWJWRV80c3Zmc3pyOGxyVkFVci02aUwwTGRZYkR5WlY3Vlh1MnU5TVlmLTJlbw?oc=5",
+        "pubTime": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "「國民乾爹」豪捐24億！黃仁勳夫婦藝術學院誕生",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BQmJBRFRQLWZwREZvOVE3QW9vOXh6VlRfUlM5bnhTZEsyM2c0OHBwMEpVU3RnNmlQRUxpM1RiM1FXOTlHbkNkSFBvcGVtdXNDOUlwcURFNkc?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 15:17:26 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "蔚華科將舉辦先進封裝論壇關鍵技術論壇",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81NkZNZk40NUpGMEg5bFJXTERiYlNFdEwtOW5LeElTQmIzMy1ZM1VqaHc0czFRVkNGMmRqY1A0cTl2QllYZE1JR3ZkRG5FSmZMQjBGOW5LZUs?oc=5",
+        "pubTime": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "3055 蔚華科- 蔚華科大股東都沒有賣一張股票了黑粉們不要亂好嗎- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mZ1EyNG8yOExqTHhWWEhVS254eG1rNnByRTZwNWp1VkhxLXFnZTVnVXJvSnFhTnpsZFM3Y0pjVkJpM3FEUWVFNmczQUNlZHYtczZ0LV80UkI?oc=5",
+        "pubTime": "Sat, 27 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       }
     ],
@@ -887,10 +543,17 @@
         "source": "yfinance"
       },
       {
-        "title": "金融股輪流飆！國泰金大漲逼近100元關卡 富邦金再刷新高",
+        "title": "油價推升聯準會升息機率 富邦、國泰金法說 市場聚焦五議題",
         "publisher": "經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EcjQwYV95blNJeExKc3gxM21lekZlejNjVVozODZJMEQ4V2cxd0VMT2hvT0h4WGhHYjFrbmlXdURtZ2M1eDVTbGxNeUI5Q1hOeUkxWXRGVlpGZ9IBX0FVX3lxTFBON3V2ZnZBUUk1dmh5aTFuaVAxQ1hLVGJHSFJ6QWpwSFVRdzVEQVRkc29tYVNEU01TSGtVcldaN2N1ZHI3SWZrZkg2NVY4MlpFc1ZaQ2dnc1RrdndxcGhB?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 09:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GM1VjLVAxanB0dWhKeXlxc2JUb0VSb3hBUjA3UGtnVVAxbExUYWZFSFNkMDZZUGd3ZWZvc3FYczFrQUxmem1kNjVGTWJudUVUakdhVlB4MEdvd9IBX0FVX3lxTE82emVtMUxSVFRjYXpCMDF5eHUxU3dGaFlvRjdUZF9xekxsSm5wZmtmZ2I1Z1hsaURBX05RcGZUTl9lejBVcEY4RjhKZFNnWldOemxFbDdXb3RDMjNjWEtn?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 09:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2882 國泰金- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEY1hPY21NS1hnY3RrbGR5dDZLTnNFSHpwUjYwQXdRcFhQZV9PTV9VR29sanJoX3FNdkRsOUYwTkFyNFJvMnR3M2JPVE1OclYxWm9FR2REckU?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 06:31:27 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -901,10 +564,10 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "2882 國泰金- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nb2NnWVN0eFRVVjNTaXBKV01VUVd0WlN1VTdyVk44VmNydFB2VVdGbk9KM2x1NFN5OTUwZFRyUExIa1R4T01xSHREV0xjY3NaS3RmdmFHOWQ?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 09:56:22 GMT",
+        "title": "《金融股》國泰金8月28日召開法說會",
+        "publisher": "富聯網",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVJjQUc5SkRNSGpBcV9lN1JpR2lVYVhHX3NnVEZmMDhlRWR4dDFSaloyeDhpMm4tbDFWNUEtMkp2QzNWLUNWWjdEZy1MWXNueXFTME5EV1RKT0x3WVZHeEV6RldfV1cxNU0tc05IM001dHV4ek41bmNuc29NdlhhRFBSWkRPeGZW?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 09:22:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -915,24 +578,10 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "壽險12張百億神單賣2800億，國泰金 (2882) 關鍵受惠在哪？-梁文謙",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLXZoUWVwWWpzWWJGTFY5RkZoY1VaMlBELXNiZzlXMjdzSEVvQnp5Ym1BMVlpa1N6MTdkUFRQTXFVMGhvcHpOcnJBM3pXOHNpN2w0TC14d2JGYUcwbkxNVHRPMkVFZnZtQUlldGw3Xy1iZjFiaThJSW9kZFQ2cHdldV9kVm1Mdw?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 11:43:47 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "國泰金調查：57%民眾估台股H2高點上看5萬 | MoneyDJ理財網",
-        "publisher": "LINE TODAY",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SY0d2MVczNXpBc3JKdGY2YWFqN1A2SFpMbzZXTXpMX3pRSVFfd05UbVlUWjNOaWt1aHg4d1VIRmRsaUZPTXh4SUJkcVNKTVJuVDlFdUVR?oc=5",
-        "pubTime": "Mon, 20 Jul 2026 04:38:48 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "國泰金繳亞資中心周年成績單 展現集團資產管理布局成果",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vX1RIcUMzNWVjVHI0Tm10bUFWeWszSURfcUhjbnQxYlBxdlhCR2g4blBiaW90MFZiUXl0bnpMYXYwRTFjS2J1dk40Vkl3S1ZY0gFWQVVfeXFMTjVmT3V4a3lVSEloTUZrYkJOcUVWQmZFUVZMSEViRWYyZ3pnWUNRcjhCNEVpYTNyOGRSa25FeXpUSzJFV2FxT2steUF1OHhmc1dBVlU2ZFE?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 12:27:59 GMT",
+        "title": "盤中失守4萬3！電子股綠油油誰撐盤？「這檔夯股昔日狂飆8成竟跌停」資金悄悄轉進低基期金融股- 上市櫃",
+        "publisher": "旺得富理財網",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XOHpBaGJFLVl3cmV0TVd1d2FEV1ZiUzFVMjZtWEpxcU5UdmNPd0tLOFhkZ0hUODF5blBvN0luczJFbGY3VzkxNG9kNkVDLVZEVFRUOTljRkNoV0poUmdzMWZzZ01xSTRXN0E?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 04:49:08 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -943,103 +592,89 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "9 億賠償創投信紀錄還影響 5 萬受益人，蔡鎮宇拳打郭明鑑後金管會與國泰金的下一步",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtMFNpaEtPN0wxSUZhVkgwRC1lTEJIdnMwQkxZUU54UmpZc2RhbVo0MFVsTTR3ZExBM0oyeXdEM2lHTEFKRlNZaTRqWU5SZUhONjhaX2Q0cWw?oc=5",
-        "pubTime": "Sun, 05 Jul 2026 02:20:41 GMT",
+        "title": "國泰金繳亞資中心周年成績單 展現集團資產管理布局成果",
+        "publisher": "UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vX1RIcUMzNWVjVHI0Tm10bUFWeWszSURfcUhjbnQxYlBxdlhCR2g4blBiaW90MFZiUXl0bnpMYXYwRTFjS2J1dk40Vkl3S1ZY0gFWQVVfeXFMTjVmT3V4a3lVSEloTUZrYkJOcUVWQmZFUVZMSEViRWYyZ3pnWUNRcjhCNEVpYTNyOGRSa25FeXpUSzJFV2FxT2steUF1OHhmc1dBVlU2ZFE?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 12:27:59 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "油價推升聯準會升息機率 富邦、國泰金法說 市場聚焦五議題",
-        "publisher": "經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GM1VjLVAxanB0dWhKeXlxc2JUb0VSb3hBUjA3UGtnVVAxbExUYWZFSFNkMDZZUGd3ZWZvc3FYczFrQUxmem1kNjVGTWJudUVUakdhVlB4MEdvd9IBX0FVX3lxTE82emVtMUxSVFRjYXpCMDF5eHUxU3dGaFlvRjdUZF9xekxsSm5wZmtmZ2I1Z1hsaURBX05RcGZUTl9lejBVcEY4RjhKZFNnWldOemxFbDdXb3RDMjNjWEtn?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 09:00:00 GMT",
+        "title": "2882 國泰金- 國泰投信利害關係人違規案升級。金管會25日證實，檢查局已派員... - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zZkJ4S214N1VncnVpMzkyalIyY0U0VjdTd0lFWVo3Wk9HZjJDNTJ3Y1UwWW4zMm9ydGxScXoxSzZWWU4wbi12Nk9hTDJ4Y3h3ZXBBeUJMX3Q?oc=5",
+        "pubTime": "Mon, 13 Jul 2026 23:09:05 GMT",
         "source": "google_news_zh_tw"
       }
     ],
-    "2317.TW": [
+    "2395.TW": [
       {
-        "title": "Nvidia's U.S. AI Supply Chain Expands",
+        "title": "Harsha Engineers International Ltd (BOM:543600) Q4 2026 Earnings Call Highlights: Strong Growth ...",
         "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-u-ai-supply-chain-124356698.html",
-        "pubTime": "2026-07-22T12:43:56Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/harsha-engineers-international-ltd-bom-110024131.html",
+        "pubTime": "2026-05-08T11:00:24Z",
         "source": "yfinance"
       },
       {
-        "title": "Musk Denies Report of $52 Billion AI Server Order",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/technology/ai/articles/musk-denies-report-52-billion-162753820.html",
-        "pubTime": "2026-07-20T16:27:53Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn",
-        "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/dell-super-micro-stocks-rise-premarket-after-elon-musk-denies-report-of-52-b-ai-server-deal-with-foxconn/cZZLDuHR7uR",
-        "pubTime": "2026-07-20T08:35:46Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "SPCX Stock Rises Overnight Even As Elon Musk Shoots Down Report Of $52B Foxconn-Nvidia Order As 'Fake News'",
-        "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/spcx-elon-musk-report-52b-foxconn-nvidia-order-fake-news/cZZLMWNR7MM",
-        "pubTime": "2026-07-20T06:26:37Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "HSBC is Bullish on Intel Corporation (INTC)",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-bullish-intel-corporation-intc-185450746.html",
-        "pubTime": "2026-07-14T18:54:50Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Nvidia Supplier Plans U.S. Facility",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/technology/articles/nvidia-supplier-plans-u-facility-170645330.html",
-        "pubTime": "2026-07-10T17:06:45Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Nvidia supplier King Yuan Electronics to invest up to $1.4 billion in US facility",
-        "publisher": "Reuters",
-        "link": "https://finance.yahoo.com/technology/articles/nvidia-supplier-king-yuan-electronics-122806790.html",
-        "pubTime": "2026-07-10T12:28:06Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fuso, Hon Hai to establish new bus company in H2",
-        "publisher": "Just Auto",
-        "link": "https://www.just-auto.com/news/fuso-hon-hai-to-establish-new-bus-company-in-h2/",
-        "pubTime": "2026-07-10T11:51:35Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "CLS Stock Lags Industry in Three Months: A Great Opportunity to Buy?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cls-stock-lags-industry-three-152400632.html",
-        "pubTime": "2026-07-06T15:24:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Foxconn Sales Jump 40% as AI Server Demand Accelerates",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-sales-jump-40-ai-123029225.html",
-        "pubTime": "2026-07-06T12:30:29Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "【零股排行榜】盤中零股成交量TOP20｜散戶最愛這幾檔？0050元大台灣50、2330台積電、2408南亞科、3231緯創、2317鴻海 (0722)｜豐雲學堂2026 年 07 月",
+        "title": "研華（2395）、艾訊（3088）、融程電（3416）｜邊緣AI＋軍工點火，IPC折價待修復【豐學PRIME盤後精選】",
         "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQZTgyV2hKMFBmLWd2LTNWNl9JZUVKUEJ2bVZqd044RjJTNEIyN2NiQjJTU1dCVk5SYUZaNzZleERfTVBqTXJaR3prU1FNc0Q4R21jakc3YTdoSHZaRVhTTFVteF9Ybks3bUhxU09IM2dYWGhSVFUzUmwxMzFoemNxalQ2aTJBWkFzY0FVckt4SGM5SzlYa3o4VWFWM0dNMzBoZ0Q3d1Y0WXVzOFRKajhrak5sM1dIMDZxTmNLbGgtaWpTcU0ya1dNQlNNcVdOOG5kdm5fYjd5a281S2hYMzI2ZnhwV2xIdWlnNnZyVGxMYmJnRllDYTVHekQyTHJoZjZXektzcl9wUVUtY3NfSkZWcllBRWlLVmMxM1duM3F1OVNWMXVmVV9LUFBWOHdVLWFaNGZEZ2Y4OGJDM3BOb1l3VzJ4NG9sbk9NRWR1ZHBJODlBRnpOY0tOUHNQMENaajlwa2tYeVROMUZ0Tl9xSWx6M0Z2RW13VmpBanRhem1zWUhFYVpxVlVaWHZlRGF4T0k5SUNlZ2xKNjlYYkd1QzNOT29ob1BkbG5HR0ZzZWtVcVctaV9nbWNvMW5zZW0zcEliVVRwLVllR3NiSjBuUnMzZHFxcjVjdVBRazViUkVxazJDTWpOWXlHcHJlRzNtdVh6dVBFSnlwMjZyLWZXV0FuVlRtaTlYUV8tUHJfY2FqWHNKaHotdUJWMVpDNVdqV3BZbUU4bTl3Wjd5V0dfSHhfeWJ4dS1RaXdmR1lQWi1GUTM?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 07:24:16 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNR2tTUnhGdG9rTi1xTnpmZy1hTFU3NDhkRzJiWWtjMzdhQzNzeDBHZXNoM083S3VXeTltWk1JYWItT3pkaUV6SHBfbHI2QXRLVEFpOFhINHRGeXlkYnN5TXFRbFB1MTlTMkJjQlhkX0ctNndYVVRzMGVsMkItMzVweE5pTGlqT3Brb1pPZThUY09yaUNlSUlaUmFsTm1tSUZVXzktNmh1QUFkSUZYMFVuQzNyc0ZhSXIyS3pCQ1ZjR0dnckVVRjB5S29wNXV1QTRsam13QUNkSEVaZHlFYmNTX2R2MEhER2J0SUZsYUZtZUo5Q1VkdXB1b2d4V1U3d2tLQTZiZlE3RFVnZ3lEc0x1Mlp3YlpLNzdSU0VaQXJQZk9HR1ZuT3pWbmp5MW05Qi1FUkFVLU92bFQxRWs3QnBQcU5SdXBuNTJaWmVjWXZDWlNKNVhsMldrdWhjT2pxelBLVFlRdDQ2bGxEN2xBdkxZbUZLRWY2T2RsU0YzRWwxTHlHNVI2R2ZadU5vS1I3Y0hDZlhjdjdFVzBpaUNwcUtIZGpjejFKRFNoQm5OVmRfRG44OXpBVFZWOU51NnBVb2h0SlJaYjhVRHFKVW8?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 02:27:43 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "鴻海醒了？股價再拉半根重返250元大關 分析師曝續攻關鍵",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPVDhIa2hYaEhlT29UdDMyMmdNN0ppYzdxMkozS0VhQ3VuVVFVdzVTY2Z2Z3hEVHIyN2RQbDNHU1hMNjE0MkVjb2J1TjlXMkJVZEpSTjlHUjFVVk9mZzRfZ3p6cEZ0WXo2QjQ0ZnJVTWRvRjJPREdDN0xOMXkwUXZjRHAtWjhtenFtVnVZd2ljRG5fcW1zd2NkT3RjdnNkZDBpT2tQM0RFbjNnOVlIam5mMG5sUjJfRWp0djF4WG55LXRsVVVtREJqRXV2aUMwc3pFMC16WGFzYWtvMzNGcVdTU2VCdER2eWQ1NFhfNWwyYXBRSmtVWUFpVWE2WUdCR0pHTjBib0pRT21jWjloYWphV3dxY282R0dFVm1LUTF0T3hsMWRiUFl4d2RLUDVhRnlhTjZobDBZNU1Ed1ZJZHlRUWd2NDBEbzJwSm9fcGU4SmZkSG5uTzRubmw3ZHdQYndYb241bDV4SWM4WWtCdXdGajJTMW1nTFpSUGY3Qm9oZ3I?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 02:15:33 GMT",
+        "title": "輝達晶片登月，研華 (2395) 工業電腦訂單有幾分機會？-周哲翰",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUJaeF9VSl9qZmE2Y3hVeUkwZk5zbktJc0UyRnlWQ05senNRT3hpNHU3RHNWMUZWZDVnZjE3ZGdiV01qaXBNdjRfYmtLcHlMVHJVY0cweDQ0Ykpsek54d3NORXV4NFhkV0xFMkJTYmlPbUhpZHJlN19aREZ5R0hyd3JKMA?oc=5",
+        "pubTime": "Sun, 26 Jul 2026 23:49:28 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2395研華\"盤勢: 散戶湧入接刀，大戶高位收油",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TMVFrOHcweG5zLXEzV1BKdkFGZEI2V3E1cmt1NmNsMU13LW5NS1BXUkZ4MWJLNDJoTElobVgyZzNkVEI4WXE2OWVuVm95RVlodGsyTDR1eVY?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 12:55:17 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "研華聚焦邊緣AI落地商機 鎖定「臨門一腳」關鍵角色",
+        "publisher": "自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5bUNOMnZjTURxTExnaHNHT3BkVEZieXNJcnloX3dOd3hEN1VyQmh2czN6TU82MGNEY0J1emdJZ3FMQk9NMXZVMUhsenkyV1VpXzNaajNrbmU?oc=5",
+        "pubTime": "Tue, 14 Jul 2026 23:45:52 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "產線全開加速交貨！「這大廠」Q2營收超越預期 目標價上看628元",
+        "publisher": "三立新聞",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aR09pZHdfLWcyMURuTENXQmJ6bHYyUFpaVlBzS3g2c2hWVFRqSWwtdFlqMlJkOXNPeXhCRldyUVE4SUtJTlRzZl9kOA?oc=5",
+        "pubTime": "Tue, 21 Jul 2026 18:03:24 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "討論牆 | 盤中速報 - 研華(2395)大漲7.76%，報611元",
+        "publisher": "LINE TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3Y2hHZFZoQTZaYnRneFRsWEY1TXhBMHJPM2dieWllblp3VnNIbDcwTk82ZGZ3TWNwTVR4Q3VfYUM2VGI2VTFMWGtnSmh4WlRINnRTaU53a0c2Szg0M19FUlBzN3U?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 09:27:40 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "鉅亨速報 - Factset 最新調查：研華(2395-TW)EPS預估上修至15.74元，預估目標價為530元",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bkU4aU5BNHVaSTdnVFlHQ3g2RTEwNzIwVWlncWxTaTh5aDRjTTVGcHZ4ak9ROGg2XzFMaUw1dUJpTW4wbzFYeHktT3BxLUhadnliVWs3dEM1TDNVZGN3OGZ1ekE?oc=5",
+        "pubTime": "Fri, 17 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2395 研華 - 市場內容物變化- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xVkc0R3VYNDRHR3UxMjdMc3VkejNuOHowWkM1WEpSNUdpSkJ5QXBzU2dVN2Rwc3djVDBtZnJHNUxXeThxcFEwSWZiM0ZWUkE0aVRHLWNIR0Y?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 00:07:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2395研華盤中分析: 量縮回檔看似無害，大戶暗中撤退斷料",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRSnJENUZVRmtJbWVyc0ktRnRaYnVUMHAyWlNlODFpUllESDEzbmpDMXByZlJwd0swSkV1V1hONTBPX093NEFuM181cXNCR1VJY1dEeC14bVA?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 04:32:01 GMT",
         "source": "google_news_zh_tw"
       }
     ],
@@ -1052,17 +687,17 @@
         "source": "yfinance"
       },
       {
-        "title": "2881 富邦金- 特別盈餘公積變股利保險局不放行🥴 - 股市爆料同學會",
+        "title": "富邦金(2881) 個股概覽 | 個股 - 股市",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WS3NESFJ5ZHpCeHVnNlBSanFiakdCeVQyT3JFdzJ2SHUxUnE4WFlxWGhSMW5CeFktYmVRa0ZLZUg4QS1qbzFwa0laNjlzRXFMc19ocmZkbGY?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 01:01:10 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ORnlGdXlaUnhPU2taSUNTdUJLcFZQalpyNnVMMFFrZnVoNHZSNWxxT1R2Wk13Y3pheUtwVTU4aFpMNGZSSjhrY2NxRjZkUzFmT0c4?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 06:27:39 GMT",
         "source": "google_news_zh_tw"
       },
       {
         "title": "高殖利率金控股超人氣 國泰、凱基、中信、富邦有望衝破4.5%",
         "publisher": "經濟日報",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sY20xRFh4T1JKRUZLekhyTy1TRnV1b1V2LUJNTXl3SW5aMEI4OE9wMEhOeFBCUGljb2tPamlfMzNXZ3lzOGRvc1R0eGxRbTVqZm1OOHdWSkN6QdIBX0FVX3lxTE1YLXB1UUd0eEF0cW5QU0VBcmpSbUVyWHBSY1RHQlRFa2Z5TkZYX1lCaUEzdUFsQTR5elN0QmRUamJ6NWQtaDU3dFJjdml0c1lmcTIxRmxNZUhRRF8tUzhR?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 09:00:00 GMT",
+        "pubTime": "Sun, 26 Jul 2026 09:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -1080,24 +715,10 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "個股：富邦金(2881)8/24舉辦115年上半年法人說明會",
-        "publisher": "富聯網",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeld2ejI3WnNId2Z1MG1HX1pWeVVfcXdNMEJkN3o3U0VXdVcyTE5VRFlSWjRxdFVSWFdPV21DT0E2VG5nc0JlQzcyODMxR2lfVmMwazdoSzZCbFJBd1JvNXA0WlFKTjlES3JsOXVVeXh2dUY2QTJWS0M1amlYVThtQUdkNXptQ2cw?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 07:57:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
         "title": "Factset 最新調查：富邦金(2881-TW)EPS預估上修至10.55元，預估目標價為107.5元｜新聞快訊｜豐雲學堂",
         "publisher": "sinotrade.com.tw",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocEdxVnBmODRQcmoxRUZzbVVSYW1yY3dmaTloZ0dialdISGY1dnBzMjR6WTJaUnFaRXprcTludWlGTDAwNXl4aExjcTItdVozUEl1eWVsdExPWkI2VHdCY3AtV0x4elNtV0FXMXZVRF9wZ01lOWc?oc=5",
         "pubTime": "Wed, 01 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "富邦金(2881)、中信金(2891)、元大金(2885)全賣了！存股達人只留「這2檔」賺最強現金流...金融股10年不敗心法",
-        "publisher": "今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3M2YllJNnFLVG5VOXZrSnZENVJ1OGVVSzRSOGpvZ3RuUlpqbHB2ZkNrcV9mLUdSS1ZpeER6MGIyT3JwR3pOTHlWWEZvZE5SV0RXN1ZTVXpoR1VITDc5WHE5UW5CRGs3VXFXN2dITWlIVFJzRHNjVnlpNVo4R1gyNg?oc=5",
-        "pubTime": "Thu, 11 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -1108,10 +729,17 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "富邦金董座稱「股價還低」，真的嗎？艾蜜莉提醒：進場點不同，遊戲規則有差",
-        "publisher": "Smart自學網",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82OFVsUjlHb1JadFFEeDdBcFlyczAzNm9JeVQzVzYyc2Q0emdPZG8tZ0FsaEk3cWI0VTBKdTJ3MzI4dXgzTC1reVltMG5rVy1ZQkFrNjcxMFk3OGg1OUp2dERaR19ISzRSUm1SclpYbGZkZW1DQkY2b2NhS1U?oc=5",
-        "pubTime": "Wed, 24 Jun 2026 07:00:00 GMT",
+        "title": "富邦金(2881)、中信金(2891)、元大金(2885)全賣了！存股達人只留「這2檔」賺最強現金流...金融股10年不敗心法",
+        "publisher": "今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3M2YllJNnFLVG5VOXZrSnZENVJ1OGVVSzRSOGpvZ3RuUlpqbHB2ZkNrcV9mLUdSS1ZpeER6MGIyT3JwR3pOTHlWWEZvZE5SV0RXN1ZTVXpoR1VITDc5WHE5UW5CRGs3VXFXN2dITWlIVFJzRHNjVnlpNVo4R1gyNg?oc=5",
+        "pubTime": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2881 富邦金- 大盤修正下的盾牌：13家金控市值與股價有撐- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51OTk4c2stdXd5TmMtMDF0ZUVPLW9QcENTeXFQSFZrOWVMWG95enhjSlN5cG9xSlN3OGVySXYtaGo1eTNTeUU0ZVlhaVVFU0xlLVQ2M204dHo?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 02:33:19 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -1120,77 +748,12 @@
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DUWNIUk8xSURTbDFlWDA2OEx0eF9uMFljM0paN0x3a0RjNWdiVjVobWdNTm1hOGZNb3RHQzE1Vy1FaWVnS29FeVMybmV2VWJS0gFWQVVfeXFMTXg2UkduTWE3S3FSdjhydGtNVzFpRVlXWlpIc0E5NERjRmQxbkxVTTBtckk2NnZ5ZjNrcUNYMjhrV2NQTEY4NFhwdUN4TFFoVUxQUXd5V2c?oc=5",
         "pubTime": "Wed, 15 Jul 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
-      }
-    ],
-    "3055.TW": [
-      {
-        "title": "「國民乾爹」豪捐24億！黃仁勳夫婦藝術學院誕生",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BQmJBRFRQLWZwREZvOVE3QW9vOXh6VlRfUlM5bnhTZEsyM2c0OHBwMEpVU3RnNmlQRUxpM1RiM1FXOTlHbkNkSFBvcGVtdXNDOUlwcURFNkc?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 15:17:26 GMT",
-        "source": "google_news_zh_tw"
       },
       {
-        "title": "【13:04 即時新聞】蔚華科(3055)股價小幅走強至167元，延續AI裝置與SiC檢測題材動能＋均線多頭結構下法人與主力籌碼偏多",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZnpHUVpJYjBwa2VDMU1zMjlBRG9lRFpkd01ZbjA0TTdIWW9QZU1IN1FPdGdoRko5VUdVZmJDUS1EOUxfOENkVTllUFN6TVZteVFkcVpETDNEZEt2VkxZZmtfVTc4ZUplZm1JY3BHZnJWcXdHZUhPYVgyOGhnODMyYlRVRGZIbzh3Y0lOOG53?oc=5",
-        "pubTime": "Mon, 20 Jul 2026 05:09:59 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "4檔飆股「抓去關」新名單　蔚華科延長處置到7／22",
-        "publisher": "ETtoday財經雲",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Uak9EMlRuMVV1UnY0UGZqM0RQZDdDTjVoSTRwcWhSZXE5ZENzcWliRDRUSmFnZjNYcVJkR1FaOEpPUTViVUJ4OGpjbEN4aGVPV1HSAVBBVV95cUxQS2lZNS16TU1zOUE5MWgxRktRdXRiTFRhUmdja2VJY1hUN1Y1aWVxUUpBa00zb2dLNHZ3U1hfUy0teE5YOHRZNmJ5NmN3TGpDcA?oc=5",
-        "pubTime": "Wed, 08 Jul 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "AI半導體設備需求爆表 蔚華科(3055)4 月營收單月抵一季強鎖漲停再創巔峰",
-        "publisher": "理財周刊",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2U3FtcVVLcGppcTBxZ3pYZU9aNE1IZWsxRXh0RXJ6V25TaUVwcFkzamJBYTVGSG1odk1VaVdEUmFCYjFCNVM1WmExRktuNGFGQXFyTzItcHBQcm1paHdRMUs3ZjdnakxGeFgxTXh6VQ?oc=5",
-        "pubTime": "Tue, 12 May 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "3055 蔚華科 - 3055才是貨真價實的玻璃基板類股，至於其他跟漲蹭題材的..... - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YMUx5RGV2UHljR2JhbDB4RDlRMUtock1CMHBhaWt6Mk5rc3czRXdsMkRnYUlXY2lXSjh0OWdRdUhGUGhmbktXN3VrT0JsNVFZUC1qWHJmOHE?oc=5",
-        "pubTime": "Thu, 02 Jul 2026 23:08:26 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【10:11 即時新聞】蔚華科(3055)亮燈漲停105.5元，AI半導體檢測與光學設備題材升溫＋短線突破百元關卡吸引買盤迴流",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDRJV3VFRXpEcWJMaW9ESnhsVEdvNjB0dFlPTmdGdnR2WDVVWUc3RWJlcGt0OEZabko0eWNLX2lyT3VldEpHMVpJS3JPMFUyaWdGb01IWnBRWUlPSnZwT0xQMEFpZnpfalV4dUJrbERmYUVLdlh6TXBtLVhRNFlRNXZMRWpRelNPTlJuRTdn?oc=5",
-        "pubTime": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "3055 蔚華科- 記錄一下創最大跌點2,953.71 ，還能談笑風生真好！ - 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94ck9mOC00WG1abkloRTd6Ml9uU2l3V0I3RjI0SlYwd0xRRHlUWmlOVlY2b0M2V1VGUmZYSHU0WlMyd040MFk2TVphemVkUFlMUTZtTmN0aC0?oc=5",
-        "pubTime": "Sun, 19 Jul 2026 12:27:52 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【09:00 即時新聞】蔚華科(3055)亮燈漲停116元，AI裝置題材帶動買盤，主力成本翻多配合技術指標強勢",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkFDcXlXQUNuN2V4VU5YSTFFenZWdUlrbnI3SXpSQ0lSQlU1RkplZGhiSVBaR1hwd19Xb0xaLTdCTUJtTjNBeEtHb2xLanVkaFpfTG5qYnhpQmxhaWczZW4zVy11NTJ0NDFObGk2RldYYkJKNHdMU0pMSnRNcnhZaElydDQ0N1g3WHVBamRR?oc=5",
-        "pubTime": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "3055 蔚華科- 蔚華科大股東都沒有賣一張股票了黑粉們不要亂好嗎- 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mZ1EyNG8yOExqTHhWWEhVS254eG1rNnByRTZwNWp1VkhxLXFnZTVnVXJvSnFhTnpsZFM3Y0pjVkJpM3FEUWVFNmczQUNlZHYtczZ0LV80UkI?oc=5",
-        "pubTime": "Sat, 27 Jun 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "3055 蔚華科- 跟博磊一樣抓狂了嗎- 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44aGthODRNVjlFRnR2VHlvaWk2cmN5LVpVRzl3SnlIU2J4MVNYUk9XTkx6b3Bfd1BaY25TQVpraHR1MGRJVWg2RnNyMVN3X0NYdUgzU2ZkYUg?oc=5",
-        "pubTime": "Fri, 26 Jun 2026 19:28:25 GMT",
+        "title": "驚！富邦金4月大賺388億元 累計賺半個股本寫史上新高",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdlFsODVKZFl4ZWNCNjkxUXlFRi1ya1F3LVd3c2FiMk01UHdDcW1MWXVRcHJ6R1Y0cWtkMVBrV1VhbURfS0h4dEVEdHV3SVhFbEFGLUI1VlozQld0V2Y3dVQ5RXQ2aTExUEtKemNpN3FMWkFlWklNZW9rLWZNYXJQeTdNcDNzb1l2bk1WLU1sdU50X2h3cXdybDAxRkVaaTdKQTM1eS0xWHZDQzRtNmdKNEpTaHFEVlpXWmNNX09nN2JkM0F0aTV2cTRsc1ozTnlVX2Q2Y2g1SDNHTXlWMmJTd00xZ2pPbVBoZFpfYXFtREhGXzczUEUwbHB0T2Jsb3Fpb2ZGTFRlYWZtTTJlNjlFUEZpN3JGWlhhMkJLa0J5cFZ4bjlYWEFqdWF5RzA0VXJMMC1jMEtWb1ozU3lUZTNtQm1keG5NeW10a2F3WEFsVjYxRnE2TDNXMU93NmI4N3BLeWhiMmYzRXRDZw?oc=5",
+        "pubTime": "Thu, 14 May 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       }
     ],
@@ -1217,17 +780,59 @@
         "source": "yfinance"
       },
       {
-        "title": "台塑集團翻身！8檔全紅 台塑化寫31個月新高 南電、台化飆8%",
+        "title": "【台塑四寶換車潮？1】台塑化狂飆近8成！上萬股東已獲利了結出場",
         "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPRkpjZGstWlowRUE1ZnRKbHJRNEVfeDNHbllkZmduaFhzNndXT0ROTmpqUXlMUVl5TXRwNjVDRzB2WU5NUUdTbzNNYkgzNlVkamVJck1xcVRHMFR0eXBvUzhlODE0ZnRJbG4tclpCZjU2YTZqcGVIY2dTaHMtd3J2bW95NHdDV0dBSnBLTkNiYktWdnFCQ2R6UnhQMDQ3djlJSWFEcmk5a3pTUHA3b2xYcUxJal94YktHaF9RejBwRENqM3M1Nk10YmRqeTdFMHAwb1RhNkdYcHlDcTI4Zkt5R0tTZmhHdUlQamVBZk0xbC1iWTJwQ1E5dG4wS2h0WElKejRhMkJ6WGVrRy0zMkJZQnJTVlVoR0hLZTh2VUxJYlN2UDJOeHJIbGxhYWNsR3NDeUJTc2hKWDVrYUxYRXVkeVpzeFhhU1FaVmV5V0dpN0prcVA2UmQ0ZlBPcHlPUlhpdXN0QV9YZU0zX0hyYU1hMF9UWkhpRmFaMGk4S0s2dnZ6MTA?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 03:59:49 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQbHBRanVNMFdEd2ZVeE1PWFBHcU9xLWZFM2RIaGxUMHRpeHVmRTFJTEt6cFo4LWxkOWRTNGxsODJzQjVnaG5la2NadEw5MGE5amtwNEpGZ1VRTm4tMXpMa2hiZ3Izd2lNSEdvUi1SS214N2hySU5QTEEwQkM3UmxkS2ZJU3paaDJieE9HRGh3OUE0T1JsMk5iXzA1a3JOVkRNcDNuRVRYVWV5Ny02eTZxUXhlaVVjRXBGdDRWbm53Y3JneFNnRjlkem1YaXZJQzdQUXBjX3dGd0c4aTZGNHB0SWNORTFoUEFRN2JFajE2ZC1HR2xYNWlnWmhNTlNFZ2prNC11OWx5aFNnN2JqV2tHeVdET1JmclJhaUhQREpQUzZuTnZid2RoRGNZYXdEM2IzcGpRQXJMRTNvamJtN3VBRnF4X1lLR3ZxX0pmdmswRHVPU2ZXTkVQcEd5TmZ3Z1BtN3VFOTd2U3JNZC1WNVVGTlFjaUtCakMtQ3dPXzRveG1MX3lfaTFrNFJocDIzV3lfNnVjOFVVUGNSSGw4ckZTbWxQQUtSR05vQWVkQWN1QXJFTVMtUm5lem9n?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 23:40:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "飆股的故事／中東地緣衝突再起 油價再度走高 台塑化題材多元資金聚焦",
+        "title": "台苯(1310)股價跌停鎖死！停產風暴嚇壞10萬股民，台塑化、台聚、台化…塑化股跟著回檔能撐住？",
+        "publisher": "今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlRZLXF5b0k5SUlhMk1oblp2bzVQRkdoVWtwNFB6Y05KbVBGaURCRDlQMm9MNl9oOW5Da3BzcUtUdThteFhmRjYtN0g1LTNxWWxZYVZyTHlWMDN4eXJqR3d5SExOdXZUYUhYZWY5c3VnX2M0WkFMbC03YS11R2dDag?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 08:39:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "遭疑「假減產、真哄抬價格」 台塑化駁斥並未減量供應",
+        "publisher": "自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkbWpUSkRJR3l6dXhvS0VXbEExaHJFeXQ3eWhTTnBGb1ZxZU5sOVhVQUNfSWN3X2FKR1RPVzNQeFZCRVJNNjR4YVRzRy1zZDhiMkoxOWl4TlM?oc=5",
+        "pubTime": "Sun, 26 Jul 2026 03:53:15 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "台股翻紅秒回落！台塑化大跌9%拖累油電燃氣 生技股逆勢組避風港",
+        "publisher": "FTNN 新聞網",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HX2Iwdk04N1NXRDRJYkRTbmNoVjBEQUtaY2g0cEJsRDZXWHJEaUQ4Rm5lUkRGdWNKRXJyRHhwMXZHZTJIXzlHaU5fZw?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 07:05:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【07/24 產業即時新聞】傳產-塑膠即時股價變動：塑化三雄拖累類股大跌近3%，低檔支撐待觀察",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxTFZEaXdBUDMwUEdkb091aGNhWmN1b3hvWnZjX29FNFMtSmpvRzg0UHdiYjhpQUFjWTFRcTVtQmh3aUlWR0F5dGxQUkpvZUE0ZHFxVzVEdnM?oc=5",
-        "pubTime": "Sat, 18 Jul 2026 18:46:54 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSS1Qwc2owbE81N1BhemVfcEdPYU04S2VqeHVKMk5IcmxMNTgyUkxBWlFacmRFYXZ5UUk5Zl9FTnJBZGk5VkdkY1VvM3lySm05aWhuWmxQZmM?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 01:44:15 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "Factset 最新調查：台塑化(6505-TW)目標價調升至70元，幅度約5.26%｜新聞快訊｜豐雲學堂",
+        "publisher": "sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwc29BZk1UOTFmMTF5a0dhcVJIRkN5Ty1qeVVoN1FUS2xEaXh4ZzZKMHFLazYtM0VKekFxTWxBNGJUUEVXRjZEVEx5SndvaHF4SlNpc2tlRl9Xbk9lcjU4dGw0RWNEZG8zQ2ZMNEhydXdYLXBHN0E?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 11:10:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【即時新聞】油價破百！台塑化(6505)卻翻黑失守90，這「4檔概念股」同步遇壓？",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRnlqTnpNWENiM3BFN2hnMHV5WkZRZEMwME45Z3JQODN1ZTVsaWFtV3l5Zm5ZSjZoRk1MYXh4TFJnQ2N4eEppcDF4OGxKalJGNXRHNGljWnl1Z3RvOHBXeE1QcDV1dXZVWjBscHNsQVU1MzZSQ2txSjVQMEhxS1QySHM4SHJrY1I4aVBtbGU5MXA?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 03:44:27 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "6505 台塑化- 週一跳空鎖死- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CbDRIWDY4OFpkTHFwUDdYSE9KR290WnU5YUlCYkdkM3JMYWdYaGRXc2lhWHVZcWxHQnNsUG1kTDZwM0pOZUFFZFhLcFhWWHpxekxZbHRCTUs?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 09:22:27 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -1236,212 +841,249 @@
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42TXpHMUlNYUs3Y1ZtOWpLellrUlR5RDU3aG01ekdhcWg5YmVyN25SSEdzV2Y3U2sxZU54MzVRZEgyOWtjdVlUTkI0WDRuZnRsOVdhRWdMM0U?oc=5",
         "pubTime": "Mon, 20 Jul 2026 23:23:24 GMT",
         "source": "google_news_zh_tw"
+      }
+    ],
+    "2414.TW": [
+      {
+        "title": "Discovering Jilin Sino-Microelectronics And Two Other Promising Asian Small Caps",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/discovering-jilin-sino-microelectronics-two-043310500.html",
+        "pubTime": "2026-05-13T04:33:10Z",
+        "source": "yfinance"
       },
       {
-        "title": "今日漲停股｜台塑化亮燈引爆傳統產業強勢反彈，漢翔、金寶與權值股攜手勁揚迎轉機0721｜豐雲學堂2026 年 07 月",
+        "title": "Discovering Asia's Undiscovered Gems in May 2026",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/discovering-asias-undiscovered-gems-may-223314275.html",
+        "pubTime": "2026-05-12T22:33:14Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Unveiling 3 Undiscovered Gems in Asia with Promising Potential",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/unveiling-3-undiscovered-gems-asia-043325919.html",
+        "pubTime": "2026-04-28T04:33:25Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 Undiscovered Gems In Global With Promising Potential",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/3-undiscovered-gems-global-promising-093337176.html",
+        "pubTime": "2026-02-17T09:33:37Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Undiscovered Gems in Asia to Watch This February 2026",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/undiscovered-gems-asia-watch-february-043332725.html",
+        "pubTime": "2026-02-05T04:33:32Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 Undiscovered Gems In Asia With Promising Potential",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/3-undiscovered-gems-asia-promising-043309920.html",
+        "pubTime": "2026-01-07T04:33:09Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Undiscovered Gems In Asia Featuring Three Promising Small Cap Stocks",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/undiscovered-gems-asia-featuring-three-223321734.html",
+        "pubTime": "2025-12-22T22:33:21Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Exploring Tanwan And 2 Other Promising Small Caps In Asia",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/exploring-tanwan-2-other-promising-043316232.html",
+        "pubTime": "2025-12-11T04:33:16Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Unveiling Three Undiscovered Gems in Asia for Savvy Investors",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/unveiling-three-undiscovered-gems-asia-043357630.html",
+        "pubTime": "2025-09-18T04:33:57Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Uncovering 3 Undiscovered Gems In Asia For Potential Growth",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/uncovering-3-undiscovered-gems-asia-223326724.html",
+        "pubTime": "2025-09-17T22:33:26Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "【12:13 即時新聞】精技(2414)股價小幅走強，AI通路營收連創新高＋短線主力與外資籌碼對作",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yOXZjOUlISGtvRTJTUWY0cUNlV2xidTFETTY1bFFSTkJuTVB3dTFaWUpCQTJzYlBCWlJweTJXOGRma1hzSHd2cXoxcS1sWWNvU3hnRnBlYzU?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 04:15:08 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "營收速報 - 精技(2414)5月營收41.01億元年增率高達73.48％｜新聞快訊｜豐雲學堂",
         "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNWC12c2ZjUVpLTWMyNzhVS25WT2FEZ2JqSXFQUnN3enlZcHp4ZE1OV1ZVajZxbkNrY3B2QU9FVmNyN2NYYi1iaG0zUjhUVVJ3X044a0RTYm5CODNFODlWRDdQaWxWVVM3TlVZTkZ3T3dNUTFkUFo5SkdfR09CbjBhT1VBbml0R3hzRnBmZ2NOeDJDT2xIVlZ3SDV2ZmNNWXJVeTI0SjlzVHZxUDc2OW5kOG1TN0F3aW9mMThJRjU2cmlLUjBtVERtMkstekVRc3VqcHdXbm9HMWtLSVN6ZnlqMU5OUFBEcnZRbmRKaU81Z3JiQXdqWWZ6anVVSW8yS3FyV1d1dEI4M0NfXzVWSDYtcFFDRTlhaEo2WVh3eVN6aXVLc2NpVXpUalB6UFNydWxCTFhkT21CQ1gxTWV2NGxmRm1BM3FySlU4NzBXMXdiczV2ZGhwNjI4bTlIVjlkTEFqSjJGcmZiS180LXpKSXpQclJ1RXNsUDZvODQxLW5EWFVmNEgtTGNHQTZSU1hOTTJaSlg4YmRab2txdEZWZzhuMjRPYkpWMlZGRFl1UUxsR0Q4S1pUMUMzOXZMUWZ1Zng0UTZCOTZWbnMwSUt2Sk4yOUFLNWdWU2ZDLVNXZk1FdF91LUNtTGRhX1lJQUt3bm41Vm9NMjV6MzgwQWQ1bXBPUmRmQldJeE5fNi1uNTBaN1V4OVdLNlJydXNhdzBNMUxJc0ttbTBydkdMeEk?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 06:49:26 GMT",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsX096VllLMXRIUml1OVViV1BaRlFhS2JYRDNxeTlQbWZhcXJkSVFnOGxuX0dvTDVCTmw4bk5UOVFHRmE1MHJOY3hvd3J3bE50YVB1UVNWV3dHcGdCLWt3RVFaSExfTjNxYjMwMkoxOXBZVDRpS0E?oc=5",
+        "pubTime": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      }
+    ],
+    "2415.TW": [
+      {
+        "title": "Top Asian Dividend Stocks To Consider In December 2025",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/top-asian-dividend-stocks-consider-043142348.html",
+        "pubTime": "2025-12-31T04:31:42Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Global Dividend Stocks To Watch With Up To 7.3% Yield",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/global-dividend-stocks-watch-7-093153131.html",
+        "pubTime": "2025-11-25T09:31:53Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 Global Dividend Stocks Yielding Up To 3.5%",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/3-global-dividend-stocks-yielding-093153590.html",
+        "pubTime": "2025-09-26T09:31:53Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "(2415)錩新科技法說會 2026/07、錩新科技財報、錩新科技展望、錩新科技財報投資亮點｜理柴知道:法說最速報! - 方格子",
+        "publisher": "Vocus",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fYk5BUm9WOGx5QVEwRmoyZWwxZFhXNk03MkNoVy01ZjlfZUpza0diVTBReURObzNPWVRJeVllRWluYjRtaldRYThINW5RWExhU0NDRHJndXRud1FKZW5Jb05NNNIBY0FVX3lxTE5fYk5BUm9WOGx5QVEwRmoyZWwxZFhXNk03MkNoVy01ZjlfZUpza0diVTBReURObzNPWVRJeVllRWluYjRtaldRYThINW5RWExhU0NDRHJndXRud1FKZW5Jb05NNA?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 02:46:29 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "那指挫跌油價破百，台塑化 (6505) 30日數據藏什麼轉機？-梁文謙",
+        "title": "錩新切入AI機櫃、機架件已開始出貨 看旺整體業績表現下半年優於上半年｜新聞快訊｜豐雲學堂",
+        "publisher": "sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3QW1uSkY0NVRRTC1xNTVlYnBfazVYbi15T1hudl9Id3VJLUtxWlMyYzN6RnFIR1ZLY3JWVU1YUHNEX2hDdTVXTEk0Rk9Tb0czcEVnaHhqWDRDYnBpaHlVaGlsbTBsWjJzc0JJUkxnQ2RzMWh5dXc?oc=5",
+        "pubTime": "Wed, 10 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2415 錩新- 證期局：7/24錩新盈餘轉增資等預計申報生效案件彙總表- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYNzNibk9vOUhhbU0zZ1NzZXFHb1pUNUJtTW94VU40THRpcUdDaUwyS2t2TlZNWGQyWUF6SGJWMkhZcHNxN1FjTGhPcEx4N0ZUVS14SHZSMGw?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 01:56:52 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【10:28 即時新聞】錩新(2415)股價勁揚逾9%，電動車與AI機構件雙題材發酵＋短線技術面突破帶量轉強",
         "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0NUZGliR2w1Z0lTRUJ3OEhUTnlNbDFDQVZ5R0MwLTZBRWtqOEZqemppSExxb1FkSkR4TDVITlZkTEdKYjRPcXIzX3RWa3N0RVRsbjdycFdubUZtRU51Z2I0Z0VjU0RhMThyYUwyVzBPdXo4cUNreWh5a3hWRHBiQmxSaVY0Zw?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 07:28:12 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTTRxRzVxLWxpVmhSRFVSSnJ3dG41ZjJEMW9CVVZ1SmNaLXlyOUw5WUpiOW5CZDd5YU5kZ1JiQXc3QWgxWGxTeE02dHVBYVo5NlpHRVRsVXd6bXEtSW9uUFVxMEdUMlhKMFVEUHh5SFpIM0N5MHB3UGlocFlmeHljNmR4djhuSlFuYnRucXhB?oc=5",
+        "pubTime": "Thu, 25 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "連塑化股都被盯上！「台塑這三寶」遭三大法人狂倒5萬張、提款35億元 南亞科同為集團股也遭殃",
-        "publisher": "FTNN 新聞網",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lWVVmcEdqM3JSRURpX1VqaVRKVWE1ZlN0NEM4dTl5bW1hZEhHTkhfWHdxcFlCXzA5REVwNTljZnVMcUY3WmZ3UjBySQ?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 13:30:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【量大強漲股整理】【警告散戶】台股大反彈你又被洗下車了？【6505台塑化】⊕！【1810和成】⊕【3576聯合再生】+6%，軋空手行情才剛開始嗎?",
+        "title": "〈熱門股〉錩新接單迎轉機 擴量周漲6.64%突破平台整理",
         "publisher": "news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQXozdEJjc1IwMXlTbU5HVXdPeHkyT3MzLVQyS2U1VnJMQ1R0ZjM0S3FUa3pfQVdnbk1Va1prNmR4R2kybVptMnd2dlR6aVU?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 09:33:44 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0VVppNF9NQ2dHRUZjU0FxRHE2ODJGa3ZKWVA5RVYtanNuVG5sd3paOWFCTWl5SFphMmZ3ejJRUnVTWG9ERmppWUJMNUhZWnM?oc=5",
+        "pubTime": "Sat, 21 Mar 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "台塑化、台塑、台化股價漲停！外資挑它買超13天逾9萬張…苦日子真過了？最新目標價、真正送分題是誰",
-        "publisher": "今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFRNdFNXNFdiZ1Y2SVA2czBnNUFqTVpvZU12X1RVMUkyYXRsZEVuNzl2WTJNcmVUampJSFh5R042aHo2TE5tSVJqOHZKNG5VT3U1dE05OTVmVE44VjR3eFEzS1psSlppNEFKT0VjelhjdklOWkIzY3NpempUSG83OA?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 12:45:00 GMT",
+        "title": "錩新將維持車用揚聲器領先，並積極開發其他產業- 新聞",
+        "publisher": "MoneyDJ",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUmxYU3JzU0FvTXZuSHlMajB2V1pPcHBoZHMxUE9acjl5b0c1clFhTzhMbzloNmFKQWhjQi1mZ1JiU0VJUEI4bGN1d0VMZ2FzN09kRGVvWWJkdTB2X1dJWWxsR3AwZ1E5VHB2dmZTTzBVeHRjcFlGSzNSbmlPckM3X1F4NXFrQUhULTN2TmNMVTBiUQ?oc=5",
+        "pubTime": "Mon, 29 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "6505 台塑化- 不知道怎麼玩了- 股市爆料同學會",
+        "title": "錩新 (2415) 未來高毛利轉型，大家覺得哪一項更有機會",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjdUlkYzZZdzZpbkxpWXFLV0hCcUZfaE1kbnBvWThiODVtRWsyTkd4STNhc3I2T1BGNmtwaEFyY1RVNVpYVnpVSWpQZFBBcVhYUkpKbWxBRmQ?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 06:14:50 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4VGlWelJKQ2NSbFgxbm9wV0h0UTlwbUpMcExaWkNiWE94M0ZBeXZGd1pSY0JuaTJkSFJyNnh2U1JCd05FNGhSYzhNLVltalhsOEtHUVI3ems?oc=5",
+        "pubTime": "Sat, 27 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "錩新科技旗下富川精密打入國際大廠Harman的供應鏈",
+        "publisher": "news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WOVNVWGRyLUduYUp3MU1pT0xWbmdyRFNnem9iTUY1aHJtMnlWYUp3VENRVGhvdU5TSWV4eF9mclhZeGI0T09GNkpOajQ4Sm8?oc=5",
+        "pubTime": "Thu, 04 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【12:57 即時新聞】錩新(2415)股價上漲逾5%，電動車與AI伺服器題材帶動買盤，技術面高檔偏離與主力連日出貨成盤中亮點",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVdMdlQtdEZHQUQtVHZrblRUV1RiMHpOaG9Bc3RCTkZJOU8wMkFNX2NYMTdqeUkyWEJBWnRUR1E2bzBEOFlvWTUyX3VXZmpnUW1fMjc4QnltMC1qMEV0c0ZRNnZ4RUVFQnBhQnN1REZHbDhlWUdwdnVTWDFnaVd4TXMwZUU3WjZwOXdCX3dB?oc=5",
+        "pubTime": "Mon, 29 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       }
     ],
-    "1301.TW": [
+    "2425.TW": [
       {
-        "title": "Kyokuyo (TSE:1301) Earnings Growth Stays Solid as Margins Hold at 2.2%, Testing Bull Case",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/kyokuyo-tse-1301-earnings-growth-142157828.html",
-        "pubTime": "2025-11-06T14:21:57Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "3 Global Dividend Stocks Yielding Over 3%",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/3-global-dividend-stocks-yielding-093237795.html",
-        "pubTime": "2025-08-22T09:32:37Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "台股會跌到何時？華邦電、旺宏、台塑、南亞、中美晶能買？8檔「多頭回檔股」出列，再賺一波買點曝光",
-        "publisher": "今周刊",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcE1BOGFQZ0NlVWMzS0wzZHR0MkllWV9LdjRYZzFXcXFwbWt6OVBkU21XMVhDdEU1cFl2dlBxYXhUU0pNaldLV1plLUNxSFRIUGNRZmljR1Yyd1Fibmx4TTJzN25lT0Z5UFhXZGNHc1BIeEdkenNsQ0dfenBtVm9ubg?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 19:46:32 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "股價跌破2字頭！台塑四寶「只有這一寶」逆勢殺破半根 但有外資送溫暖：目標價最高看300元",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQNkRZZVdyNGZMczl1TFU3QTN5Rmtwb3pJaFdQeDJRQzc2OG1OVUswanh2ZHNPX0RJclJxSnhnU3VpeWxJX1otdjZ6VXd6NU92a3E2dFo0MnpyNHQ3M3JCR2RWeVY2OWQwaFIteU9Db3RKSUNsR0V4N1JhU1BEbjRFN3VyWFg3UXUwWTBYb1Q3MTlIRXBEMjROUGVJcTU3NnBnYkxJUlJzUlFGOGotYWVZU2YtbXY0bmRBUVJheTEwYTAtbXZCOVdja3RDal8xUmVGc3J4WERSRm9CSHhCWWV4SmU0Wi1XOUdEMGctWXdtSkxNYi1wMFk3dlpzZ3FKLVlIWkFJLU9LaHFxM0gyeGwzLXVBUi1GMGNJU0dGU09IWlI5YnZwd0d4UHVIbTNYQ1dKOHRuUXViMGFrN2dFWGd6enhmSEhKX1g0a1hiMWEzMW02QQ?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 09:56:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "連塑化股都被盯上！「台塑這三寶」遭三大法人狂倒5萬張、提款35億元 南亞科同為集團股也遭殃",
-        "publisher": "FTNN 新聞網",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lWVVmcEdqM3JSRURpX1VqaVRKVWE1ZlN0NEM4dTl5bW1hZEhHTkhfWHdxcFlCXzA5REVwNTljZnVMcUY3WmZ3UjBySQ?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 13:30:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "Factset 最新調查：台塑(1301-TW)目標價調升至67.5元，幅度約3.85%｜新聞快訊｜豐雲學堂",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtbWpoY0pSV2hBcTc5Z21GN0UzQ1UtcDNYSXNYaEp4VUJmNVlmemtrdzZHRWF4MVlwVXFBZy1YaDc2RU5KQXdDcS12VWxVUGE4enZhNkRwbnQ4LVBZRVo4eTNfNHdmalFzQ0tKeDM5R1dSRWF2UXc?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 23:10:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "1301 台塑- 漲停我持股16張獲利出場+跳愛河游泳慶祝- 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJOXQ5eG1jM3dmYTJ0dUo4YWJWRWgyZC01NFQ2ZnFIVkF0cU1Sc2tMMzY3Z3JFQWlDcHMtQ1RjTm1pN1JNX1ZmcGZ6N1A0TXdzWmljRjRjdlo?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 06:45:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "台塑集團華麗轉身！四寶3家攻漲停　法人點名台塑化目標價見百",
-        "publisher": "ETtoday財經雲",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoQjN4d3JHYUVUZVBZY3k4S2NleENyM3Q5Z2F2M1lzNW9VR1Rkc21qSTAyODNUM0NaenA0b3o4TUM1OFhQblBuNTZnUkJJZDV2T3fSAVBBVV95cUxPTVFOY1dwRGxVdkYwY1FoYkp6U2ZJcUtDSXpfMURvUTFyV1A1ZkhhT1I1RHZISE9KRXlTVXREbkxiT1dnTTNKTmNaak1qMm5tSw?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 02:31:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "台塑、台塑化 認購夯 | 權證特區 | 證券",
-        "publisher": "經濟日報",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcHBoUjl4M2VNRW42eUF2Z3g5ZjVJSUJxQ3kwUVdNMktPeTNtN21tMlJnZDBqSjg5cm40NjR0c1pKTjNOYS1nOW5ETGRtMHc5bXQxbWNIejE2dw?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 16:58:55 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "【09:38 即時新聞】臺塑(1301)亮燈漲停至69.8元，受第3季營運回升預期帶動，多頭買盤與法人、主力同步偏多支撐",
+        "title": "【12:07 即時新聞】承啟(2425)股價溫和走強，AI伺服器與板卡營收創高帶動買盤延續＋短線均線多頭結構吸引短線資金",
         "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczR0LWl2LUIxdHZCNnFmODJMRlhKc3laNmJTdExRZDVBdUhVTFVuNnFGcDItbUVXUUJyX29FV2xHZmhRYjVES2NFc2hZeFRsSDk5RmhmbmNIcldIV2lQZ1BmVWlnZm9zbkJUU0N3eEowTnhtSUxFYjVxR2JEc1d1VkNCeXNKYy1OZUhOWEJB?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 01:38:26 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaG1tdTNVVU94M0VsS2JQSUJfM2RELUdWMWtMd0V5R2lPV2kyLXNnRXVfTGRzVl9hM09Bc3RqejJTS1JRWWRsNUxVWjRTVUFmdWhyZTFReTZrTTRlQ2xza2xwYTBEMXpWQjJjVVpkV3JVT0E0eW1rYnNDSG1NQ1lMTmxVME1LSE9qUUZ1c3F3?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 04:08:21 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "焦點股》台塑：國際油價大漲 買盤衝鋒",
-        "publisher": "自由財經",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WQUZ5ZFpXZmpzRTNVT1EyQVpxVkF1UEkyYU4zT1lPekV2V1J4aWtvWnlkVkFvUlpWZUQ5VnZiSWFXYkN6dV9nenhIUExZWFlfdWdrNDdVVWlrVGctZmdvemo1bFLSAWRBVV95cUxNVkFGeWRaV2Zqc0UzVU9RMkFacVZBdVBJMmFOM09ZT3pFdldSeGlrb1p5ZFZBb1JaVmVEOVZ2YklhV2JDenVfZ3p4SFBMWVhZX3VnazQ3VVVpa1RnLWZnb3pqNWxS?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 02:07:08 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "《熱門族群》電子股讓位！台塑四寶掀漲停潮三檔盤中攻頂- 上市櫃",
-        "publisher": "旺得富理財網",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CeXBORlJGNVdCN0xYS2p5WlVnSWRFY05KTUJmREp3LWtGLTJhOTFBZURYdTJlcFpic1pmLTZpMHJXcXFKQm9MZTJxVm5tdDM5SVgtZ3JlUHlMM3UxdzNMTU94WDZ4N3I5NUE?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 02:08:10 GMT",
-        "source": "google_news_zh_tw"
-      }
-    ],
-    "2395.TW": [
-      {
-        "title": "Harsha Engineers International Ltd (BOM:543600) Q4 2026 Earnings Call Highlights: Strong Growth ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/harsha-engineers-international-ltd-bom-110024131.html",
-        "pubTime": "2026-05-08T11:00:24Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "研華（2395）、艾訊（3088）、融程電（3416）｜邊緣AI＋軍工點火，IPC折價待修復｜豐雲學堂2026 年 07 月",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOYlRYb21MTDZ1RmdKQ3Y1QnFyTjdRM011TTFJUlBTZGtmWjZHaHZlNklicnVLWmhyRFJ0X3doUk1wOUNMM0pFR2ZIYTFGNXU2ejIyajBLdHFhTUxZV3V1bHhzN2VBcmN6cmFKU05PVVEzYXpZaTNhdFpvSGRvS0tKRllnOU1DbWtCQTFEVmstMm1RY0FEcDVGN2JUamlWSEpIUV9pWGtJNzg5RWFneGhJRXFfVFlJV0E3U0pQZU1hNVlBaXR2bUdiYlhuVE1DWFZjdGY0bUNhMDVZWjY5RFRQbnp1bjdYM2ZqN1pETDZLUG5IV24zbTFLaEVNSzhZNVJxX0ladGtTRmFvZEYycG0yUDJxN2N5OXIzdGVXMlc2T2JwcnhDT3FMTU5VUERKb3lyWTBkSEFWS1hrZi00N3NDNzhCQjY5VjhwRW1ubnJDWXRQTkg0VU5aRWZTbUY4Q0RqRjhhWE5HUjFMOU5lX2ZxdGJGcGtaWlZIWk54anR0UlVHY2tuWm11Ug?oc=5",
-        "pubTime": "Thu, 23 Jul 2026 05:44:02 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "2395研華\"盤勢: 散戶湧入接刀，大戶高位收油",
+        "title": "【09:25 即時新聞】承啟(2425)攻上漲停44.05元，歷史新高營收點火AI PC與伺服器題材＋短線籌碼雖偏空但技術面挑戰前高壓力",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TMVFrOHcweG5zLXEzV1BKdkFGZEI2V3E1cmt1NmNsMU13LW5NS1BXUkZ4MWJLNDJoTElobVgyZzNkVEI4WXE2OWVuVm95RVlodGsyTDR1eVY?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 12:55:17 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNmZUZ3hmYWZaTFFNWWJ1WHdJbHVOdUdtQTRLSlpUQ2F5Y3hYSW1hOHVmaVotaXlVVENWMU5YV0RHN1VYYlE5Y3JFdVVjYS1HRWpfdXI1U1I?oc=5",
+        "pubTime": "Mon, 13 Jul 2026 01:26:23 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "【10:20 即時新聞】研華(2395)亮燈漲停攻至567元，創新高營收題材推升買盤＋月季線多頭排列、主力近20日偏多佈局",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2Z5RS1iVktsb3lEMWU1RF9iRGtCQ1V2OGZtN0FzX3hyUFhuUVJ3d3pDbl96VkI3ZU0tNmVOWlJKaGhHSVViaGFad0d2eld5T1Z0SHBaTmhjR05JNXFWVXYxUVRwakl5YmtCOEpfZUJOZjBGVi1WQzFZTXVkNkdRSFl3QUhmVkRFa3BVMGdB?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 02:21:01 GMT",
+        "title": "承啟導入高階AI PC與伺服器技術優化板卡 採接單生產模式控管庫存",
+        "publisher": "news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RdXBPeFQwUXR4WnR1V2hqN1M3NHkzeEhNOHVUWHdSMWM0cTM3a3pmbThueGxrY2RYdFhvZXJkNDg3WnRtTTN1U2YxSTV3Y1k?oc=5",
+        "pubTime": "Tue, 16 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "產線全開加速交貨！「這大廠」Q2營收超越預期 目標價上看628元",
-        "publisher": "三立新聞",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aR09pZHdfLWcyMURuTENXQmJ6bHYyUFpaVlBzS3g2c2hWVFRqSWwtdFlqMlJkOXNPeXhCRldyUVE4SUtJTlRzZl9kOA?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 18:03:24 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "討論牆 | 盤中速報 - 研華(2395)大漲7.76%，報611元",
+        "title": "討論牆 | 盤中速報 - 承啟(2425)急拉3.42%報46.85元，成交3,589張",
         "publisher": "LINE TODAY",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3Y2hHZFZoQTZaYnRneFRsWEY1TXhBMHJPM2dieWllblp3VnNIbDcwTk82ZGZ3TWNwTVR4Q3VfYUM2VGI2VTFMWGtnSmh4WlRINnRTaU53a0c2Szg0M19FUlBzN3U?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 09:27:40 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xNWdCUWtrbi1UaTBkMnZUWUYybWxoVkFNdHl2MjNyV1RtRVNWMDBaSjNUN1hzYjNZVnduUE84RnY2TFk4Qkl2eGMxTmtqY0ZqNk4tbThaWERVX0k4cnhmNW9pODM?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 12:51:37 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "△焦點股：研華(2395)Q2業績暴衝遠超預期，今年將首破千億大關，股價飆漲停",
-        "publisher": "富聯網",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXRXNi14ZDA0ZXg3OXlHRThGMUlQOW5XRzJRZlpMVkxENF9sSXgwRHRCVF9NZnFvMV9rTWJETXFSN0d1VDY0OHdTX0R0ZVp0TTQ1SldDUXdUU0R4cXBvaVlrQS1jTFVXOXB2Nm5Td0VsMlZyTEYtenc2OTEwYUtSc0JHc2swdHBl?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 03:58:00 GMT",
+        "title": "承啟 子公司營運衝",
+        "publisher": "中時新聞網",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhYjBKSFZpVVRpZVlHR1VPMVpBUVJlWlhGWl9SOXdyU09Ha1FrblhWd0FMQlJmZ1FYWkVvUHliX25DZ2hQUXYwRm5kX3BSd0RqYXM4X0VUOXNfR0JaaTg1enlfcTR2bDJhc1lz?oc=5",
+        "pubTime": "Sat, 25 Jul 2026 20:10:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "2395 研華 - 市場內容物變化- 股市爆料同學會",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xVkc0R3VYNDRHR3UxMjdMc3VkejNuOHowWkM1WEpSNUdpSkJ5QXBzU2dVN2Rwc3djVDBtZnJHNUxXeThxcFEwSWZiM0ZWUkE0aVRHLWNIR0Y?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 00:07:00 GMT",
+        "title": "焦點股》承啟：6月營收創新高 亮燈漲停",
+        "publisher": "自由時報",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTzBvdlE4d3pGXzlGazNwdVNMWkcxcHhPczV1Tk1ubTVMcncyanU3LUgtWWZ5MzAyX2Y1dTBvczViUjJQS3F1b1JFb0phVFVlUnhzNzd1YnY?oc=5",
+        "pubTime": "Mon, 13 Jul 2026 01:53:40 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "AI工業需求爆發！研華獲利上修至18.4元 目標價直衝560元",
-        "publisher": "Yahoo股市",
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNa0dHeUVmdDdXVFlDMlZZYmk2SmtTc212QVdKYkhvYWg5MmMzNXFMV2pOZThnS2syWUZzLTBZWkRCWTZhMERQNk16SWVtRVNrZWFYX0JsY1ZtMVBCbnJ6YzUwTldkZFg0MWl3OHZyUEo0V2lVU2txaV9odlJXZzd5QTdncDhuaThadENJeG9wdGZRUDgwakM0akhEeUJtcUxjV0wxQWRjSW9iblFOT29sNm9LU3lPTjNNRXNGSUlSTGVJX2MzUzl5M0VMLW00ZmlobG9kM3lEaWJRRm1RUjQwV0xrWW13bDk4MjRrMUtmVE9GVmZDVFk3c1hhczVZMHlxemtHbkltYmljX0Q5RjZxT000VEJrM01ibmpWU0RITzhWcFhoeVo4OXozNTk1cDRaRjZlRF9VbktGY0xYNzBYRVhUMXNqZ2k1aDk5LVZCXzRmR0ZKbzM3TWJn?oc=5",
-        "pubTime": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "title": "承啟外資買超逆勢強彈- 日報",
+        "publisher": "工商時報",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3Zm1jeC0xWWVaLVc3Z2lJay1HakU2bEE2XzFfX0lnQ0JBN1kxQk5Cem9nc2xYeFlLWUFmMktlZGRfcHRqQVhxNlNILXBRLWVIS3JkbGQ5aXhKMDFDNVhz?oc=5",
+        "pubTime": "Fri, 26 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "研華 (2395) 領漲工業電腦漲停潮，30天數據藏什麼訊號？-周哲翰",
+        "title": "承啟6月營收月增35% 歷史新高",
+        "publisher": "UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IcERZbjhqeTlBbUc3SGhLc1dHNl90VUJOaGJ4Y2xRXzdHYWk1NkpjWW1mbmVObm5QTUwtNUN3SWd6MFloS0VNd000Y2F3Q1BC0gFWQVVfeXFMUDhwaUFHMTJoT2tHVzVMdURzU3pyeW5tLXhPZTRoYS16TEZBTXk2SEVfbS1uc1FHSTI4VFQ4S1RhMmVvZG9wQ1hZREVsajk0M1JnbkF3NVE?oc=5",
+        "pubTime": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【12:03 即時新聞】承啟(2425)股價大漲至45.5元、漲幅9.64%，AI板卡與伺服器營收創高帶動買盤聚焦＋均線多頭排列與主力成本上方支撐偏多",
         "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbjBhUFJBT3gtRWxUZTNrQ0p2RHdYR1drVklXMHZSZFNZenZfLW5HaWlxdmFiaVViM0xLLWpicTYybEV3MC1xcENfUTFXQS0zR1NuazdpcHJrc1lPckFvTGU3anJiemtaemswcnFDOS15M0lMVjNLc19LbnJxVUFsQUpLUQ?oc=5",
-        "pubTime": "Tue, 21 Jul 2026 03:56:40 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3A0dkFCQWZZbk84ZGthYkRTRUktVkhpV3J6N3VDSFFob25CLWM3VFoyUTJwOUZqbkJ5LUNKNUk4RHJ6VEstU0Y0b29VVFBOaUlvU200RjNzZGl2TTQzYmw2NFdiOHRQVmRabVd5QlYwcVprMHltbkJNRmJhSkg4TmpjVkNCQnRnOE9fZVJR?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 04:03:46 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "營收速報 - 研華(2395)6月營收101.23億元年增率高達73.39％｜新聞快訊｜豐雲學堂",
-        "publisher": "sinotrade.com.tw",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sMVpqdmR4T0tFWkJuNnQtMU1GNG9fR2FVenNUdG0tOThRSGx3NWRrclhreXFfRDVWcVByZkxpSHd2RHFNaFFRUTRUZGxRNHc1SVNELW5tSDhUZjhwUF9sWGVPTkNoSDI0OWtiaVU1THpzY0NBOFE?oc=5",
-        "pubTime": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "title": "【10:52 即時新聞】承啟(2425)股價勁揚逾7%至30.5元，加密貨幣與遊戲題材點火，多方買盤配合均線多頭結構推升",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tYTFSWTJ2VzYwUUxRYnloTmgySnVucXdqZVJnbkRGWlVLX0ZTbGxDRExvOWhRV0hSTXVvLWJXdVY2RDFkWXFtN25FcFgxOGRXc2hCRGN6aHQ?oc=5",
+        "pubTime": "Tue, 19 May 2026 10:45:03 GMT",
         "source": "google_news_zh_tw"
       }
     ],
@@ -1475,10 +1117,10 @@
         "source": "yfinance"
       },
       {
-        "title": "瑞昱 (2379) 7月漲價10%只是開端？AI PC、Edge AI、車用能接力到哪一步-周哲翰",
+        "title": "【07/27 產業即時新聞】無線耳機盤中承壓，聯發科領跌拖累，瑞昱獨強逆勢揚",
         "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUJqOW5SU2NFQkhwNXo3UWNJa2xLRVpzRFQ5Mmxjci1XWVpsVnRxdFlSMHhJY2JVYzlfcVVfYVFpTkdVSTg0N25uOVJDVmxOWUFoMXNRNDN3VXlGVzNWZ1dLVlVFZUlVakR0dEtSYmRlbW9xQ1VRbkhXazFDQmJsSEY3QQ?oc=5",
-        "pubTime": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLTVuM0xBczBtVUpKWkNiRkFzRDNEaVhubVNzV1JyLVdONjJPRnlQaFBFOU5NeW1IcENKdTRjNkQ2Wl9OX01MZkE0bkM2cVBpSko5Y3RseDFHQ3pWb1hzSHhzRkFBS1RZX0RpUWRWWTRhNHVwM1cxRFZOZm13QXVJVWszSGZsQWZzQUFnQ3Vn?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 01:42:56 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -1486,6 +1128,13 @@
         "publisher": "CMoney",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50b1dlWmg5T25Dcjdjc3U2a0ZVRTNoMVlDLTJtbEotNzQ2d3p2R2V1TWdKUlFQbjBmZjRZLU5GLTZRYU5UdEhMZ3N4UW1oTXkwMkRPdWtHeXU?oc=5",
         "pubTime": "Fri, 17 Jul 2026 02:10:23 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "法人上修獲利卻砍評等？瑞昱衝上900元天價後 驚揭下半年客戶「提前拉貨」內幕",
+        "publisher": "旺得富理財網",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ia0RjSGRubjRvNmdzSDlubGVBOS1lR3hjeXNiSGRvUUxybHBqdlBERmRLdXNRdHVUX1gyMEtqdjVQQ1dsQXlfdHBBcHRheUFYT09qNVF6TnFHLTJxUjV5dEQxXzR3UzZyZlE?oc=5",
+        "pubTime": "Wed, 24 Jun 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -1499,21 +1148,7 @@
         "title": "焦點股》瑞昱：逆勢勁揚 一度漲近3％",
         "publisher": "自由財經",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zMmdzQ3dMMG1DNHhlSGlYSFJqcWo0bnViUlRSei1vTzZGQzhKUE9uby1hbk0tMU53SUFKNEpHczZmeHBGdkZyejBmNlFnV3RXd0d0THVmOG5VLVNuc2tB0gFkQVVfeXFMUDdwQ2R3YXFWQXZtMHgzbnhtRzNpa2p3VEIzYlhSQURHX1V6YlM3NWF3S1RKSnV5YTRDc25NRTZlc3ViRU9kS1FRcTBua2l2UTU0VXJ3V3hwamR6MVpfU0VsRUFTMw?oc=5",
-        "pubTime": "Fri, 17 Jul 2026 03:34:35 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "法人上修獲利卻砍評等？瑞昱衝上900元天價後 驚揭下半年客戶「提前拉貨」內幕",
-        "publisher": "旺得富理財網",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ia0RjSGRubjRvNmdzSDlubGVBOS1lR3hjeXNiSGRvUUxybHBqdlBERmRLdXNRdHVUX1gyMEtqdjVQQ1dsQXlfdHBBcHRheUFYT09qNVF6TnFHLTJxUjV5dEQxXzR3UzZyZlE?oc=5",
-        "pubTime": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "瑞昱Q2/H1營收皆創同期新高，迎網通規格升級潮 - 新聞",
-        "publisher": "MoneyDJ",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0g4ZXZkNV81dnBmM1c1bUN2akFmbmRNUl9Kc3Jhd2F0RkhEczMzMVRfQjRjN012Nkh6VzlSQnFwb2lIN2RITEtSWTdQb2tvZVpxcVQ4aWc1WjJWX3dzdTJ3V2ZWVlFFRVE3cEdxckhoS1AtRW1iNFpEN1RVRHhhSUo4SGo1MkNOa3lRVVNJSEd2QQ?oc=5",
-        "pubTime": "Wed, 08 Jul 2026 07:00:00 GMT",
+        "pubTime": "Fri, 17 Jul 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
@@ -1524,82 +1159,426 @@
         "source": "google_news_zh_tw"
       },
       {
-        "title": "2379 瑞昱 - 今日不求漲停，只求能夠站穩5均🙏 - 股市爆料同學會",
+        "title": "瑞昱 (2379) 7月漲價10%只是開端？AI PC、Edge AI、車用能接力到哪一步-周哲翰",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWUJqOW5SU2NFQkhwNXo3UWNJa2xLRVpzRFQ5Mmxjci1XWVpsVnRxdFlSMHhJY2JVYzlfcVVfYVFpTkdVSTg0N25uOVJDVmxOWUFoMXNRNDN3VXlGVzNWZ1dLVlVFZUlVakR0dEtSYmRlbW9xQ1VRbkhXazFDQmJsSEY3QQ?oc=5",
+        "pubTime": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【13:09 即時新聞】瑞昱(2379)股價上漲逾5%，AI網通與IC設計族群買盤續攻＋投信偏多、技術面高檔整理支撐",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55dDBpZTBYQ08wZm1SN1dVdEJ6bE9QQ0pHdnpUakFWal9sVjI2TklTSFEza1B6U1lraVRSa3Nvek5aVS1jc1ZQc3ZuemJJMUJKSENIdFcwT3Y?oc=5",
-        "pubTime": "Sun, 28 Jun 2026 04:02:50 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40TFdZSmtUM0lSSF9EN1VlVXhkV1RXU25PLV9aaERpQ0pHZy1mTTBKU1pvQXVqZUNEdTRQWDJIdnNmNVpld1BKanlvWUpYVGx6dnUwWEJpejE2RFJIclZmeGtWVXZXVlk?oc=5",
+        "pubTime": "Wed, 08 Jul 2026 07:00:00 GMT",
         "source": "google_news_zh_tw"
       }
     ],
-    "2425.TW": [
+    "1301.TW": [
       {
-        "title": "【12:07 即時新聞】承啟(2425)股價溫和走強，AI伺服器與板卡營收創高帶動買盤延續＋短線均線多頭結構吸引短線資金",
-        "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaG1tdTNVVU94M0VsS2JQSUJfM2RELUdWMWtMd0V5R2lPV2kyLXNnRXVfTGRzVl9hM09Bc3RqejJTS1JRWWRsNUxVWjRTVUFmdWhyZTFReTZrTTRlQ2xza2xwYTBEMXpWQjJjVVpkV3JVT0E0eW1rYnNDSG1NQ1lMTmxVME1LSE9qUUZ1c3F3?oc=5",
-        "pubTime": "Fri, 24 Jul 2026 04:08:21 GMT",
+        "title": "Kyokuyo (TSE:1301) Earnings Growth Stays Solid as Margins Hold at 2.2%, Testing Bull Case",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/kyokuyo-tse-1301-earnings-growth-142157828.html",
+        "pubTime": "2025-11-06T14:21:57Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 Global Dividend Stocks Yielding Over 3%",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/3-global-dividend-stocks-yielding-093237795.html",
+        "pubTime": "2025-08-22T09:32:37Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "連塑化股都被盯上！「台塑這三寶」遭三大法人狂倒5萬張、提款35億元 南亞科同為集團股也遭殃",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxNcTdZbUsyWHgtMmVadDNzMVFnbWJ5ajFkc3JJakJCdEVSejFreE5aWnpLQTk4aERKREFINnZ4VUVLU0xsanN3a0lVT3JTYllqdDRkUjVCSnZwQ2ZxYnUyTEhRVFFuQmZlV3lxS1JwZVBLWktIYWo1ZTZqT21VVy1TbGhvZTJ6WHd6T0UxR3cxUUVQU016dHB5VHVBZHUxRjdjamp1aXYwanVvQXBrM0VkaUp5a3FURkpvZmlRZVM5NVVCUW5RTEhpUmxLNnR5bWdQc0RHWEhCSEVxNnZDQjdneDV3ZXlEVl9DeWhQQkwzZlE4OEpHNGd0enc3cFM2TnlEUVhSYXFkQUsyVm54a0VOTmpqZzlkNXFQMkhQenYzTHFOWm1VUWgteWZXbEd0QlFhUmFULWNDallJaFJLbmI3SzJYT3ZRRkhhOEE1VDNvQlF5dE94cGF0VU1Vd0RhTEpYcTRrRFQ0X25RX05CaXZSRmVBazE3NmFSNzZBLWZxaWE4UlJiWmYtT1NPMXM1VWxHTUpuTDZxYnlYd1V5RDhxUEdOMzhoT2YxSTJScDl6S0pOYm5LRU5Cel94VldEMkxIeEo2dFA5LWhSTVQzTjhRYmVGVzJpcUVVMW1PTG85OWhZMnU0bXpscjZzS1IzUUIzQU1TbEFvaGJOMEJvUHFfLU9WMllUel9DekFfMFZERXo1eHNLSVlJQWdoQWMtRkg4?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 13:30:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "【09:25 即時新聞】承啟(2425)攻上漲停44.05元，歷史新高營收點火AI PC與伺服器題材＋短線籌碼雖偏空但技術面挑戰前高壓力",
+        "title": "Factset 最新調查：台塑(1301-TW)目標價調升至67.5元，幅度約3.85%｜新聞快訊｜豐雲學堂",
+        "publisher": "sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtbWpoY0pSV2hBcTc5Z21GN0UzQ1UtcDNYSXNYaEp4VUJmNVlmemtrdzZHRWF4MVlwVXFBZy1YaDc2RU5KQXdDcS12VWxVUGE4enZhNkRwbnQ4LVBZRVo4eTNfNHdmalFzQ0tKeDM5R1dSRWF2UXc?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 23:10:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "1301 台塑- 台塑及台塑化到底再漲什麼，為何一直漲？ - 股市爆料同學會",
         "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNmZUZ3hmYWZaTFFNWWJ1WHdJbHVOdUdtQTRLSlpUQ2F5Y3hYSW1hOHVmaVotaXlVVENWMU5YV0RHN1VYYlE5Y3JFdVVjYS1HRWpfdXI1U1I?oc=5",
-        "pubTime": "Mon, 13 Jul 2026 01:26:23 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyRV9yQ29ib29IM3FvZjZhN3hHWVlzaGE3ZzZPY2dERUdocXNuc01qQ2k2a2FEM0d3eGw0MEtuS2hwUk1ITEFya3BDcmNXdnFkUFFvNzYxZEo?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 10:06:47 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "承啟導入高階AI PC與伺服器技術優化板卡 採接單生產模式控管庫存",
-        "publisher": "news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RdXBPeFQwUXR4WnR1V2hqN1M3NHkzeEhNOHVUWHdSMWM0cTM3a3pmbThueGxrY2RYdFhvZXJkNDg3WnRtTTN1U2YxSTV3Y1k?oc=5",
-        "pubTime": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "焦點股》承啟：6月營收創新高 亮燈漲停",
-        "publisher": "自由時報",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xTzBvdlE4d3pGXzlGazNwdVNMWkcxcHhPczV1Tk1ubTVMcncyanU3LUgtWWZ5MzAyX2Y1dTBvczViUjJQS3F1b1JFb0phVFVlUnhzNzd1YnY?oc=5",
-        "pubTime": "Sun, 12 Jul 2026 10:52:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "承啟外資買超逆勢強彈- 日報",
+        "title": "台塑四寶飆漲法人示警石化本業逆風未解「這家」Q2恐是今年獲利高點- 證券",
         "publisher": "工商時報",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3Zm1jeC0xWWVaLVc3Z2lJay1HakU2bEE2XzFfX0lnQ0JBN1kxQk5Cem9nc2xYeFlLWUFmMktlZGRfcHRqQVhxNlNILXBRLWVIS3JkbGQ5aXhKMDFDNVhz?oc=5",
-        "pubTime": "Fri, 26 Jun 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jcGdpUXpSSmRoUkpoTHdKVlVZdjdyVS1udXY1UzhMNlNIbERRdkdQY1gxOFVod1hzZkRrczJubS1qam4tT3FtSk9VaVl0bmtqTTRad3luUVpXYjVEOXRV?oc=5",
+        "pubTime": "Sun, 26 Jul 2026 07:55:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "承啟6月營收月增35% 歷史新高",
-        "publisher": "UDN",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IcERZbjhqeTlBbUc3SGhLc1dHNl90VUJOaGJ4Y2xRXzdHYWk1NkpjWW1mbmVObm5QTUwtNUN3SWd6MFloS0VNd000Y2F3Q1BC0gFWQVVfeXFMUDhwaUFHMTJoT2tHVzVMdURzU3pyeW5tLXhPZTRoYS16TEZBTXk2SEVfbS1uc1FHSTI4VFQ4S1RhMmVvZG9wQ1hZREVsajk0M1JnbkF3NVE?oc=5",
-        "pubTime": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "title": "台塑化、台塑、台化股價漲停！外資挑它買超13天逾9萬張…苦日子真過了？最新目標價、真正送分題是誰",
+        "publisher": "今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcFRNdFNXNFdiZ1Y2SVA2czBnNUFqTVpvZU12X1RVMUkyYXRsZEVuNzl2WTJNcmVUampJSFh5R042aHo2TE5tSVJqOHZKNG5VT3U1dE05OTVmVE44VjR3eFEzS1psSlppNEFKT0VjelhjdklOWkIzY3NpempUSG83OA?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 12:45:00 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "【12:03 即時新聞】承啟(2425)股價大漲至45.5元、漲幅9.64%，AI板卡與伺服器營收創高帶動買盤聚焦＋均線多頭排列與主力成本上方支撐偏多",
+        "title": "台塑、台塑化 認購夯 | 權證特區 | 證券",
+        "publisher": "經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcHBoUjl4M2VNRW42eUF2Z3g5ZjVJSUJxQ3kwUVdNMktPeTNtN21tMlJnZDBqSjg5cm40NjR0c1pKTjNOYS1nOW5ETGRtMHc5bXQxbWNIejE2dw?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 16:58:55 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "【09:38 即時新聞】臺塑(1301)亮燈漲停至69.8元，受第3季營運回升預期帶動，多頭買盤與法人、主力同步偏多支撐",
         "publisher": "CMoney投資網誌",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3A0dkFCQWZZbk84ZGthYkRTRUktVkhpV3J6N3VDSFFob25CLWM3VFoyUTJwOUZqbkJ5LUNKNUk4RHJ6VEstU0Y0b29VVFBOaUlvU200RjNzZGl2TTQzYmw2NFdiOHRQVmRabVd5QlYwcVprMHltbkJNRmJhSkg4TmpjVkNCQnRnOE9fZVJR?oc=5",
-        "pubTime": "Wed, 22 Jul 2026 04:03:46 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczR0LWl2LUIxdHZCNnFmODJMRlhKc3laNmJTdExRZDVBdUhVTFVuNnFGcDItbUVXUUJyX29FV2xHZmhRYjVES2NFc2hZeFRsSDk5RmhmbmNIcldIV2lQZ1BmVWlnZm9zbkJUU0N3eEowTnhtSUxFYjVxR2JEc1d1VkNCeXNKYy1OZUhOWEJB?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 01:38:26 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "【10:52 即時新聞】承啟(2425)股價勁揚逾7%至30.5元，加密貨幣與遊戲題材點火，多方買盤配合均線多頭結構推升",
-        "publisher": "CMoney",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tYTFSWTJ2VzYwUUxRYnloTmgySnVucXdqZVJnbkRGWlVLX0ZTbGxDRExvOWhRV0hSTXVvLWJXdVY2RDFkWXFtN25FcFgxOGRXc2hCRGN6aHQ?oc=5",
-        "pubTime": "Tue, 19 May 2026 10:45:03 GMT",
+        "title": "《熱門族群》電子股讓位！台塑四寶掀漲停潮三檔盤中攻頂- 上市櫃",
+        "publisher": "旺得富理財網",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CeXBORlJGNVdCN0xYS2p5WlVnSWRFY05KTUJmREp3LWtGLTJhOTFBZURYdTJlcFpic1pmLTZpMHJXcXFKQm9MZTJxVm5tdDM5SVgtZ3JlUHlMM3UxdzNMTU94WDZ4N3I5NUE?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 02:08:10 GMT",
         "source": "google_news_zh_tw"
       },
       {
-        "title": "承啟轉型效益顯現 AI產品占比衝63% 鎖定2026年高階電源新動能",
-        "publisher": "news.cnyes.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYzFMUENvdWNCNmNiZHdqU3FYOHAxSXBoQ1dscUZGTC10ZlJYY0NBcVlqSE9Rc0k4bnNpRXNoRHFUaWpLLVJVcjZDdzdNNUE?oc=5",
-        "pubTime": "Mon, 22 Dec 2025 08:00:00 GMT",
-        "source": "google_news_zh_tw"
-      },
-      {
-        "title": "焦點股》承啟：5月營收創單月新高 漲停慶祝",
+        "title": "熱門股》戰事推升油價 台塑爆量上漲",
         "publisher": "自由財經",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JbWF1MjQ1dmdOM2ZZMTE5Sng0bnZwZHg0Q1ZPaUFjcjNoanZKSmt5VlhvTEZJaTE2Q3RHSHRlaEtqWTdDeVVadE9wMHJBQ3hFR3JTbUVhRHRuZkp6OVBF0gFkQVVfeXFMUF9kSkozSjNSWDQ3c2hlYU1zYXBMTXU0NnM4Z0lHclNmTmZPaUw0N3lrMnVPc2M4MHZocEtnRkF0eU9jOElxbktVQ1pnc01rZURDcTFhRTBneDNtXzJ6YnQwOHNORg?oc=5",
-        "pubTime": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tODcxWWR4am5iUHoyN3NHbnRuOF92NUhTam95dHZ4bmxsMnhrM0lSbFlaTkRLYjZIamFjVHRiT3V0cTZMSXhRRm1qeGtmbWxQNC1vOTd30gFbQVVfeXFMTzVmMFZ0MWxzdTBDMW41cHRDdUtkX2FQRWJGUEhIRmY0R0NKejU3NG9jcVZlQ2RTcVZwVkdicDVzQjljUGZ6NGQyVGkwYmFGVkROc2NmdzR6dHBhUQ?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 21:30:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "台塑集團華麗轉身！四寶3家攻漲停　法人點名台塑化目標價見百",
+        "publisher": "ETtoday財經雲",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoQjN4d3JHYUVUZVBZY3k4S2NleENyM3Q5Z2F2M1lzNW9VR1Rkc21qSTAyODNUM0NaenA0b3o4TUM1OFhQblBuNTZnUkJJZDV2T3fSAVBBVV95cUxPTVFOY1dwRGxVdkYwY1FoYkp6U2ZJcUtDSXpfMURvUTFyV1A1ZkhhT1I1RHZISE9KRXlTVXREbkxiT1dnTTNKTmNaak1qMm5tSw?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 02:31:00 GMT",
+        "source": "google_news_zh_tw"
+      }
+    ],
+    "2388.TW": [
+      {
+        "title": "【11:27 即時新聞】威盛(2388)股價續強至76.2元，庫藏股與營收成長支撐買盤＋多頭結構中短線偏空籌碼待驗證",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0RFSV8wemp3UHQtVXlFcGt2ZkZMaEdmYVBYcWpveVVvVzVVdFFEc09KSG5idFRfN3dBcGxRX0tsbWV5anppT3F3UVFtZzZHN0xMMHMtNmJCU1JwcW5EX0h4SEhmWG53QXJNTzBkTHlBenZ6QXpFczZ6OFM1UlBYTnJhU1RzT3VtM0tZN0xn?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 03:27:56 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "盤中速報 - 威盛(2388)急拉4.53%報71.3元，成交5,068張",
+        "publisher": "TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5TGc1QVVYaE96d2R0QzBjMDVGWHlzWVFmN1Y1TWt5OUZHdldMc0tXdFEyNDlzcnBENzgtckU5Sm9vU3hiYzRvdWdKQWpFc2J0Nm9La3RBQVAwVmNGNERVYW41ZFk?oc=5",
+        "pubTime": "Mon, 20 Jul 2026 04:01:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2388 威盛 - 籌碼看起來還不錯， 希望明天不要全倒出來 - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Yd2hTa1I0a2Z0ZGNocEczY3Foek42ZmViQWFHa0RRdEQ0Vk5obllDeHJVM0xWX0lFRm82eHlsdFNrZGVVQkVVaUZycHppTGxfSFdWc0puaVU?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 07:48:25 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "討論牆 | 盤中速報 - 威盛(2388)股價拉至漲停，漲停價72.4元，成交6,629張",
+        "publisher": "LINE TODAY",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96dWhNQnFjV2NwT2xJcnRjV2J4cXdBQzFjMzd4N1QzeTloX0NnS0JSNm5vWDZtYWJ2QnBDUUhpMDl2QkV0SlI1Zk9nVEt3c3h3cktLSmU0SDI3NVFSWE5WZmQ4ZnM?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 23:21:11 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "威盛買回庫藏股4,686張 總金額3.36億元",
+        "publisher": "UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlb1RobkJtaHZmUU9naXdmVi1fcWh0WkFTNUpiSDk5ZVJ3VDFGTW12QlRDR21WVEt5M0pMNnRNWjNucnlIWm52UFRzcFF3U0k30gFWQVVfeXFMT2hrcGJrNFhlU0s5NlNKSzRGbjdmNk9XelNHczMyR2Q2bk55V0lwdjE3Mi1zSC1CMEJMYTg2MmFQNHp1RkhOblFla2VSUnMtUUtobFhwN1E?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 09:11:32 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "陳文琦：AI帶動科技大海嘯 威盛拿下3奈米ASIC案進軍AI光通訊",
+        "publisher": "news.cnyes.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUUZ4TEplaTAxdGpmd3UwYXk4QmZ2Wm5DbjVMUm9ic2tObGNQb3oyZzVmUnpkLVd6cXdveHkwdHc3VmgyRUJCRnIyVWo1Qkk?oc=5",
+        "pubTime": "Thu, 18 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "營收速報 - 威盛(2388)3月營收11.28億元年增率高達69.4％｜新聞快訊｜豐雲學堂",
+        "publisher": "sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91Nm1EaXQzQjZDbFJDZTZTdGc0cWdsaW4ydWczdmRpekZ2X1RnTlNJaEFLbW5aVC1lS0VBa09NRjhXQTF1RHlycnAwaTFfOGxiNzRmTzJSNXZJTDU3WkhlZEVnam1zR01xcXlUV3hQSHhNQ2k3SVE?oc=5",
+        "pubTime": "Thu, 09 Apr 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "個股：威盛(2388)7/23止買回庫藏股4,686張，每股均價71.73元",
+        "publisher": "富聯網",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUhIcG1PVWQ2NnUxNWRGVGFZeGxtTVdPNV9ic19KdzlyOEk0RjNjUXg5RWUteFY5akFiandOUkFLb2JsQ042d1V0b2FncEJuRjhjYjhQYTBCdm9VTWhlcXh0UzhrbHJfNU54YjlqNHJXdG9DUjVYWVpWTTRXUk1zazhNek11bFgt?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 08:32:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "台股焦點：威盛(2388.TW)",
+        "publisher": "台視全球資訊網",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0NkZ2hib0loTDlDd09RVWNPeTM5X2VxVThRem9rU2hwTmg3bHVGdS1ndHhXRXZKNEIxRmZaRUZTX2FvVHV3QWZWTlgtcFhnYXUyV3ZmbmZPTndRdHlRSXpkSDdwOWZGZTVJU0tnZVpvSlJuNExCTlUtY1l3N1E4WnUtcVZyS1l0am5YRkhjRGdydw?oc=5",
+        "pubTime": "Wed, 22 Apr 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "TWA00 加權指數- 明後天2388「威盛」若創高盤中有震盪把握低接加碼進場- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XOFREVWU0NF9WaHE5N0JiSE4tN0NhdmxTQjdYNDFyZ2pubzJhOTh6VWhZQVRGek9xcTZiQ1gzZ19IQzN3U01hbkp4T1NaYVN5eFNuczc3Y1k?oc=5",
+        "pubTime": "Tue, 19 May 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      }
+    ],
+    "2892.TW": [
+      {
+        "title": "Nihon Shokuhin Kako (TSE:2892) Margin Decline Challenges Narrative of Sustained Profitability",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/nihon-shokuhin-kako-tse-2892-221350412.html",
+        "pubTime": "2025-11-01T22:13:50Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "第一金 (2892) 證券總座拍板，30天內關鍵數據怎麼看？-梁文謙",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFRrVU5ha080RGY4ZEhFb096dUxqVnV0Y25FcGZBcDR2b09wTHQzVEF0S01XaDZybHdNNlBVRGpuZ2xESm53blhTV0duaFRoWWFSVDBmMDZxSzhLbEJEMWwzcFRvWXpGQ0prWTRzZFlfZ1J5YzBzOVMyTm8zU0Q5STJqZzJpdw?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 11:33:53 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "個股：第一金(2892)每股含息1.3元，訂115/8/11為除息交易日，8/28發放",
+        "publisher": "富聯網",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlB3NHNfSUYya1g4UWk3SEtJMHlOQTc4SHdvbWV4NWhSRHNjUUthc3RlX2Y5cWplcFZIRkRwb2NlN3hVWkdGci1EQ21qVHJBUGNuTFVGeHZaUy1zd3lqX2Zsb0VXQ0YzSXNTSzNlVVY1M2dTYXVlSWM3S3VjenhFTms2X1UyZ21D?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 08:58:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2892 第一金- 短線客跑光光- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRcHlTX1Zlc0QyNUEyRUFQdDFiMDBBU3VSOVo5WGd5aVdVUnkzUlRCNHljMjUwSURmdGxLQkR6RGFsNFZUSG51SlBXWjRVWWhqbU1Gb1lZSVE?oc=5",
+        "pubTime": "Sun, 26 Jul 2026 04:15:17 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "獨家／公股金融異動一波波 這家券商總座人事拍板",
+        "publisher": "UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pUmxTVzkwR2luTkJiXzNGcFRVRlNhRW5GcTJFdjNWbWdOdGZ6d29GdFFGSUU4NEFyZEtZZlJWU0xBNXlQX2ZkUFFkMGlqa21Z0gFWQVVfeXFMTXZvdlJNQU5BYzZkNFF2QU9RUkRvd0YtUF90cVY2WWtPS1BGd1k3TEJNQ2c4REFhOERTV2pQOVRvSGE3czhDVG0zSVkxM002Y1QtdE9GU3c?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 09:11:29 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "第一金21年來首度未配股！網喊「失望想蛋雕」...熱議一次看",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOTzA2dGRidXZqUzMtTzhFZ0gwdDJkMUJQQS0talRrMHBCYzQ4TXpVU1VjSGwzSjdmX0ZSYzMzREdmVVhJYTRnRkhLN1R3SXRjZy1jVUhFWExpaFRlNU82MEwtTGx5OWxWRkpoV0VRMVNtSkI3OHZCanBaWTVPMFNuYVpBeUlEdUR0UnQ3QU9zVWlNZXNLYTZGNTEwREowNlVMdjBPREk4LTBUcnFrQjcyeFJOSm5kaDlXdjFkdnAtQUd5RUFJbG9VczVOdmpyc1NGTnBzZW84QVUzNTVNOVdRemstR2o4ZVpPMDlIekI1eUJjRWtndTFmSnVEalp4eFo2QUZsTTQtbXptcmE2dmgyaVQwSktJZ3k5TGxONE1UeWYzSFlmWUszanJlakZEa1FVYkNlZHM1RjlZWUQwb3Y4VzNVMldHVlNkck0xMmhMOGlyRnMyTGxrOWNsQUJyck5Ld1VDclI4YS1FdzVGT0F1WGNpYkF2WTZUeDZMUVJyOU5hLUNlMjBYdjh3?oc=5",
+        "pubTime": "Wed, 29 Apr 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "營收速報 - 第一金(2892)4月營收73.22億元年增率高達41.98％｜新聞快訊｜豐雲學堂",
+        "publisher": "sinotrade.com.tw",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ya1dyNm5QNzl2NDk1ZnVTaDM2S0VCNW9xLUdaSy1GbXBPZjVvelJVcWV5dHp5UHdJMmo4cV83bHRxa3pJanptb0tBaGxJaVJiM21xVmZXNGo5ellaMzVFNzZ4SzF5UktWeVZ1WWlsdTY1dGVjWHc?oc=5",
+        "pubTime": "Sun, 17 May 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "台股弱勢整理 金融股撐盤！兆豐金創歷史新高、劍指50元",
+        "publisher": "UDN",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sWEdRSlp6dzZ1dlQ2SUdTam9HWUZ3WG11ZXMxTVN3MGlwRlc2YmtZajdPQzMxdXJmaEMwUVRNN0JZRlpPUkdXMXBoUWJXd2Zz0gFWQVVfeXFMTlJMd2J5M0FhNE8zb2VnQnE3aTRDUldWSWVFODYwdnVIOWlfUDV3cEVuNV9YOF9JLV8wT1BYRFhZVGx1N1BBdUZ1QUxpTWh5bEo0RnVWbVE?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 03:16:54 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2892 第一金 - 【第一金(2892)盤後解析】外資大賣投信硬扛，股價量增收黑... - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pMFl4aDdla085a2ZtZG5UWDdmRzZONDZVSXA2aFhOMFE5OXdxWV84SVZ5LWozcmIyNFIxMzRpbTN2QnhVTU1IcXlLVjhiYmxvRFNjQm45Ynk?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 13:06:21 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "第一金首度全配現金1.3元不發股票 股價黑翻紅小漲1% 成交量居金融股之冠",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxOVWZxYW5SR0EwazZqVThlVFpTdlVjbEhTTUFPd1lJUVh5OGdhSFh6TGQ1ZjNyM2xGczNEOE9HLXV5Tm1UcV9CNzBybHNmdnZBUFNJamFpNWFFaDB4UXhUMWZoRUdRalFsbFNXVWtRQWRHYWhZODlNODZWY0ttYjdpTk52UFJzeVdMQ0F5ZkFLeGN2akFtdm93ZmVvX05HX2RtNE9nRG5YUUdTWmVJY3hqRWZtSmp5Y3lpYWFiQVpSNC1tbC0tbl95SUUzZVFRNElDSkk0MGlWb09KZ0U3V1VST2FXWlc3OFh6Zm14MEhMZlBoWWllQXhBSjJNOHl2Sm43QkhEZWFxakZ3WE9kd2h5aFV0Z1J5NzlRX1laV29CaE5TOEFWbnVHZW1iRW11dU9XSXNXaDRHRThaY2FDS2NFblFOTjdHazloX0twdE9ZRjE0YnZJUmxxcGc5WVJiZHVUSUVUXzk0UmpyMmNIWk81ZzZNVlhKbDFMUldIbEMtV3BWYUo0R0NNSVhrMXA4eW11VEZ6TnhXb1cwcFpxTFJPbmVXSlJWQVI1aXBUcjlVZVRvYTVwTDl0T3pJOUd5R1VKU1pKRFFYWWFVZw?oc=5",
+        "pubTime": "Wed, 29 Apr 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "第一金 (2892) 太空衛星ETF傳納SpaceX，關鍵數據藏在哪？-梁文謙",
+        "publisher": "CMoney投資網誌",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHNWbGxRTTU4WVFPQnVhVm9PSUtqTlU4T0NBamN2QVpsR3laYVhacmhmaDR1N1RTT19BREtwMVQ1blU4Zms3LW1KbHRwWHJrOFcwWnFfLVZ3ZTUxNV9XUmxzbzkzVmJxeUVMWF9faFNhRXBRMDlGQnJWdXFpYU15ZGdBOWtoZw?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 02:49:01 GMT",
+        "source": "google_news_zh_tw"
+      }
+    ],
+    "2376.TW": [
+      {
+        "title": "UBS Raises its Price Target on Astera Labs, Inc. (ALAB)",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-price-target-astera-185530451.html",
+        "pubTime": "2026-07-14T18:55:30Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Nvidia's surprising product revival tells deeper AI industry story",
+        "publisher": "TheStreet",
+        "link": "https://www.thestreet.com/investing/nvidia-brings-back-geforce-rtx-3060-graphics-card",
+        "pubTime": "2026-07-05T19:13:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "FormFactor (FORM) Stock Is Up, What You Need To Know",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-form-stock-know-005919458.html",
+        "pubTime": "2026-06-23T00:59:19Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Penguin Solutions and KLA Corporation Stocks Trade Up, What You Need To Know",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/penguin-solutions-kla-corporation-stocks-005119636.html",
+        "pubTime": "2026-06-23T00:51:19Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Semtech and onsemi Shares Are Soaring, What You Need To Know",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/semtech-onsemi-shares-soaring-know-004319968.html",
+        "pubTime": "2026-06-23T00:43:19Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Intel (INTC) Stock Is Trading Up Today",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-intel-intc-stock-trading-001919984.html",
+        "pubTime": "2026-06-23T00:19:19Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Qorvo and Skyworks Solutions Shares Skyrocket, What You Need To Know",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-skyworks-solutions-shares-skyrocket-001919922.html",
+        "pubTime": "2026-06-23T00:19:19Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "How Astera Labs (ALAB) Is Using Taiwan Expansion to Speed Rack-Scale AI Deployment",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/technology/ai/articles/astera-labs-alab-using-taiwan-143418833.html",
+        "pubTime": "2026-06-19T14:34:18Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "ALAB Rides on Strong AI Infrastructure Demand: A Sign for More Upside?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/alab-rides-strong-ai-infrastructure-171500478.html",
+        "pubTime": "2026-06-10T17:15:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Is NVIDIA (NVDA) One of the Best NASDAQ Stocks to Buy and Hold for 3 Years?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-one-best-nasdaq-172352123.html",
+        "pubTime": "2026-06-09T17:23:52Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "2376 技嘉 - 技嘉旗下技鋼推出首波AMD EPYC 9006伺服器11月量產出貨- 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rVDdSbGpGdWdMYjhvX3NoQk94YTRlaVhIWkNMcTh1cFFqR1MyOHhMYWZOTzZrUlA0VWpNNnRZa1JMT2xFNFZ5bHotZ2JVYXM1VFRoaXdqX1Q?oc=5",
+        "pubTime": "Fri, 24 Jul 2026 04:08:40 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "技嘉家有喜事！小金雞技宸興櫃蜜月行情漲20％",
+        "publisher": "中時新聞網",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IV2QwSUhwdHY5YjdBMDlWdi1fc0RuUUVfaDdkRGhVc283LXJrcTlDVmV6RzBPdjRBS05ESGMyTUVwZnpFOENaMk9XejRIbzdnWUs4Q0FVaHBkRUVoSF9sUlI0RTlFeUxWTzFZQ1d3?oc=5",
+        "pubTime": "Mon, 27 Jul 2026 04:00:42 GMT",
+        "source": "google_news_zh_tw"
+      }
+    ],
+    "2324.TW": [
+      {
+        "title": "Nvidia Gains as Japan's Datasection Orders B300 GPUs",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-gains-japans-datasection-orders-144221872.html",
+        "pubTime": "2026-05-07T14:42:21Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Compal Electronics Inc (TPE:2324) Q4 2025 Earnings Call Highlights: Navigating Growth Amidst ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/news/compal-electronics-inc-tpe-2324-010021747.html",
+        "pubTime": "2026-03-09T01:00:21Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Taiwan's Compal Electronics boosts US operations with $300 million investment",
+        "publisher": "Reuters",
+        "link": "https://finance.yahoo.com/news/taiwans-compal-electronics-boosts-us-080255160.html",
+        "pubTime": "2025-08-12T08:02:55Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "百元以下股票有哪些？台化(1326)、仁寶(2324)...59檔Q2營收雙位數成長股出列！下半年AI概念股3檔黑馬曝光",
+        "publisher": "今周刊",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVW1aNFFWMGVPbS1oNUpCclZzYlg4YS0ybWw1V2pvSHRzMmZqVV84cnZEVVB6Tk84SWV5bTBoWWNsQVM4UXB4NTQ0VGtxVzVmY3pBMHA1OFVHR1huZ25FYkNGVVpOamwtMTlJUHlrb1BjZmI0dWVJbU1UcGxmNWMzeg?oc=5",
+        "pubTime": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2324 仁寶 - 37 多空交戰 多軍加油 - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HdG1jZ3JfbGNNUEludlcxejlxdDBhZ1draWhtSnFmckl2WGw4UTZnN2dYQ2ZfdWVDOFEtN0lmQjhBU29xdHByUHF4UkI0cUhiZkt6UldqaFc?oc=5",
+        "pubTime": "Thu, 23 Jul 2026 03:53:25 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "仁寶「5天飆漲40%」今重摔跌停...網憂「打回原形」 分析師揭操作策略",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOTUNoMWlqZ0x0SUZBeFBZbmhHdzhZSzREOXpMd3AzeUZtVmowX0RQaHVGLVJDb1FkMHJnREJlWF9WbXlsVnhpVTJ1eGl0YzB3WG9oUGpLTU5IY1RZQVl3b2h1NEJJT1NkYnpWV0RhUzBteWxFd2NHdWdyUjRlNXlkcms1MGZvX2lrZ25ucm1xblRWNjZOZHhEaVVULUN4RkhkZ09uTHlQQkI1WGlJM3V3SE5TR25fVjgyY2NPbVRQSkppNVgwSEtPU3JVZlpKb0tOa2lvT2c2YXJpbXlGbVpiQ1hMeUVNNjg0SU1VUHN2LVJrOFB6SjJISkZ2bWNwMGRuTnRaSnRsQkRHckhUVklzbGVVbUpGbHNDZnV4WTRLQmctYVZMb19fbFpGQl8wWkkzaTVTSG00MFBzcU95QXhYeDJDQkRESHpyeUVFaDZfSjB0R09Sa0pVdUs1bTdvbHM2d2ZRZk4tNG5UVEQxb0Y4ZnBHS0RHdFhKSHh3QkNfVjJlREk3MTMxYXlfRFBXZFVHMTY4NkQwM2ROSFpMQzVZc1I0ZlR5dnAta2hBODEzLTA?oc=5",
+        "pubTime": "Wed, 03 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "仁寶6月合併營收月增36% 三年半最佳",
+        "publisher": "經濟日報",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWMi1KMmFVSGQwRnhXVmFwcnoyTDd1WTNBb3lWckp4WE5yeTRjck4zTG5ibFVNLTQ4NEJiX2gyZi1NOGFSNXpQRlU1bzZoeEx3WDUyaGFIeUl1Z9IBX0FVX3lxTFB5NXdLXzI2dlhfTjBsRW82TlVBUFI0aGRRM2Nxel9qZjdxV2F5MlpsOXdVUDJaZGg0SXotTW1fd0I1TGNRUTNlTlN0bEZSMXZkWm5iM3JyYlJFMF9idktn?oc=5",
+        "pubTime": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "走勢值得持續留意，記得跟上觀察節奏。",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43aU0wZFNMWmtUcVk0U3VXRUZ3c0JfalVOejhVaUhhRzhLU2VYVElHa0owNGxBMTR6YWt4eGUtNTM3WnFEWG4yWERzdVIzOG1ZNzF1MmVtT1I?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 13:54:24 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "仁寶5月營收704億元年增二成 看好第三季伺服器業務雙位數成長",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOMFdUbmptcWowd2NKNVdKR1hBMHQyVVA3ZnY2UkVrMG5GZXkzT1VkZ2lSSjlXNzVoMlJNZ1lYT2JTOXJMcVlQWVA3MjFfNFVuVHRKTm5NZ3ctRDV4TlNVRkVXZEltelZiXzNEWEh4bjM3Zktmc3NYZUNqTHBWYjktV1RCX002a3piUTg3NDkwVTdEQ0hHXzJFbVVmUXdSUnRxOVVLNVh0VFJPTUZXc1YwX013TU5BODc5YUFwWER5NmR2X180QjdRWml6MmFQekJrcndtVVhtdHFSZ0tVSjkyU05FUU9hNmEzbHY4c0JiaTlYWnlKbUNFYWZobmM4QXhSbk9ZRzJPSU5MM3c1QTR6THBhX2ZJeDlvY1NPeVhyT3gxRWd6QVpiREs4b1Q4WC11MkY4LWRRN0xuaXZoT2lnakotTkQwSTdidlZJTW9QcmdpbWllb2dSMjBaTkdmMmk5dHZmbGNKcW8ydmtvRmFtVUJVZldYSGNvS1JhMTN5NG0tZnZ0TjRMRU1pQ1l4bFVWa3BtZmsycXV3QQ?oc=5",
+        "pubTime": "Tue, 09 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2324 仁寶 - 阿寶 明天看你的了!! - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHY09GU2F5eXpfYlpvS01BRVdvdUx3Wm5LeVNtV1Qzc3JLQndzM0dDcWJPNkJDWjd1T1E2ZjdnWmk5dWpheHc5VHdRVmxiR2lhSmFrLTRZWC0?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 17:12:57 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "仁寶再買回1.2萬張自家股票 庫藏股達成率逾7成",
+        "publisher": "Yahoo股市",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNSW9wQXZxN3I4V191ZlhLQ0otNWtGRmtScVJvVUFNSUlrb2NDT3JoMEpub3JHSVBaVTFjZy1zanJ4bE52NnR6a0tVTFJhQnRCZTJ5cG9VNFJaTHlROFp6QWk3LS12dzFhZmIzTFB4SHF2UXJ2NVNMek1acWpuYVJWeGMtT2R2U25pVkZtcWpmQWM1SHFTdnZRZVdUQnFSY2Q4QnhadDNFLVJ4WHM5M1drLW5waHVXWGYteEZreURMX3hQcmhpbzlSZ2kzT0NYSHBlU2dDdWQ3MndNYjJ2R1dDczI3a2E5eXM3el9QcllVaXZaZjlpbXJRdUttaE14dWtDWUJqdHB2bjgyaWFqaVJNU1JuMHBWQ2RDa3JHUHhqVkVyTzhsVU55TWxwd244LTJEYWhkaVA4akhnXzVDV1o2emx0Znk?oc=5",
+        "pubTime": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "source": "google_news_zh_tw"
+      },
+      {
+        "title": "2324 仁寶 - 阿寶有沒有做 GB 300 - 股市爆料同學會",
+        "publisher": "CMoney",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VVG1TZzI3LVlCV190VklLemQxeDVramVOUzMxQzJaSDNHYkZ3ZHRBV2JuUVhpR2o0MjlRUG9PejBiNEdHYVJWR3JhQkUxRFA2clMtWWEtYVk?oc=5",
+        "pubTime": "Wed, 22 Jul 2026 11:30:42 GMT",
         "source": "google_news_zh_tw"
       }
     ]
