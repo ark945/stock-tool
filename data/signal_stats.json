@@ -1,16 +1,16 @@
 {
-  "computedAt": 1785253481741,
+  "computedAt": 1785262301897,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1606,
+        "total": 1611,
         "winners": 38,
-        "losers": 395,
-        "open": 1173,
-        "winRate": 0.0878,
+        "losers": 402,
+        "open": 1171,
+        "winRate": 0.0864,
         "avgWin": 27.29,
-        "avgLoss": -4.47,
-        "avgReturn": -1.68,
+        "avgLoss": -4.39,
+        "avgReturn": -1.66,
         "sharpe": -0.29,
         "avgHoldDays": 51
       }
@@ -19,50 +19,50 @@
       "trailing_252d": {
         "total": 525,
         "winners": 8,
-        "losers": 120,
-        "open": 397,
-        "winRate": 0.0625,
+        "losers": 124,
+        "open": 393,
+        "winRate": 0.0606,
         "avgWin": 37.42,
-        "avgLoss": -3.18,
-        "avgReturn": -0.65,
+        "avgLoss": -3.08,
+        "avgReturn": -0.63,
         "sharpe": -0.12,
         "avgHoldDays": 51
       }
     },
     "triple_resonance": {
       "trailing_252d": {
-        "total": 177,
+        "total": 179,
         "winners": 8,
-        "losers": 62,
+        "losers": 64,
         "open": 107,
-        "winRate": 0.1143,
+        "winRate": 0.1111,
         "avgWin": 28.69,
         "avgLoss": -0.23,
-        "avgReturn": 3.07,
-        "sharpe": 0.64,
+        "avgReturn": 2.99,
+        "sharpe": 0.63,
         "avgHoldDays": 58
       }
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 711,
+        "total": 715,
         "winners": 8,
-        "losers": 91,
-        "open": 612,
-        "winRate": 0.0808,
+        "losers": 101,
+        "open": 606,
+        "winRate": 0.0734,
         "avgWin": 28.11,
-        "avgLoss": -2.87,
-        "avgReturn": -0.37,
+        "avgLoss": -2.59,
+        "avgReturn": -0.34,
         "sharpe": -0.07,
-        "avgHoldDays": 53
+        "avgHoldDays": 54
       }
     },
     "earnings_play": {
       "trailing_252d": {
         "insufficientData": true,
         "sampleSize": 15,
-        "total": 105,
-        "open": 90
+        "total": 108,
+        "open": 93
       }
     }
   }
