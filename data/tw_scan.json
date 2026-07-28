@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-28T18:08:01.325Z",
+  "scannedAt": "2026-07-28T20:53:23.710Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 25,
@@ -52,7 +52,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 8.0,
+          "actual": 8,
           "estimate": 6.85744,
           "surprisePct": 0.1666
         },
@@ -74,7 +74,7 @@
         "current": 61.2829,
         "pct90d": 48.26,
         "pct30d": 30.34,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -196,7 +196,7 @@
       "surpriseHistory": [],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -496,7 +496,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -577,7 +577,7 @@
         "current": 8.3495,
         "pct90d": 15.97,
         "pct30d": 0.79,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -655,7 +655,7 @@
         "current": 10.4918,
         "pct90d": 22.28,
         "pct30d": 2.11,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -717,7 +717,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 3.0,
+          "actual": 3,
           "estimate": 3.07633,
           "surprisePct": -0.0248
         }
@@ -785,7 +785,7 @@
           "qtr": "2025-09-30 00:00:00",
           "actual": 0.9,
           "estimate": 0.9,
-          "surprisePct": 0.0
+          "surprisePct": 0
         },
         {
           "qtr": "2025-12-31 00:00:00",
@@ -868,7 +868,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -934,7 +934,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -1000,7 +1000,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -1079,9 +1079,9 @@
       },
       "epsRevision": {
         "current": 32.4408,
-        "pct90d": -1.0,
+        "pct90d": -1,
         "pct30d": 3.39,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 0,
@@ -1222,7 +1222,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -1659,7 +1659,7 @@
         },
         {
           "qtr": "2025-09-30 00:00:00",
-          "actual": 6.0,
+          "actual": 6,
           "estimate": 6.1265,
           "surprisePct": -0.020599999
         },
@@ -1751,7 +1751,7 @@
           "qtr": "2026-03-31 00:00:00",
           "actual": 0.62,
           "estimate": 0.62,
-          "surprisePct": 0.0
+          "surprisePct": 0
         }
       ],
       "recommendation": {
