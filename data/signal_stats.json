@@ -1,29 +1,29 @@
 {
-  "computedAt": 1785272215979,
+  "computedAt": 1785339102383,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1614,
+        "total": 1639,
         "winners": 38,
-        "losers": 403,
-        "open": 1173,
-        "winRate": 0.0862,
+        "losers": 427,
+        "open": 1174,
+        "winRate": 0.0817,
         "avgWin": 27.29,
-        "avgLoss": -4.38,
-        "avgReturn": -1.65,
-        "sharpe": -0.29,
+        "avgLoss": -6.37,
+        "avgReturn": -3.61,
+        "sharpe": -0.52,
         "avgHoldDays": 51
       }
     },
     "discovery": {
       "trailing_252d": {
-        "total": 526,
+        "total": 531,
         "winners": 8,
-        "losers": 125,
-        "open": 393,
-        "winRate": 0.0602,
+        "losers": 126,
+        "open": 397,
+        "winRate": 0.0597,
         "avgWin": 37.42,
-        "avgLoss": -3.06,
+        "avgLoss": -3.03,
         "avgReturn": -0.62,
         "sharpe": -0.12,
         "avgHoldDays": 51
@@ -31,10 +31,10 @@
     },
     "triple_resonance": {
       "trailing_252d": {
-        "total": 180,
+        "total": 189,
         "winners": 8,
         "losers": 64,
-        "open": 108,
+        "open": 117,
         "winRate": 0.1111,
         "avgWin": 28.69,
         "avgLoss": -0.23,
@@ -45,15 +45,15 @@
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 717,
+        "total": 736,
         "winners": 8,
-        "losers": 101,
-        "open": 608,
-        "winRate": 0.0734,
+        "losers": 103,
+        "open": 625,
+        "winRate": 0.0721,
         "avgWin": 28.11,
-        "avgLoss": -2.59,
-        "avgReturn": -0.34,
-        "sharpe": -0.07,
+        "avgLoss": -2.93,
+        "avgReturn": -0.7,
+        "sharpe": -0.13,
         "avgHoldDays": 54
       }
     },
@@ -61,8 +61,8 @@
       "trailing_252d": {
         "insufficientData": true,
         "sampleSize": 15,
-        "total": 108,
-        "open": 93
+        "total": 123,
+        "open": 108
       }
     }
   }
