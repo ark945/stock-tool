@@ -39887,6 +39887,78 @@
       "stopLoss": 230.6164,
       "target": 288.2705,
       "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-07-30_BFLY",
+      "type": "rs_leader",
+      "symbol": "BFLY",
+      "triggeredAt": "2026-07-30T18:08:50.672Z",
+      "entryPrice": 8.02,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.3784,
+      "target": 9.223,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-07-30_TCMD",
+      "type": "rs_leader",
+      "symbol": "TCMD",
+      "triggeredAt": "2026-07-30T18:08:50.672Z",
+      "entryPrice": 27.73,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.5116,
+      "target": 31.8895,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-07-30_FOLD",
+      "type": "rs_leader",
+      "symbol": "FOLD",
+      "triggeredAt": "2026-07-30T18:08:50.672Z",
+      "entryPrice": 14.49,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 13.3308,
+      "target": 16.6635,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-07-30_BAX",
+      "type": "discovery",
+      "symbol": "BAX",
+      "triggeredAt": "2026-07-30T18:08:50.672Z",
+      "entryPrice": 26.29,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 24.1868,
+      "target": 30.2335,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-07-30_TCMD",
+      "type": "vcp_breakout",
+      "symbol": "TCMD",
+      "triggeredAt": "2026-07-30T18:08:50.672Z",
+      "entryPrice": 27.73,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.5116,
+      "target": 31.8895,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-07-30_TCMD",
+      "type": "earnings_play",
+      "symbol": "TCMD",
+      "triggeredAt": "2026-07-30T18:08:50.672Z",
+      "entryPrice": 27.73,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.5116,
+      "target": 31.8895,
+      "status": "open"
     }
   ]
 }

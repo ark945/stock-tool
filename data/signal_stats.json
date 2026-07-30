@@ -1,12 +1,12 @@
 {
-  "computedAt": 1785425712993,
+  "computedAt": 1785435162079,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1672,
+        "total": 1675,
         "winners": 38,
         "losers": 440,
-        "open": 1194,
+        "open": 1197,
         "winRate": 0.0795,
         "avgWin": 27.29,
         "avgLoss": -7.27,
@@ -17,10 +17,10 @@
     },
     "discovery": {
       "trailing_252d": {
-        "total": 544,
+        "total": 545,
         "winners": 8,
         "losers": 126,
-        "open": 410,
+        "open": 411,
         "winRate": 0.0597,
         "avgWin": 37.42,
         "avgLoss": -3.03,
@@ -45,10 +45,10 @@
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 764,
+        "total": 765,
         "winners": 8,
         "losers": 107,
-        "open": 649,
+        "open": 650,
         "winRate": 0.0696,
         "avgWin": 28.11,
         "avgLoss": -4.42,
@@ -61,8 +61,8 @@
       "trailing_252d": {
         "insufficientData": true,
         "sampleSize": 15,
-        "total": 145,
-        "open": 130
+        "total": 146,
+        "open": 131
       }
     }
   }
