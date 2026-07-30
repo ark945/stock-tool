@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-30T18:08:53.338Z",
+  "scannedAt": "2026-07-30T20:50:00.387Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 14,
@@ -32,7 +32,7 @@
       "rsRating": 92,
       "compositeScore": 67,
       "earningsDate": 1786060800,
-      "daysToEarnings": 9,
+      "daysToEarnings": 8,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -71,10 +71,10 @@
         "strongSell": 0
       },
       "epsRevision": {
-        "current": 351.082,
-        "pct90d": 4.59,
-        "pct30d": 2.5,
-        "pct7d": 1.61
+        "current": 354.561,
+        "pct90d": 5.47,
+        "pct30d": 3.1,
+        "pct7d": 2.59
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -110,7 +110,7 @@
       "rsRating": 99,
       "compositeScore": 66,
       "earningsDate": 1787875200,
-      "daysToEarnings": 30,
+      "daysToEarnings": 29,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -188,7 +188,7 @@
       "rsRating": 85,
       "compositeScore": 54,
       "earningsDate": 1787184000,
-      "daysToEarnings": 22,
+      "daysToEarnings": 21,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -230,7 +230,7 @@
         "current": 10.4918,
         "pct90d": 22.28,
         "pct30d": 2.11,
-        "pct7d": 0
+        "pct7d": 0.0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -266,7 +266,7 @@
       "rsRating": 78,
       "compositeScore": 52,
       "earningsDate": 1785974400,
-      "daysToEarnings": 8,
+      "daysToEarnings": 7,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -292,7 +292,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 3,
+          "actual": 3.0,
           "estimate": 3.07633,
           "surprisePct": -0.0248
         }
@@ -344,7 +344,7 @@
       "rsRating": 71,
       "compositeScore": 47,
       "earningsDate": 1785369600,
-      "daysToEarnings": 1,
+      "daysToEarnings": 0,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -384,9 +384,9 @@
       },
       "epsRevision": {
         "current": 32.4408,
-        "pct90d": -1,
+        "pct90d": -1.0,
         "pct30d": 3.39,
-        "pct7d": 0
+        "pct7d": 0.0
       },
       "epsRevisionCounts": {
         "up7d": 0,
@@ -449,7 +449,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0,
+        "current": 0.0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -488,7 +488,7 @@
       "rsRating": 64,
       "compositeScore": 38,
       "earningsDate": 1786579200,
-      "daysToEarnings": 15,
+      "daysToEarnings": 14,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -566,7 +566,7 @@
       "rsRating": 43,
       "compositeScore": 35,
       "earningsDate": 1787788800,
-      "daysToEarnings": 29,
+      "daysToEarnings": 28,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -638,7 +638,7 @@
       "rsRating": 50,
       "compositeScore": 35,
       "earningsDate": 1785974400,
-      "daysToEarnings": 8,
+      "daysToEarnings": 7,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -654,7 +654,7 @@
           "qtr": "2025-09-30 00:00:00",
           "actual": 0.9,
           "estimate": 0.9,
-          "surprisePct": 0
+          "surprisePct": 0.0
         },
         {
           "qtr": "2025-12-31 00:00:00",
@@ -677,10 +677,10 @@
         "strongSell": 1
       },
       "epsRevision": {
-        "current": 5.3972,
-        "pct90d": 68.46,
-        "pct30d": 18.36,
-        "pct7d": 37.34
+        "current": 5.7206,
+        "pct90d": 78.56,
+        "pct30d": 9.28,
+        "pct7d": 5.99
       },
       "epsRevisionCounts": {
         "up7d": 0,
@@ -730,7 +730,7 @@
         },
         {
           "qtr": "2025-09-30 00:00:00",
-          "actual": 6.0,
+          "actual": 6,
           "estimate": 6.1265,
           "surprisePct": -0.020599999
         },
@@ -794,7 +794,7 @@
       "rsRating": 29,
       "compositeScore": 25,
       "earningsDate": 1785888000,
-      "daysToEarnings": 7,
+      "daysToEarnings": 6,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -872,7 +872,7 @@
       "rsRating": 22,
       "compositeScore": 23,
       "earningsDate": 1787702400,
-      "daysToEarnings": 28,
+      "daysToEarnings": 27,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -913,8 +913,8 @@
       "epsRevision": {
         "current": 2.6419,
         "pct90d": 7.73,
-        "pct30d": 0,
-        "pct7d": 0
+        "pct30d": 0.0,
+        "pct7d": 0.0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -950,7 +950,7 @@
       "rsRating": 15,
       "compositeScore": 18,
       "earningsDate": 1786060800,
-      "daysToEarnings": 9,
+      "daysToEarnings": 8,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -978,7 +978,7 @@
           "qtr": "2026-03-31 00:00:00",
           "actual": 0.62,
           "estimate": 0.62,
-          "surprisePct": 0
+          "surprisePct": 0.0
         }
       ],
       "recommendation": {
