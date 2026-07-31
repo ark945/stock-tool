@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-31T18:14:31.704Z",
+  "scannedAt": "2026-07-31T20:53:29.436Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 10,
@@ -32,7 +32,7 @@
       "rsRating": 99,
       "compositeScore": 68,
       "earningsDate": 1787875200,
-      "daysToEarnings": 29,
+      "daysToEarnings": 28,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -110,7 +110,7 @@
       "rsRating": 89,
       "compositeScore": 60,
       "earningsDate": 1785974400,
-      "daysToEarnings": 7,
+      "daysToEarnings": 6,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -136,7 +136,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 3,
+          "actual": 3.0,
           "estimate": 3.07633,
           "surprisePct": -0.0248
         }
@@ -188,7 +188,7 @@
       "rsRating": 79,
       "compositeScore": 53,
       "earningsDate": 1787184000,
-      "daysToEarnings": 21,
+      "daysToEarnings": 20,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -230,7 +230,7 @@
         "current": 10.4918,
         "pct90d": 22.28,
         "pct30d": 2.11,
-        "pct7d": 0
+        "pct7d": 0.0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -266,7 +266,7 @@
       "rsRating": 70,
       "compositeScore": 42,
       "earningsDate": 1786579200,
-      "daysToEarnings": 14,
+      "daysToEarnings": 13,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -371,7 +371,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0,
+        "current": 0.0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -410,7 +410,7 @@
       "rsRating": 60,
       "compositeScore": 38,
       "earningsDate": 1785974400,
-      "daysToEarnings": 7,
+      "daysToEarnings": 6,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -426,7 +426,7 @@
           "qtr": "2025-09-30 00:00:00",
           "actual": 0.9,
           "estimate": 0.9,
-          "surprisePct": 0
+          "surprisePct": 0.0
         },
         {
           "qtr": "2025-12-31 00:00:00",
@@ -449,10 +449,10 @@
         "strongSell": 1
       },
       "epsRevision": {
-        "current": 5.7206,
-        "pct90d": 78.56,
-        "pct30d": 9.28,
-        "pct7d": 5.99
+        "current": 5.3972,
+        "pct90d": 68.46,
+        "pct30d": 18.36,
+        "pct7d": 37.34
       },
       "epsRevisionCounts": {
         "up7d": 0,
@@ -488,7 +488,7 @@
       "rsRating": 40,
       "compositeScore": 34,
       "earningsDate": 1787788800,
-      "daysToEarnings": 28,
+      "daysToEarnings": 27,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -560,7 +560,7 @@
       "rsRating": 30,
       "compositeScore": 26,
       "earningsDate": 1785888000,
-      "daysToEarnings": 6,
+      "daysToEarnings": 5,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -638,7 +638,7 @@
       "rsRating": 21,
       "compositeScore": 24,
       "earningsDate": 1787702400,
-      "daysToEarnings": 27,
+      "daysToEarnings": 26,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -679,8 +679,8 @@
       "epsRevision": {
         "current": 2.6419,
         "pct90d": 7.73,
-        "pct30d": 0,
-        "pct7d": 0
+        "pct30d": 0.0,
+        "pct7d": 0.0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -716,7 +716,7 @@
       "rsRating": 11,
       "compositeScore": 17,
       "earningsDate": 1786060800,
-      "daysToEarnings": 8,
+      "daysToEarnings": 7,
       "shortPctOfFloat": null,
       "shortRatio": null,
       "recentUpgrades": [],
@@ -744,7 +744,7 @@
           "qtr": "2026-03-31 00:00:00",
           "actual": 0.62,
           "estimate": 0.62,
-          "surprisePct": 0
+          "surprisePct": 0.0
         }
       ],
       "recommendation": {
@@ -755,10 +755,10 @@
         "strongSell": 0
       },
       "epsRevision": {
-        "current": 2.3212,
-        "pct90d": 1.28,
-        "pct30d": -4.38,
-        "pct7d": -4.38
+        "current": 2.4301,
+        "pct90d": 4.94,
+        "pct30d": 0.11,
+        "pct7d": 4.69
       },
       "epsRevisionCounts": {
         "up7d": 0,
