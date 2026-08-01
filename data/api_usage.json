@@ -1,5 +1,17 @@
 {
   "months": {
+    "2026-08": {
+      "input": 0,
+      "output": 0,
+      "calls": 0,
+      "byScript": {
+        "ai_diligence": {
+          "input": 0,
+          "output": 0,
+          "calls": 0
+        }
+      }
+    },
     "2026-07": {
       "input": 0,
       "output": 0,
@@ -72,5 +84,5 @@
       }
     }
   },
-  "lastUpdated": 1785531441330
+  "lastUpdated": 1785579529704
 }
