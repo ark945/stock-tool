@@ -9,6 +9,11 @@
           "input": 0,
           "output": 0,
           "calls": 0
+        },
+        "news_scan": {
+          "input": 0,
+          "output": 0,
+          "calls": 0
         }
       }
     },
@@ -84,5 +89,5 @@
       }
     }
   },
-  "lastUpdated": 1785579529704
+  "lastUpdated": 1785773109551
 }
