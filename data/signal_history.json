@@ -10746,11 +10746,11 @@
       "symbol": "CIEN",
       "triggeredAt": "2026-06-04T19:12:52.107Z",
       "entryPrice": 535.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 535.31,
+      "exitDate": "2026-08-03T20:57:57.824Z",
       "stopLoss": 492.4852,
       "target": 615.6065,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-04_COHR",
@@ -10770,11 +10770,11 @@
       "symbol": "MOV",
       "triggeredAt": "2026-06-04T19:12:52.107Z",
       "entryPrice": 37.6,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 37.6,
+      "exitDate": "2026-08-03T20:57:57.824Z",
       "stopLoss": 34.592,
       "target": 43.24,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-04_TTMI",
@@ -34470,11 +34470,11 @@
       "symbol": "NVCR",
       "triggeredAt": "2026-07-23T20:44:57.407Z",
       "entryPrice": 19.99,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 15.32,
+      "exitDate": "2026-08-03T20:57:57.825Z",
       "stopLoss": 18.3908,
       "target": 22.9885,
-      "status": "open"
+      "status": "hit_stop"
     },
     {
       "id": "triple_resonance_2026-07-23_DK",
@@ -34854,11 +34854,11 @@
       "symbol": "NVCR",
       "triggeredAt": "2026-07-24T15:15:36.839Z",
       "entryPrice": 18.78,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 15.32,
+      "exitDate": "2026-08-03T20:57:57.825Z",
       "stopLoss": 17.2776,
       "target": 21.597,
-      "status": "open"
+      "status": "hit_stop"
     },
     {
       "id": "triple_resonance_2026-07-24_DK",
@@ -42154,6 +42154,102 @@
       "exitDate": null,
       "stopLoss": 11.224,
       "target": 14.03,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_FLNC",
+      "type": "rs_leader",
+      "symbol": "FLNC",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 20.77,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 19.1084,
+      "target": 23.8855,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_COHR",
+      "type": "rs_leader",
+      "symbol": "COHR",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 382.45,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 351.854,
+      "target": 439.8175,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_CNC",
+      "type": "rs_leader",
+      "symbol": "CNC",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 63.76,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 58.6592,
+      "target": 73.324,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_XFOR",
+      "type": "rs_leader",
+      "symbol": "XFOR",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 4.09,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 3.7628,
+      "target": 4.7035,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_TSM",
+      "type": "rs_leader",
+      "symbol": "TSM",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 404.35,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 372.002,
+      "target": 465.0025,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_XFOR",
+      "type": "triple_resonance",
+      "symbol": "XFOR",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 4.09,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 3.7628,
+      "target": 4.7035,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_XFOR",
+      "type": "vcp_breakout",
+      "symbol": "XFOR",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 4.09,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 3.7628,
+      "target": 4.7035,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_XFOR",
+      "type": "earnings_play",
+      "symbol": "XFOR",
+      "triggeredAt": "2026-08-03T20:49:42.334Z",
+      "entryPrice": 4.09,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 3.7628,
+      "target": 4.7035,
       "status": "open"
     }
   ]
