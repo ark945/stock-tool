@@ -1,17 +1,17 @@
 {
-  "computedAt": 1785773092655,
+  "computedAt": 1785782024610,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1738,
+        "total": 1742,
         "winners": 38,
-        "losers": 502,
-        "open": 1198,
-        "winRate": 0.0704,
+        "losers": 523,
+        "open": 1181,
+        "winRate": 0.0677,
         "avgWin": 27.29,
-        "avgLoss": -6.57,
-        "avgReturn": -4.18,
-        "sharpe": -0.6,
+        "avgLoss": -6.3,
+        "avgReturn": -4.03,
+        "sharpe": -0.58,
         "avgHoldDays": 52
       }
     },
@@ -19,41 +19,41 @@
       "trailing_252d": {
         "total": 557,
         "winners": 8,
-        "losers": 171,
-        "open": 378,
-        "winRate": 0.0447,
+        "losers": 180,
+        "open": 369,
+        "winRate": 0.0426,
         "avgWin": 37.42,
-        "avgLoss": -2.23,
-        "avgReturn": -0.46,
-        "sharpe": -0.1,
-        "avgHoldDays": 53
+        "avgLoss": -2.12,
+        "avgReturn": -0.44,
+        "sharpe": -0.09,
+        "avgHoldDays": 54
       }
     },
     "triple_resonance": {
       "trailing_252d": {
-        "total": 218,
+        "total": 220,
         "winners": 8,
-        "losers": 71,
-        "open": 139,
-        "winRate": 0.1013,
+        "losers": 76,
+        "open": 136,
+        "winRate": 0.0952,
         "avgWin": 28.69,
-        "avgLoss": -0.2,
-        "avgReturn": 2.72,
-        "sharpe": 0.59,
+        "avgLoss": -0.19,
+        "avgReturn": 2.56,
+        "sharpe": 0.57,
         "avgHoldDays": 58
       }
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 808,
+        "total": 811,
         "winners": 8,
-        "losers": 129,
-        "open": 671,
-        "winRate": 0.0584,
+        "losers": 139,
+        "open": 664,
+        "winRate": 0.0544,
         "avgWin": 28.11,
-        "avgLoss": -3.66,
-        "avgReturn": -1.81,
-        "sharpe": -0.31,
+        "avgLoss": -3.4,
+        "avgReturn": -1.69,
+        "sharpe": -0.29,
         "avgHoldDays": 55
       }
     },
@@ -61,8 +61,8 @@
       "trailing_252d": {
         "insufficientData": true,
         "sampleSize": 17,
-        "total": 180,
-        "open": 163
+        "total": 183,
+        "open": 166
       }
     }
   }
