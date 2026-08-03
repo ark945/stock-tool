@@ -1,68 +1,68 @@
 {
-  "computedAt": 1785531428260,
+  "computedAt": 1785773092655,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1713,
+        "total": 1738,
         "winners": 38,
-        "losers": 460,
-        "open": 1215,
-        "winRate": 0.0763,
+        "losers": 502,
+        "open": 1198,
+        "winRate": 0.0704,
         "avgWin": 27.29,
-        "avgLoss": -7.17,
-        "avgReturn": -4.54,
-        "sharpe": -0.63,
-        "avgHoldDays": 51
+        "avgLoss": -6.57,
+        "avgReturn": -4.18,
+        "sharpe": -0.6,
+        "avgHoldDays": 52
       }
     },
     "discovery": {
       "trailing_252d": {
-        "total": 553,
+        "total": 557,
         "winners": 8,
-        "losers": 139,
-        "open": 406,
-        "winRate": 0.0544,
+        "losers": 171,
+        "open": 378,
+        "winRate": 0.0447,
         "avgWin": 37.42,
-        "avgLoss": -2.75,
-        "avgReturn": -0.56,
-        "sharpe": -0.11,
-        "avgHoldDays": 52
+        "avgLoss": -2.23,
+        "avgReturn": -0.46,
+        "sharpe": -0.1,
+        "avgHoldDays": 53
       }
     },
     "triple_resonance": {
       "trailing_252d": {
-        "total": 210,
+        "total": 218,
         "winners": 8,
-        "losers": 66,
-        "open": 136,
-        "winRate": 0.1081,
+        "losers": 71,
+        "open": 139,
+        "winRate": 0.1013,
         "avgWin": 28.69,
-        "avgLoss": -0.22,
-        "avgReturn": 2.91,
-        "sharpe": 0.62,
+        "avgLoss": -0.2,
+        "avgReturn": 2.72,
+        "sharpe": 0.59,
         "avgHoldDays": 58
       }
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 793,
+        "total": 808,
         "winners": 8,
-        "losers": 113,
-        "open": 672,
-        "winRate": 0.0661,
+        "losers": 129,
+        "open": 671,
+        "winRate": 0.0584,
         "avgWin": 28.11,
-        "avgLoss": -4.18,
-        "avgReturn": -2.05,
-        "sharpe": -0.33,
-        "avgHoldDays": 54
+        "avgLoss": -3.66,
+        "avgReturn": -1.81,
+        "sharpe": -0.31,
+        "avgHoldDays": 55
       }
     },
     "earnings_play": {
       "trailing_252d": {
         "insufficientData": true,
-        "sampleSize": 16,
-        "total": 167,
-        "open": 151
+        "sampleSize": 17,
+        "total": 180,
+        "open": 163
       }
     }
   }

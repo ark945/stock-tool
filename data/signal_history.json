@@ -8730,11 +8730,11 @@
       "symbol": "VSAT",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 73.46,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 73.46,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 67.5832,
       "target": 84.479,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_PL",
@@ -8754,11 +8754,11 @@
       "symbol": "ONCY",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 0.98,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 0.98,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 0.9016,
       "target": 1.127,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_MU",
@@ -8802,11 +8802,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 89.16,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 89.16,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 82.0272,
       "target": 102.534,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_UUUU",
@@ -8814,11 +8814,11 @@
       "symbol": "UUUU",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 19.69,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 19.69,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 18.1148,
       "target": 22.6435,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_NRGV",
@@ -8826,11 +8826,11 @@
       "symbol": "NRGV",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 5.67,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 5.67,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 5.2164,
       "target": 6.5205,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_COHR",
@@ -8850,11 +8850,11 @@
       "symbol": "TTMI",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 177.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 177.31,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 163.1252,
       "target": 203.9065,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_WULF",
@@ -8862,11 +8862,11 @@
       "symbol": "WULF",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 27.18,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 27.18,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 25.0056,
       "target": 31.257,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_RVMD",
@@ -8874,11 +8874,11 @@
       "symbol": "RVMD",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 155.19,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 155.19,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 142.7748,
       "target": 178.4685,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_RLAY",
@@ -8886,11 +8886,11 @@
       "symbol": "RLAY",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 16.56,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 16.56,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 15.2352,
       "target": 19.044,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_CENX",
@@ -8898,11 +8898,11 @@
       "symbol": "CENX",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 68.88,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 68.88,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 63.3696,
       "target": 79.212,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_HUT",
@@ -8922,11 +8922,11 @@
       "symbol": "LASR",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 76.47,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 76.47,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 70.3524,
       "target": 87.9405,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_PLUG",
@@ -8934,11 +8934,11 @@
       "symbol": "PLUG",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 4.18,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 4.18,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 3.8456,
       "target": 4.807,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_MRVL",
@@ -8946,11 +8946,11 @@
       "symbol": "MRVL",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 282.09,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 282.09,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 259.5228,
       "target": 324.4035,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_APLD",
@@ -8958,11 +8958,11 @@
       "symbol": "APLD",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 48.71,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 48.71,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 44.8132,
       "target": 56.0165,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_BE",
@@ -8982,11 +8982,11 @@
       "symbol": "LRCX",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 333.73,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 333.73,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 307.0316,
       "target": 383.7895,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_URGN",
@@ -8994,11 +8994,11 @@
       "symbol": "URGN",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 27.66,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 27.66,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 25.4472,
       "target": 31.809,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_ASTS",
@@ -9018,11 +9018,11 @@
       "symbol": "VIAV",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 52.25,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 52.25,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 48.07,
       "target": 60.0875,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_OKTA",
@@ -9030,11 +9030,11 @@
       "symbol": "OKTA",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 133.2,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 133.2,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 122.544,
       "target": 153.18,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_HPE",
@@ -9042,11 +9042,11 @@
       "symbol": "HPE",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 57.98,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 57.98,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 53.3416,
       "target": 66.677,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_SNOW",
@@ -9054,11 +9054,11 @@
       "symbol": "SNOW",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 256.97,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 256.97,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 236.4124,
       "target": 295.5155,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_NTAP",
@@ -9066,11 +9066,11 @@
       "symbol": "NTAP",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 178.19,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 178.19,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 163.9348,
       "target": 204.9185,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_MDB",
@@ -9078,11 +9078,11 @@
       "symbol": "MDB",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 394.81,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 394.81,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 363.2252,
       "target": 454.0315,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_DELL",
@@ -9090,11 +9090,11 @@
       "symbol": "DELL",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 446.83,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 446.83,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 411.0836,
       "target": 513.8545,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_MOV",
@@ -9102,11 +9102,11 @@
       "symbol": "MOV",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 38.12,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 38.12,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 35.0704,
       "target": 43.838,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_ESTC",
@@ -9114,11 +9114,11 @@
       "symbol": "ESTC",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 66.54,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 66.54,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 61.2168,
       "target": 76.521,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_PD",
@@ -9126,11 +9126,11 @@
       "symbol": "PD",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 9.94,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 9.94,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 9.1448,
       "target": 11.431,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_IBM",
@@ -9150,11 +9150,11 @@
       "symbol": "BBAR",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 18.48,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 18.48,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 17.0016,
       "target": 21.252,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_MGM",
@@ -9162,11 +9162,11 @@
       "symbol": "MGM",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 49.58,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 49.58,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 45.6136,
       "target": 57.017,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_CLF",
@@ -9174,11 +9174,11 @@
       "symbol": "CLF",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 13.81,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 13.81,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 12.7052,
       "target": 15.8815,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_HPQ",
@@ -9186,11 +9186,11 @@
       "symbol": "HPQ",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 28.17,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 28.17,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 25.9164,
       "target": 32.3955,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_NTNX",
@@ -9198,11 +9198,11 @@
       "symbol": "NTNX",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 54.42,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 54.42,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 50.0664,
       "target": 62.583,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "triple_resonance_2026-06-02_UCTT",
@@ -9210,11 +9210,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 89.16,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 89.16,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 82.0272,
       "target": 102.534,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "triple_resonance_2026-06-02_WULF",
@@ -9222,11 +9222,11 @@
       "symbol": "WULF",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 27.18,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 27.18,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 25.0056,
       "target": 31.257,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "triple_resonance_2026-06-02_MRVL",
@@ -9234,11 +9234,11 @@
       "symbol": "MRVL",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 282.09,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 282.09,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 259.5228,
       "target": 324.4035,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_PL",
@@ -9282,11 +9282,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 89.16,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 89.16,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 82.0272,
       "target": 102.534,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_UUUU",
@@ -9294,11 +9294,11 @@
       "symbol": "UUUU",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 19.69,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 19.69,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 18.1148,
       "target": 22.6435,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_WULF",
@@ -9306,11 +9306,11 @@
       "symbol": "WULF",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 27.18,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 27.18,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 25.0056,
       "target": 31.257,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_RVMD",
@@ -9318,11 +9318,11 @@
       "symbol": "RVMD",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 155.19,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 155.19,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 142.7748,
       "target": 178.4685,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_CENX",
@@ -9330,11 +9330,11 @@
       "symbol": "CENX",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 68.88,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 68.88,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 63.3696,
       "target": 79.212,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_PLUG",
@@ -9342,11 +9342,11 @@
       "symbol": "PLUG",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 4.18,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 4.18,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 3.8456,
       "target": 4.807,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_APLD",
@@ -9354,11 +9354,11 @@
       "symbol": "APLD",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 48.71,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 48.71,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 44.8132,
       "target": 56.0165,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_LRCX",
@@ -9366,11 +9366,11 @@
       "symbol": "LRCX",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 333.73,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 333.73,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 307.0316,
       "target": 383.7895,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_BBAR",
@@ -9378,11 +9378,11 @@
       "symbol": "BBAR",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 18.48,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 18.48,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 17.0016,
       "target": 21.252,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-02_CLF",
@@ -9390,11 +9390,11 @@
       "symbol": "CLF",
       "triggeredAt": "2026-06-02T15:36:55.682Z",
       "entryPrice": 13.81,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 13.81,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 12.7052,
       "target": 15.8815,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_CGTX",
@@ -9402,11 +9402,11 @@
       "symbol": "CGTX",
       "triggeredAt": "2026-06-02T17:56:54.551Z",
       "entryPrice": 1.37,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 1.37,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 1.2604,
       "target": 1.5755,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_CIEN",
@@ -9414,11 +9414,11 @@
       "symbol": "CIEN",
       "triggeredAt": "2026-06-02T17:56:54.551Z",
       "entryPrice": 615.61,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 615.61,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 566.3612,
       "target": 707.9515,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_AMWL",
@@ -9426,11 +9426,11 @@
       "symbol": "AMWL",
       "triggeredAt": "2026-06-02T17:56:54.551Z",
       "entryPrice": 8.55,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 8.55,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 7.866,
       "target": 9.8325,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "earnings_play_2026-06-02_CIEN",
@@ -9438,11 +9438,11 @@
       "symbol": "CIEN",
       "triggeredAt": "2026-06-02T17:56:54.551Z",
       "entryPrice": 615.61,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 615.61,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 566.3612,
       "target": 707.9515,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-02_CLS",
@@ -9450,11 +9450,11 @@
       "symbol": "CLS",
       "triggeredAt": "2026-06-02T20:04:16.003Z",
       "entryPrice": 471.83,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 471.83,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 434.0836,
       "target": 542.6045,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_GTLB",
@@ -9462,11 +9462,11 @@
       "symbol": "GTLB",
       "triggeredAt": "2026-06-02T20:04:16.003Z",
       "entryPrice": 31.84,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 31.84,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 29.2928,
       "target": 36.616,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-02_FSLR",
@@ -9486,11 +9486,11 @@
       "symbol": "CGTX",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 1.42,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 1.42,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 1.3064,
       "target": 1.633,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_VSCO",
@@ -9498,11 +9498,11 @@
       "symbol": "VSCO",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 80.06,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 80.06,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 73.6552,
       "target": 92.069,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_VSAT",
@@ -9510,11 +9510,11 @@
       "symbol": "VSAT",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 71.57,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 71.57,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 65.8444,
       "target": 82.3055,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_MRVL",
@@ -9522,11 +9522,11 @@
       "symbol": "MRVL",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 306.42,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 306.42,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 281.9064,
       "target": 352.383,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_PL",
@@ -9558,11 +9558,11 @@
       "symbol": "LRCX",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 343.48,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 343.48,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 316.0016,
       "target": 395.002,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_CIEN",
@@ -9570,11 +9570,11 @@
       "symbol": "CIEN",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 628.95,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 628.95,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 578.634,
       "target": 723.2925,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_BE",
@@ -9594,11 +9594,11 @@
       "symbol": "LASR",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 76.98,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 76.98,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 70.8216,
       "target": 88.527,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_RVMD",
@@ -9606,11 +9606,11 @@
       "symbol": "RVMD",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 155.77,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 155.77,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 143.3084,
       "target": 179.1355,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_MU",
@@ -9642,11 +9642,11 @@
       "symbol": "DELL",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 420.03,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 420.03,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 386.4276,
       "target": 483.0345,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_UCTT",
@@ -9654,11 +9654,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 92.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 92.31,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 84.9252,
       "target": 106.1565,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_FLNC",
@@ -9666,11 +9666,11 @@
       "symbol": "FLNC",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 25.43,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 25.43,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 23.3956,
       "target": 29.2445,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_LITE",
@@ -9678,11 +9678,11 @@
       "symbol": "LITE",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 940.67,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 940.67,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 865.4164,
       "target": 1081.7705,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_HUT",
@@ -9702,11 +9702,11 @@
       "symbol": "VIAV",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 53.61,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 53.61,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 49.3212,
       "target": 61.6515,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_CLS",
@@ -9714,11 +9714,11 @@
       "symbol": "CLS",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 454.39,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 454.39,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 418.0388,
       "target": 522.5485,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_TTMI",
@@ -9726,11 +9726,11 @@
       "symbol": "TTMI",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 188.88,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 188.88,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 173.7696,
       "target": 217.212,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_AAOI",
@@ -9738,11 +9738,11 @@
       "symbol": "AAOI",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 183.94,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 183.94,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 169.2248,
       "target": 211.531,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_CENX",
@@ -9750,11 +9750,11 @@
       "symbol": "CENX",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 67.73,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 67.73,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 62.3116,
       "target": 77.8895,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_RLAY",
@@ -9762,11 +9762,11 @@
       "symbol": "RLAY",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 15.1,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 15.1,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 13.892,
       "target": 17.365,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_WDC",
@@ -9774,11 +9774,11 @@
       "symbol": "WDC",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 591.91,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 591.91,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 544.5572,
       "target": 680.6965,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_OKTA",
@@ -9786,11 +9786,11 @@
       "symbol": "OKTA",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 126.09,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 126.09,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 116.0028,
       "target": 145.0035,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_HPE",
@@ -9798,11 +9798,11 @@
       "symbol": "HPE",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 55.17,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 55.17,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 50.7564,
       "target": 63.4455,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_MDB",
@@ -9810,11 +9810,11 @@
       "symbol": "MDB",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 371.33,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 371.33,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 341.6236,
       "target": 427.0295,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_NTAP",
@@ -9822,11 +9822,11 @@
       "symbol": "NTAP",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 182.28,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 182.28,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 167.6976,
       "target": 209.622,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_SNOW",
@@ -9834,11 +9834,11 @@
       "symbol": "SNOW",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 246.01,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 246.01,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 226.3292,
       "target": 282.9115,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_SMCI",
@@ -9846,11 +9846,11 @@
       "symbol": "SMCI",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 46.76,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 46.76,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 43.0192,
       "target": 53.774,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_PANW",
@@ -9858,11 +9858,11 @@
       "symbol": "PANW",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 280.28,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 280.28,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 257.8576,
       "target": 322.322,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_CLF",
@@ -9870,11 +9870,11 @@
       "symbol": "CLF",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 14.35,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 14.35,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 13.202,
       "target": 16.5025,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_MGM",
@@ -9882,11 +9882,11 @@
       "symbol": "MGM",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 48.55,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 48.55,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 44.666,
       "target": 55.8325,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_FSLR",
@@ -9906,11 +9906,11 @@
       "symbol": "MOV",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 36.46,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 36.46,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 33.5432,
       "target": 41.929,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_AMWL",
@@ -9918,11 +9918,11 @@
       "symbol": "AMWL",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 8.32,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 8.32,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 7.6544,
       "target": 9.568,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_HPQ",
@@ -9930,11 +9930,11 @@
       "symbol": "HPQ",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 26.23,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 26.23,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 24.1316,
       "target": 30.1645,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_PSTG",
@@ -9942,11 +9942,11 @@
       "symbol": "PSTG",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 82.98,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 82.98,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 76.3416,
       "target": 95.427,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "triple_resonance_2026-06-03_UCTT",
@@ -9954,11 +9954,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 92.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 92.31,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 84.9252,
       "target": 106.1565,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "triple_resonance_2026-06-03_MRVL",
@@ -9966,11 +9966,11 @@
       "symbol": "MRVL",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 306.42,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 306.42,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 281.9064,
       "target": 352.383,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-03_LRCX",
@@ -9978,11 +9978,11 @@
       "symbol": "LRCX",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 343.48,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 343.48,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 316.0016,
       "target": 395.002,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-03_RVMD",
@@ -9990,11 +9990,11 @@
       "symbol": "RVMD",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 155.77,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 155.77,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 143.3084,
       "target": 179.1355,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-03_IREN",
@@ -10014,11 +10014,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 92.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 92.31,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 84.9252,
       "target": 106.1565,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-03_CENX",
@@ -10026,11 +10026,11 @@
       "symbol": "CENX",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 67.73,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 67.73,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 62.3116,
       "target": 77.8895,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-03_WDC",
@@ -10038,11 +10038,11 @@
       "symbol": "WDC",
       "triggeredAt": "2026-06-03T18:10:41.757Z",
       "entryPrice": 591.91,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 591.91,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 544.5572,
       "target": 680.6965,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-03_FSLR",
@@ -10062,11 +10062,11 @@
       "symbol": "TLYS",
       "triggeredAt": "2026-06-03T20:10:50.538Z",
       "entryPrice": 4.53,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 4.53,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 4.1676,
       "target": 5.2095,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_GLW",
@@ -10074,11 +10074,11 @@
       "symbol": "GLW",
       "triggeredAt": "2026-06-03T20:10:50.538Z",
       "entryPrice": 200.85,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 200.85,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 184.782,
       "target": 230.9775,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_NTNX",
@@ -10086,11 +10086,11 @@
       "symbol": "NTNX",
       "triggeredAt": "2026-06-03T20:10:50.538Z",
       "entryPrice": 53.04,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 53.04,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 48.7968,
       "target": 60.996,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_AUDC",
@@ -10098,11 +10098,11 @@
       "symbol": "AUDC",
       "triggeredAt": "2026-06-03T20:10:50.538Z",
       "entryPrice": 10.05,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 10.05,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 9.246,
       "target": 11.5575,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-03_AUDC",
@@ -10110,11 +10110,11 @@
       "symbol": "AUDC",
       "triggeredAt": "2026-06-03T20:10:50.538Z",
       "entryPrice": 10.05,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 10.05,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 9.246,
       "target": 11.5575,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-03_RKLB",
@@ -10122,11 +10122,11 @@
       "symbol": "RKLB",
       "triggeredAt": "2026-06-03T22:18:18.680Z",
       "entryPrice": 114.7,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 114.7,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 105.524,
       "target": 131.905,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-03_SEDG",
@@ -10134,11 +10134,11 @@
       "symbol": "SEDG",
       "triggeredAt": "2026-06-03T22:18:18.680Z",
       "entryPrice": 61.76,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 61.76,
+      "exitDate": "2026-08-03T16:04:52.643Z",
       "stopLoss": 56.8192,
       "target": 71.024,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-04_TLYS",
@@ -41230,6 +41230,786 @@
       "exitDate": null,
       "stopLoss": 76.774,
       "target": 95.9675,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_FOSL",
+      "type": "rs_leader",
+      "symbol": "FOSL",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 5.76,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 5.2992,
+      "target": 6.624,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_EXAS",
+      "type": "rs_leader",
+      "symbol": "EXAS",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 104.91,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 96.5172,
+      "target": 120.6465,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_CIFR",
+      "type": "rs_leader",
+      "symbol": "CIFR",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 24.63,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 22.6596,
+      "target": 28.3245,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_KOD",
+      "type": "rs_leader",
+      "symbol": "KOD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 41.8,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.456,
+      "target": 48.07,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_ETON",
+      "type": "rs_leader",
+      "symbol": "ETON",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 44.81,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 41.2252,
+      "target": 51.5315,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_TNGX",
+      "type": "rs_leader",
+      "symbol": "TNGX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 27.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.3736,
+      "target": 31.717,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_IRWD",
+      "type": "rs_leader",
+      "symbol": "IRWD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 4.43,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 4.0756,
+      "target": 5.0945,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_HUT",
+      "type": "rs_leader",
+      "symbol": "HUT",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 112.76,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 103.7392,
+      "target": 129.674,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_DK",
+      "type": "rs_leader",
+      "symbol": "DK",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 67.35,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 61.962,
+      "target": 77.4525,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_BFLY",
+      "type": "rs_leader",
+      "symbol": "BFLY",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 8.21,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.5532,
+      "target": 9.4415,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_RVMD",
+      "type": "rs_leader",
+      "symbol": "RVMD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 184.07,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 169.3444,
+      "target": 211.6805,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_TCMD",
+      "type": "rs_leader",
+      "symbol": "TCMD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 29.23,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 26.8916,
+      "target": 33.6145,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_LASR",
+      "type": "rs_leader",
+      "symbol": "LASR",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 70.72,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 65.0624,
+      "target": 81.328,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_PACS",
+      "type": "rs_leader",
+      "symbol": "PACS",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 45.14,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 41.5288,
+      "target": 51.911,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_DAWN",
+      "type": "rs_leader",
+      "symbol": "DAWN",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 21.53,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 19.8076,
+      "target": 24.7595,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_VSAT",
+      "type": "rs_leader",
+      "symbol": "VSAT",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 81.91,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 75.3572,
+      "target": 94.1965,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_TVTX",
+      "type": "rs_leader",
+      "symbol": "TVTX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 54.56,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 50.1952,
+      "target": 62.744,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_VLO",
+      "type": "rs_leader",
+      "symbol": "VLO",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 312.81,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 287.7852,
+      "target": 359.7315,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_LQDA",
+      "type": "rs_leader",
+      "symbol": "LQDA",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 83.43,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 76.7556,
+      "target": 95.9445,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_RLAY",
+      "type": "rs_leader",
+      "symbol": "RLAY",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 18.62,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 17.1304,
+      "target": 21.413,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_RCUS",
+      "type": "rs_leader",
+      "symbol": "RCUS",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 27.83,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.6036,
+      "target": 32.0045,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_FOLD",
+      "type": "rs_leader",
+      "symbol": "FOLD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 14.49,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 13.3308,
+      "target": 16.6635,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_NUVB",
+      "type": "rs_leader",
+      "symbol": "NUVB",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 6.39,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 5.8788,
+      "target": 7.3485,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_DELL",
+      "type": "rs_leader",
+      "symbol": "DELL",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 417.3,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 383.916,
+      "target": 479.895,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-03_ARWR",
+      "type": "rs_leader",
+      "symbol": "ARWR",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 84.59,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 77.8228,
+      "target": 97.2785,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-03_LAD",
+      "type": "discovery",
+      "symbol": "LAD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 384.22,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 353.4824,
+      "target": 441.853,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-03_CAKE",
+      "type": "discovery",
+      "symbol": "CAKE",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 104.21,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 95.8732,
+      "target": 119.8415,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-03_MANH",
+      "type": "discovery",
+      "symbol": "MANH",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 189.68,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 174.5056,
+      "target": 218.132,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-03_DXCM",
+      "type": "discovery",
+      "symbol": "DXCM",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 86.48,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 79.5616,
+      "target": 99.452,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_ETON",
+      "type": "triple_resonance",
+      "symbol": "ETON",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 44.81,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 41.2252,
+      "target": 51.5315,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_KOD",
+      "type": "triple_resonance",
+      "symbol": "KOD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 41.8,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.456,
+      "target": 48.07,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_TNGX",
+      "type": "triple_resonance",
+      "symbol": "TNGX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 27.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.3736,
+      "target": 31.717,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_DK",
+      "type": "triple_resonance",
+      "symbol": "DK",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 67.35,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 61.962,
+      "target": 77.4525,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_TVTX",
+      "type": "triple_resonance",
+      "symbol": "TVTX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 54.56,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 50.1952,
+      "target": 62.744,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_VLO",
+      "type": "triple_resonance",
+      "symbol": "VLO",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 312.81,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 287.7852,
+      "target": 359.7315,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_RLAY",
+      "type": "triple_resonance",
+      "symbol": "RLAY",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 18.62,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 17.1304,
+      "target": 21.413,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-03_ARWR",
+      "type": "triple_resonance",
+      "symbol": "ARWR",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 84.59,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 77.8228,
+      "target": 97.2785,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_KOD",
+      "type": "vcp_breakout",
+      "symbol": "KOD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 41.8,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.456,
+      "target": 48.07,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_KOD",
+      "type": "earnings_play",
+      "symbol": "KOD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 41.8,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.456,
+      "target": 48.07,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_ETON",
+      "type": "vcp_breakout",
+      "symbol": "ETON",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 44.81,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 41.2252,
+      "target": 51.5315,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_ETON",
+      "type": "earnings_play",
+      "symbol": "ETON",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 44.81,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 41.2252,
+      "target": 51.5315,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_TNGX",
+      "type": "vcp_breakout",
+      "symbol": "TNGX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 27.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.3736,
+      "target": 31.717,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_TNGX",
+      "type": "earnings_play",
+      "symbol": "TNGX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 27.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.3736,
+      "target": 31.717,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_DK",
+      "type": "vcp_breakout",
+      "symbol": "DK",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 67.35,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 61.962,
+      "target": 77.4525,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_DK",
+      "type": "earnings_play",
+      "symbol": "DK",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 67.35,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 61.962,
+      "target": 77.4525,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_RVMD",
+      "type": "vcp_breakout",
+      "symbol": "RVMD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 184.07,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 169.3444,
+      "target": 211.6805,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_RVMD",
+      "type": "earnings_play",
+      "symbol": "RVMD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 184.07,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 169.3444,
+      "target": 211.6805,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_TCMD",
+      "type": "vcp_breakout",
+      "symbol": "TCMD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 29.23,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 26.8916,
+      "target": 33.6145,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_TCMD",
+      "type": "earnings_play",
+      "symbol": "TCMD",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 29.23,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 26.8916,
+      "target": 33.6145,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_PACS",
+      "type": "vcp_breakout",
+      "symbol": "PACS",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 45.14,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 41.5288,
+      "target": 51.911,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_PACS",
+      "type": "earnings_play",
+      "symbol": "PACS",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 45.14,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 41.5288,
+      "target": 51.911,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_DAWN",
+      "type": "vcp_breakout",
+      "symbol": "DAWN",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 21.53,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 19.8076,
+      "target": 24.7595,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_TVTX",
+      "type": "vcp_breakout",
+      "symbol": "TVTX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 54.56,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 50.1952,
+      "target": 62.744,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_TVTX",
+      "type": "earnings_play",
+      "symbol": "TVTX",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 54.56,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 50.1952,
+      "target": 62.744,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_VLO",
+      "type": "vcp_breakout",
+      "symbol": "VLO",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 312.81,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 287.7852,
+      "target": 359.7315,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_LQDA",
+      "type": "vcp_breakout",
+      "symbol": "LQDA",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 83.43,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 76.7556,
+      "target": 95.9445,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_LQDA",
+      "type": "earnings_play",
+      "symbol": "LQDA",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 83.43,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 76.7556,
+      "target": 95.9445,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_RLAY",
+      "type": "vcp_breakout",
+      "symbol": "RLAY",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 18.62,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 17.1304,
+      "target": 21.413,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_RLAY",
+      "type": "earnings_play",
+      "symbol": "RLAY",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 18.62,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 17.1304,
+      "target": 21.413,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_RCUS",
+      "type": "vcp_breakout",
+      "symbol": "RCUS",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 27.83,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.6036,
+      "target": 32.0045,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_RCUS",
+      "type": "earnings_play",
+      "symbol": "RCUS",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 27.83,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 25.6036,
+      "target": 32.0045,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_NUVB",
+      "type": "vcp_breakout",
+      "symbol": "NUVB",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 6.39,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 5.8788,
+      "target": 7.3485,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_NUVB",
+      "type": "earnings_play",
+      "symbol": "NUVB",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 6.39,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 5.8788,
+      "target": 7.3485,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-03_ARWR",
+      "type": "vcp_breakout",
+      "symbol": "ARWR",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 84.59,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 77.8228,
+      "target": 97.2785,
+      "status": "open"
+    },
+    {
+      "id": "earnings_play_2026-08-03_ARWR",
+      "type": "earnings_play",
+      "symbol": "ARWR",
+      "triggeredAt": "2026-08-03T16:00:37.643Z",
+      "entryPrice": 84.59,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 77.8228,
+      "target": 97.2785,
       "status": "open"
     }
   ]
