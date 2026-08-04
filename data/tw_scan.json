@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-04T18:23:44.543Z",
+  "scannedAt": "2026-08-04T20:56:49.863Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 17,
@@ -364,7 +364,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 1.0,
+          "actual": 1,
           "estimate": 1.69,
           "surprisePct": -0.4083
         },
@@ -442,7 +442,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 3.0,
+          "actual": 3,
           "estimate": 3.07633,
           "surprisePct": -0.0248
         },
@@ -542,7 +542,7 @@
         "current": 8.3495,
         "pct90d": 15.97,
         "pct30d": 0.79,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -594,7 +594,7 @@
           "qtr": "2025-09-30 00:00:00",
           "actual": 0.9,
           "estimate": 0.9,
-          "surprisePct": 0.0
+          "surprisePct": 0
         },
         {
           "qtr": "2025-12-31 00:00:00",
@@ -698,7 +698,7 @@
         "current": 10.4918,
         "pct90d": 23.21,
         "pct30d": 1.28,
-        "pct7d": 0.0
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -761,7 +761,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -826,7 +826,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 1.0,
+          "actual": 1,
           "estimate": 1.275,
           "surprisePct": -0.2157
         }
@@ -977,7 +977,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -1024,7 +1024,7 @@
       "surpriseHistory": [
         {
           "qtr": "2025-09-30 00:00:00",
-          "actual": 6.0,
+          "actual": 6,
           "estimate": 6.1265,
           "surprisePct": -0.020599999
         },
@@ -1135,8 +1135,8 @@
       "epsRevision": {
         "current": 2.6419,
         "pct90d": 7.73,
-        "pct30d": 0.0,
-        "pct7d": 0.0
+        "pct30d": 0,
+        "pct7d": 0
       },
       "epsRevisionCounts": {
         "up7d": 1,
@@ -1200,7 +1200,7 @@
           "qtr": "2026-03-31 00:00:00",
           "actual": 0.62,
           "estimate": 0.62,
-          "surprisePct": 0.0
+          "surprisePct": 0
         }
       ],
       "recommendation": {
