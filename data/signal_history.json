@@ -11322,11 +11322,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-05T18:34:11.178Z",
       "entryPrice": 84.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 84.31,
+      "exitDate": "2026-08-04T21:00:03.558Z",
       "stopLoss": 77.5652,
       "target": 96.9565,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-05_PACS",
@@ -11334,11 +11334,11 @@
       "symbol": "PACS",
       "triggeredAt": "2026-06-05T18:34:11.178Z",
       "entryPrice": 37.03,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 37.03,
+      "exitDate": "2026-08-04T21:00:03.558Z",
       "stopLoss": 34.0676,
       "target": 42.5845,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-05_HUT",
@@ -11358,11 +11358,11 @@
       "symbol": "CRWD",
       "triggeredAt": "2026-06-05T18:34:11.178Z",
       "entryPrice": 680.64,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 680.64,
+      "exitDate": "2026-08-04T21:00:03.558Z",
       "stopLoss": 626.1888,
       "target": 782.736,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "triple_resonance_2026-06-05_UCTT",
@@ -11370,11 +11370,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-05T18:34:11.178Z",
       "entryPrice": 84.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 84.31,
+      "exitDate": "2026-08-04T21:00:03.558Z",
       "stopLoss": 77.5652,
       "target": 96.9565,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-05_UCTT",
@@ -11382,11 +11382,11 @@
       "symbol": "UCTT",
       "triggeredAt": "2026-06-05T18:34:11.178Z",
       "entryPrice": 84.31,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 84.31,
+      "exitDate": "2026-08-04T21:00:03.558Z",
       "stopLoss": 77.5652,
       "target": 96.9565,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-05_PACS",
@@ -11394,11 +11394,11 @@
       "symbol": "PACS",
       "triggeredAt": "2026-06-05T18:34:11.178Z",
       "entryPrice": 37.03,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 37.03,
+      "exitDate": "2026-08-04T21:00:03.558Z",
       "stopLoss": 34.0676,
       "target": 42.5845,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-05_ESPR",
@@ -43138,6 +43138,42 @@
       "exitDate": null,
       "stopLoss": 72.9836,
       "target": 91.2295,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-04_STTK",
+      "type": "rs_leader",
+      "symbol": "STTK",
+      "triggeredAt": "2026-08-04T20:56:47.198Z",
+      "entryPrice": 7.92,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.2864,
+      "target": 9.108,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-04_ORIC",
+      "type": "discovery",
+      "symbol": "ORIC",
+      "triggeredAt": "2026-08-04T20:56:47.198Z",
+      "entryPrice": 13.47,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 12.3924,
+      "target": 15.4905,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-04_STTK",
+      "type": "triple_resonance",
+      "symbol": "STTK",
+      "triggeredAt": "2026-08-04T20:56:47.198Z",
+      "entryPrice": 7.92,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.2864,
+      "target": 9.108,
       "status": "open"
     }
   ]
