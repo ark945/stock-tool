@@ -1,24 +1,8 @@
 {
-  "generatedAt": 1785917427876,
-  "scannedAt": "2026-08-05T08:10:27.876Z",
-  "universeSize": 31,
-  "matched": 30,
-  "hits": 1,
-  "bySymbol": {
-    "FCEL": {
-      "filings": [
-        {
-          "insider": "Livingston III Homer John",
-          "title": "Director",
-          "date": "2026-07-16",
-          "shares": 26343,
-          "price": 18.7893,
-          "value": 494967
-        }
-      ],
-      "totalValue30d": 494967,
-      "buyerCount30d": 1,
-      "clusterBuy": true
-    }
-  }
+  "generatedAt": 1786003753454,
+  "scannedAt": "2026-08-06T08:09:13.454Z",
+  "universeSize": 36,
+  "matched": 33,
+  "hits": 0,
+  "bySymbol": {}
 }
