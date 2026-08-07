@@ -1,8 +1,8 @@
 {
-  "scannedAt": "2026-08-07T17:38:10.810Z",
+  "scannedAt": "2026-08-07T20:23:44.051Z",
   "universeSize": 104,
   "scannedCount": 104,
-  "passedCount": 28,
+  "passedCount": 29,
   "benchmark": {
     "symbol": "0050.TW",
     "ret12_1": 101.72
@@ -466,8 +466,8 @@
       "vcpPivot": 70.8,
       "vcpBaseDays": 5,
       "vcpPriorPullbackPct": 11.1,
-      "rsRating": 78,
-      "compositeScore": 57,
+      "rsRating": 79,
+      "compositeScore": 58,
       "earningsDate": 1787529600,
       "daysToEarnings": 17,
       "shortPctOfFloat": null,
@@ -602,6 +602,84 @@
       "sectorEtf": "0052.TW"
     },
     {
+      "symbol": "3036.TW",
+      "name": "\u6587\u66c4",
+      "price": 233.5,
+      "changePct": 3.78,
+      "ret1m": 10.4,
+      "ret3m": -11.72,
+      "ret12_1": 62.69,
+      "rs12_1": -39.02,
+      "accel": -2.66,
+      "volExpand": 1.87,
+      "ma50": 223.34,
+      "avgVol20": 11351158,
+      "high52w": 308,
+      "high3m": 308,
+      "vcpScore": 0,
+      "vcpDepth": null,
+      "vcpBaseNumber": 0,
+      "vcpPivot": null,
+      "vcpBaseDays": 0,
+      "vcpPriorPullbackPct": null,
+      "rsRating": 65,
+      "compositeScore": 56,
+      "earningsDate": null,
+      "daysToEarnings": null,
+      "shortPctOfFloat": null,
+      "shortRatio": null,
+      "recentUpgrades": [],
+      "recentDowngrades": [],
+      "surpriseHistory": [
+        {
+          "qtr": "2025-06-30 00:00:00",
+          "actual": 2.28,
+          "estimate": 2.20844,
+          "surprisePct": 0.0324
+        },
+        {
+          "qtr": "2025-09-30 00:00:00",
+          "actual": 3.4,
+          "estimate": 2.88332,
+          "surprisePct": 0.1792
+        },
+        {
+          "qtr": "2025-12-31 00:00:00",
+          "actual": 3.45,
+          "estimate": 3.28502,
+          "surprisePct": 0.0502
+        },
+        {
+          "qtr": "2026-03-31 00:00:00",
+          "actual": null,
+          "estimate": 4.69186,
+          "surprisePct": null
+        }
+      ],
+      "recommendation": {
+        "strongBuy": 3,
+        "buy": 4,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      "epsRevision": {
+        "current": 24.2588,
+        "pct90d": 28.98,
+        "pct30d": -0.38,
+        "pct7d": 0.0
+      },
+      "epsRevisionCounts": {
+        "up7d": 0,
+        "up30d": 0,
+        "down7d": 1,
+        "down30d": 1
+      },
+      "sector": "Technology",
+      "industry": "Electronic Components",
+      "sectorEtf": "0052.TW"
+    },
+    {
       "symbol": "2395.TW",
       "name": "\u7814\u83ef",
       "price": 622,
@@ -622,7 +700,7 @@
       "vcpPivot": null,
       "vcpBaseDays": 0,
       "vcpPriorPullbackPct": null,
-      "rsRating": 71,
+      "rsRating": 72,
       "compositeScore": 54,
       "earningsDate": 1793232000,
       "daysToEarnings": 83,
@@ -700,8 +778,8 @@
       "vcpPivot": null,
       "vcpBaseDays": 0,
       "vcpPriorPullbackPct": null,
-      "rsRating": 60,
-      "compositeScore": 52,
+      "rsRating": 58,
+      "compositeScore": 51,
       "earningsDate": 1793145600,
       "daysToEarnings": 82,
       "shortPctOfFloat": null,
@@ -778,8 +856,8 @@
       "vcpPivot": null,
       "vcpBaseDays": 0,
       "vcpPriorPullbackPct": null,
-      "rsRating": 68,
-      "compositeScore": 49,
+      "rsRating": 69,
+      "compositeScore": 50,
       "earningsDate": 1792368000,
       "daysToEarnings": 73,
       "shortPctOfFloat": null,
@@ -856,8 +934,8 @@
       "vcpPivot": 770,
       "vcpBaseDays": 6,
       "vcpPriorPullbackPct": 22.8,
-      "rsRating": 64,
-      "compositeScore": 44,
+      "rsRating": 62,
+      "compositeScore": 43,
       "earningsDate": 1793145600,
       "daysToEarnings": 82,
       "shortPctOfFloat": null,
@@ -934,8 +1012,8 @@
       "vcpPivot": 139,
       "vcpBaseDays": 32,
       "vcpPriorPullbackPct": 16.3,
-      "rsRating": 57,
-      "compositeScore": 41,
+      "rsRating": 55,
+      "compositeScore": 40,
       "earningsDate": 1787184000,
       "daysToEarnings": 13,
       "shortPctOfFloat": null,
@@ -1012,8 +1090,8 @@
       "vcpPivot": 76,
       "vcpBaseDays": 5,
       "vcpPriorPullbackPct": 33.2,
-      "rsRating": 54,
-      "compositeScore": 35,
+      "rsRating": 52,
+      "compositeScore": 34,
       "earningsDate": 1785974400,
       "daysToEarnings": -1,
       "shortPctOfFloat": null,
@@ -1090,7 +1168,7 @@
       "vcpPivot": 58.4,
       "vcpBaseDays": 41,
       "vcpPriorPullbackPct": 22.5,
-      "rsRating": 43,
+      "rsRating": 42,
       "compositeScore": 33,
       "earningsDate": null,
       "daysToEarnings": null,
@@ -1156,8 +1234,8 @@
       "vcpPivot": 98.3,
       "vcpBaseDays": 13,
       "vcpPriorPullbackPct": 15.2,
-      "rsRating": 47,
-      "compositeScore": 32,
+      "rsRating": 45,
+      "compositeScore": 31,
       "earningsDate": 1785974400,
       "daysToEarnings": -1,
       "shortPctOfFloat": null,
@@ -1234,8 +1312,8 @@
       "vcpPivot": null,
       "vcpBaseDays": 0,
       "vcpPriorPullbackPct": null,
-      "rsRating": 40,
-      "compositeScore": 31,
+      "rsRating": 38,
+      "compositeScore": 30,
       "earningsDate": null,
       "daysToEarnings": null,
       "shortPctOfFloat": null,
@@ -1300,8 +1378,8 @@
       "vcpPivot": 59.9,
       "vcpBaseDays": 8,
       "vcpPriorPullbackPct": 24.2,
-      "rsRating": 50,
-      "compositeScore": 31,
+      "rsRating": 48,
+      "compositeScore": 30,
       "earningsDate": 1786579200,
       "daysToEarnings": 6,
       "shortPctOfFloat": null,
@@ -1378,8 +1456,8 @@
       "vcpPivot": 265,
       "vcpBaseDays": 5,
       "vcpPriorPullbackPct": 6.6,
-      "rsRating": 36,
-      "compositeScore": 29,
+      "rsRating": 35,
+      "compositeScore": 28,
       "earningsDate": 1786492800,
       "daysToEarnings": 5,
       "shortPctOfFloat": null,
@@ -1456,7 +1534,7 @@
       "vcpPivot": null,
       "vcpBaseDays": 0,
       "vcpPriorPullbackPct": null,
-      "rsRating": 19,
+      "rsRating": 18,
       "compositeScore": 28,
       "earningsDate": null,
       "daysToEarnings": null,
@@ -1534,7 +1612,7 @@
       "vcpPivot": 36.9,
       "vcpBaseDays": 36,
       "vcpPriorPullbackPct": 0.3,
-      "rsRating": 26,
+      "rsRating": 25,
       "compositeScore": 24,
       "earningsDate": 1787788800,
       "daysToEarnings": 20,
@@ -1584,84 +1662,6 @@
       "sector": "Financial Services",
       "industry": "Banks - Regional",
       "sectorEtf": "0055.TW"
-    },
-    {
-      "symbol": "2324.TW",
-      "name": "\u4ec1\u5bf6",
-      "price": 37.3,
-      "changePct": 0.95,
-      "ret1m": 1.91,
-      "ret3m": 21.1,
-      "ret12_1": 22,
-      "rs12_1": -79.72,
-      "accel": 0.27,
-      "volExpand": 0.77,
-      "ma50": 36.89,
-      "avgVol20": 50551861,
-      "high52w": 47.75,
-      "high3m": 47.75,
-      "vcpScore": 4,
-      "vcpDepth": 17,
-      "vcpBaseNumber": 1,
-      "vcpPivot": 38.7,
-      "vcpBaseDays": 33,
-      "vcpPriorPullbackPct": 30.5,
-      "rsRating": 33,
-      "compositeScore": 24,
-      "earningsDate": 1786579200,
-      "daysToEarnings": 6,
-      "shortPctOfFloat": null,
-      "shortRatio": null,
-      "recentUpgrades": [],
-      "recentDowngrades": [],
-      "surpriseHistory": [
-        {
-          "qtr": "2025-06-30 00:00:00",
-          "actual": 0.11,
-          "estimate": 0.34574,
-          "surprisePct": -0.6818
-        },
-        {
-          "qtr": "2025-09-30 00:00:00",
-          "actual": 0.45,
-          "estimate": 0.50336,
-          "surprisePct": -0.106000006
-        },
-        {
-          "qtr": "2025-12-31 00:00:00",
-          "actual": 0.31,
-          "estimate": 0.34263,
-          "surprisePct": -0.0952
-        },
-        {
-          "qtr": "2026-03-31 00:00:00",
-          "actual": 0.45,
-          "estimate": 0.43629,
-          "surprisePct": 0.031400003
-        }
-      ],
-      "recommendation": {
-        "strongBuy": 2,
-        "buy": 0,
-        "hold": 5,
-        "sell": 2,
-        "strongSell": 1
-      },
-      "epsRevision": {
-        "current": 2.147,
-        "pct90d": 3.05,
-        "pct30d": 1.3,
-        "pct7d": -7.05
-      },
-      "epsRevisionCounts": {
-        "up7d": 1,
-        "up30d": 1,
-        "down7d": 0,
-        "down30d": 0
-      },
-      "sector": "Technology",
-      "industry": "Computer Hardware",
-      "sectorEtf": "0052.TW"
     },
     {
       "symbol": "2425.TW",
@@ -1730,6 +1730,84 @@
       "sectorEtf": "0052.TW"
     },
     {
+      "symbol": "2324.TW",
+      "name": "\u4ec1\u5bf6",
+      "price": 37.3,
+      "changePct": 0.95,
+      "ret1m": 1.91,
+      "ret3m": 21.1,
+      "ret12_1": 22,
+      "rs12_1": -79.72,
+      "accel": 0.27,
+      "volExpand": 0.77,
+      "ma50": 36.89,
+      "avgVol20": 50551861,
+      "high52w": 47.75,
+      "high3m": 47.75,
+      "vcpScore": 4,
+      "vcpDepth": 17,
+      "vcpBaseNumber": 1,
+      "vcpPivot": 38.7,
+      "vcpBaseDays": 33,
+      "vcpPriorPullbackPct": 30.5,
+      "rsRating": 31,
+      "compositeScore": 23,
+      "earningsDate": 1786579200,
+      "daysToEarnings": 6,
+      "shortPctOfFloat": null,
+      "shortRatio": null,
+      "recentUpgrades": [],
+      "recentDowngrades": [],
+      "surpriseHistory": [
+        {
+          "qtr": "2025-06-30 00:00:00",
+          "actual": 0.11,
+          "estimate": 0.34574,
+          "surprisePct": -0.6818
+        },
+        {
+          "qtr": "2025-09-30 00:00:00",
+          "actual": 0.45,
+          "estimate": 0.50336,
+          "surprisePct": -0.106000006
+        },
+        {
+          "qtr": "2025-12-31 00:00:00",
+          "actual": 0.31,
+          "estimate": 0.34263,
+          "surprisePct": -0.0952
+        },
+        {
+          "qtr": "2026-03-31 00:00:00",
+          "actual": 0.45,
+          "estimate": 0.43629,
+          "surprisePct": 0.031400003
+        }
+      ],
+      "recommendation": {
+        "strongBuy": 2,
+        "buy": 0,
+        "hold": 5,
+        "sell": 2,
+        "strongSell": 1
+      },
+      "epsRevision": {
+        "current": 2.147,
+        "pct90d": 3.05,
+        "pct30d": 1.3,
+        "pct7d": -7.05
+      },
+      "epsRevisionCounts": {
+        "up7d": 1,
+        "up30d": 1,
+        "down7d": 0,
+        "down30d": 0
+      },
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "sectorEtf": "0052.TW"
+    },
+    {
       "symbol": "2376.TW",
       "name": "\u6280\u5609",
       "price": 344,
@@ -1750,7 +1828,7 @@
       "vcpPivot": 360,
       "vcpBaseDays": 43,
       "vcpPriorPullbackPct": 22.4,
-      "rsRating": 22,
+      "rsRating": 21,
       "compositeScore": 23,
       "earningsDate": 1786579200,
       "daysToEarnings": 6,
@@ -1806,165 +1884,9 @@
       "sector": "Technology",
       "industry": "Computer Hardware",
       "sectorEtf": "0052.TW"
-    },
-    {
-      "symbol": "3034.TW",
-      "name": "\u806f\u8a60",
-      "price": 543,
-      "changePct": -1.27,
-      "ret1m": 0.18,
-      "ret3m": 9.37,
-      "ret12_1": 21.8,
-      "rs12_1": -79.92,
-      "accel": 0.06,
-      "volExpand": 0.8,
-      "ma50": 508.39,
-      "avgVol20": 5357657,
-      "high52w": 606,
-      "high3m": 606,
-      "vcpScore": 4,
-      "vcpDepth": 18,
-      "vcpBaseNumber": 1,
-      "vcpPivot": 572,
-      "vcpBaseDays": 11,
-      "vcpPriorPullbackPct": 14.9,
-      "rsRating": 29,
-      "compositeScore": 23,
-      "earningsDate": 1785801600,
-      "daysToEarnings": -3,
-      "shortPctOfFloat": null,
-      "shortRatio": null,
-      "recentUpgrades": [],
-      "recentDowngrades": [],
-      "surpriseHistory": [
-        {
-          "qtr": "2025-09-30 00:00:00",
-          "actual": 6.0,
-          "estimate": 6.1265,
-          "surprisePct": -0.020599999
-        },
-        {
-          "qtr": "2025-12-31 00:00:00",
-          "actual": 6.07,
-          "estimate": 5.35929,
-          "surprisePct": 0.13260001
-        },
-        {
-          "qtr": "2026-03-31 00:00:00",
-          "actual": 6.19,
-          "estimate": 5.73249,
-          "surprisePct": 0.0798
-        },
-        {
-          "qtr": "2026-06-30 00:00:00",
-          "actual": 10.39,
-          "estimate": 7.94303,
-          "surprisePct": 0.3081
-        }
-      ],
-      "recommendation": {
-        "strongBuy": 3,
-        "buy": 2,
-        "hold": 10,
-        "sell": 2,
-        "strongSell": 0
-      },
-      "epsRevision": {
-        "current": 29.7304,
-        "pct90d": 12.14,
-        "pct30d": 2.75,
-        "pct7d": 1.52
-      },
-      "epsRevisionCounts": {
-        "up7d": 1,
-        "up30d": 1,
-        "down7d": 0,
-        "down30d": 0
-      },
-      "sector": "Technology",
-      "industry": "Semiconductors",
-      "sectorEtf": "0052.TW"
     }
   ],
   "discoveries": [
-    {
-      "symbol": "2357.TW",
-      "name": "\u83ef\u78a9",
-      "price": 818,
-      "changePct": -2.39,
-      "ret1m": 19.59,
-      "ret3m": 19.24,
-      "ret12_1": 0.29,
-      "rs12_1": -101.42,
-      "accel": 3.05,
-      "volExpand": 0.92,
-      "ma50": 761.58,
-      "avgVol20": 4603745,
-      "high52w": 964,
-      "high3m": 964,
-      "vcpScore": 4,
-      "vcpDepth": 12,
-      "vcpBaseNumber": 1,
-      "vcpPivot": 859,
-      "vcpBaseDays": 5,
-      "vcpPriorPullbackPct": 1.7,
-      "rsRating": 5,
-      "compositeScore": 12,
-      "earningsDate": 1786492800,
-      "daysToEarnings": 5,
-      "shortPctOfFloat": null,
-      "shortRatio": null,
-      "recentUpgrades": [],
-      "recentDowngrades": [],
-      "surpriseHistory": [
-        {
-          "qtr": "2025-06-30 00:00:00",
-          "actual": 13.16,
-          "estimate": 12.55878,
-          "surprisePct": 0.0479
-        },
-        {
-          "qtr": "2025-09-30 00:00:00",
-          "actual": 14.15,
-          "estimate": 12.5723,
-          "surprisePct": 0.12550001
-        },
-        {
-          "qtr": "2025-12-31 00:00:00",
-          "actual": 14.88,
-          "estimate": 10.17067,
-          "surprisePct": 0.463
-        },
-        {
-          "qtr": "2026-03-31 00:00:00",
-          "actual": null,
-          "estimate": 11.43153,
-          "surprisePct": null
-        }
-      ],
-      "recommendation": {
-        "strongBuy": 1,
-        "buy": 4,
-        "hold": 6,
-        "sell": 1,
-        "strongSell": 0
-      },
-      "epsRevision": {
-        "current": 54.5759,
-        "pct90d": 11.22,
-        "pct30d": 1.19,
-        "pct7d": 1.23
-      },
-      "epsRevisionCounts": {
-        "up7d": 1,
-        "up30d": 8,
-        "down7d": 0,
-        "down30d": 0
-      },
-      "sector": "Technology",
-      "industry": "Computer Hardware",
-      "sectorEtf": "0052.TW"
-    },
     {
       "symbol": "2884.TW",
       "name": "\u7389\u5c71\u91d1",
@@ -2042,6 +1964,84 @@
       "sector": "Financial Services",
       "industry": "Banks - Regional",
       "sectorEtf": "0055.TW"
+    },
+    {
+      "symbol": "2357.TW",
+      "name": "\u83ef\u78a9",
+      "price": 818,
+      "changePct": -2.39,
+      "ret1m": 19.59,
+      "ret3m": 19.24,
+      "ret12_1": 0.29,
+      "rs12_1": -101.42,
+      "accel": 3.05,
+      "volExpand": 0.92,
+      "ma50": 761.58,
+      "avgVol20": 4603745,
+      "high52w": 964,
+      "high3m": 964,
+      "vcpScore": 4,
+      "vcpDepth": 12,
+      "vcpBaseNumber": 1,
+      "vcpPivot": 859,
+      "vcpBaseDays": 5,
+      "vcpPriorPullbackPct": 1.7,
+      "rsRating": 4,
+      "compositeScore": 11,
+      "earningsDate": 1786492800,
+      "daysToEarnings": 5,
+      "shortPctOfFloat": null,
+      "shortRatio": null,
+      "recentUpgrades": [],
+      "recentDowngrades": [],
+      "surpriseHistory": [
+        {
+          "qtr": "2025-06-30 00:00:00",
+          "actual": 13.16,
+          "estimate": 12.55878,
+          "surprisePct": 0.0479
+        },
+        {
+          "qtr": "2025-09-30 00:00:00",
+          "actual": 14.15,
+          "estimate": 12.5723,
+          "surprisePct": 0.12550001
+        },
+        {
+          "qtr": "2025-12-31 00:00:00",
+          "actual": 14.88,
+          "estimate": 10.17067,
+          "surprisePct": 0.463
+        },
+        {
+          "qtr": "2026-03-31 00:00:00",
+          "actual": null,
+          "estimate": 11.43153,
+          "surprisePct": null
+        }
+      ],
+      "recommendation": {
+        "strongBuy": 1,
+        "buy": 4,
+        "hold": 6,
+        "sell": 1,
+        "strongSell": 0
+      },
+      "epsRevision": {
+        "current": 54.5759,
+        "pct90d": 11.22,
+        "pct30d": 1.19,
+        "pct7d": 1.23
+      },
+      "epsRevisionCounts": {
+        "up7d": 1,
+        "up30d": 8,
+        "down7d": 0,
+        "down30d": 0
+      },
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "sectorEtf": "0052.TW"
     }
   ],
   "tripleResonance": []
