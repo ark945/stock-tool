@@ -12006,11 +12006,11 @@
       "symbol": "VIAV",
       "triggeredAt": "2026-06-08T19:14:24.769Z",
       "entryPrice": 48.06,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 48.06,
+      "exitDate": "2026-08-07T20:28:05.892Z",
       "stopLoss": 44.2152,
       "target": 55.269,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-08_VIAV",
@@ -12018,11 +12018,11 @@
       "symbol": "VIAV",
       "triggeredAt": "2026-06-08T19:14:24.769Z",
       "entryPrice": 48.06,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 48.06,
+      "exitDate": "2026-08-07T20:28:05.892Z",
       "stopLoss": 44.2152,
       "target": 55.269,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-08_STX",
@@ -45394,6 +45394,126 @@
       "exitDate": null,
       "stopLoss": 153.962,
       "target": 192.4525,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-07_TWLO",
+      "type": "rs_leader",
+      "symbol": "TWLO",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 241.28,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 221.9776,
+      "target": 277.472,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-07_IBRX",
+      "type": "rs_leader",
+      "symbol": "IBRX",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 7.64,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.0288,
+      "target": 8.786,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-07_CACI",
+      "type": "discovery",
+      "symbol": "CACI",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 644.43,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 592.8756,
+      "target": 741.0945,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-07_HALO",
+      "type": "discovery",
+      "symbol": "HALO",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 103.12,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 94.8704,
+      "target": 118.588,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-07_APPN",
+      "type": "discovery",
+      "symbol": "APPN",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 34.64,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 31.8688,
+      "target": 39.836,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-07_ABNB",
+      "type": "discovery",
+      "symbol": "ABNB",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 178.07,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 163.8244,
+      "target": 204.7805,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-07_ORIC",
+      "type": "discovery",
+      "symbol": "ORIC",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 13.5,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 12.42,
+      "target": 15.525,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-07_EXPE",
+      "type": "discovery",
+      "symbol": "EXPE",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 310.68,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 285.8256,
+      "target": 357.282,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-07_IBRX",
+      "type": "vcp_breakout",
+      "symbol": "IBRX",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 7.64,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.0288,
+      "target": 8.786,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-07_EXPE",
+      "type": "vcp_breakout",
+      "symbol": "EXPE",
+      "triggeredAt": "2026-08-07T20:23:41.388Z",
+      "entryPrice": 310.68,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 285.8256,
+      "target": 357.282,
       "status": "open"
     }
   ]
