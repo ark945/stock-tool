@@ -1,58 +1,58 @@
 {
-  "computedAt": 1786113360626,
+  "computedAt": 1786124506933,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1859,
+        "total": 1864,
         "winners": 38,
-        "losers": 560,
-        "open": 1261,
-        "winRate": 0.0635,
+        "losers": 582,
+        "open": 1244,
+        "winRate": 0.0613,
         "avgWin": 27.29,
-        "avgLoss": -6.28,
-        "avgReturn": -4.14,
-        "sharpe": -0.61,
-        "avgHoldDays": 52
+        "avgLoss": -6.04,
+        "avgReturn": -4,
+        "sharpe": -0.6,
+        "avgHoldDays": 53
       }
     },
     "discovery": {
       "trailing_252d": {
-        "total": 588,
+        "total": 592,
         "winners": 8,
-        "losers": 191,
-        "open": 389,
-        "winRate": 0.0402,
+        "losers": 194,
+        "open": 390,
+        "winRate": 0.0396,
         "avgWin": 37.42,
-        "avgLoss": -2.22,
-        "avgReturn": -0.63,
-        "sharpe": -0.14,
+        "avgLoss": -2.18,
+        "avgReturn": -0.62,
+        "sharpe": -0.13,
         "avgHoldDays": 54
       }
     },
     "triple_resonance": {
       "trailing_252d": {
-        "total": 241,
+        "total": 243,
         "winners": 8,
-        "losers": 80,
-        "open": 153,
-        "winRate": 0.0909,
+        "losers": 84,
+        "open": 151,
+        "winRate": 0.087,
         "avgWin": 28.69,
-        "avgLoss": -0.18,
-        "avgReturn": 2.44,
-        "sharpe": 0.56,
+        "avgLoss": -0.17,
+        "avgReturn": 2.34,
+        "sharpe": 0.55,
         "avgHoldDays": 58
       }
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 864,
+        "total": 867,
         "winners": 8,
-        "losers": 150,
-        "open": 706,
-        "winRate": 0.0506,
+        "losers": 156,
+        "open": 703,
+        "winRate": 0.0488,
         "avgWin": 28.11,
-        "avgLoss": -3.15,
-        "avgReturn": -1.57,
+        "avgLoss": -3.03,
+        "avgReturn": -1.51,
         "sharpe": -0.28,
         "avgHoldDays": 56
       }
