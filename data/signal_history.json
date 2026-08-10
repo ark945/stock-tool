@@ -13614,11 +13614,11 @@
       "symbol": "HIW",
       "triggeredAt": "2026-06-11T19:33:17.254Z",
       "entryPrice": 30.32,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 30.32,
+      "exitDate": "2026-08-10T20:28:22.892Z",
       "stopLoss": 27.8944,
       "target": 34.868,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-11_HIW",
@@ -13626,11 +13626,11 @@
       "symbol": "HIW",
       "triggeredAt": "2026-06-11T19:33:17.254Z",
       "entryPrice": 30.32,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 30.32,
+      "exitDate": "2026-08-10T20:28:22.892Z",
       "stopLoss": 27.8944,
       "target": 34.868,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-11_CAKE",
@@ -46246,6 +46246,42 @@
       "exitDate": null,
       "stopLoss": 18.3908,
       "target": 22.9885,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-10_HZO",
+      "type": "rs_leader",
+      "symbol": "HZO",
+      "triggeredAt": "2026-08-10T20:24:03.222Z",
+      "entryPrice": 52.12,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 47.9504,
+      "target": 59.938,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-10_BFLY",
+      "type": "rs_leader",
+      "symbol": "BFLY",
+      "triggeredAt": "2026-08-10T20:24:03.222Z",
+      "entryPrice": 9.7,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 8.924,
+      "target": 11.155,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-10_APPN",
+      "type": "discovery",
+      "symbol": "APPN",
+      "triggeredAt": "2026-08-10T20:24:03.222Z",
+      "entryPrice": 35.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 32.7336,
+      "target": 40.917,
       "status": "open"
     }
   ]

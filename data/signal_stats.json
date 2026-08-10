@@ -1,12 +1,12 @@
 {
-  "computedAt": 1786383973387,
+  "computedAt": 1786393702909,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1893,
+        "total": 1895,
         "winners": 38,
         "losers": 651,
-        "open": 1204,
+        "open": 1206,
         "winRate": 0.0552,
         "avgWin": 27.29,
         "avgLoss": -5.4,
@@ -17,14 +17,14 @@
     },
     "discovery": {
       "trailing_252d": {
-        "total": 616,
+        "total": 617,
         "winners": 8,
-        "losers": 208,
+        "losers": 209,
         "open": 400,
-        "winRate": 0.037,
+        "winRate": 0.0369,
         "avgWin": 37.42,
-        "avgLoss": -2.04,
-        "avgReturn": -0.58,
+        "avgLoss": -2.03,
+        "avgReturn": -0.57,
         "sharpe": -0.13,
         "avgHoldDays": 54
       }
@@ -47,11 +47,11 @@
       "trailing_252d": {
         "total": 879,
         "winners": 8,
-        "losers": 178,
-        "open": 693,
-        "winRate": 0.043,
+        "losers": 179,
+        "open": 692,
+        "winRate": 0.0428,
         "avgWin": 28.11,
-        "avgLoss": -2.66,
+        "avgLoss": -2.64,
         "avgReturn": -1.33,
         "sharpe": -0.26,
         "avgHoldDays": 57
