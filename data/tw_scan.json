@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-10T17:42:06.992Z",
+  "scannedAt": "2026-08-10T20:24:05.906Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 30,
@@ -748,7 +748,7 @@
       "surpriseHistory": [],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -1707,7 +1707,7 @@
       "surpriseHistory": [
         {
           "qtr": "2025-09-30 00:00:00",
-          "actual": 6.0,
+          "actual": 6,
           "estimate": 6.1265,
           "surprisePct": -0.020599999
         },
