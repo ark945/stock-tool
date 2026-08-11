@@ -1,12 +1,12 @@
 {
-  "computedAt": 1786393702909,
+  "computedAt": 1786459469779,
   "stats": {
     "rs_leader": {
       "trailing_252d": {
-        "total": 1895,
+        "total": 1920,
         "winners": 38,
         "losers": 651,
-        "open": 1206,
+        "open": 1231,
         "winRate": 0.0552,
         "avgWin": 27.29,
         "avgLoss": -5.4,
@@ -17,13 +17,13 @@
     },
     "discovery": {
       "trailing_252d": {
-        "total": 617,
+        "total": 630,
         "winners": 8,
-        "losers": 209,
-        "open": 400,
-        "winRate": 0.0369,
+        "losers": 210,
+        "open": 412,
+        "winRate": 0.0367,
         "avgWin": 37.42,
-        "avgLoss": -2.03,
+        "avgLoss": -2.02,
         "avgReturn": -0.57,
         "sharpe": -0.13,
         "avgHoldDays": 54
@@ -31,10 +31,10 @@
     },
     "triple_resonance": {
       "trailing_252d": {
-        "total": 246,
+        "total": 250,
         "winners": 8,
         "losers": 89,
-        "open": 149,
+        "open": 153,
         "winRate": 0.0825,
         "avgWin": 28.69,
         "avgLoss": -0.16,
@@ -45,14 +45,14 @@
     },
     "vcp_breakout": {
       "trailing_252d": {
-        "total": 879,
+        "total": 892,
         "winners": 8,
-        "losers": 179,
-        "open": 692,
-        "winRate": 0.0428,
+        "losers": 180,
+        "open": 704,
+        "winRate": 0.0426,
         "avgWin": 28.11,
-        "avgLoss": -2.64,
-        "avgReturn": -1.33,
+        "avgLoss": -2.63,
+        "avgReturn": -1.32,
         "sharpe": -0.26,
         "avgHoldDays": 57
       }
@@ -61,8 +61,8 @@
       "trailing_252d": {
         "insufficientData": true,
         "sampleSize": 17,
-        "total": 220,
-        "open": 203
+        "total": 223,
+        "open": 206
       }
     }
   }
