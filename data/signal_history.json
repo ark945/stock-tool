@@ -14010,11 +14010,11 @@
       "symbol": "KLAC",
       "triggeredAt": "2026-06-12T18:36:58.857Z",
       "entryPrice": 252.38,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 252.38,
+      "exitDate": "2026-08-11T20:31:08.183Z",
       "stopLoss": 232.1896,
       "target": 290.237,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-12_MRVL",
@@ -14022,11 +14022,11 @@
       "symbol": "MRVL",
       "triggeredAt": "2026-06-12T18:36:58.857Z",
       "entryPrice": 286.56,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 286.56,
+      "exitDate": "2026-08-11T20:31:08.183Z",
       "stopLoss": 263.6352,
       "target": 329.544,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-12_CAKE",
@@ -14034,11 +14034,11 @@
       "symbol": "CAKE",
       "triggeredAt": "2026-06-12T18:36:58.857Z",
       "entryPrice": 75.93,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 75.93,
+      "exitDate": "2026-08-11T20:31:08.183Z",
       "stopLoss": 69.8556,
       "target": 87.3195,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "discovery_2026-06-12_AMRX",
@@ -14046,11 +14046,11 @@
       "symbol": "AMRX",
       "triggeredAt": "2026-06-12T18:36:58.857Z",
       "entryPrice": 16.44,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 16.44,
+      "exitDate": "2026-08-11T20:31:08.183Z",
       "stopLoss": 15.1248,
       "target": 18.906,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "vcp_breakout_2026-06-12_CAKE",
@@ -14058,11 +14058,11 @@
       "symbol": "CAKE",
       "triggeredAt": "2026-06-12T18:36:58.857Z",
       "entryPrice": 75.93,
-      "exitPrice": null,
-      "exitDate": null,
+      "exitPrice": 75.93,
+      "exitDate": "2026-08-11T20:31:08.183Z",
       "stopLoss": 69.8556,
       "target": 87.3195,
-      "status": "open"
+      "status": "timed_out"
     },
     {
       "id": "rs_leader_2026-06-15_WBX",
@@ -47026,6 +47026,78 @@
       "exitDate": null,
       "stopLoss": 17.802,
       "target": 22.2525,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-11_LITE",
+      "type": "rs_leader",
+      "symbol": "LITE",
+      "triggeredAt": "2026-08-11T20:27:14.141Z",
+      "entryPrice": 820.59,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 754.9428,
+      "target": 943.6785,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-11_CGTX",
+      "type": "rs_leader",
+      "symbol": "CGTX",
+      "triggeredAt": "2026-08-11T20:27:14.141Z",
+      "entryPrice": 1.14,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 1.0488,
+      "target": 1.311,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-11_HZO",
+      "type": "discovery",
+      "symbol": "HZO",
+      "triggeredAt": "2026-08-11T20:27:14.141Z",
+      "entryPrice": 52.46,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 48.2632,
+      "target": 60.329,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-11_ANIK",
+      "type": "discovery",
+      "symbol": "ANIK",
+      "triggeredAt": "2026-08-11T20:27:14.141Z",
+      "entryPrice": 21.23,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 19.5316,
+      "target": 24.4145,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-11_SE",
+      "type": "discovery",
+      "symbol": "SE",
+      "triggeredAt": "2026-08-11T20:27:14.141Z",
+      "entryPrice": 131.51,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 120.9892,
+      "target": 151.2365,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-11_CGTX",
+      "type": "vcp_breakout",
+      "symbol": "CGTX",
+      "triggeredAt": "2026-08-11T20:27:14.141Z",
+      "entryPrice": 1.14,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 1.0488,
+      "target": 1.311,
       "status": "open"
     }
   ]
