@@ -47759,6 +47759,102 @@
       "stopLoss": 138.8556,
       "target": 173.5695,
       "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-12_AAOI",
+      "type": "rs_leader",
+      "symbol": "AAOI",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 141.8,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 130.456,
+      "target": 163.07,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-12_FCEL",
+      "type": "rs_leader",
+      "symbol": "FCEL",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 22.06,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 20.2952,
+      "target": 25.369,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-12_ONTO",
+      "type": "rs_leader",
+      "symbol": "ONTO",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 338.38,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 311.3096,
+      "target": 389.137,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-12_FOSL",
+      "type": "rs_leader",
+      "symbol": "FOSL",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 5.28,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 4.8576,
+      "target": 6.072,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-12_ZLAB",
+      "type": "discovery",
+      "symbol": "ZLAB",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 25.3,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 23.276,
+      "target": 29.095,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-12_ANIK",
+      "type": "discovery",
+      "symbol": "ANIK",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 21.67,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 19.9364,
+      "target": 24.9205,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-12_TMDX",
+      "type": "discovery",
+      "symbol": "TMDX",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 87.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 80.5736,
+      "target": 100.717,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-12_ANIK",
+      "type": "vcp_breakout",
+      "symbol": "ANIK",
+      "triggeredAt": "2026-08-12T17:52:39.536Z",
+      "entryPrice": 21.67,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 19.9364,
+      "target": 24.9205,
+      "status": "open"
     }
   ]
 }
