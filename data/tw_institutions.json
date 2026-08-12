@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786545901870,
+  "generatedAt": 1786557336358,
   "tradeDate": "20260812",
   "count": 1086,
   "bySymbol": {
@@ -6708,6 +6708,21 @@
         "conviction": "neutral"
       }
     },
+    "2423": {
+      "foreign": 35000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 37000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -105422,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -103422,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "6923": {
       "foreign": 17000,
       "investmentTrust": 0,
@@ -6734,21 +6749,6 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -164999,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "2423": {
-      "foreign": 35000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 37000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -105422,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -103422,
         "days": 5,
         "conviction": "neutral"
       }
@@ -6843,6 +6843,21 @@
         "conviction": "neutral"
       }
     },
+    "3021": {
+      "foreign": 35000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 35000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 112000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 111000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "8429": {
       "foreign": 35000,
       "investmentTrust": 0,
@@ -6869,21 +6884,6 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": 137000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "3021": {
-      "foreign": 35000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 35000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 112000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 111000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -7128,21 +7128,6 @@
         "conviction": "neutral"
       }
     },
-    "7768": {
-      "foreign": 31000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 31000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 8000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 6000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "4108": {
       "foreign": 29000,
       "investmentTrust": 0,
@@ -7184,6 +7169,21 @@
         "investmentTrust": 0,
         "dealer": 9166,
         "total": 479720,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "7768": {
+      "foreign": 31000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 31000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 8000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 6000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -7923,6 +7923,21 @@
         "conviction": "neutral"
       }
     },
+    "1439": {
+      "foreign": 15000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 16000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 40000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 40000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "7689": {
       "foreign": 16000,
       "investmentTrust": 0,
@@ -7949,21 +7964,6 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": 44000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "1439": {
-      "foreign": 15000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 16000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 40000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 40000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -8388,21 +8388,6 @@
         "conviction": "neutral"
       }
     },
-    "6934": {
-      "foreign": 9000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 9000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 21000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 21000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "2430": {
       "foreign": 0,
       "investmentTrust": 0,
@@ -8463,6 +8448,21 @@
         "conviction": "neutral"
       }
     },
+    "6934": {
+      "foreign": 9000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 9000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 21000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 21000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "6906": {
       "foreign": 9000,
       "investmentTrust": 0,
@@ -8519,36 +8519,6 @@
         "investmentTrust": 0,
         "dealer": -15974,
         "total": 16032,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6928": {
-      "foreign": 7000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 8000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -15000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -14000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8467": {
-      "foreign": 8000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 8000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 16000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 15000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -8643,17 +8613,32 @@
         "conviction": "neutral"
       }
     },
-    "6792": {
+    "6928": {
       "foreign": 7000,
       "investmentTrust": 0,
       "dealer": 0,
-      "total": 7000,
+      "total": 8000,
       "conviction": "neutral",
       "cum5d": {
-        "foreign": 11050,
+        "foreign": -15000,
         "investmentTrust": 0,
         "dealer": 0,
-        "total": 9050,
+        "total": -14000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8467": {
+      "foreign": 8000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 8000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 16000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 15000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -8688,6 +8673,21 @@
         "conviction": "neutral"
       }
     },
+    "6792": {
+      "foreign": 7000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 7000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 11050,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 9050,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "2816": {
       "foreign": 14960,
       "investmentTrust": 0,
@@ -8714,21 +8714,6 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -112685,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "7760": {
-      "foreign": 6000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 6000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -35000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -35000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -8883,6 +8868,21 @@
         "conviction": "neutral"
       }
     },
+    "7760": {
+      "foreign": 6000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 6000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -35000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -35000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "8162": {
       "foreign": 6000,
       "investmentTrust": 0,
@@ -8894,36 +8894,6 @@
         "investmentTrust": 0,
         "dealer": -18608,
         "total": 20531,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8466": {
-      "foreign": 4000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 5000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -11000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -10000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "9943": {
-      "foreign": -2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 5000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -44000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -22000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -9078,6 +9048,36 @@
         "conviction": "neutral"
       }
     },
+    "8466": {
+      "foreign": 4000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 5000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -11000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -10000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "9943": {
+      "foreign": -2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 5000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -44000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -22000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "4306": {
       "foreign": 17951,
       "investmentTrust": 0,
@@ -9179,36 +9179,6 @@
         "investmentTrust": 0,
         "dealer": 10815,
         "total": -58185,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "7721": {
-      "foreign": 4000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 4000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 41000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 41000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6965": {
-      "foreign": 4000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 4000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 3000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -1000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -9363,6 +9333,36 @@
         "conviction": "neutral"
       }
     },
+    "7721": {
+      "foreign": 4000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 4000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 41000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 41000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6965": {
+      "foreign": 4000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 4000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 3000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -1000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "2739": {
       "foreign": 6270,
       "investmentTrust": 0,
@@ -9374,96 +9374,6 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": 3210,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "9931": {
-      "foreign": 3000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 3000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -14000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -14249,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8201": {
-      "foreign": 2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 3000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -12000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -11000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8940": {
-      "foreign": 3000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 3000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 11000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 4000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6921": {
-      "foreign": 6000,
-      "investmentTrust": 0,
-      "dealer": -3000,
-      "total": 3000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -5000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -6000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "7736": {
-      "foreign": 3000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 3000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -10000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -12000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "7835": {
-      "foreign": 3000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 3000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 13000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 13000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -9558,6 +9468,96 @@
         "conviction": "neutral"
       }
     },
+    "9931": {
+      "foreign": 3000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 3000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -14000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -14249,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8201": {
+      "foreign": 2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 3000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -12000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -11000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8940": {
+      "foreign": 3000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 3000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 11000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 4000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6921": {
+      "foreign": 6000,
+      "investmentTrust": 0,
+      "dealer": -3000,
+      "total": 3000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -5000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -6000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "7736": {
+      "foreign": 3000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 3000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -10000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -12000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "7835": {
+      "foreign": 3000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 3000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 13000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 13000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "6645": {
       "foreign": 2000,
       "investmentTrust": 0,
@@ -9569,81 +9569,6 @@
         "investmentTrust": 0,
         "dealer": -362,
         "total": 1638,
-        "days": 4,
-        "conviction": "neutral"
-      }
-    },
-    "6807": {
-      "foreign": 2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 3000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 3000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6835": {
-      "foreign": 2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 19000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 17000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8482": {
-      "foreign": 2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 6000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 6000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8443": {
-      "foreign": 2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -14000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -15000,
-        "days": 4,
-        "conviction": "neutral"
-      }
-    },
-    "9918": {
-      "foreign": 2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 7000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 7000,
         "days": 4,
         "conviction": "neutral"
       }
@@ -9843,6 +9768,81 @@
         "conviction": "neutral"
       }
     },
+    "6807": {
+      "foreign": 2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 3000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 3000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6835": {
+      "foreign": 2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 19000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 17000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8482": {
+      "foreign": 2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 6000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 6000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8443": {
+      "foreign": 2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -14000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -15000,
+        "days": 4,
+        "conviction": "neutral"
+      }
+    },
+    "9918": {
+      "foreign": 2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 7000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 7000,
+        "days": 4,
+        "conviction": "neutral"
+      }
+    },
     "6869": {
       "foreign": 9417,
       "investmentTrust": 0,
@@ -9899,96 +9899,6 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -7967,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8481": {
-      "foreign": 1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 6000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 7000,
-        "days": 4,
-        "conviction": "neutral"
-      }
-    },
-    "8442": {
-      "foreign": 1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -16000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -18000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "7705": {
-      "foreign": 1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 12000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 10000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6994": {
-      "foreign": -3000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 46000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 60000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "9926": {
-      "foreign": 1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 4000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 4000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "9937": {
-      "foreign": -1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -9000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -15000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -10158,6 +10068,96 @@
         "conviction": "neutral"
       }
     },
+    "8481": {
+      "foreign": 1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 6000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 7000,
+        "days": 4,
+        "conviction": "neutral"
+      }
+    },
+    "8442": {
+      "foreign": 1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -16000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -18000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "7705": {
+      "foreign": 1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 12000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 10000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6994": {
+      "foreign": -3000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 46000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 60000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "9926": {
+      "foreign": 1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 4000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 4000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "9937": {
+      "foreign": -1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -9000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -15000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "6776": {
       "foreign": -2090,
       "investmentTrust": 0,
@@ -10245,51 +10245,6 @@
         "dealer": 0,
         "total": 111,
         "days": 1,
-        "conviction": "neutral"
-      }
-    },
-    "6796": {
-      "foreign": -1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 0,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -35000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -34000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6936": {
-      "foreign": 0,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 0,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 5000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 3000,
-        "days": 4,
-        "conviction": "neutral"
-      }
-    },
-    "9929": {
-      "foreign": 0,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": 0,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 2000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 4000,
-        "days": 4,
         "conviction": "neutral"
       }
     },
@@ -10473,6 +10428,51 @@
         "conviction": "neutral"
       }
     },
+    "6796": {
+      "foreign": -1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 0,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -35000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -34000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6936": {
+      "foreign": 0,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 0,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 5000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 3000,
+        "days": 4,
+        "conviction": "neutral"
+      }
+    },
+    "9929": {
+      "foreign": 0,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": 0,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 2000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 4000,
+        "days": 4,
+        "conviction": "neutral"
+      }
+    },
     "3029": {
       "foreign": -23120,
       "investmentTrust": 0,
@@ -10529,36 +10529,6 @@
         "investmentTrust": 0,
         "dealer": -1133,
         "total": -53133,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8487": {
-      "foreign": -1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -9000,
-        "investmentTrust": 0,
-        "dealer": 3910,
-        "total": -7090,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6887": {
-      "foreign": -1000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -1000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -20000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -25000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -10653,6 +10623,36 @@
         "conviction": "neutral"
       }
     },
+    "8487": {
+      "foreign": -1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -9000,
+        "investmentTrust": 0,
+        "dealer": 3910,
+        "total": -7090,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6887": {
+      "foreign": -1000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -1000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -20000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -25000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "4999": {
       "foreign": -1000,
       "investmentTrust": 0,
@@ -10664,51 +10664,6 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": 14053,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "9944": {
-      "foreign": 7000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -4000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -3000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6918": {
-      "foreign": -2000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 2000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 6000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6952": {
-      "foreign": 0,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -2000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -16000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -21000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -10818,6 +10773,51 @@
         "conviction": "neutral"
       }
     },
+    "9944": {
+      "foreign": 7000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -4000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -3000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6918": {
+      "foreign": -2000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 2000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 6000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6952": {
+      "foreign": 0,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -2000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -16000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -21000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
     "5236": {
       "foreign": -295,
       "investmentTrust": 0,
@@ -10830,21 +10830,6 @@
         "dealer": -3676,
         "total": -95176,
         "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "6955": {
-      "foreign": -2000,
-      "investmentTrust": 0,
-      "dealer": -1000,
-      "total": -3000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -3000,
-        "investmentTrust": 0,
-        "dealer": -1880,
-        "total": -4880,
-        "days": 3,
         "conviction": "neutral"
       }
     },
@@ -10905,6 +10890,21 @@
         "dealer": 0,
         "total": 87000,
         "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6955": {
+      "foreign": -2000,
+      "investmentTrust": 0,
+      "dealer": -1000,
+      "total": -3000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -3000,
+        "investmentTrust": 0,
+        "dealer": -1880,
+        "total": -4880,
+        "days": 3,
         "conviction": "neutral"
       }
     },
@@ -10998,51 +10998,6 @@
         "conviction": "neutral"
       }
     },
-    "7791": {
-      "foreign": -4000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -4000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -5000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -7000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8072": {
-      "foreign": -4000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -4000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -135000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -136000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
-    "8463": {
-      "foreign": -5000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -4000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 4000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 9000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "4572": {
       "foreign": -3000,
       "investmentTrust": 0,
@@ -11103,32 +11058,47 @@
         "conviction": "neutral"
       }
     },
-    "8367": {
-      "foreign": -5000,
+    "7791": {
+      "foreign": -4000,
       "investmentTrust": 0,
       "dealer": 0,
-      "total": -5000,
+      "total": -4000,
       "conviction": "neutral",
       "cum5d": {
-        "foreign": -6950,
+        "foreign": -5000,
         "investmentTrust": 0,
         "dealer": 0,
-        "total": -11950,
+        "total": -7000,
         "days": 5,
         "conviction": "neutral"
       }
     },
-    "6958": {
+    "8072": {
+      "foreign": -4000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -4000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -135000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -136000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8463": {
       "foreign": -5000,
       "investmentTrust": 0,
       "dealer": 0,
-      "total": -5000,
+      "total": -4000,
       "conviction": "neutral",
       "cum5d": {
-        "foreign": -11000,
+        "foreign": 4000,
         "investmentTrust": 0,
         "dealer": 0,
-        "total": -12000,
+        "total": 9000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -11219,6 +11189,36 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -10000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8367": {
+      "foreign": -5000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -5000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -6950,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -11950,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6958": {
+      "foreign": -5000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -5000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -11000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -12000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -11343,21 +11343,6 @@
         "conviction": "neutral"
       }
     },
-    "6916": {
-      "foreign": -5000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -6000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -12000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -9850,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "2701": {
       "foreign": -7000,
       "investmentTrust": 0,
@@ -11414,6 +11399,21 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -80000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6916": {
+      "foreign": -5000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -6000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -12000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -9850,
         "days": 5,
         "conviction": "neutral"
       }
@@ -11733,21 +11733,6 @@
         "conviction": "neutral"
       }
     },
-    "6988": {
-      "foreign": -3000,
-      "investmentTrust": 0,
-      "dealer": -8000,
-      "total": -11000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -43000,
-        "investmentTrust": 0,
-        "dealer": -20001,
-        "total": -67001,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "1201": {
       "foreign": -32000,
       "investmentTrust": 0,
@@ -11789,6 +11774,21 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -25000,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6988": {
+      "foreign": -3000,
+      "investmentTrust": 0,
+      "dealer": -8000,
+      "total": -11000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -43000,
+        "investmentTrust": 0,
+        "dealer": -20001,
+        "total": -67001,
         "days": 5,
         "conviction": "neutral"
       }
@@ -12138,21 +12138,6 @@
         "conviction": "accumulating"
       }
     },
-    "8488": {
-      "foreign": -17000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -18000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": 34000,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": 36000,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "4441": {
       "foreign": -79000,
       "investmentTrust": 60000,
@@ -12179,6 +12164,21 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": 344802,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "8488": {
+      "foreign": -17000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -18000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": 34000,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": 36000,
         "days": 5,
         "conviction": "neutral"
       }
@@ -12633,21 +12633,6 @@
         "conviction": "neutral"
       }
     },
-    "9912": {
-      "foreign": -34000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -34000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -39001,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -40001,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "1537": {
       "foreign": -34000,
       "investmentTrust": 0,
@@ -12659,6 +12644,21 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -102745,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "9912": {
+      "foreign": -34000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -34000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -39001,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -40001,
         "days": 5,
         "conviction": "neutral"
       }
@@ -12723,21 +12723,6 @@
         "conviction": "neutral"
       }
     },
-    "6914": {
-      "foreign": -35000,
-      "investmentTrust": 0,
-      "dealer": 0,
-      "total": -35000,
-      "conviction": "neutral",
-      "cum5d": {
-        "foreign": -51800,
-        "investmentTrust": 0,
-        "dealer": 0,
-        "total": -54800,
-        "days": 5,
-        "conviction": "neutral"
-      }
-    },
     "2611": {
       "foreign": -35000,
       "investmentTrust": 0,
@@ -12749,6 +12734,21 @@
         "investmentTrust": 0,
         "dealer": 0,
         "total": -9001,
+        "days": 5,
+        "conviction": "neutral"
+      }
+    },
+    "6914": {
+      "foreign": -35000,
+      "investmentTrust": 0,
+      "dealer": 0,
+      "total": -35000,
+      "conviction": "neutral",
+      "cum5d": {
+        "foreign": -51800,
+        "investmentTrust": 0,
+        "dealer": 0,
+        "total": -54800,
         "days": 5,
         "conviction": "neutral"
       }
