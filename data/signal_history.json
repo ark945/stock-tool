@@ -47855,6 +47855,54 @@
       "stopLoss": 19.9364,
       "target": 24.9205,
       "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-12_LQDA",
+      "type": "rs_leader",
+      "symbol": "LQDA",
+      "triggeredAt": "2026-08-12T20:29:10.755Z",
+      "entryPrice": 78.79,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 72.4868,
+      "target": 90.6085,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-12_STIM",
+      "type": "discovery",
+      "symbol": "STIM",
+      "triggeredAt": "2026-08-12T20:29:10.755Z",
+      "entryPrice": 3.21,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 2.9532,
+      "target": 3.6915,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-12_SE",
+      "type": "discovery",
+      "symbol": "SE",
+      "triggeredAt": "2026-08-12T20:29:10.755Z",
+      "entryPrice": 128.11,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 117.8612,
+      "target": 147.3265,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-12_LITE",
+      "type": "triple_resonance",
+      "symbol": "LITE",
+      "triggeredAt": "2026-08-12T20:29:10.755Z",
+      "entryPrice": 932.47,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 857.8724,
+      "target": 1072.3405,
+      "status": "open"
     }
   ]
 }
