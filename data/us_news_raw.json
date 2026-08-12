@@ -1,65 +1,7 @@
 {
-  "generatedAt": 1786480262810,
+  "generatedAt": 1786546000252,
   "market": "US",
   "bySymbol": {
-    "PYXS": [
-      {
-        "title": "Pyxis Oncology Secures Up to $114 Million Private Placement",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/healthcare/articles/pyxis-oncology-secures-114-million-143054646.html",
-        "pubTime": "2026-06-30T14:30:54Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Analysts See Nearly 3X Upside in Pyxis Oncology (PYXS)",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/analysts-see-nearly-3x-upside-182244737.html",
-        "pubTime": "2026-06-10T18:22:44Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Creative Global Technology Holdings And 2 Other Promising Penny Stocks",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/creative-global-technology-holdings-2-120459193.html",
-        "pubTime": "2026-05-12T12:04:59Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "NanoViricides’ Measles Treatment Granted Orphan Drug Designation by FDA",
-        "publisher": "Exec Edge",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/nanoviricides-measles-treatment-granted-orphan-123533417.html",
-        "pubTime": "2026-05-06T12:35:33Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "3 Penny Stocks With Market Caps Under $400M To Consider",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-market-caps-180513167.html",
-        "pubTime": "2026-04-13T18:05:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "3 Promising Penny Stocks With Market Caps Up To $300M",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/3-promising-penny-stocks-market-180546323.html",
-        "pubTime": "2026-01-07T18:05:46Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Wall Street Set to Open Higher Thursday as Inflation Rises Less Than Expected; Jobless Claims Decline",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/news/wall-street-set-open-higher-142313999.html",
-        "pubTime": "2025-12-18T14:23:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Investors Await Key Inflation, Employment Data as US Futures Rise Thursday Pre-Bell",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/news/investors-await-key-inflation-employment-131550410.html",
-        "pubTime": "2025-12-18T13:15:50Z",
-        "source": "yfinance"
-      }
-    ],
     "FSLY": [
       {
         "title": "Fastly Conference: Security Expansion and AI Demand Fuel Growth Momentum",
@@ -269,68 +211,147 @@
         "source": "yfinance"
       }
     ],
-    "STTK": [
+    "EXAS": [
       {
-        "title": "Why Shattuck Labs Stock Flew Nearly 5% Higher on Friday",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/07/24/why-shattuck-labs-stock-flew-nearly-5-higher-on-fr/",
-        "pubTime": "2026-07-24T22:27:47Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "SpaceX initiated, PayPal upgraded: Wall Street's top analyst calls",
-        "publisher": "The Fly",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-paypal-upgraded-wall-133248895.html",
-        "pubTime": "2026-07-24T13:32:48Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Albertsons, Blue Owl Capital, Cleveland-Cliffs, Chime Financial, Digital Realty, Dover, PayPal Holdings, SpaceX, and More",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/07/24/here-are-fridays-top-wall-street-analyst-research-calls-albertsons-blue-owl-capital-cleveland-cliffs-chime-financial-digital-realty-dover-paypal-holdings-spacex-and-more/",
-        "pubTime": "2026-07-24T12:00:51Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
-        "publisher": "The Fly",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-upgraded-carvana-downgraded-wall-135411903.html",
-        "pubTime": "2026-07-20T13:39:11Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "We're Not Very Worried About Shattuck Labs' (NASDAQ:STTK) Cash Burn Rate",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/were-not-very-worried-shattuck-113348386.html",
-        "pubTime": "2026-05-11T11:33:48Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK)",
+        "title": "Abbott Laboratories (ABT) Announces Completion of Acquisition of Exact Sciences",
         "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-initiates-coverage-shattuck-081752393.html",
-        "pubTime": "2026-05-01T08:17:52Z",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/abbott-laboratories-abt-announces-completion-155039714.html",
+        "pubTime": "2026-03-26T15:50:39Z",
         "source": "yfinance"
       },
       {
-        "title": "Why Shattuck Labs Stock Soared More Than 53% Higher This Week",
+        "title": "Abbott closes $23 billion deal to buy Madison-based Exact Sciences",
+        "publisher": "Milwaukee Journal Sentinel",
+        "link": "https://www.jsonline.com/story/money/business/2026/03/24/abbott-closes-23-billion-deal-to-buy-madison-based-exact-sciences/89290685007/",
+        "pubTime": "2026-03-24T10:05:54Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Clearwater Analytics Stock Lands $37 Million Investment Amid 77% ARR Growth Surge and Pending Buyout",
         "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/03/06/why-shattuck-labs-stock-soared-more-than-53-higher/",
-        "pubTime": "2026-03-06T22:02:08Z",
+        "link": "https://www.fool.com/coverage/filings/2026/03/22/clearwater-analytics-stock-lands-usd37-million-investment-amid-77-arr-growth-surge-and-pending-buyout/",
+        "pubTime": "2026-03-22T16:06:47Z",
         "source": "yfinance"
       },
       {
-        "title": "Several Insiders Invested In Shattuck Labs Flagging Positive News",
+        "title": "This $19.8 Million Bet on Commvault Comes Amid a 51% Drop. Here’s What Investors Should Know",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/filings/2026/03/22/this-usd19-8-million-bet-on-commvault-comes-amid-a-51-drop-here-s-what-investors-should-know/",
+        "pubTime": "2026-03-22T13:10:05Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "How Walgreens’ Pharmacy-Led Cologuard Expansion At Exact Sciences (EXAS) Has Changed Its Investment Story",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/several-insiders-invested-shattuck-labs-131343081.html",
-        "pubTime": "2026-01-05T13:13:43Z",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/walgreens-pharmacy-led-cologuard-expansion-041556121.html",
+        "pubTime": "2026-03-22T04:15:56Z",
         "source": "yfinance"
       },
       {
-        "title": "Analyst Confidence Upbeat on Shattuck Labs (STTK) Amid SL-325 Progress and Earlier Q3 2025 Result",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/analyst-confidence-upbeat-shattuck-labs-062614023.html",
-        "pubTime": "2025-11-29T06:26:14Z",
+        "title": "Abbott to close $21B Exact Sciences acquisition Monday",
+        "publisher": "MedTech Dive",
+        "link": "https://www.medtechdive.com/news/abbott-to-close-21b-exact-sciences-acquisition-monday/815315/",
+        "pubTime": "2026-03-20T10:57:54Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "1 Mid-Cap Stock to Consider Right Now and 2 Facing Headwinds",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/news/1-mid-cap-stock-consider-191230410.html",
+        "pubTime": "2026-03-17T19:12:30Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Hedge Fund Beryl Capital Initiated a Position in CSG Systems Worth Over $54 Million. Is the Stock a Buy?",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/filings/2026/03/11/hedge-fund-beryl-capital-initiated-a-position-in-csg-systems-worth-over-usd54-million-is-the-stock-a-buy/",
+        "pubTime": "2026-03-11T18:28:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Exact Sciences Case Study Links Higher Screening Rates With Undervalued Shares",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/exact-sciences-case-study-links-050833218.html",
+        "pubTime": "2026-03-10T05:08:33Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 Cash-Producing Stocks We Approach with Caution",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/news/3-cash-producing-stocks-approach-121937046.html",
+        "pubTime": "2026-03-06T12:19:37Z",
+        "source": "yfinance"
+      }
+    ],
+    "TVTX": [
+      {
+        "title": "Travere Therapeutics (TVTX) Q2 2026 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/travere-therapeutics-tvtx-q2-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-12T00:13:10Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Travere Therapeutics (TVTX) Is Up 9.0% After FILSPARI-Driven Q2 Revenue Jump And Wider Loss",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/healthcare/articles/why-travere-therapeutics-tvtx-9-071119237.html",
+        "pubTime": "2026-08-07T07:11:19Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Travere Therapeutics (TVTX) On Q2 Results And FILSPARI Hopes As Fair Value Stays In View",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-tvtx-q2-results-042942847.html",
+        "pubTime": "2026-08-07T04:29:42Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "This Biotech Dealmaker — Tied To Merck, Travere — Is In A Profit-Taking Zone",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/news/technology/ligand-stock-ligand-pharmaceuticals-earnings-q2-2026/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-06T20:08:21Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Travere Therapeutics, Inc. Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-travere-therapeutics-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-06T12:30:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-06T12:04:49Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Can Travere Therapeutics (TVTX) Be A Bargain After Its Q2 Surge?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/travere-therapeutics-tvtx-bargain-q2-111109412.html",
+        "pubTime": "2026-08-06T11:11:09Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Travere Therapeutics Inc (TVTX) (Q2 2026) Earnings Call Highlights: Record FILSPARI Demand and ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-inc-tvtx-q2-050518742.html",
+        "pubTime": "2026-08-05T05:05:18Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Travere Therapeutics Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/travere-therapeutics-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-05T03:03:56Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Travere (TVTX) Reports Q2 Earnings: What Key Metrics Have to Say",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/travere-tvtx-reports-q2-earnings-213003862.html",
+        "pubTime": "2026-08-04T21:30:03Z",
         "source": "yfinance"
       }
     ],
@@ -399,75 +420,140 @@
         "source": "yfinance"
       }
     ],
-    "TVTX": [
+    "STTK": [
       {
-        "title": "Why Travere Therapeutics (TVTX) Is Up 9.0% After FILSPARI-Driven Q2 Revenue Jump And Wider Loss",
+        "title": "Why Shattuck Labs Stock Flew Nearly 5% Higher on Friday",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/07/24/why-shattuck-labs-stock-flew-nearly-5-higher-on-fr/",
+        "pubTime": "2026-07-24T22:27:47Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "SpaceX initiated, PayPal upgraded: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-paypal-upgraded-wall-133248895.html",
+        "pubTime": "2026-07-24T13:32:48Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Albertsons, Blue Owl Capital, Cleveland-Cliffs, Chime Financial, Digital Realty, Dover, PayPal Holdings, SpaceX, and More",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/07/24/here-are-fridays-top-wall-street-analyst-research-calls-albertsons-blue-owl-capital-cleveland-cliffs-chime-financial-digital-realty-dover-paypal-holdings-spacex-and-more/",
+        "pubTime": "2026-07-24T12:00:51Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-upgraded-carvana-downgraded-wall-135411903.html",
+        "pubTime": "2026-07-20T13:39:11Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "We're Not Very Worried About Shattuck Labs' (NASDAQ:STTK) Cash Burn Rate",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/healthcare/articles/why-travere-therapeutics-tvtx-9-071119237.html",
-        "pubTime": "2026-08-07T07:11:19Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/were-not-very-worried-shattuck-113348386.html",
+        "pubTime": "2026-05-11T11:33:48Z",
         "source": "yfinance"
       },
       {
-        "title": "Travere Therapeutics (TVTX) On Q2 Results And FILSPARI Hopes As Fair Value Stays In View",
+        "title": "Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK)",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-initiates-coverage-shattuck-081752393.html",
+        "pubTime": "2026-05-01T08:17:52Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Shattuck Labs Stock Soared More Than 53% Higher This Week",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/03/06/why-shattuck-labs-stock-soared-more-than-53-higher/",
+        "pubTime": "2026-03-06T22:02:08Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Several Insiders Invested In Shattuck Labs Flagging Positive News",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-tvtx-q2-results-042942847.html",
-        "pubTime": "2026-08-07T04:29:42Z",
+        "link": "https://finance.yahoo.com/news/several-insiders-invested-shattuck-labs-131343081.html",
+        "pubTime": "2026-01-05T13:13:43Z",
         "source": "yfinance"
       },
       {
-        "title": "This Biotech Dealmaker — Tied To Merck, Travere — Is In A Profit-Taking Zone",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/news/technology/ligand-stock-ligand-pharmaceuticals-earnings-q2-2026/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-06T20:08:21Z",
+        "title": "Analyst Confidence Upbeat on Shattuck Labs (STTK) Amid SL-325 Progress and Earlier Q3 2025 Result",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/analyst-confidence-upbeat-shattuck-labs-062614023.html",
+        "pubTime": "2025-11-29T06:26:14Z",
+        "source": "yfinance"
+      }
+    ],
+    "RVMD": [
+      {
+        "title": "Why Revolution Medicines May Be Big Pharma’s Next Takeover Target",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/12/why-revolution-medicines-may-be-big-pharmas-next-takeover-target/",
+        "pubTime": "2026-08-12T12:50:24Z",
         "source": "yfinance"
       },
       {
-        "title": "Travere Therapeutics, Inc. Q2 2026 Earnings Call Summary",
-        "publisher": "Moby",
-        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-travere-therapeutics-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "pubTime": "2026-08-06T12:30:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-06T12:04:49Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Can Travere Therapeutics (TVTX) Be A Bargain After Its Q2 Surge?",
+        "title": "Revolution Medicines (RVMD) Stock Looks Rich On Fresh RAS Drug Demand",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/travere-therapeutics-tvtx-bargain-q2-111109412.html",
-        "pubTime": "2026-08-06T11:11:09Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/revolution-medicines-rvmd-stock-looks-091121840.html",
+        "pubTime": "2026-08-12T09:11:21Z",
         "source": "yfinance"
       },
       {
-        "title": "Travere Therapeutics Inc (TVTX) (Q2 2026) Earnings Call Highlights: Record FILSPARI Demand and ...",
+        "title": "Revolution Medicines (RVMD) Is Up 6.2% After BeOne-Funded Phase 3 RAS(ON) Deal - Has The Bull Case Changed?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-6-2-061454323.html",
+        "pubTime": "2026-08-12T06:14:54Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Revolution Medicines (RVMD) Looks Fairly Valued As BeOne Deal Expands Its Asia Reach",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-looks-fairly-023528304.html",
+        "pubTime": "2026-08-12T02:35:28Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Can Revolution Medicines (RVMD) Turn A New Ally Into Global Reach?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/revolution-medicines-rvmd-turn-ally-204438976.html",
+        "pubTime": "2026-08-11T20:44:38Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "BeOne and Revolution Medicines partner for oncology therapies",
+        "publisher": "Pharmaceutical Technology",
+        "link": "https://www.pharmaceutical-technology.com/news/beone-revolution-medicines-oncology-therapies/",
+        "pubTime": "2026-08-11T10:45:32Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
+        "publisher": "BioPharma Dive",
+        "link": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
+        "pubTime": "2026-08-07T10:02:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Revolution Medicines Inc (RVMD) (Q2 2026) Earnings Call Highlights: Daraxonrasib Poised to ...",
         "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-inc-tvtx-q2-050518742.html",
-        "pubTime": "2026-08-05T05:05:18Z",
+        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-inc-rvmd-q2-051115755.html",
+        "pubTime": "2026-08-06T05:11:15Z",
         "source": "yfinance"
       },
       {
-        "title": "Travere Therapeutics Q2 Earnings Call Highlights",
+        "title": "Revolution Medicines Q2 Earnings Call Highlights",
         "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/travere-therapeutics-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-05T03:03:56Z",
+        "link": "https://www.marketbeat.com/instant-alerts/revolution-medicines-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-06T04:03:55Z",
         "source": "yfinance"
       },
       {
-        "title": "Travere (TVTX) Reports Q2 Earnings: What Key Metrics Have to Say",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/travere-tvtx-reports-q2-earnings-213003862.html",
-        "pubTime": "2026-08-04T21:30:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Travere Therapeutics (TVTX) Reports Q2 Loss, Beats Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-tvtx-reports-q2-211002605.html",
-        "pubTime": "2026-08-04T21:10:02Z",
+        "title": "Could Revolution Medicines (RVMD) Become a $20 Billion Cancer Drug Story?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/healthcare/articles/could-revolution-medicines-rvmd-become-131956736.html",
+        "pubTime": "2026-08-04T13:19:56Z",
         "source": "yfinance"
       }
     ],
@@ -543,219 +629,75 @@
         "source": "yfinance"
       }
     ],
-    "VSAT": [
+    "IBRX": [
       {
-        "title": "1 Mid-Cap Stock to Keep an Eye On and 2 We Avoid",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/1-mid-cap-stock-keep-143722883.html",
-        "pubTime": "2026-08-10T14:37:22Z",
+        "title": "ImmunityBio (IBRX) Stock Looks Rich On Sales But Strong On Returns",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/immunitybio-ibrx-stock-looks-rich-081411439.html",
+        "pubTime": "2026-08-07T08:14:11Z",
         "source": "yfinance"
       },
       {
-        "title": "Can ASTS' Satellite Connectivity Rollout Across Europe Lift Shares?",
+        "title": "The Bull Case For ImmunityBio (IBRX) Could Change Following ANKTIVA’s Broad UAE Approval And Ongoing Losses",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/healthcare/articles/bull-case-immunitybio-ibrx-could-061428515.html",
+        "pubTime": "2026-08-07T06:14:28Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "IBRX Q2 Earnings & Sales Beat Estimates on Strong Anktiva Uptake",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/technology/articles/asts-satellite-connectivity-rollout-across-142500205.html",
-        "pubTime": "2026-08-10T14:25:00Z",
+        "link": "https://finance.yahoo.com/healthcare/articles/ibrx-q2-earnings-sales-beat-145300297.html",
+        "pubTime": "2026-08-05T14:53:00Z",
         "source": "yfinance"
       },
       {
-        "title": "What Lumentum Stock Adds To A Portfolio Is Not Safety",
-        "publisher": "Trefis",
-        "link": "https://www.trefis.com/articles/610600/what-lumentum-stock-adds-to-a-portfolio-is-not-safety/2026-08-07",
-        "pubTime": "2026-08-07T16:05:50Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Viavi Solutions Q4 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/viavi-solutions-q4-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-06T07:03:58Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Space Stocks Are Roaring Back In August — Here’s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind",
+        "title": "Pfizer, Merck, Amgen Double Down On Cancer And Send Takeover Buzz Around SLS And IBRX Into Overdrive",
         "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/space-stocks-roaring-august-why-asts-rklb-rdw-peers-spacex-behind/cZoJk2CRJep",
-        "pubTime": "2026-08-06T03:25:42Z",
+        "link": "https://stocktwits.com/news-articles/markets/equity/pfizer-merck-amgen-cancer-takeover-buzz-sls-ibrx-overdrive/cZo4hyvRJ4w",
+        "pubTime": "2026-08-05T05:17:57Z",
         "source": "yfinance"
       },
       {
-        "title": "Why ViaSat Stock Dropped After Earnings",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/08/05/why-viasat-stock-dropped-after-earnings/",
-        "pubTime": "2026-08-05T19:02:32Z",
+        "title": "IBRX Founder Soon-Shiong Bets On Anktiva's Next Growth Phase — ImmunityBio Posts Record Q2 Sales",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/immunitybio-ibrx-q2-earnings-anktiva-sales-soon-shiong-retail-bullish/cZo5lMNRJEF",
+        "pubTime": "2026-08-04T13:25:29Z",
         "source": "yfinance"
       },
       {
-        "title": "Can ViaSat-3 Launches Unlock Viasat's Next Growth Phase?",
+        "title": "ImmunityBio (IBRX) Reports Q2 Loss, Beats Revenue Estimates",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/technology/articles/viasat-3-launches-unlock-viasats-165400944.html",
-        "pubTime": "2026-08-05T16:54:00Z",
+        "link": "https://finance.yahoo.com/healthcare/articles/immunitybio-ibrx-reports-q2-loss-125004069.html",
+        "pubTime": "2026-08-04T12:50:04Z",
         "source": "yfinance"
       },
       {
-        "title": "Is Viasat Worth Buying or Is Execution Risk Still Too High Today?",
+        "title": "IBRX Stock Sees Sharp UAE-Driven Jump Followed By Early August Pullback",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/ibrx-stock-sees-sharp-uae-driven-jump-followed-by-early-august-pullback/cZoTtB7RJ3m",
+        "pubTime": "2026-08-03T23:47:46Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Stoke Therapeutics, Inc. (STOK) Reports Q2 Loss, Tops Revenue Estimates",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-worth-buying-execution-risk-165200239.html",
-        "pubTime": "2026-08-05T16:52:00Z",
+        "link": "https://finance.yahoo.com/healthcare/articles/stoke-therapeutics-inc-stok-reports-211002258.html",
+        "pubTime": "2026-08-03T21:10:02Z",
         "source": "yfinance"
       },
       {
-        "title": "Can Viasat's 21.4% 3-Month Rally Keep Climbing or Stall Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/viasats-21-4-3-month-165100347.html",
-        "pubTime": "2026-08-05T16:51:00Z",
+        "title": "ImmunityBio Gains After UAE Approves ANKTIVA for Bladder and Lung Cancer Treatments",
+        "publisher": "InvestorsHub",
+        "link": "https://investorshub.advfn.com/market-news/article/33082/immunitybio-gains-after-uae-approves-anktiva-for-bladder-and-lung-cancer-treatments",
+        "pubTime": "2026-07-30T13:43:58Z",
         "source": "yfinance"
       },
       {
-        "title": "Viasat (VSAT) Stock Looks Fully Priced After A 210% Run",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-vsat-stock-looks-fully-151554073.html",
-        "pubTime": "2026-08-05T15:15:54Z",
-        "source": "yfinance"
-      }
-    ],
-    "EXAS": [
-      {
-        "title": "Abbott Laboratories (ABT) Announces Completion of Acquisition of Exact Sciences",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/abbott-laboratories-abt-announces-completion-155039714.html",
-        "pubTime": "2026-03-26T15:50:39Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Abbott closes $23 billion deal to buy Madison-based Exact Sciences",
-        "publisher": "Milwaukee Journal Sentinel",
-        "link": "https://www.jsonline.com/story/money/business/2026/03/24/abbott-closes-23-billion-deal-to-buy-madison-based-exact-sciences/89290685007/",
-        "pubTime": "2026-03-24T10:05:54Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Clearwater Analytics Stock Lands $37 Million Investment Amid 77% ARR Growth Surge and Pending Buyout",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/coverage/filings/2026/03/22/clearwater-analytics-stock-lands-usd37-million-investment-amid-77-arr-growth-surge-and-pending-buyout/",
-        "pubTime": "2026-03-22T16:06:47Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "This $19.8 Million Bet on Commvault Comes Amid a 51% Drop. Here’s What Investors Should Know",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/coverage/filings/2026/03/22/this-usd19-8-million-bet-on-commvault-comes-amid-a-51-drop-here-s-what-investors-should-know/",
-        "pubTime": "2026-03-22T13:10:05Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "How Walgreens’ Pharmacy-Led Cologuard Expansion At Exact Sciences (EXAS) Has Changed Its Investment Story",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/walgreens-pharmacy-led-cologuard-expansion-041556121.html",
-        "pubTime": "2026-03-22T04:15:56Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Abbott to close $21B Exact Sciences acquisition Monday",
-        "publisher": "MedTech Dive",
-        "link": "https://www.medtechdive.com/news/abbott-to-close-21b-exact-sciences-acquisition-monday/815315/",
-        "pubTime": "2026-03-20T10:57:54Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "1 Mid-Cap Stock to Consider Right Now and 2 Facing Headwinds",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/news/1-mid-cap-stock-consider-191230410.html",
-        "pubTime": "2026-03-17T19:12:30Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Hedge Fund Beryl Capital Initiated a Position in CSG Systems Worth Over $54 Million. Is the Stock a Buy?",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/coverage/filings/2026/03/11/hedge-fund-beryl-capital-initiated-a-position-in-csg-systems-worth-over-usd54-million-is-the-stock-a-buy/",
-        "pubTime": "2026-03-11T18:28:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Exact Sciences Case Study Links Higher Screening Rates With Undervalued Shares",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/exact-sciences-case-study-links-050833218.html",
-        "pubTime": "2026-03-10T05:08:33Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "3 Cash-Producing Stocks We Approach with Caution",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/news/3-cash-producing-stocks-approach-121937046.html",
-        "pubTime": "2026-03-06T12:19:37Z",
-        "source": "yfinance"
-      }
-    ],
-    "RVMD": [
-      {
-        "title": "BeOne and Revolution Medicines partner for oncology therapies",
-        "publisher": "Pharmaceutical Technology",
-        "link": "https://www.pharmaceutical-technology.com/news/beone-revolution-medicines-oncology-therapies/",
-        "pubTime": "2026-08-11T10:45:32Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
-        "publisher": "BioPharma Dive",
-        "link": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
-        "pubTime": "2026-08-07T10:02:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Revolution Medicines Inc (RVMD) (Q2 2026) Earnings Call Highlights: Daraxonrasib Poised to ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-inc-rvmd-q2-051115755.html",
-        "pubTime": "2026-08-06T05:11:15Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Revolution Medicines Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/revolution-medicines-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-06T04:03:55Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Could Revolution Medicines (RVMD) Become a $20 Billion Cancer Drug Story?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/healthcare/articles/could-revolution-medicines-rvmd-become-131956736.html",
-        "pubTime": "2026-08-04T13:19:56Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Read Between These Lines As Eli Lilly, Hot IPO And More Face Key Test",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/eli-lilly-twilio-hinge-health-billiontoone-lead-stocks-to-watch-with-earnings-due/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-03T20:46:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Billionaire Stanley Druckenmiller Bought This Biotech Stock That Has Surged 400%. Is It Still a Buy?",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/08/03/billionaire-stanley-druckenmiller-bought-this-biot/",
-        "pubTime": "2026-08-03T08:12:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Billionaire Stanley Druckenmiller and Wall Street Analysts Love This Biotech Stock",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/08/02/why-billionaire-stanley-druckenmiller-and-wall-st/",
-        "pubTime": "2026-08-02T20:05:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Meet the Stock That's Obliterating Eli Lilly, Johnson & Johnson, and AbbVie Right Now",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/07/29/meet-the-stock-thats-obliterating-eli-lilly-johnso/",
-        "pubTime": "2026-07-29T21:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Will FDA Priority Review for Daraxonrasib Redefine Revolution Medicines' (RVMD) Pancreatic Cancer Narrative?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/healthcare/articles/fda-priority-review-daraxonrasib-redefine-190942568.html",
-        "pubTime": "2026-07-25T19:09:42Z",
+        "title": "IBRX Stock Jumps Overnight: UAE Grants Anktiva Broadest Approval Yet After Founder’s ‘July Birthday News’ Tease",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/ibrx-uae-anktiva-broadest-approval-yet-founder-july-birthday-news/cZNPmbERJTt",
+        "pubTime": "2026-07-30T01:33:00Z",
         "source": "yfinance"
       }
     ],
@@ -868,6 +810,78 @@
         "source": "yfinance"
       }
     ],
+    "TSEM": [
+      {
+        "title": "Tower Semiconductor (TSEM) Q2 2026 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/tower-semiconductor-tsem-q2-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-11T16:30:02Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lightwave Logic, Inc. Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-lightwave-logic-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-11T12:30:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Bank of America sets aggressive Tower Semiconductor target",
+        "publisher": "TheStreet",
+        "link": "https://www.thestreet.com/investing/stocks/bank-of-america-tower-semiconductor-tsem-stock-target",
+        "pubTime": "2026-08-11T01:17:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Tower Semiconductor (TSEM) Stock Trades At A Premium On Earnings Despite Strong Returns",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-tsem-stock-trades-130734987.html",
+        "pubTime": "2026-08-08T13:07:34Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Tower Semiconductor (TSEM) As Record Q3 Guidance Tests The Undervalued Narrative",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-tsem-record-q3-100909595.html",
+        "pubTime": "2026-08-08T10:09:09Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Tower Semiconductor (TSEM) Is Up 14.9% After Record Q3 Revenue Guidance And Profitability Gains - What's Changed",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-tsem-14-9-051253323.html",
+        "pubTime": "2026-08-08T05:12:53Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Here's Why Tower Semiconductor Stock Is Rocketing Higher Today",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/08/07/heres-why-tower-semiconductor-stock-is-rocketing-h/",
+        "pubTime": "2026-08-07T15:38:47Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiation-apple-downgrade-among-133025602.html",
+        "pubTime": "2026-08-07T13:45:22Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/07/here-are-fridays-top-wall-street-analyst-research-calls-baker-hughes-etsy-hubspot-instacart-jetblue-roku-spacex-tower-semiconductor-trade-desk-and-more/",
+        "pubTime": "2026-08-07T11:51:24Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Tower Semiconductor Ltd. Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-tower-semiconductor-ltd-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-04T21:15:30Z",
+        "source": "yfinance"
+      }
+    ],
     "CGEM": [
       {
         "title": "The Bull Case For Cullinan Therapeutics (CGEM) Could Change Following FDA-Backed Phase 2 CLN-049 Trial",
@@ -940,7 +954,86 @@
         "source": "yfinance"
       }
     ],
+    "NRGV": [
+      {
+        "title": "Energy Vault Holdings Inc (NRGV) (Q2 2026) Earnings Call Highlights: Revenue Surges 104% and ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/energy/articles/energy-vault-holdings-inc-nrgv-050140454.html",
+        "pubTime": "2026-08-12T05:01:40Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Energy Vault Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/energy-vault-q2-earnings-call-highlights-2026-08-11/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-12T02:04:16Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Energy Vault Holdings, Inc. (NRGV) Reports Q2 Loss, Beats Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/energy/articles/energy-vault-holdings-inc-nrgv-214505020.html",
+        "pubTime": "2026-08-11T21:45:05Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+        "publisher": "MT Newswires",
+        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-195812887.html",
+        "pubTime": "2026-08-07T19:58:12Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "BKV (BKV) Surpasses Q2 Earnings and Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bkv-bkv-surpasses-q2-earnings-135002161.html",
+        "pubTime": "2026-08-06T13:50:02Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Bloom Energy (BE) Q2 Earnings and Revenues Surpass Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-q2-earnings-revenues-220004609.html",
+        "pubTime": "2026-07-28T22:00:04Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "FLNC, CSIQ, NRGV Stocks Get Citi’s Attention Ahead Of Quarterly Earnings – Firm Says Energy Storage Demand To Drive Upside",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/flnc-csiq-nrgv-stocks-get-citi-upgrade-ahead-of-quarterly-earnings/cZZmkCdR7D7",
+        "pubTime": "2026-07-22T14:44:44Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 energy storage-focused stocks upgraded at Citi",
+        "publisher": "Investing.com",
+        "link": "https://finance.yahoo.com/energy/articles/3-energy-storage-focused-stocks-131256426.html",
+        "pubTime": "2026-07-22T13:12:56Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Citi  Starts Coverage of Energy Vault Holdings, Inc. (NRGV)",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/energy/articles/citi-starts-coverage-energy-vault-085025532.html",
+        "pubTime": "2026-07-02T08:50:25Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Energy Vault Holdings (NRGV) Aiming for Geographic Expansion Through Latest Acquisition",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/energy/articles/energy-vault-holdings-nrgv-aiming-104330583.html",
+        "pubTime": "2026-06-18T10:43:30Z",
+        "source": "yfinance"
+      }
+    ],
     "PACS": [
+      {
+        "title": "PACS (PACS) Q2 2026 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/pacs-pacs-q2-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-12T00:13:10Z",
+        "source": "yfinance"
+      },
       {
         "title": "Biodesix, Inc. (BDSX) Hit a 52 Week High, Can the Run Continue?",
         "publisher": "Zacks",
@@ -1003,16 +1096,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/pacs-groups-nyse-pacs-performance-110728872.html",
         "pubTime": "2026-05-18T11:07:28Z",
         "source": "yfinance"
-      },
-      {
-        "title": "PACS Group Q1 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/pacs-group-q1-earnings-call-highlights-2026-05-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-05-14T08:05:45Z",
-        "source": "yfinance"
       }
     ],
     "LFST": [
+      {
+        "title": "5 Low-Leverage Stocks to Buy as High Oil Prices Shake Investor Confidence",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/5-low-leverage-stocks-buy-130000400.html",
+        "pubTime": "2026-08-12T13:00:00Z",
+        "source": "yfinance"
+      },
       {
         "title": "LifeStance Health (LFST) Upgraded to Buy: Here's Why",
         "publisher": "Zacks",
@@ -1067,6 +1160,150 @@
         "publisher": "StockStory",
         "link": "https://finance.yahoo.com/healthcare/articles/lifestance-health-group-nasdaq-lfst-100654985.html",
         "pubTime": "2026-08-06T10:06:54Z",
+        "source": "yfinance"
+      }
+    ],
+    "LITE": [
+      {
+        "title": "Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/news/technology/supermicro-stock-analysts-cautious-nvidia-positive-news/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-12T14:14:05Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Does Lumentum Holdings (LITE) Have A Bigger AI Optics Opportunity Ahead?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/does-lumentum-holdings-lite-bigger-141341300.html",
+        "pubTime": "2026-08-12T14:13:41Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Stock Jumps as Stellar Earnings Extend Blazing-Hot Run",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/lumentum-earnings-stock-price-d8f52637?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-12T14:01:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Earnings Top Estimates Amid Supply Chain Constraints",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/news/technology/lumentum-stock-lite-lumenum-earnings-news-q22026/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-12T13:31:17Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Q4 Earnings Call Focuses on AI Optics, OCS & NPO Ramps",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/technology/ai/articles/lumentum-q4-earnings-call-focuses-130600686.html",
+        "pubTime": "2026-08-12T13:06:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Nebius, CoreWeave, Lumentum, Quantinuum, Super Micro, and More Stocks That Explain Today’s Market",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/stock-movers-dfcc9c13?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-12T13:04:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Stock Rises 8% Despite a $7 Billion Paper Loss",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lumentum-stock-rises-8-despite-124825722.html",
+        "pubTime": "2026-08-12T12:48:25Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-12T12:06:56Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Stock Markets Face a Lose-Lose on Inflation From an Unlikely Threat",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/stock-market-inflation-things-to-know-today-658a9add?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-12T12:04:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Stock Futures Rebound as AI Trade Reignites Ahead of CPI Inflation Report",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/stock-futures-rise-as-ai-vibe-shifts-before-cpi-inflation-report-udgwirwfxdlH2SohrXXL?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-12T10:59:45Z",
+        "source": "yfinance"
+      }
+    ],
+    "VSAT": [
+      {
+        "title": "Viasat (VSAT) Q1 2027 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/viasat-vsat-q1-2027-earnings-call-transcript/",
+        "pubTime": "2026-08-11T23:49:09Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "1 Mid-Cap Stock to Keep an Eye On and 2 We Avoid",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/1-mid-cap-stock-keep-143722883.html",
+        "pubTime": "2026-08-10T14:37:22Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Can ASTS' Satellite Connectivity Rollout Across Europe Lift Shares?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/technology/articles/asts-satellite-connectivity-rollout-across-142500205.html",
+        "pubTime": "2026-08-10T14:25:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "What Lumentum Stock Adds To A Portfolio Is Not Safety",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/610600/what-lumentum-stock-adds-to-a-portfolio-is-not-safety/2026-08-07",
+        "pubTime": "2026-08-07T16:05:50Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Viavi Solutions Q4 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/viavi-solutions-q4-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-06T07:03:58Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Space Stocks Are Roaring Back In August — Here’s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/space-stocks-roaring-august-why-asts-rklb-rdw-peers-spacex-behind/cZoJk2CRJep",
+        "pubTime": "2026-08-06T03:25:42Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why ViaSat Stock Dropped After Earnings",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/08/05/why-viasat-stock-dropped-after-earnings/",
+        "pubTime": "2026-08-05T19:02:32Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Can ViaSat-3 Launches Unlock Viasat's Next Growth Phase?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/technology/articles/viasat-3-launches-unlock-viasats-165400944.html",
+        "pubTime": "2026-08-05T16:54:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Is Viasat Worth Buying or Is Execution Risk Still Too High Today?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-worth-buying-execution-risk-165200239.html",
+        "pubTime": "2026-08-05T16:52:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Can Viasat's 21.4% 3-Month Rally Keep Climbing or Stall Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/viasats-21-4-3-month-165100347.html",
+        "pubTime": "2026-08-05T16:51:00Z",
         "source": "yfinance"
       }
     ],
@@ -1139,215 +1376,6 @@
         "publisher": "MarketBeat",
         "link": "https://www.marketbeat.com/instant-alerts/sitime-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
         "pubTime": "2026-08-06T05:03:55Z",
-        "source": "yfinance"
-      }
-    ],
-    "LITE": [
-      {
-        "title": "Update: Equities Fall, Oil Advances as Hope Dims for Hormuz Reopening",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/articles/equities-fall-oil-advances-hope-174445449.html",
-        "pubTime": "2026-08-11T17:44:45Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AXT Slides Before Lumentum and Coherent Report Earnings This Week.",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/11/axt-slides-before-lumentum-and-coherent-report-earnings-this-week/",
-        "pubTime": "2026-08-11T17:01:57Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Stocks Mostly Up Pre-Bell as Investors Assess Uncertainty Over US-Iran Deal",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-pre-bell-investors-114821965.html",
-        "pubTime": "2026-08-11T11:48:21Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "“The Bottleneck Isn’t the Chips Anymore”: Goldman Sachs Says These Are AI’s Next Big Winners",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/11/the-bottleneck-isnt-the-chips-anymore-goldman-sachs-says-these-are-ais-next-big-winners/",
-        "pubTime": "2026-08-11T10:25:52Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "CoreWeave’s Forecast Is Key to Stopping Another Earnings Selloff",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-forecast-key-stopping-another-084411013.html",
-        "pubTime": "2026-08-11T08:44:11Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "LITE Vs. COHR Vs. AAOI Vs. IPGP: Which Photonics Stock Do Retail Traders Prefer?",
-        "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/lite-vs-cohr-vs-aaoi-vs-ipgp-which-photonics-stock-do-retail-traders-prefer/cZoZotoRJQb",
-        "pubTime": "2026-08-11T07:47:36Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "12 Nasdaq Stocks Doubled in 2026, But None Are Magnificent Seven",
-        "publisher": "BeInCrypto",
-        "link": "https://beincrypto.com/nasdaq-100-stocks-doubled-2026/",
-        "pubTime": "2026-08-11T05:25:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "S&P 500 Falls Short of Record While Nasdaq Slips",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081026/card/s-p-500-falls-short-of-record-while-nasdaq-slips-lGB8fgiCf17qVqcfDbbD?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-10T20:04:22Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Coherent (COHR) Stock Is Tumbling Today After Massive Optics vs. Memory Debate on Social Media This Weekend",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/10/coherent-cohr-stock-is-tumbling-today-after-massive-optics-vs-memory-debate-on-social-media-this-weekend/",
-        "pubTime": "2026-08-10T19:37:39Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Nvidia Stock Slips as Its AI Investments Draw Fresh Scrutiny",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/nvidia-stock-lancium-investment-buybacks-42d7d975?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-10T16:29:00Z",
-        "source": "yfinance"
-      }
-    ],
-    "RLAY": [
-      {
-        "title": "Relay Therapeutics, Inc. (RLAY) Reports Q2 Loss, Lags Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/relay-therapeutics-inc-rlay-reports-231013986.html",
-        "pubTime": "2026-08-06T23:10:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Akebia Therapeutics (AKBA) Reports Q2 Loss, Lags Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/akebia-therapeutics-akba-reports-q2-221012525.html",
-        "pubTime": "2026-08-05T22:10:12Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Relay Therapeutics Insider Sale Tops $3 Million as Shares Surge 500% This Past Year",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/coverage/filings/2026/06/29/relay-therapeutics-insider-sale-tops-usd3-million-as-shares-surge-500-this-past-year/",
-        "pubTime": "2026-06-30T00:12:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Relay Therapeutics (RLAY) is One of the Best AI Driven Biotech Stocks, Here is Why",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/relay-therapeutics-rlay-one-best-102038031.html",
-        "pubTime": "2026-06-11T10:20:38Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is Relay Therapeutics a Buy After Promising Trial Results?",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/05/22/is-relay-therapeutics-a-buy-after-promising-trial/",
-        "pubTime": "2026-05-22T21:50:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Relay Therapeutics (RLAY) Is Up 6.9% After Follow-On Offering And Early Zovegalisib Data Release",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/relay-therapeutics-rlay-6-9-021606867.html",
-        "pubTime": "2026-05-22T02:16:06Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Relay Therapeutics Stock Popped on Wednesday",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/05/20/why-relay-therapeutics-stock-popped-on-wednesday/",
-        "pubTime": "2026-05-20T23:21:49Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "This Biotech's Drug Just Wiped The Floor With Forecasts",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/news/technology/relay-therapeutics-vascular-anomalies-treatment-pik3ca/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-05-19T20:06:39Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Sector Update: Healthcare Stocks Rise Tuesday Afternoon",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-rise-tuesday-180234466.html",
-        "pubTime": "2026-05-19T18:02:34Z",
-        "source": "yfinance"
-      }
-    ],
-    "FOSL": [
-      {
-        "title": "Fossil Group (FOSL) Soars 19.0%: Is Further Upside Left in the Stock?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-fosl-soars-19-103800705.html",
-        "pubTime": "2026-08-04T10:38:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fossil is closing this many more stores in 2026, CEO says",
-        "publisher": "USA TODAY",
-        "link": "https://www.usatoday.com/story/money/2026/07/16/fossil-store-closures-2026/90945001007/",
-        "pubTime": "2026-07-16T20:32:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "GAP Declines 25% in 3 Months: Time to Buy or Wait for Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gap-declines-25-3-months-172000510.html",
-        "pubTime": "2026-07-16T17:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "44-year-old mall retailer quietly closes 28 stores",
-        "publisher": "TheStreet",
-        "link": "https://www.thestreet.com/retail/iconic-mall-staple-tillys-closes-stores",
-        "pubTime": "2026-07-11T22:25:12Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Are Retail-Wholesale Stocks Lagging  Fossil Group (FOSL) This Year?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/retail-wholesale-stocks-lagging-fossil-134002141.html",
-        "pubTime": "2026-07-10T13:40:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "How to Play American Eagle Stock After a 35% Plunge in 6 Months?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/play-american-eagle-stock-35-160300647.html",
-        "pubTime": "2026-07-02T16:03:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is Fossil Group (FOSL) Stock Outpacing Its Retail-Wholesale Peers This Year?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-fosl-stock-outpacing-134004314.html",
-        "pubTime": "2026-06-24T13:40:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Urban Outfitters (URBN) Up 3.6% Since Last Earnings Report: Can It Continue?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/urban-outfitters-urbn-3-6-153006697.html",
-        "pubTime": "2026-06-19T15:30:06Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Apple is coming for the entire $200 billion glasses market",
-        "publisher": "TheStreet",
-        "link": "https://www.thestreet.com/technology/apple-plans-release-new-smart-glasses",
-        "pubTime": "2026-06-02T16:40:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "3 Penny Stocks With Market Caps Larger Than $100M To Consider",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-market-caps-180529028.html",
-        "pubTime": "2026-05-26T18:05:29Z",
         "source": "yfinance"
       }
     ]
