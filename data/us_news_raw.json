@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786566784896,
+  "generatedAt": 1786632540994,
   "market": "US",
   "bySymbol": {
     "PYXS": [
@@ -60,212 +60,140 @@
         "source": "yfinance"
       }
     ],
-    "FSLY": [
+    "OMER": [
       {
-        "title": "Fastly Conference: Security Expansion and AI Demand Fuel Growth Momentum",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/fastly-conference-security-expansion-and-ai-demand-fuel-growth-momentum-2026-08-10/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-10T22:04:10Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly Stock Is Rising Today: What’s Driving It, and Are AI-Cloud Peers Moving Too?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/10/fastly-stock-is-rising-today-whats-driving-it-and-are-ai-cloud-peers-moving-too/",
-        "pubTime": "2026-08-10T19:17:05Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/fastly-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-08T08:04:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "2 Analysts Just Upped Their Price Targets on Fastly Stock. Here's Why.",
-        "publisher": "Barchart",
-        "link": "https://www.barchart.com/story/news/3702953/2-analysts-just-upped-their-price-targets-on-fastly-stock-here-s-why",
-        "pubTime": "2026-08-06T20:27:36Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly Q2 Earnings Beat as Security Growth Spurs 2026 Outlook Hike",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-q2-earnings-beat-security-185600602.html",
-        "pubTime": "2026-08-06T18:56:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly, Inc. Q2 2026 Earnings Call Summary",
-        "publisher": "Moby",
-        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-fastly-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "pubTime": "2026-08-06T12:30:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly Inc (FSLY) (Q2 2026) Earnings Call Highlights: Record Revenue and Security Growth Drive ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-inc-fsly-q2-2026-050730975.html",
-        "pubTime": "2026-08-06T05:07:30Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly (FSLY) Reports Q2 Earnings: What Key Metrics Have to Say",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-reports-q2-earnings-000003485.html",
-        "pubTime": "2026-08-06T00:00:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly (FSLY) Stock Looks Overvalued Despite A Strong 299% Return",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-stock-looks-overvalued-231349886.html",
-        "pubTime": "2026-08-05T23:13:49Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Fastly (FSLY) Q2 Earnings and Revenues Beat Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-q2-earnings-revenues-221017967.html",
-        "pubTime": "2026-08-05T22:10:17Z",
-        "source": "yfinance"
-      }
-    ],
-    "TWLO": [
-      {
-        "title": "TWLO Q2 Deep Dive: AI Adoption and Platform Expansion Drive Revenue Acceleration",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/twlo-q2-deep-dive-ai-175722173.html",
-        "pubTime": "2026-08-11T17:57:22Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Bandwidth Q2 Results Raise the Stakes for Its AI Growth Strategy",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/technology/ai/articles/bandwidth-q2-results-raise-stakes-173400673.html",
-        "pubTime": "2026-08-11T17:34:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Bandwidth Stock Faces a Growth Versus Valuation Test for Investors",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bandwidth-stock-faces-growth-versus-171400038.html",
-        "pubTime": "2026-08-11T17:14:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Bandwidth Stock Rises 21.7% in a Week: Can the Rally Still Continue?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bandwidth-stock-rises-21-7-171200060.html",
-        "pubTime": "2026-08-11T17:12:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is It Worth Investing in Twilio (TWLO) Based on Wall Street's Bullish Views?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-twilio-twlo-based-133004863.html",
-        "pubTime": "2026-08-11T13:30:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Are Twilio (TWLO) Shares Soaring Today",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-twilio-twlo-shares-soaring-043722196.html",
-        "pubTime": "2026-08-11T04:37:22Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Twilio Vaults 25% On Earnings, Hits Highs; Two More Stocks On Watch",
+        "title": "This Biotech Stock Just Gapped Up To A Five-Year High; Here's Why",
         "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/research/twilio-twlo-stock/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-10T18:02:49Z",
+        "link": "https://www.investors.com/news/technology/omeros-stock-omeros-earnings-q2-2026/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-13T14:35:46Z",
         "source": "yfinance"
       },
       {
-        "title": "Zacks Investment Ideas feature highlights: Twilio",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-151700042.html",
-        "pubTime": "2026-08-10T15:17:00Z",
+        "title": "Omeros Corporation Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-omeros-corporation-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-13T01:56:35Z",
         "source": "yfinance"
       },
       {
-        "title": "Twilio Raised Its Full-Year Growth Guide to 18% and Posted Record Revenue of $1.5 Billion. The Stock Rose 25% in a Day.",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/08/09/twilio-raised-its-full-year-growth-guide-to-18-and/",
-        "pubTime": "2026-08-10T02:13:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Twilio Q2 Earnings Call Highlights",
+        "title": "Omeros Q2 Earnings Call Highlights",
         "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/twilio-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-09T12:04:04Z",
+        "link": "https://www.marketbeat.com/instant-alerts/omeros-q2-earnings-call-highlights-2026-08-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-13T01:04:08Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Omeros (OMER) Q2 Earnings and Revenues Beat Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-omer-q2-earnings-revenues-212003805.html",
+        "pubTime": "2026-08-12T21:20:03Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "OMER Stock Soars 24% After-Hours On YARTEMLEA Sales Momentum, Debt Reduction And Share Buybacks",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/omer-stock-soars-24-after-hours-on-yartemlea-sales-momentum-debt-reduction-and-share-buybacks/cZo80QaRJWs",
+        "pubTime": "2026-08-12T21:08:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "OMER Stock Gains 4% — CMS Green-Lights $287K Add-On Payments For Transplant Drug",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/omer-stock-gains-4-cms-green-lights-287-k-add-on-payments-for-transplant-drug/cZoTZPcRJ3g",
+        "pubTime": "2026-08-03T18:41:44Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "AstraZeneca's Rare Disease Setback Is A 'Clear Positive' For Omeros, Says This Analyst – A Look At Some Key Highlights",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/omer-stock-is-soaring-today-what-is-astrazeneca-connection/cZZxNWCR76X",
+        "pubTime": "2026-07-27T16:25:28Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Omeros (OMER) is Amongst The Best Names Under $10 That Could Yield More Than 200% Return",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-omer-amongst-best-names-154300330.html",
+        "pubTime": "2026-07-15T15:43:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Heartflow vs. Omeros: Which Healthcare Innovator Stock Is a Better Buy in 2026?",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/better-buy/2026/07/08/heartflow-vs-omeros-which-healthcare-innovator-stock-is-a-better-buy-in-2026/",
+        "pubTime": "2026-07-08T21:41:25Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Is Omeros Corporation (OMER) the Best Get Rich Quick Stock to Buy Right Now?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/omeros-corporation-omer-best-rich-055349381.html",
+        "pubTime": "2026-07-07T05:53:49Z",
         "source": "yfinance"
       }
     ],
-    "IRWD": [
+    "STTK": [
       {
-        "title": "Ironwood Pharmaceuticals, Inc. Q2 2026 Earnings Call Summary",
-        "publisher": "Moby",
-        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ironwood-pharmaceuticals-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "pubTime": "2026-08-07T12:30:00Z",
+        "title": "Why Shattuck Labs Stock Flew Nearly 5% Higher on Friday",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/07/24/why-shattuck-labs-stock-flew-nearly-5-higher-on-fr/",
+        "pubTime": "2026-07-24T22:27:47Z",
         "source": "yfinance"
       },
       {
-        "title": "Ironwood Pharmaceuticals (IRWD) Is Up 14.2% After Raising 2026 Revenue Guidance – Has The Bull Case Changed?",
+        "title": "SpaceX initiated, PayPal upgraded: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-paypal-upgraded-wall-133248895.html",
+        "pubTime": "2026-07-24T13:32:48Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Albertsons, Blue Owl Capital, Cleveland-Cliffs, Chime Financial, Digital Realty, Dover, PayPal Holdings, SpaceX, and More",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/07/24/here-are-fridays-top-wall-street-analyst-research-calls-albertsons-blue-owl-capital-cleveland-cliffs-chime-financial-digital-realty-dover-paypal-holdings-spacex-and-more/",
+        "pubTime": "2026-07-24T12:00:51Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-upgraded-carvana-downgraded-wall-135411903.html",
+        "pubTime": "2026-07-20T13:39:11Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "We're Not Very Worried About Shattuck Labs' (NASDAQ:STTK) Cash Burn Rate",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-14-2-043111081.html",
-        "pubTime": "2026-08-07T04:31:11Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/were-not-very-worried-shattuck-113348386.html",
+        "pubTime": "2026-05-11T11:33:48Z",
         "source": "yfinance"
       },
       {
-        "title": "Ironwood Pharmaceuticals Inc (IRWD) (Q2 2026) Earnings Call Highlights: Strong LINZESS Growth ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/ironwood-pharmaceuticals-inc-irwd-q2-231659050.html",
-        "pubTime": "2026-08-06T23:16:59Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Ironwood Pharmaceuticals Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/ironwood-pharmaceuticals-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-06T20:04:15Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "BioCryst (BCRX) Surges 8.1%: Is This an Indication of Further Gains?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/biocryst-bcrx-surges-8-1-141400956.html",
-        "pubTime": "2026-07-08T14:14:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "4 Defensive Stocks to Take Refuge in as Tech Sell-off Continues",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/4-defensive-stocks-refuge-tech-122500473.html",
-        "pubTime": "2026-07-08T12:25:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "​Ironwood Pharmaceuticals (IRWD) Gains From Strong Fiscal Q1 2026 Earnings Momentum",
+        "title": "Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK)",
         "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-gains-strong-131204151.html",
-        "pubTime": "2026-07-03T13:12:04Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-initiates-coverage-shattuck-081752393.html",
+        "pubTime": "2026-05-01T08:17:52Z",
         "source": "yfinance"
       },
       {
-        "title": "Zacks Industry Outlook Indivior, Aurinia, Ironwood, Altimmune and Marker",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-indivior-aurinia-085900669.html",
-        "pubTime": "2026-06-26T08:59:00Z",
+        "title": "Why Shattuck Labs Stock Soared More Than 53% Higher This Week",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/03/06/why-shattuck-labs-stock-soared-more-than-53-higher/",
+        "pubTime": "2026-03-06T22:02:08Z",
         "source": "yfinance"
       },
       {
-        "title": "5 Small Drug Stocks to Invest in Amid a Biotech Comeback",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/5-small-drug-stocks-invest-124000358.html",
-        "pubTime": "2026-06-25T12:40:00Z",
+        "title": "Several Insiders Invested In Shattuck Labs Flagging Positive News",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/several-insiders-invested-shattuck-labs-131343081.html",
+        "pubTime": "2026-01-05T13:13:43Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Analyst Confidence Upbeat on Shattuck Labs (STTK) Amid SL-325 Progress and Earlier Q3 2025 Result",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/news/analyst-confidence-upbeat-shattuck-labs-062614023.html",
+        "pubTime": "2025-11-29T06:26:14Z",
         "source": "yfinance"
       }
     ],
@@ -341,68 +269,75 @@
         "source": "yfinance"
       }
     ],
-    "STTK": [
+    "FSLY": [
       {
-        "title": "Why Shattuck Labs Stock Flew Nearly 5% Higher on Friday",
+        "title": "Fastly (FSLY) Q2 2026 Earnings Call Transcript",
         "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/07/24/why-shattuck-labs-stock-flew-nearly-5-higher-on-fr/",
-        "pubTime": "2026-07-24T22:27:47Z",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/12/fastly-fsly-q2-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-12T23:43:44Z",
         "source": "yfinance"
       },
       {
-        "title": "SpaceX initiated, PayPal upgraded: Wall Street's top analyst calls",
-        "publisher": "The Fly",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-paypal-upgraded-wall-133248895.html",
-        "pubTime": "2026-07-24T13:32:48Z",
+        "title": "Fastly Conference: Security Expansion and AI Demand Fuel Growth Momentum",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/fastly-conference-security-expansion-and-ai-demand-fuel-growth-momentum-2026-08-10/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-10T22:04:10Z",
         "source": "yfinance"
       },
       {
-        "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Albertsons, Blue Owl Capital, Cleveland-Cliffs, Chime Financial, Digital Realty, Dover, PayPal Holdings, SpaceX, and More",
+        "title": "Fastly Stock Is Rising Today: What’s Driving It, and Are AI-Cloud Peers Moving Too?",
         "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/07/24/here-are-fridays-top-wall-street-analyst-research-calls-albertsons-blue-owl-capital-cleveland-cliffs-chime-financial-digital-realty-dover-paypal-holdings-spacex-and-more/",
-        "pubTime": "2026-07-24T12:00:51Z",
+        "link": "https://247wallst.com/investing/2026/08/10/fastly-stock-is-rising-today-whats-driving-it-and-are-ai-cloud-peers-moving-too/",
+        "pubTime": "2026-08-10T19:17:05Z",
         "source": "yfinance"
       },
       {
-        "title": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
-        "publisher": "The Fly",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-upgraded-carvana-downgraded-wall-135411903.html",
-        "pubTime": "2026-07-20T13:39:11Z",
+        "title": "Fastly Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/fastly-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-08T08:04:00Z",
         "source": "yfinance"
       },
       {
-        "title": "We're Not Very Worried About Shattuck Labs' (NASDAQ:STTK) Cash Burn Rate",
+        "title": "2 Analysts Just Upped Their Price Targets on Fastly Stock. Here's Why.",
+        "publisher": "Barchart",
+        "link": "https://www.barchart.com/story/news/3702953/2-analysts-just-upped-their-price-targets-on-fastly-stock-here-s-why",
+        "pubTime": "2026-08-06T20:27:36Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fastly Q2 Earnings Beat as Security Growth Spurs 2026 Outlook Hike",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-q2-earnings-beat-security-185600602.html",
+        "pubTime": "2026-08-06T18:56:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fastly, Inc. Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-fastly-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-06T12:30:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fastly Inc (FSLY) (Q2 2026) Earnings Call Highlights: Record Revenue and Security Growth Drive ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-inc-fsly-q2-2026-050730975.html",
+        "pubTime": "2026-08-06T05:07:30Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fastly (FSLY) Reports Q2 Earnings: What Key Metrics Have to Say",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-reports-q2-earnings-000003485.html",
+        "pubTime": "2026-08-06T00:00:03Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fastly (FSLY) Stock Looks Overvalued Despite A Strong 299% Return",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/were-not-very-worried-shattuck-113348386.html",
-        "pubTime": "2026-05-11T11:33:48Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK)",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-initiates-coverage-shattuck-081752393.html",
-        "pubTime": "2026-05-01T08:17:52Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Shattuck Labs Stock Soared More Than 53% Higher This Week",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/03/06/why-shattuck-labs-stock-soared-more-than-53-higher/",
-        "pubTime": "2026-03-06T22:02:08Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Several Insiders Invested In Shattuck Labs Flagging Positive News",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/several-insiders-invested-shattuck-labs-131343081.html",
-        "pubTime": "2026-01-05T13:13:43Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Analyst Confidence Upbeat on Shattuck Labs (STTK) Amid SL-325 Progress and Earlier Q3 2025 Result",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/news/analyst-confidence-upbeat-shattuck-labs-062614023.html",
-        "pubTime": "2025-11-29T06:26:14Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-stock-looks-overvalued-231349886.html",
+        "pubTime": "2026-08-05T23:13:49Z",
         "source": "yfinance"
       }
     ],
@@ -478,147 +413,212 @@
         "source": "yfinance"
       }
     ],
-    "CAMP": [
+    "TWLO": [
       {
-        "title": "Ocugen (OCGN) Reports Q2 Loss, Beats Revenue Estimates",
+        "title": "Here's How Much You'd Have If You Invested $1000 in Twilio a Decade Ago",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/ocugen-ocgn-reports-q2-loss-135008498.html",
-        "pubTime": "2026-08-06T13:50:08Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123003114.html",
+        "pubTime": "2026-08-13T12:30:03Z",
         "source": "yfinance"
       },
       {
-        "title": "MannKind (MNKD) Reports Q2 Loss, Beats Revenue Estimates",
+        "title": "Dow Fixture Microsoft Breaks Out Along With These Stocks, But Datadog Triggers Sell Signals",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/research/ibd-industry-themes/dow-jones-microsoft-msft-palantir-pltr-twilio-twlo/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-13T12:01:19Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "TWLO Q2 Deep Dive: AI Adoption and Platform Expansion Drive Revenue Acceleration",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/twlo-q2-deep-dive-ai-175722173.html",
+        "pubTime": "2026-08-11T17:57:22Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Bandwidth Q2 Results Raise the Stakes for Its AI Growth Strategy",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/mannkind-mnkd-reports-q2-loss-221004054.html",
-        "pubTime": "2026-08-05T22:10:04Z",
+        "link": "https://finance.yahoo.com/technology/ai/articles/bandwidth-q2-results-raise-stakes-173400673.html",
+        "pubTime": "2026-08-11T17:34:00Z",
         "source": "yfinance"
       },
       {
-        "title": "CRISPR Therapeutics AG (CRSP) Reports Q2 Loss, Tops Revenue Estimates",
+        "title": "Bandwidth Stock Faces a Growth Versus Valuation Test for Investors",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/crispr-therapeutics-ag-crsp-reports-224504341.html",
-        "pubTime": "2026-08-03T22:45:04Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bandwidth-stock-faces-growth-versus-171400038.html",
+        "pubTime": "2026-08-11T17:14:00Z",
         "source": "yfinance"
       },
       {
-        "title": "New Strong Sell Stocks for July 16th",
+        "title": "Bandwidth Stock Rises 21.7% in a Week: Can the Rally Still Continue?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-july-16th-083200543.html",
-        "pubTime": "2026-07-16T08:32:00Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bandwidth-stock-rises-21-7-171200060.html",
+        "pubTime": "2026-08-11T17:12:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Is CAMP4 THERAPEUTICS CORPORATION (CAMP) Stock Undervalued Ahead of Key CMP-002 Clinical Development Milestones?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/healthcare/articles/camp4-therapeutics-corporation-camp-stock-200621360.html",
-        "pubTime": "2026-07-02T20:06:21Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Here's Why We're Not Too Worried About Camp4 Therapeutics' (NASDAQ:CAMP) Cash Burn Situation",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-were-not-too-125746501.html",
-        "pubTime": "2026-06-06T12:57:46Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "CAMP4 Therapeutics Corporation (CAMP) Reports Q1 Loss, Lags Revenue Estimates",
+        "title": "Is It Worth Investing in Twilio (TWLO) Based on Wall Street's Bullish Views?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/camp4-therapeutics-corporation-camp-reports-230518474.html",
-        "pubTime": "2026-05-07T23:05:18Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-twilio-twlo-based-133004863.html",
+        "pubTime": "2026-08-11T13:30:04Z",
         "source": "yfinance"
       },
       {
-        "title": "CAMP4 Therapeutics Unveils Gene-Upregulation ASO Platform, Targets SYNGAP1 Clinic Entry in 2H",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/camp4-therapeutics-unveils-gene-upregulation-aso-platform-targets-syngap1-clinic-entry-in-2h-2026-04-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-04-13T17:36:02Z",
+        "title": "Why Are Twilio (TWLO) Shares Soaring Today",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-twilio-twlo-shares-soaring-043722196.html",
+        "pubTime": "2026-08-11T04:37:22Z",
         "source": "yfinance"
       },
       {
-        "title": "Biotech Stock Jumps 288% Amid Massive Raise as One Early Backer Reports $14 Million Exit",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/coverage/filings/2026/03/18/biotech-stock-jumps-288-amid-massive-raise-as-one-early-backer-reports-usd14-million-exit/",
-        "pubTime": "2026-03-18T18:08:40Z",
+        "title": "Twilio Vaults 25% On Earnings, Hits Highs; Two More Stocks On Watch",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/research/twilio-twlo-stock/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-10T18:02:49Z",
         "source": "yfinance"
       },
       {
-        "title": "Biotech Stock Still Up 700% Despite 30% Drop This Year as One Fund Discloses $9 Million Exit",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/coverage/filings/2026/03/18/biotech-stock-still-up-700-despite-30-drop-this-year-as-one-fund-discloses-usd9-million-exit/",
-        "pubTime": "2026-03-18T17:54:46Z",
+        "title": "Zacks Investment Ideas feature highlights: Twilio",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-151700042.html",
+        "pubTime": "2026-08-10T15:17:00Z",
         "source": "yfinance"
       }
     ],
-    "AAOI": [
+    "IRWD": [
       {
-        "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/12/lumentum-rockets-15-on-blowout-earnings-coherent-climbs-9-corning-gains-5-on-optics-earnings-and-coreweave-super-micro-read-through/",
-        "pubTime": "2026-08-12T17:22:27Z",
+        "title": "Ironwood Pharmaceuticals, Inc. Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ironwood-pharmaceuticals-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-07T12:30:00Z",
         "source": "yfinance"
       },
       {
-        "title": "This AI Stock Is Surging. Can It Shake the ‘Meme Stock’ Label?",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/applied-optoelectronics-earnings-stock-price-c63f8050?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-12T16:40:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Lumentum Stock Jumps as Stellar Earnings Extend Blazing-Hot Run",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/lumentum-earnings-stock-price-d8f52637?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-12T14:01:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Market’s Momentum Darlings Resurface as Optical Stocks Take Off",
-        "publisher": "Bloomberg",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-momentum-darlings-resurface-optical-104501913.html",
-        "pubTime": "2026-08-12T10:45:01Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Lumentum's Upbeat Report Sparks Photonics Rally: Coherent's Earnings Up Next",
-        "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/lumentum-s-upbeat-report-sparks-photonics-rally-coherent-s-earnings-up-next/cZoFzwURJgO",
-        "pubTime": "2026-08-12T09:37:21Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "LITE Vs. COHR Vs. AAOI Vs. IPGP: Which Photonics Stock Do Retail Traders Prefer?",
-        "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/lite-vs-cohr-vs-aaoi-vs-ipgp-which-photonics-stock-do-retail-traders-prefer/cZoZotoRJQb",
-        "pubTime": "2026-08-11T07:47:36Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Coherent (COHR) Stock Is Tumbling Today After Massive Optics vs. Memory Debate on Social Media This Weekend",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/10/coherent-cohr-stock-is-tumbling-today-after-massive-optics-vs-memory-debate-on-social-media-this-weekend/",
-        "pubTime": "2026-08-10T19:37:39Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Coherent Falls 12%, Lumentum Drops 7% as AI Optics Stocks Cool Ahead of Earnings",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/10/coherent-falls-12-lumentum-drops-7-as-ai-optics-stocks-cool-ahead-of-earnings/",
-        "pubTime": "2026-08-10T16:25:41Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Applied Optoelectronics (AAOI) Stock Sees Modest Fair Value Cut As Analyst Targets Split",
+        "title": "Ironwood Pharmaceuticals (IRWD) Is Up 14.2% After Raising 2026 Revenue Guidance – Has The Bull Case Changed?",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-stock-sees-021109445.html",
-        "pubTime": "2026-08-08T02:11:09Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-14-2-043111081.html",
+        "pubTime": "2026-08-07T04:31:11Z",
         "source": "yfinance"
       },
       {
-        "title": "These AI ‘Pick and Shovel’ Plays Soared on Friday",
-        "publisher": "Investopedia",
-        "link": "https://www.investopedia.com/market-update-ai-pick-and-shovel-plays-soared-on-friday-12036914",
-        "pubTime": "2026-08-07T20:42:49Z",
+        "title": "Ironwood Pharmaceuticals Inc (IRWD) (Q2 2026) Earnings Call Highlights: Strong LINZESS Growth ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/healthcare/articles/ironwood-pharmaceuticals-inc-irwd-q2-231659050.html",
+        "pubTime": "2026-08-06T23:16:59Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Ironwood Pharmaceuticals Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/ironwood-pharmaceuticals-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-06T20:04:15Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "BioCryst (BCRX) Surges 8.1%: Is This an Indication of Further Gains?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/biocryst-bcrx-surges-8-1-141400956.html",
+        "pubTime": "2026-07-08T14:14:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "4 Defensive Stocks to Take Refuge in as Tech Sell-off Continues",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/4-defensive-stocks-refuge-tech-122500473.html",
+        "pubTime": "2026-07-08T12:25:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "​Ironwood Pharmaceuticals (IRWD) Gains From Strong Fiscal Q1 2026 Earnings Momentum",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-gains-strong-131204151.html",
+        "pubTime": "2026-07-03T13:12:04Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Zacks Industry Outlook Indivior, Aurinia, Ironwood, Altimmune and Marker",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-indivior-aurinia-085900669.html",
+        "pubTime": "2026-06-26T08:59:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "5 Small Drug Stocks to Invest in Amid a Biotech Comeback",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/healthcare/articles/5-small-drug-stocks-invest-124000358.html",
+        "pubTime": "2026-06-25T12:40:00Z",
+        "source": "yfinance"
+      }
+    ],
+    "KOD": [
+      {
+        "title": "KOD Begins Late-Stage Study of KSI-501 in Diabetic Macular Edema",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/healthcare/articles/kod-begins-stage-study-ksi-151500677.html",
+        "pubTime": "2026-08-11T15:15:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Kodiak CFO Sells $1 Million in Stock as Shares Surge 650%. What Investors Should Know",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/filings/2026/06/09/kodiak-cfo-sells-usd1-million-in-stock-as-shares-surge-650-what-investors-should-know/",
+        "pubTime": "2026-06-10T00:04:25Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Kodiak Sciences (KOD) Is Down 15.4% After Strong Zenkuda GLOW2 Data And Accelerated Filing Plans",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/kodiak-sciences-kod-down-15-131851811.html",
+        "pubTime": "2026-06-06T13:18:51Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Kodiak Stock Rises 35% in 3 Months: Here's What You Need to Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kodiak-stock-rises-35-3-150500386.html",
+        "pubTime": "2026-06-04T15:05:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Boxer Capital’s $18 Million Corvus Pharma Bet Signals Confidence in This Biotech’s Next Phase",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/filings/2026/05/17/boxer-capital-s-usd18-million-corvus-pharma-bet-signals-confidence-in-this-biotech-s-next-phase/",
+        "pubTime": "2026-05-17T20:46:06Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why One Healthcare Fund Increased Its Kodiak Sciences Stake Amid an Eye-Popping Rally",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/filings/2026/05/17/why-one-healthcare-fund-increased-its-kodiak-sciences-stake-amid-an-eye-popping-rally/",
+        "pubTime": "2026-05-17T20:17:13Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Vir Biotechnology Stock Has Doubled This Past Year. One Fund Just Bought 1.2 Million Shares",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/filings/2026/05/17/vir-biotechnology-stock-has-doubled-this-past-year-one-fund-just-bought-1-2-million-shares/",
+        "pubTime": "2026-05-17T20:07:57Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "A Look At Kodiak Sciences (KOD) Valuation After Positive Phase 3 GLOW2 Results For Zenkuda",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/look-kodiak-sciences-kod-valuation-011417629.html",
+        "pubTime": "2026-05-11T01:14:17Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Zenkuda Phase 3 Win and Expanding Pipeline Might Change The Case For Investing In Kodiak Sciences (KOD)",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/zenkuda-phase-3-win-expanding-190907368.html",
+        "pubTime": "2026-05-10T19:09:07Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Kodiak's Q1 Loss Wider Than Expected, Pipeline Development in Focus",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/kodiaks-q1-loss-wider-expected-163900237.html",
+        "pubTime": "2026-05-08T16:39:00Z",
         "source": "yfinance"
       }
     ],
@@ -631,384 +631,138 @@
         "source": "yfinance"
       },
       {
-        "title": "GF Securities Revisits AI Stock Rebound",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/technology/ai/articles/gf-securities-revisits-ai-stock-193820856.html",
-        "pubTime": "2026-08-12T19:38:20Z",
+        "title": "Jim Cramer Says Skip Poet and Buy These 2 Proven Photonics Stocks for AI Data Centers in August",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/jim-cramer-says-skip-poet-and-buy-these-2-proven-photonics-stocks-for-ai-data-centers-in-august/",
+        "pubTime": "2026-08-13T14:00:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Amgen Stock And The Price Of A Promise",
-        "publisher": "Trefis",
-        "link": "https://www.trefis.com/articles/611131/amgen-stock-and-the-price-of-a-promise/2026-08-12",
-        "pubTime": "2026-08-12T19:17:31Z",
+        "title": "Zacks.com featured highlights include LifeStance Health, Tutor Perini, Valero Energy, SharkNinja and Lumentum",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-lifestance-131100892.html",
+        "pubTime": "2026-08-13T13:11:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Update: Benign Inflation, Upbeat Earnings Reports Help Lift Equities Intraday",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/benign-inflation-upbeat-earnings-reports-181356601.html",
-        "pubTime": "2026-08-12T18:13:56Z",
+        "title": "Lumentum and Broadcom: Both Have Seen The Light in AI But How Should Investors Play Them?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/lumentum-and-broadcom-both-have-seen-the-light-in-ai-but-how-should-investors-play-them/",
+        "pubTime": "2026-08-13T12:54:56Z",
         "source": "yfinance"
       },
       {
-        "title": "SpaceX, Nebius, Palantir, Super Micro, Quantinuum, Wendy’s, and More Stocks That Explain Today’s Market",
+        "title": "Lumentum Still Down Over 90 Days: A Respected Analyst Sees 22% Gains Ahead Following Sharp Upturn",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/lumentum-still-down-over-90-days-a-respected-analyst-sees-22-gains-ahead-following-sharp-upturn/",
+        "pubTime": "2026-08-13T12:24:18Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-13T12:13:33Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Coherent, Cerebras, Cisco, StubHub, and More Stocks That Explain Today’s Market",
         "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/stock-movers-dfcc9c13?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-12T17:49:00Z",
+        "link": "https://www.barrons.com/articles/stock-movers-270ebfe7?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-13T11:21:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/12/lumentum-rockets-15-on-blowout-earnings-coherent-climbs-9-corning-gains-5-on-optics-earnings-and-coreweave-super-micro-read-through/",
-        "pubTime": "2026-08-12T17:22:27Z",
+        "title": "Coherent Delivers Strong Q4 Beat and Bullish FY27 Outlook, but Shares Fall 5%",
+        "publisher": "InvestorsHub",
+        "link": "https://investorshub.advfn.com/market-news/article/34205/coherent-delivers-strong-q4-beat-and-bullish-fy27-outlook-but-shares-fall-5",
+        "pubTime": "2026-08-13T10:18:28Z",
         "source": "yfinance"
       },
       {
-        "title": "Why Lumentum Holdings Stock Is Soaring Today",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-lumentum-holdings-stock-soaring-171154351.html",
-        "pubTime": "2026-08-12T17:11:54Z",
+        "title": "Coherent Stock Drops Despite Earnings Beat and Strong Outlook",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/coherent-earnings-stock-price-7c2d746e?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-13T10:01:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Lumentum Jumps 7% as AI Optics Demand Accelerates",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/technology/ai/articles/lumentum-jumps-7-ai-optics-170959349.html",
-        "pubTime": "2026-08-12T17:09:59Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/news/technology/supermicro-stock-analysts-cautious-nvidia-positive-news/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-12T16:39:33Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Big Cash, Bigger Ambitions: POET Technologies Eyes 147% Upside",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/12/big-cash-bigger-ambitions-poet-technologies-eyes-147-upside/",
-        "pubTime": "2026-08-12T16:00:02Z",
+        "title": "COHR Stock Dips Overnight Despite Strong Q4: Retail Bulls Keep The Faith",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/cohr-stock-dips-overnight-despite-strong-q4-retail-bulls-keep-the-faith/cZopvP3RJhR",
+        "pubTime": "2026-08-13T02:09:45Z",
         "source": "yfinance"
       }
     ],
-    "HP": [
+    "STX": [
       {
-        "title": "Helmerich & Payne, Range Resources, Valaris, Liberty Energy, and Seadrill Stocks Trade Up, What You Need To Know",
+        "title": "Here's How Much You'd Have If You Invested $1000 in Seagate a Decade Ago",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123003021.html",
+        "pubTime": "2026-08-13T12:30:03Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Seagate (STX) Stock Could Trade Below Fair Value While Earnings Look Full",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-stx-stock-could-trade-031907626.html",
+        "pubTime": "2026-08-13T03:19:07Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "How Seagate’s Strong Fiscal 2026 Beat and HAMR Momentum May Impact Seagate Technology (STX) Investors",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/seagate-strong-fiscal-2026-beat-021142974.html",
+        "pubTime": "2026-08-13T02:11:42Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Memory Stocks Rally Wednesday: SK Hynix, SanDisk, Micron All Jump. Here’s Why",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/12/memory-stocks-rally-wednesday-sk-hynix-sandisk-micron-all-jump-heres-why/",
+        "pubTime": "2026-08-12T22:06:38Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Freshworks’s Q2 Earnings Call: Our Top 5 Analyst Questions",
         "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-range-resources-valaris-164522960.html",
-        "pubTime": "2026-08-12T16:45:22Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/freshworks-q2-earnings-call-top-202122943.html",
+        "pubTime": "2026-08-12T20:21:22Z",
         "source": "yfinance"
       },
       {
-        "title": "Helmerich & Payne (HP) Could Be 11% Below Fair Value On Beetaloo Rig Deal",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-could-11-111126452.html",
-        "pubTime": "2026-08-10T11:11:26Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Helmerich & Payne Q3 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/helmerich-payne-q3-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-08T13:04:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Helmerich & Payne (HP) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-q3-earnings-183002568.html",
-        "pubTime": "2026-08-07T18:30:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Helmerich & Payne, Inc. Q3 2026 Earnings Call Summary",
-        "publisher": "Moby",
-        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-helmerich-payne-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "pubTime": "2026-08-06T12:30:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Helmerich & Payne (HP) Reports Q3 Loss, Beats Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-reports-q3-221018889.html",
-        "pubTime": "2026-08-05T22:10:18Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Helmerich & Payne (NYSE:HP) Reports Upbeat Q2 CY2026",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-nyse-hp-reports-204040859.html",
-        "pubTime": "2026-08-05T20:40:40Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "PTEN Jumps 20% in a Month as Rig Pricing and Demand Strengthen",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/energy/articles/pten-jumps-20-month-rig-141500726.html",
-        "pubTime": "2026-08-04T14:15:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is Nabors a Buy as Growth Improves While Leverage Stays Elevated?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nabors-buy-growth-improves-while-144100539.html",
-        "pubTime": "2026-08-03T14:41:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "1 of Wall Street’s Favorite Stocks to Keep an Eye On and 2 We Turn Down",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-194757139.html",
-        "pubTime": "2026-07-31T19:47:57Z",
-        "source": "yfinance"
-      }
-    ],
-    "ATI": [
-      {
-        "title": "3 Reasons Why ATI (ATI) Is a Great Growth Stock",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-ati-ati-164503459.html",
-        "pubTime": "2026-08-12T16:45:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "ATI (ATI) is a Great Momentum Stock: Should You Buy?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ati-ati-great-momentum-stock-160003745.html",
-        "pubTime": "2026-08-11T16:00:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Top 3D Printing Stocks to Buy for Strong Long-Term Potential",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-3d-printing-stocks-buy-172000551.html",
-        "pubTime": "2026-08-10T17:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "ATI (ATI) is on the Move, Here's Why the Trend Could be Sustainable",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ati-ati-move-heres-why-125503037.html",
-        "pubTime": "2026-08-10T12:55:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "ATI Q2 Deep Dive: Portfolio Transformation and Defense Demand Drive Margin Expansion",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ati-q2-deep-dive-portfolio-042122865.html",
-        "pubTime": "2026-08-10T04:21:22Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "ATI (ATI) Lifts Outlook As Record Backlog Tests An Overvalued Narrative",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ati-ati-lifts-outlook-record-002139036.html",
-        "pubTime": "2026-08-09T00:21:39Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "ATI Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/ati-q2-earnings-call-highlights-2026-08-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-07T23:03:46Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Howmet Stock Pops After Earnings But Remains Inside Buy Zone",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/howmet-stock-pops-earnings-buy-zone/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-07T15:32:54Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Company News for Aug 7, 2026",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-aug-7-2026-104000675.html",
-        "pubTime": "2026-08-07T10:40:00Z",
-        "source": "yfinance"
-      }
-    ],
-    "TVTX": [
-      {
-        "title": "Travere Therapeutics (TVTX) Q2 2026 Earnings Call Transcript",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/travere-therapeutics-tvtx-q2-2026-earnings-call-transcript/",
-        "pubTime": "2026-08-12T00:13:10Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Travere Therapeutics (TVTX) Is Up 9.0% After FILSPARI-Driven Q2 Revenue Jump And Wider Loss",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/healthcare/articles/why-travere-therapeutics-tvtx-9-071119237.html",
-        "pubTime": "2026-08-07T07:11:19Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Travere Therapeutics (TVTX) On Q2 Results And FILSPARI Hopes As Fair Value Stays In View",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-tvtx-q2-results-042942847.html",
-        "pubTime": "2026-08-07T04:29:42Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "This Biotech Dealmaker — Tied To Merck, Travere — Is In A Profit-Taking Zone",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/news/technology/ligand-stock-ligand-pharmaceuticals-earnings-q2-2026/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-06T20:08:21Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Travere Therapeutics, Inc. Q2 2026 Earnings Call Summary",
-        "publisher": "Moby",
-        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-travere-therapeutics-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "pubTime": "2026-08-06T12:30:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-06T12:04:49Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Can Travere Therapeutics (TVTX) Be A Bargain After Its Q2 Surge?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/travere-therapeutics-tvtx-bargain-q2-111109412.html",
-        "pubTime": "2026-08-06T11:11:09Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Travere Therapeutics Inc (TVTX) (Q2 2026) Earnings Call Highlights: Record FILSPARI Demand and ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-inc-tvtx-q2-050518742.html",
-        "pubTime": "2026-08-05T05:05:18Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Travere Therapeutics Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/travere-therapeutics-q2-earnings-call-highlights-2026-08-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-05T03:03:56Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Travere (TVTX) Reports Q2 Earnings: What Key Metrics Have to Say",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/travere-tvtx-reports-q2-earnings-213003862.html",
-        "pubTime": "2026-08-04T21:30:03Z",
-        "source": "yfinance"
-      }
-    ],
-    "RVMD": [
-      {
-        "title": "Why Revolution Medicines May Be Big Pharma’s Next Takeover Target",
+        "title": "Prediction: This Storage Stock Could Be a Surprising AI Winner",
         "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/12/why-revolution-medicines-may-be-big-pharmas-next-takeover-target/",
-        "pubTime": "2026-08-12T12:50:24Z",
+        "link": "https://247wallst.com/investing/2026/08/12/prediction-this-storage-stock-could-be-a-surprising-ai-winner/",
+        "pubTime": "2026-08-12T16:30:09Z",
         "source": "yfinance"
       },
       {
-        "title": "Revolution Medicines (RVMD) Stock Looks Rich On Fresh RAS Drug Demand",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/revolution-medicines-rvmd-stock-looks-091121840.html",
-        "pubTime": "2026-08-12T09:11:21Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Revolution Medicines (RVMD) Is Up 6.2% After BeOne-Funded Phase 3 RAS(ON) Deal - Has The Bull Case Changed?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-6-2-061454323.html",
-        "pubTime": "2026-08-12T06:14:54Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Revolution Medicines (RVMD) Looks Fairly Valued As BeOne Deal Expands Its Asia Reach",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-looks-fairly-023528304.html",
-        "pubTime": "2026-08-12T02:35:28Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Can Revolution Medicines (RVMD) Turn A New Ally Into Global Reach?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/revolution-medicines-rvmd-turn-ally-204438976.html",
-        "pubTime": "2026-08-11T20:44:38Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "BeOne and Revolution Medicines partner for oncology therapies",
-        "publisher": "Pharmaceutical Technology",
-        "link": "https://www.pharmaceutical-technology.com/news/beone-revolution-medicines-oncology-therapies/",
-        "pubTime": "2026-08-11T10:45:32Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
-        "publisher": "BioPharma Dive",
-        "link": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
-        "pubTime": "2026-08-07T10:02:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Revolution Medicines Inc (RVMD) (Q2 2026) Earnings Call Highlights: Daraxonrasib Poised to ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-inc-rvmd-q2-051115755.html",
-        "pubTime": "2026-08-06T05:11:15Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Revolution Medicines Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/revolution-medicines-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-06T04:03:55Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Could Revolution Medicines (RVMD) Become a $20 Billion Cancer Drug Story?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/healthcare/articles/could-revolution-medicines-rvmd-become-131956736.html",
-        "pubTime": "2026-08-04T13:19:56Z",
-        "source": "yfinance"
-      }
-    ],
-    "LABU": [
-      {
-        "title": "LABU Could Rip Higher if Biotech Finally Gets Its Long-Awaited Breakout",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/04/27/labu-could-rip-higher-if-biotech-finally-gets-its-long-awaited-breakout/",
-        "pubTime": "2026-04-27T19:33:57Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Equal-Weight ETFs Are the Play for Small-Cap Drug Development. Here’s How to Position Now",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/04/23/equal-weight-etfs-are-the-play-for-small-cap-drug-development-heres-how-to-position-now/",
-        "pubTime": "2026-04-23T17:22:32Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Triple-Leveraged Biotech ETF Doubles as Regulatory Winds Shift in 2026",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/01/16/triple-leveraged-biotech-etf-doubles-as-regulatory-winds-shift-in-2026/",
-        "pubTime": "2026-01-16T13:06:37Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Best-Performing Leveraged ETFs of October",
+        "title": "Western Digital's $3.5B FCF: Can Growth Continue in Fiscal 2027?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/best-performing-leveraged-etfs-october-124100342.html",
-        "pubTime": "2025-11-04T12:41:00Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/western-digitals-3-5b-fcf-152700236.html",
+        "pubTime": "2026-08-12T15:27:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Leveraged ETF Areas of Last Week That Are Up At least 15%",
+        "title": "Can Sandisk's Strong Cash Generation Boost Shareholder Returns?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/news/leveraged-etf-areas-last-week-121000101.html",
-        "pubTime": "2025-09-08T12:10:00Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sandisks-strong-cash-generation-boost-140000321.html",
+        "pubTime": "2026-08-12T14:00:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Is Seagate's Strong Margin and Cash Flow Momentum Sustainable?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/seagates-strong-margin-cash-flow-134800689.html",
+        "pubTime": "2026-08-12T13:48:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "SanDisk Traded Margin Upside For Years Of Contracted Revenue",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611013/sandisk-traded-margin-upside-for-years-of-contracted-revenue/2026-08-11",
+        "pubTime": "2026-08-11T20:36:13Z",
         "source": "yfinance"
       }
     ],
@@ -1084,75 +838,291 @@
         "source": "yfinance"
       }
     ],
-    "SITM": [
+    "AAOI": [
       {
-        "title": "Tradr Expands Lineup with Leveraged Funds on Everspin, SiTime and UMC",
+        "title": "Jim Cramer Says Skip Poet and Buy These 2 Proven Photonics Stocks for AI Data Centers in August",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/jim-cramer-says-skip-poet-and-buy-these-2-proven-photonics-stocks-for-ai-data-centers-in-august/",
+        "pubTime": "2026-08-13T14:00:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Nokia, Celestica, and Applied Optoelectronics Rally After Lumentum Sparks Broad Optics Rally",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/12/nokia-celestica-and-applied-optoelectronics-rally-after-lumentum-sparks-broad-optics-rally/",
+        "pubTime": "2026-08-12T21:49:12Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/12/lumentum-rockets-15-on-blowout-earnings-coherent-climbs-9-corning-gains-5-on-optics-earnings-and-coreweave-super-micro-read-through/",
+        "pubTime": "2026-08-12T17:22:27Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "This AI Stock Is Surging. Can It Shake the ‘Meme Stock’ Label?",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/applied-optoelectronics-earnings-stock-price-c63f8050?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-12T16:40:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Stock Jumps as Stellar Earnings Extend Blazing-Hot Run",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/lumentum-earnings-stock-price-d8f52637?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-12T14:01:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Market’s Momentum Darlings Resurface as Optical Stocks Take Off",
+        "publisher": "Bloomberg",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-momentum-darlings-resurface-optical-104501913.html",
+        "pubTime": "2026-08-12T10:45:01Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum's Upbeat Report Sparks Photonics Rally: Coherent's Earnings Up Next",
         "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/business/others/tradr-expands-lineup-with-leveraged-funds-on-everspin-si-time-and-umc/cZoZUZGRJQr",
-        "pubTime": "2026-08-11T13:15:48Z",
+        "link": "https://stocktwits.com/news-articles/markets/equity/lumentum-s-upbeat-report-sparks-photonics-rally-coherent-s-earnings-up-next/cZoFzwURJgO",
+        "pubTime": "2026-08-12T09:37:21Z",
         "source": "yfinance"
       },
       {
-        "title": "Why SiTime (SITM) Is Up 35.8% After Renesas Timing Deal Boosts Q3 Revenue Outlook",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-sitime-sitm-35-8-231320796.html",
-        "pubTime": "2026-08-07T23:13:20Z",
+        "title": "LITE Vs. COHR Vs. AAOI Vs. IPGP: Which Photonics Stock Do Retail Traders Prefer?",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/lite-vs-cohr-vs-aaoi-vs-ipgp-which-photonics-stock-do-retail-traders-prefer/cZoZotoRJQb",
+        "pubTime": "2026-08-11T07:47:36Z",
         "source": "yfinance"
       },
       {
-        "title": "Why SiTime Stock Blasted Almost 27% Higher on Thursday",
+        "title": "Coherent (COHR) Stock Is Tumbling Today After Massive Optics vs. Memory Debate on Social Media This Weekend",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/10/coherent-cohr-stock-is-tumbling-today-after-massive-optics-vs-memory-debate-on-social-media-this-weekend/",
+        "pubTime": "2026-08-10T19:37:39Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Coherent Falls 12%, Lumentum Drops 7% as AI Optics Stocks Cool Ahead of Earnings",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/10/coherent-falls-12-lumentum-drops-7-as-ai-optics-stocks-cool-ahead-of-earnings/",
+        "pubTime": "2026-08-10T16:25:41Z",
+        "source": "yfinance"
+      }
+    ],
+    "BFLY": [
+      {
+        "title": "BFLY Q2 Earnings Call Spotlights Embedded Growth and Raised Outlook",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/healthcare/articles/bfly-q2-earnings-call-spotlights-142500673.html",
+        "pubTime": "2026-08-07T14:25:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Butterfly (BFLY) Q2 2026 Earnings Call Transcript",
         "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/08/06/why-sitime-stock-blasted-almost-27-higher-on-thurs/",
-        "pubTime": "2026-08-06T21:45:34Z",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/03/butterfly-bfly-q2-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-04T00:16:51Z",
         "source": "yfinance"
       },
       {
-        "title": "Stock Market Today: Dow Sinks 464 Points, But Chip Firm Surges; Microsoft Surpasses Buy Zone (Live Coverage)",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-06T20:58:05Z",
+        "title": "Butterfly Network (BFLY) Faces A 1% Fair Value Gap After Earnings And Guidance Raise",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/butterfly-network-bfly-faces-1-081410621.html",
+        "pubTime": "2026-08-01T08:14:10Z",
         "source": "yfinance"
       },
       {
-        "title": "Macom, SiTime Jump As Chip Stocks Stage Comeback",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/news/technology/chip-stocks-rally-macom-sitime-diodes-rise/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-06T20:57:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "What You Actually Pay To Join The SITM Run",
-        "publisher": "Trefis",
-        "link": "https://www.trefis.com/articles/610350/what-you-actually-pay-to-join-the-sitm-run/2026-08-06",
-        "pubTime": "2026-08-06T20:35:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "SiTime Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sitime-q2-earnings-beat-estimates-173600665.html",
-        "pubTime": "2026-08-06T17:36:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "SITM Q2 Earnings Call Points to AI Growth and TPD Upside",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/technology/ai/articles/sitm-q2-earnings-call-points-140000634.html",
-        "pubTime": "2026-08-06T14:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Thursday Amid Corporate Earnings Deluge",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132120169.html",
-        "pubTime": "2026-08-06T13:21:20Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "SiTime Q2 Earnings Call Highlights",
+        "title": "Butterfly Network Q2 Earnings Call Highlights",
         "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/sitime-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-06T05:03:55Z",
+        "link": "https://www.marketbeat.com/instant-alerts/butterfly-network-q2-earnings-call-highlights-2026-07-30/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-01T04:02:46Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Butterfly Network CEO Joe DeVivo Reveals What Fueled Firm’s 39% Annual Growth",
+        "publisher": "NYSE",
+        "link": "https://finance.yahoo.com/video/butterfly-network-ceo-joe-devivo-145404617.html",
+        "pubTime": "2026-07-31T14:54:04Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Butterfly Network (BFLY) Is Up 23.4% After Raising 2026 Outlook On Embedded Segment Strength",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-butterfly-network-bfly-23-120908352.html",
+        "pubTime": "2026-07-31T12:09:08Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Butterfly Network, Inc. Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-butterfly-network-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-07-31T02:34:36Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Butterfly Network Inc (BFLY) (Q2 2026) Earnings Call Highlights: Record Revenue and Surging ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/healthcare/articles/butterfly-network-inc-bfly-q2-190146767.html",
+        "pubTime": "2026-07-30T19:01:46Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Butterfly Network, Inc. (BFLY) Reports Q2 Loss, Beats Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/butterfly-network-inc-bfly-reports-114001741.html",
+        "pubTime": "2026-07-30T11:40:01Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Butterfly Network Founder Rothberg Sells Another 660,000 Shares. Should Investors Worry?",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/coverage/filings/2026/07/27/butterfly-network-founder-rothberg-sells-another-660-000-shares-should-investors-worry/",
+        "pubTime": "2026-07-27T19:32:01Z",
+        "source": "yfinance"
+      }
+    ],
+    "RVMD": [
+      {
+        "title": "Revolution Medicines (RVMD) Q2 2026 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/12/revolution-medicines-rvmd-q2-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-12T20:59:14Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Revolution Medicines May Be Big Pharma’s Next Takeover Target",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/12/why-revolution-medicines-may-be-big-pharmas-next-takeover-target/",
+        "pubTime": "2026-08-12T12:50:24Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Revolution Medicines (RVMD) Stock Looks Rich On Fresh RAS Drug Demand",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/revolution-medicines-rvmd-stock-looks-091121840.html",
+        "pubTime": "2026-08-12T09:11:21Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Revolution Medicines (RVMD) Is Up 6.2% After BeOne-Funded Phase 3 RAS(ON) Deal - Has The Bull Case Changed?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-6-2-061454323.html",
+        "pubTime": "2026-08-12T06:14:54Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Revolution Medicines (RVMD) Looks Fairly Valued As BeOne Deal Expands Its Asia Reach",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-looks-fairly-023528304.html",
+        "pubTime": "2026-08-12T02:35:28Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Can Revolution Medicines (RVMD) Turn A New Ally Into Global Reach?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/revolution-medicines-rvmd-turn-ally-204438976.html",
+        "pubTime": "2026-08-11T20:44:38Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "BeOne and Revolution Medicines partner for oncology therapies",
+        "publisher": "Pharmaceutical Technology",
+        "link": "https://www.pharmaceutical-technology.com/news/beone-revolution-medicines-oncology-therapies/",
+        "pubTime": "2026-08-11T10:45:32Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
+        "publisher": "BioPharma Dive",
+        "link": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
+        "pubTime": "2026-08-07T10:02:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Revolution Medicines Inc (RVMD) (Q2 2026) Earnings Call Highlights: Daraxonrasib Poised to ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-inc-rvmd-q2-051115755.html",
+        "pubTime": "2026-08-06T05:11:15Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Revolution Medicines Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/revolution-medicines-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-06T04:03:55Z",
+        "source": "yfinance"
+      }
+    ],
+    "FOSL": [
+      {
+        "title": "Fossil Group Inc (FOSL) (Q2 2026) Earnings Call Highlights: Strong Margin Expansion and Raised ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-inc-fosl-q2-050213606.html",
+        "pubTime": "2026-08-13T05:02:13Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fossil Group Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/fossil-group-q2-earnings-call-highlights-2026-08-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-13T00:03:57Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fossil Group (FOSL) Reports Q2 Loss, Beats Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-fosl-reports-q2-221502717.html",
+        "pubTime": "2026-08-12T22:15:02Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fossil Group (FOSL) Soars 19.0%: Is Further Upside Left in the Stock?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-fosl-soars-19-103800705.html",
+        "pubTime": "2026-08-04T10:38:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Fossil is closing this many more stores in 2026, CEO says",
+        "publisher": "USA TODAY",
+        "link": "https://www.usatoday.com/story/money/2026/07/16/fossil-store-closures-2026/90945001007/",
+        "pubTime": "2026-07-16T20:32:13Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "GAP Declines 25% in 3 Months: Time to Buy or Wait for Now?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/gap-declines-25-3-months-172000510.html",
+        "pubTime": "2026-07-16T17:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "44-year-old mall retailer quietly closes 28 stores",
+        "publisher": "TheStreet",
+        "link": "https://www.thestreet.com/retail/iconic-mall-staple-tillys-closes-stores",
+        "pubTime": "2026-07-11T22:25:12Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Are Retail-Wholesale Stocks Lagging  Fossil Group (FOSL) This Year?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/retail-wholesale-stocks-lagging-fossil-134002141.html",
+        "pubTime": "2026-07-10T13:40:02Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "How to Play American Eagle Stock After a 35% Plunge in 6 Months?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/play-american-eagle-stock-35-160300647.html",
+        "pubTime": "2026-07-02T16:03:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Is Fossil Group (FOSL) Stock Outpacing Its Retail-Wholesale Peers This Year?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-fosl-stock-outpacing-134004314.html",
+        "pubTime": "2026-06-24T13:40:04Z",
         "source": "yfinance"
       }
     ],
@@ -1228,133 +1198,219 @@
         "source": "yfinance"
       }
     ],
-    "LFST": [
+    "HP": [
       {
-        "title": "LifeStance Health Group (LFST) Is Up 12.1% After Profit Turn, Higher Guidance And New Buyback Program",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lifestance-health-group-lfst-12-181232835.html",
-        "pubTime": "2026-08-12T18:12:32Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "5 Low-Leverage Stocks to Buy as High Oil Prices Shake Investor Confidence",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/5-low-leverage-stocks-buy-130000400.html",
-        "pubTime": "2026-08-12T13:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "LifeStance Health (LFST) Upgraded to Buy: Here's Why",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lifestance-health-lfst-upgraded-buy-160004740.html",
-        "pubTime": "2026-08-11T16:00:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "LifeStance Health Group, Inc. (LFST) Soars to 52-Week High, Time to Cash Out?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/lifestance-health-group-inc-lfst-131503783.html",
-        "pubTime": "2026-08-11T13:15:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "LFST Q2 Deep Dive: Margin Expansion and Specialty Services Propel Growth Outlook",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/healthcare/articles/lfst-q2-deep-dive-margin-023722798.html",
-        "pubTime": "2026-08-10T02:37:22Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "LifeStance (LFST) Q2 2026 Earnings Call Transcript",
+        "title": "Helmerich & Payne (HP) Q3 2026 Earnings Call Transcript",
         "publisher": "Motley Fool",
-        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/06/lifestance-lfst-q2-2026-earnings-call-transcript/",
-        "pubTime": "2026-08-07T03:12:21Z",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/13/helmerich-payne-hp-q3-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-13T13:26:46Z",
         "source": "yfinance"
       },
       {
-        "title": "LifeStance Health Group Inc (LFST) (Q2 2026) Earnings Call Highlights: Revenue Surges 26% and ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/lifestance-health-group-inc-lfst-231350275.html",
-        "pubTime": "2026-08-06T23:13:50Z",
+        "title": "Helmerich & Payne, Range Resources, Valaris, Liberty Energy, and Seadrill Stocks Trade Up, What You Need To Know",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-range-resources-valaris-164522960.html",
+        "pubTime": "2026-08-12T16:45:22Z",
         "source": "yfinance"
       },
       {
-        "title": "LifeStance Health Group Q2 Earnings Call Highlights",
+        "title": "Helmerich & Payne (HP) Could Be 11% Below Fair Value On Beetaloo Rig Deal",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-could-11-111126452.html",
+        "pubTime": "2026-08-10T11:11:26Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Helmerich & Payne Q3 Earnings Call Highlights",
         "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/lifestance-health-group-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-06T20:04:18Z",
+        "link": "https://www.marketbeat.com/instant-alerts/helmerich-payne-q3-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-08T13:04:03Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Helmerich & Payne (HP) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-q3-earnings-183002568.html",
+        "pubTime": "2026-08-07T18:30:02Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Helmerich & Payne, Inc. Q3 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-helmerich-payne-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-06T12:30:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Helmerich & Payne (HP) Reports Q3 Loss, Beats Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-hp-reports-q3-221018889.html",
+        "pubTime": "2026-08-05T22:10:18Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Helmerich & Payne (NYSE:HP) Reports Upbeat Q2 CY2026",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-nyse-hp-reports-204040859.html",
+        "pubTime": "2026-08-05T20:40:40Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "PTEN Jumps 20% in a Month as Rig Pricing and Demand Strengthen",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/energy/articles/pten-jumps-20-month-rig-141500726.html",
+        "pubTime": "2026-08-04T14:15:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Is Nabors a Buy as Growth Improves While Leverage Stays Elevated?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nabors-buy-growth-improves-while-144100539.html",
+        "pubTime": "2026-08-03T14:41:00Z",
         "source": "yfinance"
       }
     ],
-    "PACS": [
+    "HPE": [
       {
-        "title": "PACS (PACS) Q2 2026 Earnings Call Transcript",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/pacs-pacs-q2-2026-earnings-call-transcript/",
-        "pubTime": "2026-08-12T00:13:10Z",
+        "title": "Big Beat, Big Backlog, Big Caveats: Inside Super Micro’s 33% Upside Potential",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/big-beat-big-backlog-big-caveats-inside-super-micros-33-upside-potential/",
+        "pubTime": "2026-08-13T14:30:49Z",
         "source": "yfinance"
       },
       {
-        "title": "Biodesix, Inc. (BDSX) Hit a 52 Week High, Can the Run Continue?",
+        "title": "The Case For SMCI Stock Survives One Real Flaw",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611304/the-case-for-smci-stock-survives-one-real-flaw/2026-08-13",
+        "pubTime": "2026-08-13T14:10:14Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "5 Undervalued Price-to-Book Stocks Worth Buying in August",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/biodesix-inc-bdsx-hit-52-131503684.html",
-        "pubTime": "2026-08-11T13:15:03Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/5-undervalued-price-book-stocks-132500956.html",
+        "pubTime": "2026-08-13T13:25:00Z",
         "source": "yfinance"
       },
       {
-        "title": "PACS Group Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/pacs-group-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-09T00:03:52Z",
+        "title": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/dell-stock-on-track-top-500-first-time-lenovo-record-quarter-smci-guidance/cZoqaQxRJLG",
+        "pubTime": "2026-08-13T12:57:10Z",
         "source": "yfinance"
       },
       {
-        "title": "PACS Group Inc (PACS) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/pacs-group-inc-pacs-q2-230314766.html",
-        "pubTime": "2026-08-05T23:03:14Z",
+        "title": "Dell, HP and HPE Shares Rise After Lenovo Delivers Strong Quarterly Growth",
+        "publisher": "InvestorsHub",
+        "link": "https://investorshub.advfn.com/market-news/article/34235/dell-hp-and-hpe-shares-rise-after-lenovo-delivers-strong-quarterly-growth",
+        "pubTime": "2026-08-13T11:56:07Z",
         "source": "yfinance"
       },
       {
-        "title": "PACS Group, Inc. Q2 2026 Earnings Call Summary",
-        "publisher": "Moby",
-        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pacs-group-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "pubTime": "2026-08-05T12:30:00Z",
+        "title": "Get Paid 18% A Year To Cap Your ANET Stock At 21% Higher",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611128/get-paid-18-a-year-to-cap-your-anet-stock-at-21-higher/2026-08-12",
+        "pubTime": "2026-08-13T00:28:46Z",
         "source": "yfinance"
       },
       {
-        "title": "PACS Group, Inc. (PACS) Surpasses Q2 Earnings and Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pacs-group-inc-pacs-surpasses-230016849.html",
-        "pubTime": "2026-08-04T23:00:16Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "PACS or ALHC: Which Is the Better Value Stock Right Now?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pacs-alhc-better-value-stock-154003239.html",
-        "pubTime": "2026-07-30T15:40:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Progyny, Inc. (PGNY) Hit a 52 Week High, Can the Run Continue?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/progyny-inc-pgny-hit-52-131502346.html",
-        "pubTime": "2026-07-14T13:15:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is ENSG's Expanded $100M Buyback Program a Positive for Investors?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ensgs-expanded-100m-buyback-program-181500094.html",
-        "pubTime": "2026-06-16T18:15:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "PACS Group's (NYSE:PACS) Performance Is Even Better Than Its Earnings Suggest",
+        "title": "Does Lumen Technologies (LUMN) Gain An Edge With John Hinshaw Joining Its Board?",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pacs-groups-nyse-pacs-performance-110728872.html",
-        "pubTime": "2026-05-18T11:07:28Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/does-lumen-technologies-lumn-gain-001727594.html",
+        "pubTime": "2026-08-13T00:17:27Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Cisco Stock Falls After Hours as Services Revenue Miss Overshadows Record Fourth-Quarter Results",
+        "publisher": "MT Newswires",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-falls-hours-services-211700535.html",
+        "pubTime": "2026-08-12T21:17:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "How Far Can Arista Stock Move Without Anything Going Wrong?",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611160/how-far-can-arista-stock-move-without-anything-going-wrong/2026-08-12",
+        "pubTime": "2026-08-12T18:37:44Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "NLST Stock Rallies After ITC Patent Action Against MU, SMCI, HPE – Roth Capital Sees Settlement Upside",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/nlst-stock-rallies-after-itc-patent-action-against-mu-smci-hpe/cZo8BkcRJWh",
+        "pubTime": "2026-08-12T16:54:02Z",
+        "source": "yfinance"
+      }
+    ],
+    "DELL": [
+      {
+        "title": "Big Beat, Big Backlog, Big Caveats: Inside Super Micro’s 33% Upside Potential",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/big-beat-big-backlog-big-caveats-inside-super-micros-33-upside-potential/",
+        "pubTime": "2026-08-13T14:30:49Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "The Case For SMCI Stock Survives One Real Flaw",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611304/the-case-for-smci-stock-survives-one-real-flaw/2026-08-13",
+        "pubTime": "2026-08-13T14:10:14Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Dell Rises 4% and HP 6% Premarket. Cisco Sinks 7%. What’s Causing the Biggest Premarket Moves?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/dell-rises-4-and-hp-6-premarket-cisco-sinks-7-whats-causing-the-biggest-premarket-moves/",
+        "pubTime": "2026-08-13T13:11:29Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "DELL Stock On Track To Top $500 For First Time As AI Server Boom Gets Fresh Fuel From Lenovo, SMCI",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/dell-stock-on-track-top-500-first-time-lenovo-record-quarter-smci-guidance/cZoqaQxRJLG",
+        "pubTime": "2026-08-13T12:57:10Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Dell, HP and HPE Shares Rise After Lenovo Delivers Strong Quarterly Growth",
+        "publisher": "InvestorsHub",
+        "link": "https://investorshub.advfn.com/market-news/article/34235/dell-hp-and-hpe-shares-rise-after-lenovo-delivers-strong-quarterly-growth",
+        "pubTime": "2026-08-13T11:56:07Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Get Paid 18% A Year To Cap Your ANET Stock At 21% Higher",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611128/get-paid-18-a-year-to-cap-your-anet-stock-at-21-higher/2026-08-12",
+        "pubTime": "2026-08-13T00:28:46Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "How Far Can Arista Stock Move Without Anything Going Wrong?",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611160/how-far-can-arista-stock-move-without-anything-going-wrong/2026-08-12",
+        "pubTime": "2026-08-12T18:37:44Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Dell’s AI Server Boom Is Just Getting Started: 757% Growth and a $60 Billion Target",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/12/dells-ai-server-boom-is-just-getting-started-757-growth-and-a-60-billion-target/",
+        "pubTime": "2026-08-12T18:00:29Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Dell Stock Rises on AI Boom. Super Micro Forecast Is the Catalyst",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-rises-ai-boom-171906413.html",
+        "pubTime": "2026-08-12T17:19:06Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Super Micro Stock Is the Best S&P 500 Performer as Earnings Smash Expectations",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/super-micro-computer-earnings-stock-price-a1299e93?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-12T14:42:00Z",
         "source": "yfinance"
       }
     ]
