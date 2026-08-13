@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786652427128,
+  "generatedAt": 1786659759675,
   "counts": {
     "quality": 579,
     "watch": 276,
@@ -159,11 +159,11 @@
       "netIncomeM": -17,
       "fcfM": -23,
       "revenueM": null,
-      "marketCapM": 97,
+      "marketCapM": 99,
       "trailingPE": null,
-      "forwardPE": -4.6,
+      "forwardPE": -4.7,
       "priceToSales": null,
-      "priceToBook": 2.9,
+      "priceToBook": 3,
       "peg": null,
       "evToEbitda": -1.8,
       "debtToEquity": 1.5,
@@ -174,7 +174,7 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "summary": "Cognition Therapeutics, Inc., a clinical-stage biopharmaceutical company, engages in the discovery and development of small molecule therapeutics targeting age-related degenerative diseases and disorders of the central n",
-      "asOf": 1786480213586,
+      "asOf": 1786659692930,
       "summaryZh": "開發治療年齡相關退化性疾病的小分子療法臨床期生技公司。"
     },
     "VSCO": {
@@ -208,7 +208,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573786716
+      "asOf": 1786659753075
     },
     "LQDA": {
       "flag": "quality",
@@ -716,7 +716,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786652411049
+      "asOf": 1786659688343
     },
     "NVTS": {
       "flag": "trap",
@@ -1157,7 +1157,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573288814
+      "asOf": 1786659689190
     },
     "ACHR": {
       "flag": "trap",
@@ -2243,7 +2243,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573303897
+      "asOf": 1786659689640
     },
     "AMAT": {
       "flag": "quality",
@@ -2886,7 +2886,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573311722
+      "asOf": 1786659690194
     },
     "AON": {
       "flag": "quality",
@@ -4446,7 +4446,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573332721
+      "asOf": 1786659690621
     },
     "BCO": {
       "flag": "quality",
@@ -5631,7 +5631,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573348695
+      "asOf": 1786659691026
     },
     "BRX": {
       "flag": "quality",
@@ -5698,7 +5698,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573349649
+      "asOf": 1786659691561
     },
     "BRZE": {
       "flag": "watch",
@@ -6779,7 +6779,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573363732
+      "asOf": 1786659691971
     },
     "CDNS": {
       "flag": "quality",
@@ -7016,7 +7016,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573367152
+      "asOf": 1786659692533
     },
     "CG": {
       "flag": "watch",
@@ -7151,7 +7151,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573368496
+      "asOf": 1786659693513
     },
     "CHPT": {
       "flag": "watch",
@@ -7388,7 +7388,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573371632
+      "asOf": 1786659694015
     },
     "CI": {
       "flag": "quality",
@@ -7795,7 +7795,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573377615
+      "asOf": 1786659694521
     },
     "CMPS": {
       "flag": "watch",
@@ -7896,7 +7896,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573378821
+      "asOf": 1786659694924
     },
     "CMS": {
       "flag": "watch",
@@ -8983,7 +8983,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573392896
+      "asOf": 1786659695321
     },
     "CTMX": {
       "flag": "trap",
@@ -9050,7 +9050,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573393830
+      "asOf": 1786659695871
     },
     "CTRE": {
       "flag": "watch",
@@ -9590,7 +9590,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573401437
+      "asOf": 1786659696393
     },
     "DCTH": {
       "flag": "quality",
@@ -9759,7 +9759,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573403029
+      "asOf": 1786659696836
     },
     "DENN": {
       "flag": "unknown",
@@ -9792,7 +9792,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573403611
+      "asOf": 1786659697380
     },
     "DEO": {
       "flag": "quality",
@@ -9859,7 +9859,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573404428
+      "asOf": 1786659697799
     },
     "DHI": {
       "flag": "quality",
@@ -10366,7 +10366,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573411406
+      "asOf": 1786659698204
     },
     "DSP": {
       "flag": "quality",
@@ -10535,7 +10535,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573413575
+      "asOf": 1786659698713
     },
     "DVN": {
       "flag": "quality",
@@ -11248,7 +11248,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573422900
+      "asOf": 1786659699160
     },
     "EME": {
       "flag": "quality",
@@ -11858,7 +11858,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573430630
+      "asOf": 1786659699596
     },
     "ET": {
       "flag": "quality",
@@ -12197,7 +12197,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573435156
+      "asOf": 1786659699984
     },
     "EW": {
       "flag": "quality",
@@ -12434,7 +12434,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573438247
+      "asOf": 1786659700447
     },
     "EXR": {
       "flag": "quality",
@@ -12807,7 +12807,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573442424
+      "asOf": 1786659700837
     },
     "FFIV": {
       "flag": "quality",
@@ -12874,7 +12874,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573443371
+      "asOf": 1786659701470
     },
     "FIS": {
       "flag": "quality",
@@ -12926,11 +12926,11 @@
       "netIncomeM": null,
       "fcfM": null,
       "revenueM": null,
-      "marketCapM": 27418,
-      "trailingPE": 9.9,
-      "forwardPE": 6.3,
+      "marketCapM": 29513,
+      "trailingPE": 10.6,
+      "forwardPE": 6.7,
       "priceToSales": null,
-      "priceToBook": 1,
+      "priceToBook": 1.1,
       "peg": null,
       "evToEbitda": null,
       "debtToEquity": null,
@@ -12941,7 +12941,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573444261
+      "asOf": 1786659701897
     },
     "FITB": {
       "flag": "watch",
@@ -13245,7 +13245,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573448233
+      "asOf": 1786659702694
     },
     "FORM": {
       "flag": "quality",
@@ -13414,7 +13414,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573449810
+      "asOf": 1786659703120
     },
     "FRT": {
       "flag": "quality",
@@ -13651,7 +13651,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573452326
+      "asOf": 1786659703540
     },
     "GD": {
       "flag": "quality",
@@ -13854,7 +13854,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573454875
+      "asOf": 1786659704127
     },
     "GGG": {
       "flag": "quality",
@@ -14124,7 +14124,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573458498
+      "asOf": 1786659704664
     },
     "GLPI": {
       "flag": "quality",
@@ -14361,7 +14361,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573461619
+      "asOf": 1786659705213
     },
     "GOLD": {
       "flag": "watch",
@@ -14700,7 +14700,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573466193
+      "asOf": 1786659705715
     },
     "GRAB": {
       "flag": "quality",
@@ -14835,7 +14835,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573467910
+      "asOf": 1786659706138
     },
     "GTLB": {
       "flag": "watch",
@@ -15140,7 +15140,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573471650
+      "asOf": 1786659706576
     },
     "HBAN": {
       "flag": "watch",
@@ -15207,7 +15207,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573472590
+      "asOf": 1786659707115
     },
     "HCA": {
       "flag": "quality",
@@ -15342,7 +15342,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573474488
+      "asOf": 1786659707609
     },
     "HFC": {
       "flag": "unknown",
@@ -15375,7 +15375,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573474977
+      "asOf": 1786659708091
     },
     "HIBB": {
       "flag": "unknown",
@@ -15408,7 +15408,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573475373
+      "asOf": 1786659708499
     },
     "HII": {
       "flag": "watch",
@@ -15645,7 +15645,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573479089
+      "asOf": 1786659708943
     },
     "HOLX": {
       "flag": "unknown",
@@ -15678,7 +15678,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573479579
+      "asOf": 1786659709349
     },
     "HON": {
       "flag": "quality",
@@ -16082,7 +16082,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573484848
+      "asOf": 1786659709744
     },
     "HUBB": {
       "flag": "quality",
@@ -16319,7 +16319,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573488474
+      "asOf": 1786659710154
     },
     "HZO": {
       "flag": "quality",
@@ -16522,7 +16522,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573490095
+      "asOf": 1786659710585
     },
     "IDA": {
       "flag": "watch",
@@ -16860,7 +16860,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573494594
+      "asOf": 1786659710986
     },
     "INMB": {
       "flag": "trap",
@@ -17163,7 +17163,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573499060
+      "asOf": 1786659711503
     },
     "IPHA": {
       "flag": "trap",
@@ -17468,7 +17468,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573502543
+      "asOf": 1786659711890
     },
     "ITOS": {
       "flag": "unknown",
@@ -17501,7 +17501,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573503126
+      "asOf": 1786659712279
     },
     "IVZ": {
       "flag": "watch",
@@ -17704,7 +17704,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573506711
+      "asOf": 1786659712792
     },
     "JCI": {
       "flag": "quality",
@@ -17873,7 +17873,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573509120
+      "asOf": 1786659713223
     },
     "JOBY": {
       "flag": "trap",
@@ -17974,7 +17974,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573510487
+      "asOf": 1786659713737
     },
     "KALA": {
       "flag": "trap",
@@ -18026,22 +18026,22 @@
       "netIncomeM": 227,
       "fcfM": 33,
       "revenueM": 4136,
-      "marketCapM": 3141,
-      "trailingPE": 14.3,
-      "forwardPE": 17,
-      "priceToSales": 0.8,
-      "priceToBook": 3.3,
+      "marketCapM": 2988,
+      "trailingPE": 13.6,
+      "forwardPE": 16.2,
+      "priceToSales": 0.7,
+      "priceToBook": 3.1,
       "peg": 1.17,
-      "evToEbitda": 8.8,
+      "evToEbitda": 8.9,
       "debtToEquity": 113.3,
       "currentRatio": 2.5,
       "totalCashM": 58,
       "totalDebtM": 1069,
-      "dividendYield": 165,
+      "dividendYield": 159,
       "sector": "Basic Materials",
       "industry": "Aluminum",
       "summary": "Kaiser Aluminum Corporation, together with its subsidiaries, manufactures and sells semi-fabricated specialty aluminum mill products.",
-      "asOf": 1786459421637,
+      "asOf": 1786659714200,
       "summaryZh": "特殊鋁合金製品製造商。"
     },
     "KDP": {
@@ -18686,7 +18686,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573518779
+      "asOf": 1786659714661
     },
     "KRYS": {
       "flag": "quality",
@@ -18821,7 +18821,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund, under normal circumstances, invests at least 80% of the fund’s net assets in financial instruments, including swap agreements, futures contracts, or short positions, that, in combination, provide 3X daily inver",
-      "asOf": 1786573520814,
+      "asOf": 1786659715083,
       "summaryZh": "提供三倍日反向槓桿指數投資策略的基金。"
     },
     "LABU": {
@@ -18855,7 +18855,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund, under normal circumstances, invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and ETFs that track the index, that, in combination, provide 3X dai",
-      "asOf": 1786652419050,
+      "asOf": 1786659688748,
       "summaryZh": "追蹤納斯達克生技指數的3倍槓桿ETF基金。"
     },
     "LAD": {
@@ -18923,7 +18923,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573521924
+      "asOf": 1786659715573
     },
     "LASR": {
       "flag": "watch",
@@ -18976,7 +18976,7 @@
       "fcfM": null,
       "revenueM": null,
       "marketCapM": null,
-      "trailingPE": 71.7,
+      "trailingPE": 69.9,
       "forwardPE": null,
       "priceToSales": null,
       "priceToBook": null,
@@ -18990,7 +18990,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573522868
+      "asOf": 1786659716019
     },
     "LBPH": {
       "flag": "unknown",
@@ -19023,7 +19023,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573523294
+      "asOf": 1786659716580
     },
     "LBRT": {
       "flag": "watch",
@@ -19634,7 +19634,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573530684
+      "asOf": 1786659717007
     },
     "LIN": {
       "flag": "quality",
@@ -19734,7 +19734,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573531486
+      "asOf": 1786659717532
     },
     "LLY": {
       "flag": "quality",
@@ -19801,7 +19801,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573532443
+      "asOf": 1786659718089
     },
     "LMND": {
       "flag": "watch",
@@ -19868,7 +19868,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573533365
+      "asOf": 1786659718515
     },
     "LMT": {
       "flag": "quality",
@@ -20207,7 +20207,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573538296
+      "asOf": 1786659718933
     },
     "LTBR": {
       "flag": "trap",
@@ -20781,7 +20781,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573546030
+      "asOf": 1786659719483
     },
     "MAXR": {
       "flag": "unknown",
@@ -20814,7 +20814,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573546429
+      "asOf": 1786659719925
     },
     "MBUU": {
       "flag": "watch",
@@ -21289,7 +21289,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573552689
+      "asOf": 1786659720398
     },
     "MGM": {
       "flag": "quality",
@@ -21628,7 +21628,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573558038
+      "asOf": 1786659720809
     },
     "MLAB": {
       "flag": "quality",
@@ -21695,7 +21695,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573558825
+      "asOf": 1786659721273
     },
     "MMC": {
       "flag": "unknown",
@@ -21728,7 +21728,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573559303
+      "asOf": 1786659721685
     },
     "MMM": {
       "flag": "quality",
@@ -21795,7 +21795,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573560150
+      "asOf": 1786659722102
     },
     "MMYT": {
       "flag": "quality",
@@ -21895,7 +21895,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573561463
+      "asOf": 1786659722638
     },
     "MNOV": {
       "flag": "trap",
@@ -22064,7 +22064,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573563912
+      "asOf": 1786659723035
     },
     "MOH": {
       "flag": "watch",
@@ -22437,7 +22437,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573569163
+      "asOf": 1786659723435
     },
     "MRSN": {
       "flag": "unknown",
@@ -22470,7 +22470,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573569566
+      "asOf": 1786659723826
     },
     "MRVI": {
       "flag": "trap",
@@ -22944,7 +22944,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573575843
+      "asOf": 1786659724815
     },
     "MUR": {
       "flag": "quality",
@@ -23113,7 +23113,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573578434
+      "asOf": 1786659725200
     },
     "NAVI": {
       "flag": "trap",
@@ -23486,7 +23486,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573583662
+      "asOf": 1786659725626
     },
     "NFLX": {
       "flag": "quality",
@@ -23553,7 +23553,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573584661
+      "asOf": 1786659726152
     },
     "NGNE": {
       "flag": "trap",
@@ -23755,7 +23755,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573587386
+      "asOf": 1786659726709
     },
     "NKTR": {
       "flag": "trap",
@@ -23991,7 +23991,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573590209
+      "asOf": 1786659727129
     },
     "NOW": {
       "flag": "quality",
@@ -24669,7 +24669,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573599485
+      "asOf": 1786659727563
     },
     "NVST": {
       "flag": "quality",
@@ -24770,7 +24770,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573600733
+      "asOf": 1786659728039
     },
     "NXE": {
       "flag": "trap",
@@ -24871,7 +24871,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573602864
+      "asOf": 1786659728432
     },
     "OCGN": {
       "flag": "trap",
@@ -24972,7 +24972,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573604738
+      "asOf": 1786659728859
     },
     "ODFL": {
       "flag": "quality",
@@ -25344,7 +25344,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573609809
+      "asOf": 1786659729383
     },
     "ON": {
       "flag": "quality",
@@ -26395,7 +26395,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573623607
+      "asOf": 1786659729865
     },
     "PCG": {
       "flag": "watch",
@@ -26666,7 +26666,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573626982
+      "asOf": 1786659730287
     },
     "PEB": {
       "flag": "watch",
@@ -26869,7 +26869,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573630617
+      "asOf": 1786659730717
     },
     "PFE": {
       "flag": "quality",
@@ -27988,7 +27988,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573646564
+      "asOf": 1786659731133
     },
     "PRPL": {
       "flag": "trap",
@@ -28327,7 +28327,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573650988
+      "asOf": 1786659731741
     },
     "PSX": {
       "flag": "quality",
@@ -29210,7 +29210,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573661730
+      "asOf": 1786659732438
     },
     "RDW": {
       "flag": "trap",
@@ -30670,7 +30670,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573680967
+      "asOf": 1786659732858
     },
     "RXRX": {
       "flag": "trap",
@@ -30805,7 +30805,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573682703
+      "asOf": 1786659733309
     },
     "SAH": {
       "flag": "watch",
@@ -30974,7 +30974,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573685239
+      "asOf": 1786659733746
     },
     "SANM": {
       "flag": "watch",
@@ -31041,7 +31041,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573686242
+      "asOf": 1786659734282
     },
     "SBAC": {
       "flag": "quality",
@@ -31175,7 +31175,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573687934
+      "asOf": 1786659734682
     },
     "SBRA": {
       "flag": "quality",
@@ -31412,7 +31412,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573691315
+      "asOf": 1786659735087
     },
     "SCYX": {
       "flag": "trap",
@@ -31581,7 +31581,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573693014
+      "asOf": 1786659735578
     },
     "SEMR": {
       "flag": "unknown",
@@ -31614,7 +31614,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573693518
+      "asOf": 1786659736093
     },
     "SENS": {
       "flag": "trap",
@@ -31851,7 +31851,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573696497
+      "asOf": 1786659736483
     },
     "SHLS": {
       "flag": "watch",
@@ -32121,7 +32121,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573700517
+      "asOf": 1786659736900
     },
     "SIMPS": {
       "flag": "unknown",
@@ -32154,7 +32154,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573701058
+      "asOf": 1786659737422
     },
     "SITM": {
       "flag": "quality",
@@ -32221,7 +32221,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573701450
+      "asOf": 1786659737822
     },
     "SLAB": {
       "flag": "watch",
@@ -32389,7 +32389,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573703755
+      "asOf": 1786659738368
     },
     "SLP": {
       "flag": "quality",
@@ -32490,7 +32490,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573705117
+      "asOf": 1786659738858
     },
     "SMCI": {
       "flag": "watch",
@@ -32965,7 +32965,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573711685
+      "asOf": 1786659739411
     },
     "SONN": {
       "flag": "unknown",
@@ -32998,7 +32998,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573712193
+      "asOf": 1786659739972
     },
     "SOUN": {
       "flag": "trap",
@@ -33235,7 +33235,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573715627
+      "asOf": 1786659740492
     },
     "SQ": {
       "flag": "unknown",
@@ -33268,7 +33268,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573716017
+      "asOf": 1786659741094
     },
     "SQNS": {
       "flag": "trap",
@@ -33335,7 +33335,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573717584
+      "asOf": 1786659741503
     },
     "SRC": {
       "flag": "unknown",
@@ -33368,7 +33368,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573717995
+      "asOf": 1786659741980
     },
     "SRE": {
       "flag": "watch",
@@ -33469,7 +33469,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573719355
+      "asOf": 1786659742476
     },
     "SRTS": {
       "flag": "watch",
@@ -33536,7 +33536,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the Daily Target.",
-      "asOf": 1786573720388,
+      "asOf": 1786659742931,
       "summaryZh": "投資追蹤日報酬目標的金融衍生商品基金。"
     },
     "STAG": {
@@ -34010,7 +34010,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573726295
+      "asOf": 1786659743357
     },
     "SWAV": {
       "flag": "unknown",
@@ -34043,7 +34043,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573726740
+      "asOf": 1786659743807
     },
     "SWKS": {
       "flag": "quality",
@@ -34110,7 +34110,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573727533
+      "asOf": 1786659744300
     },
     "SWTX": {
       "flag": "unknown",
@@ -34143,7 +34143,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573727975
+      "asOf": 1786659744700
     },
     "SYF": {
       "flag": "watch",
@@ -34380,7 +34380,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573730913
+      "asOf": 1786659745122
     },
     "TCMD": {
       "flag": "quality",
@@ -34787,7 +34787,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573736142
+      "asOf": 1786659745674
     },
     "TGTX": {
       "flag": "quality",
@@ -34922,7 +34922,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573737796
+      "asOf": 1786659746110
     },
     "THS": {
       "flag": "unknown",
@@ -34955,7 +34955,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573738518
+      "asOf": 1786659746686
     },
     "TJX": {
       "flag": "quality",
@@ -35056,7 +35056,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573739726
+      "asOf": 1786659747075
     },
     "TLSI": {
       "flag": "trap",
@@ -35428,7 +35428,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573745427
+      "asOf": 1786659747469
     },
     "TPIC": {
       "flag": "unknown",
@@ -35461,7 +35461,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573746010
+      "asOf": 1786659747996
     },
     "TPR": {
       "flag": "quality",
@@ -35562,7 +35562,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573747355
+      "asOf": 1786659748433
     },
     "TRDA": {
       "flag": "trap",
@@ -36206,7 +36206,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573755238
+      "asOf": 1786659748873
     },
     "TWO": {
       "flag": "trap",
@@ -37055,7 +37055,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying i",
-      "asOf": 1786573767635,
+      "asOf": 1786659749281,
       "summaryZh": "追蹤鈾礦指數的ETF基金,投資相關證券與ADR。"
     },
     "URBN": {
@@ -37497,7 +37497,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573772676
+      "asOf": 1786659749709
     },
     "VBIV": {
       "flag": "unknown",
@@ -37530,7 +37530,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573773289
+      "asOf": 1786659750256
     },
     "VBLT": {
       "flag": "unknown",
@@ -37563,7 +37563,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573773795
+      "asOf": 1786659750737
     },
     "VCEL": {
       "flag": "quality",
@@ -37630,7 +37630,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573774605
+      "asOf": 1786659751157
     },
     "VERA": {
       "flag": "trap",
@@ -37697,7 +37697,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573775420
+      "asOf": 1786659751623
     },
     "VFC": {
       "flag": "quality",
@@ -38104,7 +38104,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573780555
+      "asOf": 1786659752082
     },
     "VLN": {
       "flag": "trap",
@@ -38443,7 +38443,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573784887
+      "asOf": 1786659752574
     },
     "VRPX": {
       "flag": "trap",
@@ -38748,7 +38748,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573788917
+      "asOf": 1786659753650
     },
     "VTR": {
       "flag": "quality",
@@ -38848,7 +38848,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573790278
+      "asOf": 1786659754185
     },
     "VVOS": {
       "flag": "trap",
@@ -39051,7 +39051,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573792970
+      "asOf": 1786659754672
     },
     "WBA": {
       "flag": "unknown",
@@ -39084,7 +39084,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573793529
+      "asOf": 1786659755211
     },
     "WBD": {
       "flag": "watch",
@@ -39931,7 +39931,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573805009
+      "asOf": 1786659755656
     },
     "XBI": {
       "flag": "unknown",
@@ -39964,7 +39964,7 @@
       "sector": null,
       "industry": null,
       "summary": "In seeking to track the performance of the S&P Biotechnology Select Industry Index (the \"index\"), the fund employs a sampling strategy.",
-      "asOf": 1786573805463,
+      "asOf": 1786659756072,
       "summaryZh": "追蹤生物科技類股指數的指數基金"
     },
     "XBIT": {
@@ -40032,7 +40032,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573806350
+      "asOf": 1786659756617
     },
     "XEL": {
       "flag": "watch",
@@ -40152,10 +40152,10 @@
       "netIncomeM": -90,
       "fcfM": -53,
       "revenueM": 16,
-      "marketCapM": 428,
+      "marketCapM": 425,
       "trailingPE": 3,
       "forwardPE": -5.7,
-      "priceToSales": 27,
+      "priceToSales": 26.8,
       "priceToBook": 2.7,
       "peg": null,
       "evToEbitda": -3.7,
@@ -40167,7 +40167,7 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "summary": "X4 Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the research, development, and commercialization of novel therapeutics for the treatment of rare diseases of the immune system.",
-      "asOf": 1786470709414,
+      "asOf": 1786659757038,
       "summaryZh": "開發罕見免疫系統疾病治療藥物"
     },
     "XGN": {
@@ -40336,7 +40336,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573810062
+      "asOf": 1786659757560
     },
     "XPEV": {
       "flag": "trap",
@@ -40388,10 +40388,10 @@
       "fcfM": null,
       "revenueM": null,
       "marketCapM": null,
-      "trailingPE": 18.5,
+      "trailingPE": null,
       "forwardPE": null,
       "priceToSales": null,
-      "priceToBook": 1.3,
+      "priceToBook": null,
       "peg": null,
       "evToEbitda": null,
       "debtToEquity": null,
@@ -40402,7 +40402,7 @@
       "sector": null,
       "industry": null,
       "summary": "In seeking to track the performance of the S&P Pharmaceuticals Select Industry Index (the \"index\"), the fund employs a sampling strategy.",
-      "asOf": 1786573811012,
+      "asOf": 1786659757966,
       "summaryZh": "追蹤製藥類股指數的指數基金"
     },
     "XPO": {
@@ -40606,7 +40606,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573813729
+      "asOf": 1786659758508
     },
     "YRCW": {
       "flag": "unknown",
@@ -40639,7 +40639,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573814181
+      "asOf": 1786659758889
     },
     "YUM": {
       "flag": "quality",
@@ -40876,7 +40876,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786573817445
+      "asOf": 1786659759425
     },
     "ZLAB": {
       "flag": "trap",
