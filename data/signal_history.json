@@ -49451,6 +49451,102 @@
       "stopLoss": 112.8656,
       "target": 141.082,
       "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-14_NKTR",
+      "type": "rs_leader",
+      "symbol": "NKTR",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 75.3,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 69.276,
+      "target": 86.595,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-14_CAMP",
+      "type": "rs_leader",
+      "symbol": "CAMP",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 4.78,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 4.3976,
+      "target": 5.497,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-14_IMVT",
+      "type": "rs_leader",
+      "symbol": "IMVT",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 41.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.2536,
+      "target": 47.817,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-14_FORM",
+      "type": "rs_leader",
+      "symbol": "FORM",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 128.7,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 118.404,
+      "target": 148.005,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-14_WDAY",
+      "type": "discovery",
+      "symbol": "WDAY",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 199.68,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 183.7056,
+      "target": 229.632,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-14_DCTH",
+      "type": "discovery",
+      "symbol": "DCTH",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 16.84,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 15.4928,
+      "target": 19.366,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-14_NKTR",
+      "type": "vcp_breakout",
+      "symbol": "NKTR",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 75.3,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 69.276,
+      "target": 86.595,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-14_IMVT",
+      "type": "vcp_breakout",
+      "symbol": "IMVT",
+      "triggeredAt": "2026-08-14T17:44:04.393Z",
+      "entryPrice": 41.58,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 38.2536,
+      "target": 47.817,
+      "status": "open"
     }
   ]
 }
