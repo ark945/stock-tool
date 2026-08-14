@@ -1,10 +1,10 @@
 {
-  "generatedAt": 1786738560936,
+  "generatedAt": 1786744465479,
   "counts": {
-    "quality": 578,
+    "quality": 577,
     "watch": 276,
     "trap": 211,
-    "unknown": 148
+    "unknown": 149
   },
   "bySymbol": {
     "TLYS": {
@@ -208,40 +208,40 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659753075
+      "asOf": 1786744459134
     },
     "LQDA": {
       "flag": "quality",
       "qualityScore": 100,
       "profitable": true,
       "fcfPositive": true,
-      "profitMargin": 7.7,
-      "operatingMargin": 46.3,
-      "grossMargin": 91.8,
-      "roe": 28.2,
-      "roa": 9.1,
-      "revenueGrowth": 4158.5,
+      "profitMargin": 30.7,
+      "operatingMargin": 49.8,
+      "grossMargin": 92.5,
+      "roe": 131.8,
+      "roa": 27,
+      "revenueGrowth": 1842.7,
       "earningsGrowth": null,
       "earningsQGrowth": null,
-      "netIncomeM": 22,
-      "fcfM": 10,
-      "revenueM": 288,
-      "marketCapM": 7007,
-      "trailingPE": 463.5,
-      "forwardPE": 13.6,
-      "priceToSales": 24.3,
-      "priceToBook": 64.1,
+      "netIncomeM": 139,
+      "fcfM": 74,
+      "revenueM": 451,
+      "marketCapM": 6663,
+      "trailingPE": 53.2,
+      "forwardPE": 13.2,
+      "priceToSales": 14.8,
+      "priceToBook": 60.5,
       "peg": null,
-      "evToEbitda": 167.1,
-      "debtToEquity": 170.2,
-      "currentRatio": 2.22,
-      "totalCashM": 223,
-      "totalDebtM": 185,
+      "evToEbitda": 37.4,
+      "debtToEquity": 93.7,
+      "currentRatio": 2.31,
+      "totalCashM": 284,
+      "totalDebtM": 183,
       "dividendYield": null,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "summary": "Liquidia Corporation, a biopharmaceutical company, develops, manufactures, and commercializes various products for rare cardiopulmonary diseases in the United States.",
-      "asOf": 1786566730208,
+      "asOf": 1786744421798,
       "summaryZh": "開發製造罕見心肺疾病生技製藥產品。"
     },
     "NRGV": {
@@ -716,7 +716,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786738545999
+      "asOf": 1786744388053
     },
     "NVTS": {
       "flag": "trap",
@@ -1157,7 +1157,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659689190
+      "asOf": 1786744388521
     },
     "ACHR": {
       "flag": "trap",
@@ -2243,7 +2243,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659689640
+      "asOf": 1786744388970
     },
     "AMAT": {
       "flag": "quality",
@@ -2803,13 +2803,13 @@
       "netIncomeM": -3,
       "fcfM": 3,
       "revenueM": 121,
-      "marketCapM": 295,
+      "marketCapM": 288,
       "trailingPE": null,
-      "forwardPE": 23.2,
+      "forwardPE": 22.6,
       "priceToSales": 2.4,
       "priceToBook": 2.1,
       "peg": 5.3,
-      "evToEbitda": 89.1,
+      "evToEbitda": 88.9,
       "debtToEquity": 18.4,
       "currentRatio": 4.48,
       "totalCashM": 38,
@@ -2818,7 +2818,7 @@
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "summary": "Anika Therapeutics, Inc., a joint preservation company, focuses on early intervention orthopedics in the United States, Europe, and internationally.",
-      "asOf": 1786566736108,
+      "asOf": 1786744389430,
       "summaryZh": "骨科醫療公司，開發關節保護治療產品。"
     },
     "ANNX": {
@@ -2886,7 +2886,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659690194
+      "asOf": 1786744390014
     },
     "AON": {
       "flag": "quality",
@@ -4446,7 +4446,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659690621
+      "asOf": 1786744390459
     },
     "BCO": {
       "flag": "quality",
@@ -5631,7 +5631,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659691026
+      "asOf": 1786744390897
     },
     "BRX": {
       "flag": "quality",
@@ -5698,7 +5698,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659691561
+      "asOf": 1786744391522
     },
     "BRZE": {
       "flag": "watch",
@@ -6157,10 +6157,10 @@
       "netIncomeM": 536,
       "fcfM": 610,
       "revenueM": 9568,
-      "marketCapM": 15029,
-      "trailingPE": 28.1,
-      "forwardPE": 18.1,
-      "priceToSales": 1.6,
+      "marketCapM": 14819,
+      "trailingPE": 27.7,
+      "forwardPE": 17.9,
+      "priceToSales": 1.5,
       "priceToBook": 3.5,
       "peg": 514.23,
       "evToEbitda": 16.8,
@@ -6172,7 +6172,7 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "summary": "CACI International Inc, through its subsidiaries, provides expertise and technology solutions in the United States, the United Kingdom, rest of Europe, and internationally.",
-      "asOf": 1786566734429,
+      "asOf": 1786744391970,
       "summaryZh": "國防與情報技術服務商，提供資安及系統整合解決方案。"
     },
     "CAG": {
@@ -6779,7 +6779,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659691971
+      "asOf": 1786744392547
     },
     "CDNS": {
       "flag": "quality",
@@ -7016,7 +7016,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659692533
+      "asOf": 1786744393103
     },
     "CG": {
       "flag": "watch",
@@ -7151,7 +7151,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659693513
+      "asOf": 1786744393693
     },
     "CHPT": {
       "flag": "watch",
@@ -7388,7 +7388,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659694015
+      "asOf": 1786744394391
     },
     "CI": {
       "flag": "quality",
@@ -7795,7 +7795,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659694521
+      "asOf": 1786744394967
     },
     "CMPS": {
       "flag": "watch",
@@ -7896,7 +7896,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659694924
+      "asOf": 1786744395463
     },
     "CMS": {
       "flag": "watch",
@@ -8983,7 +8983,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659695321
+      "asOf": 1786744396025
     },
     "CTMX": {
       "flag": "trap",
@@ -9050,7 +9050,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659695871
+      "asOf": 1786744396597
     },
     "CTRE": {
       "flag": "watch",
@@ -9590,7 +9590,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786718215827
+      "asOf": 1786744397183
     },
     "DCTH": {
       "flag": "quality",
@@ -9759,7 +9759,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659696836
+      "asOf": 1786744397584
     },
     "DENN": {
       "flag": "unknown",
@@ -9792,7 +9792,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659697380
+      "asOf": 1786744398157
     },
     "DEO": {
       "flag": "quality",
@@ -9859,7 +9859,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659697799
+      "asOf": 1786744398565
     },
     "DHI": {
       "flag": "quality",
@@ -10366,7 +10366,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659698204
+      "asOf": 1786744399000
     },
     "DSP": {
       "flag": "quality",
@@ -10535,7 +10535,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659698713
+      "asOf": 1786744399587
     },
     "DVN": {
       "flag": "quality",
@@ -11248,7 +11248,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659699160
+      "asOf": 1786744400051
     },
     "EME": {
       "flag": "quality",
@@ -11858,7 +11858,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659699596
+      "asOf": 1786744400501
     },
     "ET": {
       "flag": "quality",
@@ -12197,7 +12197,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659699984
+      "asOf": 1786744400904
     },
     "EW": {
       "flag": "quality",
@@ -12434,7 +12434,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659700447
+      "asOf": 1786744401329
     },
     "EXR": {
       "flag": "quality",
@@ -12807,7 +12807,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659700837
+      "asOf": 1786744401820
     },
     "FFIV": {
       "flag": "quality",
@@ -12874,7 +12874,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659701470
+      "asOf": 1786744402375
     },
     "FIS": {
       "flag": "quality",
@@ -12926,9 +12926,9 @@
       "netIncomeM": null,
       "fcfM": null,
       "revenueM": null,
-      "marketCapM": 29513,
-      "trailingPE": 10.6,
-      "forwardPE": 6.7,
+      "marketCapM": 28923,
+      "trailingPE": 10.4,
+      "forwardPE": 6.6,
       "priceToSales": null,
       "priceToBook": 1.1,
       "peg": null,
@@ -12941,7 +12941,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659701897
+      "asOf": 1786744402780
     },
     "FITB": {
       "flag": "watch",
@@ -13245,7 +13245,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659702694
+      "asOf": 1786744403360
     },
     "FORM": {
       "flag": "quality",
@@ -13414,7 +13414,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659703120
+      "asOf": 1786744403811
     },
     "FRT": {
       "flag": "quality",
@@ -13651,7 +13651,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659703540
+      "asOf": 1786744404242
     },
     "GD": {
       "flag": "quality",
@@ -13854,7 +13854,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659704127
+      "asOf": 1786744404792
     },
     "GGG": {
       "flag": "quality",
@@ -14124,7 +14124,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659704664
+      "asOf": 1786744405375
     },
     "GLPI": {
       "flag": "quality",
@@ -14361,7 +14361,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659705213
+      "asOf": 1786744405887
     },
     "GOLD": {
       "flag": "watch",
@@ -14700,7 +14700,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659705715
+      "asOf": 1786744406411
     },
     "GRAB": {
       "flag": "quality",
@@ -14835,7 +14835,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659706138
+      "asOf": 1786744406878
     },
     "GTLB": {
       "flag": "watch",
@@ -15140,7 +15140,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659706576
+      "asOf": 1786744407307
     },
     "HBAN": {
       "flag": "watch",
@@ -15207,7 +15207,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659707115
+      "asOf": 1786744407876
     },
     "HCA": {
       "flag": "quality",
@@ -15342,7 +15342,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659707609
+      "asOf": 1786744408459
     },
     "HFC": {
       "flag": "unknown",
@@ -15375,7 +15375,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659708091
+      "asOf": 1786744409044
     },
     "HIBB": {
       "flag": "unknown",
@@ -15408,7 +15408,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659708499
+      "asOf": 1786744409440
     },
     "HII": {
       "flag": "watch",
@@ -15645,7 +15645,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659708943
+      "asOf": 1786744409847
     },
     "HOLX": {
       "flag": "unknown",
@@ -15678,7 +15678,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659709349
+      "asOf": 1786744410283
     },
     "HON": {
       "flag": "quality",
@@ -16082,7 +16082,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659709744
+      "asOf": 1786744410743
     },
     "HUBB": {
       "flag": "quality",
@@ -16319,7 +16319,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659710154
+      "asOf": 1786744411172
     },
     "HZO": {
       "flag": "quality",
@@ -16405,13 +16405,13 @@
       "netIncomeM": -992,
       "fcfM": -187,
       "revenueM": 166,
-      "marketCapM": 8139,
+      "marketCapM": 8023,
       "trailingPE": null,
-      "forwardPE": -60.6,
-      "priceToSales": 49.1,
-      "priceToBook": -7.7,
+      "forwardPE": -59.8,
+      "priceToSales": 48.4,
+      "priceToBook": -7.6,
       "peg": null,
-      "evToEbitda": -37.9,
+      "evToEbitda": -38.2,
       "debtToEquity": null,
       "currentRatio": 5.72,
       "totalCashM": 357,
@@ -16420,7 +16420,7 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "summary": "ImmunityBio, Inc., a biotechnology company, focuses on innovating, developing, and commercializing next-generation immunotherapies designed to activate the patient's immune system and deliver durable protection against c",
-      "asOf": 1786557356810,
+      "asOf": 1786744411641,
       "summaryZh": "開發下一代免疫療法治療癌症和傳染病"
     },
     "ICE": {
@@ -16522,7 +16522,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659710585
+      "asOf": 1786744412054
     },
     "IDA": {
       "flag": "watch",
@@ -16860,7 +16860,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659710986
+      "asOf": 1786744412491
     },
     "INMB": {
       "flag": "trap",
@@ -17163,7 +17163,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659711503
+      "asOf": 1786744413057
     },
     "IPHA": {
       "flag": "trap",
@@ -17468,7 +17468,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659711890
+      "asOf": 1786744413523
     },
     "ITOS": {
       "flag": "unknown",
@@ -17501,7 +17501,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659712279
+      "asOf": 1786744414009
     },
     "IVZ": {
       "flag": "watch",
@@ -17704,7 +17704,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659712792
+      "asOf": 1786744414604
     },
     "JCI": {
       "flag": "quality",
@@ -17873,7 +17873,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659713223
+      "asOf": 1786744415028
     },
     "JOBY": {
       "flag": "trap",
@@ -17974,7 +17974,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659713737
+      "asOf": 1786744415559
     },
     "KALA": {
       "flag": "trap",
@@ -18230,13 +18230,13 @@
       "netIncomeM": -40,
       "fcfM": 3,
       "revenueM": 253,
-      "marketCapM": 649,
+      "marketCapM": 648,
       "trailingPE": null,
-      "forwardPE": -35,
+      "forwardPE": -34.9,
       "priceToSales": 2.6,
       "priceToBook": 1.9,
       "peg": null,
-      "evToEbitda": -1569,
+      "evToEbitda": -1614.2,
       "debtToEquity": 32.4,
       "currentRatio": 4.78,
       "totalCashM": 46,
@@ -18245,7 +18245,7 @@
       "sector": "Healthcare",
       "industry": "Medical Devices",
       "summary": "OrthoPediatrics Corp., a medical device company, engages in designing, developing, and marketing anatomically appropriate implants, instruments, and specialized braces for children with orthopedic conditions in the Unite",
-      "asOf": 1786566736581,
+      "asOf": 1786744415995,
       "summaryZh": "研發販售兒童骨科植入物及矯正器材的醫療器材廠。"
     },
     "KIM": {
@@ -18686,7 +18686,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659714661
+      "asOf": 1786744416437
     },
     "KRYS": {
       "flag": "quality",
@@ -18821,7 +18821,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund, under normal circumstances, invests at least 80% of the fund’s net assets in financial instruments, including swap agreements, futures contracts, or short positions, that, in combination, provide 3X daily inver",
-      "asOf": 1786659715083,
+      "asOf": 1786744416909,
       "summaryZh": "提供三倍日反向槓桿指數投資策略的基金。"
     },
     "LABU": {
@@ -18855,7 +18855,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund, under normal circumstances, invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and ETFs that track the index, that, in combination, provide 3X dai",
-      "asOf": 1786659688748,
+      "asOf": 1786744417373,
       "summaryZh": "追蹤納斯達克生技指數的3倍槓桿ETF基金。"
     },
     "LAD": {
@@ -18923,7 +18923,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659715573
+      "asOf": 1786744417908
     },
     "LASR": {
       "flag": "watch",
@@ -18976,7 +18976,7 @@
       "fcfM": null,
       "revenueM": null,
       "marketCapM": null,
-      "trailingPE": 69.9,
+      "trailingPE": 71.5,
       "forwardPE": null,
       "priceToSales": null,
       "priceToBook": null,
@@ -18990,7 +18990,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659716019
+      "asOf": 1786744418346
     },
     "LBPH": {
       "flag": "unknown",
@@ -19023,7 +19023,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659716580
+      "asOf": 1786744418841
     },
     "LBRT": {
       "flag": "watch",
@@ -19060,38 +19060,37 @@
       "summaryZh": "提供油氣及地熱開採的水力壓裂服務公司。"
     },
     "LC": {
-      "flag": "quality",
-      "qualityScore": 100,
-      "profitable": true,
-      "fcfPositive": true,
-      "profitMargin": 12.8,
-      "operatingMargin": 20,
-      "grossMargin": 38.8,
-      "roe": 12.2,
-      "roa": 1.3,
-      "revenueGrowth": 12.5,
-      "earningsGrowth": 340,
-      "earningsQGrowth": 342.1,
-      "netIncomeM": 176,
-      "fcfM": 285,
-      "revenueM": 1372,
-      "marketCapM": 2216,
-      "trailingPE": 12.8,
-      "forwardPE": 8.4,
-      "priceToSales": 1.6,
-      "priceToBook": 1.5,
+      "flag": "unknown",
+      "qualityScore": 0,
+      "profitable": false,
+      "fcfPositive": false,
+      "profitMargin": null,
+      "operatingMargin": null,
+      "grossMargin": null,
+      "roe": null,
+      "roa": null,
+      "revenueGrowth": null,
+      "earningsGrowth": null,
+      "earningsQGrowth": null,
+      "netIncomeM": null,
+      "fcfM": null,
+      "revenueM": null,
+      "marketCapM": null,
+      "trailingPE": null,
+      "forwardPE": null,
+      "priceToSales": null,
+      "priceToBook": null,
       "peg": null,
-      "evToEbitda": 4.9,
-      "debtToEquity": 0.8,
-      "currentRatio": 2.76,
-      "totalCashM": 802,
-      "totalDebtM": 12,
+      "evToEbitda": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "totalCashM": null,
+      "totalDebtM": null,
       "dividendYield": null,
-      "sector": "Financial Services",
-      "industry": "Banks - Regional",
-      "summary": "LendingClub Corporation, operates as a bank holding company, that provides range of financial products and services in the United States.",
-      "asOf": 1786486938193,
-      "summaryZh": "美國線上銀行及金融服務公司。"
+      "sector": null,
+      "industry": null,
+      "summary": null,
+      "asOf": 1786744419364
     },
     "LCID": {
       "flag": "trap",
@@ -19634,7 +19633,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659717007
+      "asOf": 1786744419798
     },
     "LIN": {
       "flag": "quality",
@@ -19734,7 +19733,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659717532
+      "asOf": 1786744420299
     },
     "LLY": {
       "flag": "quality",
@@ -19801,7 +19800,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659718089
+      "asOf": 1786744420855
     },
     "LMND": {
       "flag": "watch",
@@ -19868,7 +19867,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659718515
+      "asOf": 1786744421262
     },
     "LMT": {
       "flag": "quality",
@@ -20207,7 +20206,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659718933
+      "asOf": 1786744422263
     },
     "LTBR": {
       "flag": "trap",
@@ -20781,7 +20780,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659719483
+      "asOf": 1786744422794
     },
     "MAXR": {
       "flag": "unknown",
@@ -20814,7 +20813,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659719925
+      "asOf": 1786744423186
     },
     "MBUU": {
       "flag": "watch",
@@ -21289,7 +21288,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659720398
+      "asOf": 1786744423666
     },
     "MGM": {
       "flag": "quality",
@@ -21628,7 +21627,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659720809
+      "asOf": 1786744424117
     },
     "MLAB": {
       "flag": "quality",
@@ -21695,7 +21694,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659721273
+      "asOf": 1786744424563
     },
     "MMC": {
       "flag": "unknown",
@@ -21728,7 +21727,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659721685
+      "asOf": 1786744425005
     },
     "MMM": {
       "flag": "quality",
@@ -21795,7 +21794,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659722102
+      "asOf": 1786744425451
     },
     "MMYT": {
       "flag": "quality",
@@ -21895,7 +21894,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659722638
+      "asOf": 1786744425943
     },
     "MNOV": {
       "flag": "trap",
@@ -22064,7 +22063,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659723035
+      "asOf": 1786744426360
     },
     "MOH": {
       "flag": "watch",
@@ -22437,7 +22436,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659723435
+      "asOf": 1786744426749
     },
     "MRSN": {
       "flag": "unknown",
@@ -22470,7 +22469,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659723826
+      "asOf": 1786744427154
     },
     "MRVI": {
       "flag": "trap",
@@ -22944,7 +22943,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659724815
+      "asOf": 1786744427678
     },
     "MUR": {
       "flag": "quality",
@@ -23113,7 +23112,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659725200
+      "asOf": 1786744428112
     },
     "NAVI": {
       "flag": "trap",
@@ -23486,7 +23485,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659725626
+      "asOf": 1786744428511
     },
     "NFLX": {
       "flag": "quality",
@@ -23553,7 +23552,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659726152
+      "asOf": 1786744429100
     },
     "NGNE": {
       "flag": "trap",
@@ -23755,7 +23754,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659726709
+      "asOf": 1786744429644
     },
     "NKTR": {
       "flag": "trap",
@@ -23991,7 +23990,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659727129
+      "asOf": 1786744430043
     },
     "NOW": {
       "flag": "quality",
@@ -24669,7 +24668,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659727563
+      "asOf": 1786744430502
     },
     "NVST": {
       "flag": "quality",
@@ -24770,7 +24769,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659728039
+      "asOf": 1786744431022
     },
     "NXE": {
       "flag": "trap",
@@ -24871,7 +24870,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659728432
+      "asOf": 1786744431432
     },
     "OCGN": {
       "flag": "trap",
@@ -24972,7 +24971,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659728859
+      "asOf": 1786744431868
     },
     "ODFL": {
       "flag": "quality",
@@ -25344,7 +25343,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659729383
+      "asOf": 1786744432360
     },
     "ON": {
       "flag": "quality",
@@ -26143,11 +26142,11 @@
       "netIncomeM": 269,
       "fcfM": 378,
       "revenueM": 5551,
-      "marketCapM": 7197,
-      "trailingPE": 26.6,
-      "forwardPE": 16.8,
+      "marketCapM": 7036,
+      "trailingPE": 26,
+      "forwardPE": 16.4,
       "priceToSales": 1.3,
-      "priceToBook": 6.9,
+      "priceToBook": 6.3,
       "peg": 1.38,
       "evToEbitda": 21.7,
       "debtToEquity": 305.3,
@@ -26158,7 +26157,7 @@
       "sector": "Healthcare",
       "industry": "Medical Care Facilities",
       "summary": "PACS Group, Inc., through its subsidiaries, operates skilled nursing facilities and assisted living facilities in the United States.",
-      "asOf": 1786566729710,
+      "asOf": 1786744432816,
       "summaryZh": "經營專業護理機構及輔助生活設施的養老服務公司。"
     },
     "PAG": {
@@ -26395,7 +26394,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659729865
+      "asOf": 1786744433226
     },
     "PCG": {
       "flag": "watch",
@@ -26666,7 +26665,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659730287
+      "asOf": 1786744433657
     },
     "PEB": {
       "flag": "watch",
@@ -26869,7 +26868,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659730717
+      "asOf": 1786744434073
     },
     "PFE": {
       "flag": "quality",
@@ -27988,7 +27987,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659731133
+      "asOf": 1786744434471
     },
     "PRPL": {
       "flag": "trap",
@@ -28327,7 +28326,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659731741
+      "asOf": 1786744435085
     },
     "PSX": {
       "flag": "quality",
@@ -29210,7 +29209,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659732438
+      "asOf": 1786744435578
     },
     "RDW": {
       "flag": "trap",
@@ -30670,7 +30669,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659732858
+      "asOf": 1786744436680
     },
     "RXRX": {
       "flag": "trap",
@@ -30805,7 +30804,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659733309
+      "asOf": 1786744437123
     },
     "SAH": {
       "flag": "watch",
@@ -30974,7 +30973,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659733746
+      "asOf": 1786744437542
     },
     "SANM": {
       "flag": "watch",
@@ -31041,7 +31040,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659734282
+      "asOf": 1786744438111
     },
     "SBAC": {
       "flag": "quality",
@@ -31175,7 +31174,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659734682
+      "asOf": 1786744438535
     },
     "SBRA": {
       "flag": "quality",
@@ -31412,7 +31411,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659735087
+      "asOf": 1786744438944
     },
     "SCYX": {
       "flag": "trap",
@@ -31581,7 +31580,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659735578
+      "asOf": 1786744439341
     },
     "SEMR": {
       "flag": "unknown",
@@ -31614,7 +31613,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659736093
+      "asOf": 1786744439910
     },
     "SENS": {
       "flag": "trap",
@@ -31851,7 +31850,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659736483
+      "asOf": 1786744440370
     },
     "SHLS": {
       "flag": "watch",
@@ -31936,13 +31935,13 @@
       "netIncomeM": 1928,
       "fcfM": 1588,
       "revenueM": 13269,
-      "marketCapM": 193595,
-      "trailingPE": 101.7,
-      "forwardPE": 61.7,
-      "priceToSales": 14.6,
-      "priceToBook": 15.7,
+      "marketCapM": 200254,
+      "trailingPE": 105,
+      "forwardPE": 63.3,
+      "priceToSales": 15.1,
+      "priceToBook": 16.1,
       "peg": 2.61,
-      "evToEbitda": 80,
+      "evToEbitda": 83.2,
       "debtToEquity": 1.4,
       "currentRatio": 5.35,
       "totalCashM": 4947,
@@ -31951,7 +31950,7 @@
       "sector": "Technology",
       "industry": "Software - Application",
       "summary": "Shopify Inc., a commerce technology company, provides tools to start, scale, market, and run a business of various sizes in Canada, the United States, Europe, the Middle East, Africa, the Asia Pacific, and Latin America.",
-      "asOf": 1786545952876,
+      "asOf": 1786744440796,
       "summaryZh": "提供電商平台及工具協助各規模企業營運。"
     },
     "SHW": {
@@ -32121,7 +32120,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659736900
+      "asOf": 1786744441202
     },
     "SIMPS": {
       "flag": "unknown",
@@ -32154,7 +32153,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659737422
+      "asOf": 1786744441710
     },
     "SITM": {
       "flag": "quality",
@@ -32221,7 +32220,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659737822
+      "asOf": 1786744442175
     },
     "SLAB": {
       "flag": "watch",
@@ -32389,7 +32388,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659738368
+      "asOf": 1786744442724
     },
     "SLP": {
       "flag": "quality",
@@ -32490,7 +32489,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659738858
+      "asOf": 1786744443249
     },
     "SMCI": {
       "flag": "watch",
@@ -32965,7 +32964,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659739411
+      "asOf": 1786744443782
     },
     "SONN": {
       "flag": "unknown",
@@ -32998,7 +32997,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659739972
+      "asOf": 1786744444315
     },
     "SOUN": {
       "flag": "trap",
@@ -33235,7 +33234,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659740492
+      "asOf": 1786744444752
     },
     "SQ": {
       "flag": "unknown",
@@ -33268,7 +33267,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659741094
+      "asOf": 1786744445193
     },
     "SQNS": {
       "flag": "trap",
@@ -33335,7 +33334,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659741503
+      "asOf": 1786744445611
     },
     "SRC": {
       "flag": "unknown",
@@ -33368,7 +33367,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659741980
+      "asOf": 1786744446039
     },
     "SRE": {
       "flag": "watch",
@@ -33469,7 +33468,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659742476
+      "asOf": 1786744446444
     },
     "SRTS": {
       "flag": "watch",
@@ -33536,7 +33535,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the Daily Target.",
-      "asOf": 1786659742931,
+      "asOf": 1786744446873,
       "summaryZh": "投資追蹤日報酬目標的金融衍生商品基金。"
     },
     "STAG": {
@@ -34010,7 +34009,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659743357
+      "asOf": 1786744447274
     },
     "SWAV": {
       "flag": "unknown",
@@ -34043,7 +34042,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659743807
+      "asOf": 1786744447754
     },
     "SWKS": {
       "flag": "quality",
@@ -34110,7 +34109,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659744300
+      "asOf": 1786744448185
     },
     "SWTX": {
       "flag": "unknown",
@@ -34143,7 +34142,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659744700
+      "asOf": 1786744448585
     },
     "SYF": {
       "flag": "watch",
@@ -34380,7 +34379,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659745122
+      "asOf": 1786744449018
     },
     "TCMD": {
       "flag": "quality",
@@ -34787,7 +34786,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659745674
+      "asOf": 1786744449574
     },
     "TGTX": {
       "flag": "quality",
@@ -34922,7 +34921,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659746110
+      "asOf": 1786744450041
     },
     "THS": {
       "flag": "unknown",
@@ -34955,7 +34954,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659746686
+      "asOf": 1786744450593
     },
     "TJX": {
       "flag": "quality",
@@ -35056,7 +35055,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659747075
+      "asOf": 1786744451026
     },
     "TLSI": {
       "flag": "trap",
@@ -35142,13 +35141,13 @@
       "netIncomeM": 152,
       "fcfM": 44,
       "revenueM": 668,
-      "marketCapM": 3021,
-      "trailingPE": 22.6,
-      "forwardPE": 37.9,
-      "priceToSales": 4.5,
-      "priceToBook": 5.8,
+      "marketCapM": 3072,
+      "trailingPE": 22.9,
+      "forwardPE": 38.4,
+      "priceToSales": 4.6,
+      "priceToBook": 5.9,
       "peg": 1.21,
-      "evToEbitda": 30.2,
+      "evToEbitda": 30.3,
       "debtToEquity": 167.5,
       "currentRatio": 6.62,
       "totalCashM": 473,
@@ -35157,7 +35156,7 @@
       "sector": "Healthcare",
       "industry": "Medical Devices",
       "summary": "TransMedics Group, Inc., a commercial-stage medical technology company, engages in transforming organ transplant therapy for end-stage organ failure patients in the United States and internationally.",
-      "asOf": 1786557370807,
+      "asOf": 1786744451483,
       "summaryZh": "器官移植醫療科技商業化公司。"
     },
     "TME": {
@@ -35428,7 +35427,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659747469
+      "asOf": 1786744451941
     },
     "TPIC": {
       "flag": "unknown",
@@ -35461,7 +35460,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659747996
+      "asOf": 1786744452485
     },
     "TPR": {
       "flag": "quality",
@@ -35562,7 +35561,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659748433
+      "asOf": 1786744452926
     },
     "TRDA": {
       "flag": "trap",
@@ -35851,13 +35850,13 @@
       "netIncomeM": 290,
       "fcfM": 167,
       "revenueM": 1710,
-      "marketCapM": 30500,
-      "trailingPE": 106.7,
-      "forwardPE": 41.5,
-      "priceToSales": 17.8,
-      "priceToBook": 10.2,
-      "peg": 6.45,
-      "evToEbitda": 45,
+      "marketCapM": 30008,
+      "trailingPE": 104.9,
+      "forwardPE": 40.8,
+      "priceToSales": 17.6,
+      "priceToBook": 10,
+      "peg": 6.65,
+      "evToEbitda": 45.6,
       "debtToEquity": 4.6,
       "currentRatio": 4.91,
       "totalCashM": 1481,
@@ -35866,7 +35865,7 @@
       "sector": "Technology",
       "industry": "Semiconductors",
       "summary": "Tower Semiconductor Ltd., an independent semiconductor foundry, provides technology, development, and process platforms for integrated circuits in the United States, Japan, rest of Asia, and Europe.",
-      "asOf": 1786557357276,
+      "asOf": 1786744453380,
       "summaryZh": "獨立半導體代工廠提供製程技術平台。"
     },
     "TSHA": {
@@ -36089,13 +36088,13 @@
       "netIncomeM": -68,
       "fcfM": -18,
       "revenueM": 591,
-      "marketCapM": 5780,
+      "marketCapM": 5857,
       "trailingPE": null,
       "forwardPE": 11.3,
-      "priceToSales": 9.8,
+      "priceToSales": 9.9,
       "priceToBook": 58.2,
       "peg": null,
-      "evToEbitda": 253.3,
+      "evToEbitda": 258.3,
       "debtToEquity": 2515.7,
       "currentRatio": 4.05,
       "totalCashM": 489,
@@ -36104,7 +36103,7 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "summary": "Travere Therapeutics, Inc., a biopharmaceutical company, identifies, develops, and delivers therapies to people living with rare kidney and metabolic diseases in the United States.",
-      "asOf": 1786566726778,
+      "asOf": 1786744453880,
       "summaryZh": "開發罕見腎臟及代謝疾病治療藥物的生技公司。"
     },
     "TW": {
@@ -36206,7 +36205,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659748873
+      "asOf": 1786744454279
     },
     "TWO": {
       "flag": "trap",
@@ -37041,7 +37040,7 @@
       "fcfM": null,
       "revenueM": null,
       "marketCapM": null,
-      "trailingPE": 29.9,
+      "trailingPE": 29.7,
       "forwardPE": null,
       "priceToSales": null,
       "priceToBook": null,
@@ -37055,7 +37054,7 @@
       "sector": null,
       "industry": null,
       "summary": "The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (\"ADRs\") and Global Depositary Receipts (\"GDRs\") based on the securities in the underlying i",
-      "asOf": 1786659749281,
+      "asOf": 1786744454719,
       "summaryZh": "追蹤鈾礦指數的ETF基金,投資相關證券與ADR。"
     },
     "URBN": {
@@ -37142,13 +37141,13 @@
       "netIncomeM": -98,
       "fcfM": -107,
       "revenueM": 189,
-      "marketCapM": 2387,
+      "marketCapM": 2349,
       "trailingPE": null,
-      "forwardPE": 17.5,
-      "priceToSales": 12.6,
-      "priceToBook": -19.2,
+      "forwardPE": 17.3,
+      "priceToSales": 12.4,
+      "priceToBook": -17.8,
       "peg": null,
-      "evToEbitda": -36,
+      "evToEbitda": -36.8,
       "debtToEquity": null,
       "currentRatio": 3.8,
       "totalCashM": 108,
@@ -37157,7 +37156,7 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "summary": "UroGen Pharma Ltd., a biotechnology company, engages in the development and commercialization of solutions for urothelial and specialty cancers.",
-      "asOf": 1786566730616,
+      "asOf": 1786744455145,
       "summaryZh": "以色列生技公司,開發尿路癌症藥物治療方案。"
     },
     "USAC": {
@@ -37497,7 +37496,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659749709
+      "asOf": 1786744455604
     },
     "VBIV": {
       "flag": "unknown",
@@ -37530,7 +37529,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659750256
+      "asOf": 1786744456230
     },
     "VBLT": {
       "flag": "unknown",
@@ -37563,7 +37562,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659750737
+      "asOf": 1786744456703
     },
     "VCEL": {
       "flag": "quality",
@@ -37630,7 +37629,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659751157
+      "asOf": 1786744457112
     },
     "VERA": {
       "flag": "trap",
@@ -37697,7 +37696,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659751623
+      "asOf": 1786744457523
     },
     "VFC": {
       "flag": "quality",
@@ -38104,7 +38103,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659752082
+      "asOf": 1786744457956
     },
     "VLN": {
       "flag": "trap",
@@ -38443,7 +38442,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659752574
+      "asOf": 1786744458501
     },
     "VRPX": {
       "flag": "trap",
@@ -38748,7 +38747,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659753650
+      "asOf": 1786744459643
     },
     "VTR": {
       "flag": "quality",
@@ -38848,7 +38847,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659754185
+      "asOf": 1786744460171
     },
     "VVOS": {
       "flag": "trap",
@@ -39051,7 +39050,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659754672
+      "asOf": 1786744460805
     },
     "WBA": {
       "flag": "unknown",
@@ -39084,7 +39083,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659755211
+      "asOf": 1786744461398
     },
     "WBD": {
       "flag": "watch",
@@ -39931,7 +39930,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659755656
+      "asOf": 1786744461792
     },
     "XBI": {
       "flag": "unknown",
@@ -39964,7 +39963,7 @@
       "sector": null,
       "industry": null,
       "summary": "In seeking to track the performance of the S&P Biotechnology Select Industry Index (the \"index\"), the fund employs a sampling strategy.",
-      "asOf": 1786659756072,
+      "asOf": 1786744462202,
       "summaryZh": "追蹤生物科技類股指數的指數基金"
     },
     "XBIT": {
@@ -40032,7 +40031,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659756617
+      "asOf": 1786744462735
     },
     "XEL": {
       "flag": "watch",
@@ -40336,7 +40335,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659757560
+      "asOf": 1786744463270
     },
     "XPEV": {
       "flag": "trap",
@@ -40402,7 +40401,7 @@
       "sector": null,
       "industry": null,
       "summary": "In seeking to track the performance of the S&P Pharmaceuticals Select Industry Index (the \"index\"), the fund employs a sampling strategy.",
-      "asOf": 1786659757966,
+      "asOf": 1786744463688,
       "summaryZh": "追蹤製藥類股指數的指數基金"
     },
     "XPO": {
@@ -40606,7 +40605,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659758508
+      "asOf": 1786744464258
     },
     "YRCW": {
       "flag": "unknown",
@@ -40639,7 +40638,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659758889
+      "asOf": 1786744464664
     },
     "YUM": {
       "flag": "quality",
@@ -40876,7 +40875,7 @@
       "sector": null,
       "industry": null,
       "summary": null,
-      "asOf": 1786659759425
+      "asOf": 1786744465229
     },
     "ZLAB": {
       "flag": "trap",
