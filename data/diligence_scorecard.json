@@ -1,20 +1,20 @@
 {
-  "generatedAt": 1786180794795,
+  "generatedAt": 1786784367317,
   "graded": 21,
-  "overallAlphaPct": -13.5,
-  "medianDaysHeld": 63,
+  "overallAlphaPct": -10.8,
+  "medianDaysHeld": 70,
   "byConviction": [
     {
       "conviction": 1,
       "n": 1,
-      "avgAlphaPct": -21.2,
+      "avgAlphaPct": -27.0,
       "winVsSpy": 0.0
     },
     {
       "conviction": 2,
       "n": 20,
-      "avgAlphaPct": -13.2,
-      "winVsSpy": 0.2
+      "avgAlphaPct": -10.0,
+      "winVsSpy": 0.15
     }
   ],
   "convictionSignal": null,
@@ -23,191 +23,191 @@
       "symbol": "MBX",
       "date": "2026-06-13",
       "conviction": 2,
-      "daysHeld": 56,
-      "retPct": 98.0,
-      "spyRetPct": 2.7,
-      "alphaPct": 95.3
+      "daysHeld": 63,
+      "retPct": 100.2,
+      "spyRetPct": 3.1,
+      "alphaPct": 97.1
     },
     {
       "symbol": "MBX",
       "date": "2026-06-20",
       "conviction": 2,
-      "daysHeld": 49,
-      "retPct": 63.1,
-      "spyRetPct": 3.9,
-      "alphaPct": 59.2
+      "daysHeld": 56,
+      "retPct": 64.9,
+      "spyRetPct": 4.3,
+      "alphaPct": 60.6
     },
     {
       "symbol": "NUVB",
       "date": "2026-06-13",
       "conviction": 2,
-      "daysHeld": 56,
-      "retPct": 33.9,
-      "spyRetPct": 2.7,
-      "alphaPct": 31.2
+      "daysHeld": 63,
+      "retPct": 26.2,
+      "spyRetPct": 3.1,
+      "alphaPct": 23.1
     },
     {
       "symbol": "UCTT",
       "date": "2026-06-06",
       "conviction": 2,
-      "daysHeld": 63,
-      "retPct": 6.3,
-      "spyRetPct": 4.9,
-      "alphaPct": 1.4
+      "daysHeld": 70,
+      "retPct": 3.5,
+      "spyRetPct": 5.3,
+      "alphaPct": -1.8
     },
     {
       "symbol": "UCTT",
       "date": "2026-05-30",
       "conviction": 2,
-      "daysHeld": 70,
-      "retPct": 2.0,
-      "spyRetPct": 2.2,
-      "alphaPct": -0.2
+      "daysHeld": 77,
+      "retPct": -0.7,
+      "spyRetPct": 2.6,
+      "alphaPct": -3.4
     },
     {
       "symbol": "UCTT",
       "date": "2026-05-29",
       "conviction": 2,
-      "daysHeld": 71,
-      "retPct": -0.0,
-      "spyRetPct": 2.5,
-      "alphaPct": -2.5
+      "daysHeld": 78,
+      "retPct": -2.7,
+      "spyRetPct": 2.9,
+      "alphaPct": -5.6
+    },
+    {
+      "symbol": "SNDK",
+      "date": "2026-05-30",
+      "conviction": 2,
+      "daysHeld": 77,
+      "retPct": -3.2,
+      "spyRetPct": 2.6,
+      "alphaPct": -5.8
     },
     {
       "symbol": "VSAT",
       "date": "2026-05-29",
       "conviction": 2,
-      "daysHeld": 71,
-      "retPct": -7.3,
-      "spyRetPct": 2.5,
-      "alphaPct": -9.8
-    },
-    {
-      "symbol": "TNGX",
-      "date": "2026-06-13",
-      "conviction": 2,
-      "daysHeld": 56,
-      "retPct": -10.9,
-      "spyRetPct": 2.7,
-      "alphaPct": -13.6
-    },
-    {
-      "symbol": "BE",
-      "date": "2026-06-13",
-      "conviction": 2,
-      "daysHeld": 56,
-      "retPct": -15.5,
-      "spyRetPct": 2.7,
-      "alphaPct": -18.2
-    },
-    {
-      "symbol": "CGTX",
-      "date": "2026-06-06",
-      "conviction": 1,
-      "daysHeld": 63,
-      "retPct": -16.3,
-      "spyRetPct": 4.9,
-      "alphaPct": -21.2
-    },
-    {
-      "symbol": "FLEX",
-      "date": "2026-06-20",
-      "conviction": 2,
-      "daysHeld": 49,
-      "retPct": -17.8,
-      "spyRetPct": 3.9,
-      "alphaPct": -21.7
-    },
-    {
-      "symbol": "MRVL",
-      "date": "2026-06-06",
-      "conviction": 2,
-      "daysHeld": 63,
-      "retPct": -17.0,
-      "spyRetPct": 4.9,
-      "alphaPct": -21.9
+      "daysHeld": 78,
+      "retPct": -4.4,
+      "spyRetPct": 2.9,
+      "alphaPct": -7.3
     },
     {
       "symbol": "STX",
       "date": "2026-06-20",
       "conviction": 2,
-      "daysHeld": 49,
-      "retPct": -24.1,
-      "spyRetPct": 3.9,
-      "alphaPct": -27.9
+      "daysHeld": 56,
+      "retPct": -9.0,
+      "spyRetPct": 4.3,
+      "alphaPct": -13.3
     },
     {
-      "symbol": "CIEN",
-      "date": "2026-05-29",
-      "conviction": 2,
-      "daysHeld": 71,
-      "retPct": -27.7,
-      "spyRetPct": 2.5,
-      "alphaPct": -30.2
-    },
-    {
-      "symbol": "SNDK",
-      "date": "2026-05-30",
-      "conviction": 2,
-      "daysHeld": 70,
-      "retPct": -28.5,
-      "spyRetPct": 2.2,
-      "alphaPct": -30.7
-    },
-    {
-      "symbol": "DOCN",
-      "date": "2026-06-06",
+      "symbol": "BE",
+      "date": "2026-06-13",
       "conviction": 2,
       "daysHeld": 63,
-      "retPct": -26.9,
-      "spyRetPct": 4.9,
-      "alphaPct": -31.8
+      "retPct": -11.4,
+      "spyRetPct": 3.1,
+      "alphaPct": -14.6
+    },
+    {
+      "symbol": "TNGX",
+      "date": "2026-06-13",
+      "conviction": 2,
+      "daysHeld": 63,
+      "retPct": -15.7,
+      "spyRetPct": 3.1,
+      "alphaPct": -18.8
+    },
+    {
+      "symbol": "FLEX",
+      "date": "2026-06-20",
+      "conviction": 2,
+      "daysHeld": 56,
+      "retPct": -14.5,
+      "spyRetPct": 4.3,
+      "alphaPct": -18.8
     },
     {
       "symbol": "SNDK",
       "date": "2026-06-13",
       "conviction": 2,
-      "daysHeld": 56,
-      "retPct": -39.2,
-      "spyRetPct": 2.7,
-      "alphaPct": -41.9
+      "daysHeld": 63,
+      "retPct": -17.7,
+      "spyRetPct": 3.1,
+      "alphaPct": -20.8
+    },
+    {
+      "symbol": "MRVL",
+      "date": "2026-06-06",
+      "conviction": 2,
+      "daysHeld": 70,
+      "retPct": -15.7,
+      "spyRetPct": 5.3,
+      "alphaPct": -21.0
+    },
+    {
+      "symbol": "CGTX",
+      "date": "2026-06-06",
+      "conviction": 1,
+      "daysHeld": 70,
+      "retPct": -21.7,
+      "spyRetPct": 5.3,
+      "alphaPct": -27.0
+    },
+    {
+      "symbol": "CIEN",
+      "date": "2026-05-29",
+      "conviction": 2,
+      "daysHeld": 78,
+      "retPct": -24.8,
+      "spyRetPct": 2.9,
+      "alphaPct": -27.7
+    },
+    {
+      "symbol": "DOCN",
+      "date": "2026-06-06",
+      "conviction": 2,
+      "daysHeld": 70,
+      "retPct": -23.5,
+      "spyRetPct": 5.3,
+      "alphaPct": -28.8
     },
     {
       "symbol": "APLD",
       "date": "2026-05-29",
       "conviction": 2,
-      "daysHeld": 71,
-      "retPct": -41.1,
-      "spyRetPct": 2.5,
-      "alphaPct": -43.6
+      "daysHeld": 78,
+      "retPct": -37.2,
+      "spyRetPct": 2.9,
+      "alphaPct": -40.0
     },
     {
       "symbol": "CIFR",
       "date": "2026-06-20",
       "conviction": 2,
-      "daysHeld": 49,
-      "retPct": -41.1,
-      "spyRetPct": 3.9,
-      "alphaPct": -45.0
+      "daysHeld": 56,
+      "retPct": -38.8,
+      "spyRetPct": 4.3,
+      "alphaPct": -43.1
     },
     {
       "symbol": "PL",
       "date": "2026-05-30",
       "conviction": 2,
-      "daysHeld": 70,
-      "retPct": -53.2,
-      "spyRetPct": 2.2,
-      "alphaPct": -55.4
+      "daysHeld": 77,
+      "retPct": -51.7,
+      "spyRetPct": 2.6,
+      "alphaPct": -54.3
     },
     {
       "symbol": "PL",
       "date": "2026-05-29",
       "conviction": 2,
-      "daysHeld": 71,
-      "retPct": -53.4,
-      "spyRetPct": 2.5,
-      "alphaPct": -55.9
+      "daysHeld": 78,
+      "retPct": -52.0,
+      "spyRetPct": 2.9,
+      "alphaPct": -54.9
     }
   ],
-  "verdict": "已評 21 筆,平均 alpha -13.5% vs SPY。樣本仍不足以判斷信心是否預測表現。"
+  "verdict": "已評 21 筆,平均 alpha -10.8% vs SPY。樣本仍不足以判斷信心是否預測表現。"
 }
