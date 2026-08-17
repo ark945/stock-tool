@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786975397650,
+  "generatedAt": 1786986826594,
   "market": "US",
   "bySymbol": {
     "OMER": [
@@ -76,10 +76,24 @@
     ],
     "LITE": [
       {
-        "title": "Intel, Oracle, Marvell, Alibaba, and More Stocks That Explain Today’s Market",
+        "title": "AXT Soars Again on Monday to Lead Optics Stocks. Coherent and Lumentum Rally on Indium Phosphide Price Hikes",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/axt-soars-again-on-monday-to-lead-optics-stocks-coherent-and-lumentum-rally-on-indium-phosphide-price-hikes/",
+        "pubTime": "2026-08-17T15:40:07Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "24/7 Wall St.’s Lumentum Recommendation is Up More than 1000%. Here’s Why the Stock Can Keep Rallying.",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/24-7-wall-st-s-lumentum-recommendation-is-up-more-than-1000-heres-why-the-stock-can-keep-rallying/",
+        "pubTime": "2026-08-17T14:04:20Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Sandisk, Micron, Nvidia, SpaceX, Amazon, L3Harris, and More Stocks That Explain Today’s Market",
         "publisher": "Barrons.com",
         "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T10:43:00Z",
+        "pubTime": "2026-08-17T14:02:00Z",
         "source": "yfinance"
       },
       {
@@ -129,164 +143,6 @@
         "publisher": "24/7 Wall St.",
         "link": "https://247wallst.com/investing/2026/08/14/blaize-holdings-lightwave-logic-nlight-diverge-in-big-price-swings-today/",
         "pubTime": "2026-08-14T16:00:18Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AAOI Rides on Datacenter & CATV Growth: Can It Beat LITE and COHR?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/aaoi-rides-datacenter-catv-growth-154400049.html",
-        "pubTime": "2026-08-14T15:44:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Stock Market Hits Highs; Cisco, Lumentum, Super Micro, Sandisk Key Movers: Weekly Review",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/news/stock-market-hits-highs-cisco-lumentum-super-micro-sandisk-key-movers-weekly-review/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-14T14:21:23Z",
-        "source": "yfinance"
-      }
-    ],
-    "SNDK": [
-      {
-        "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
-        "pubTime": "2026-08-17T13:51:55Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-17T13:44:48Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Sandisk Just Gave Micron Technology Investors Great News",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/08/17/sandisk-just-gave-micron-technology-investors-grea/",
-        "pubTime": "2026-08-17T13:15:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Update: US Equity Futures Mixed Pre-Bell as 60-Day US-Iran Ceasefire Expires",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-125500559.html",
-        "pubTime": "2026-08-17T12:55:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Sandisk Stock Is Getting Its Mojo Back",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/sandisk-stock-memory-chip-china-cd80db15?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T12:19:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "SanDisk extends rally, Snap faces fresh pressure in premarket trade",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-extends-rally-snap-faces-114856736.html",
-        "pubTime": "2026-08-17T11:48:56Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "MU Remains BofA's Top Memory Pick – SNDK Signals Memory Growth May Be Structural, BofA Says",
-        "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/mu-250-eps-bull-case-sndk-signals-memory-growth-structural-bofa/cZYGbtPRJ12",
-        "pubTime": "2026-08-17T11:36:24Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Stocks Mostly Up Pre-Bell as Traders Await Fed Meeting Minutes, Retail Earnings",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-pre-bell-traders-110959890.html",
-        "pubTime": "2026-08-17T11:09:59Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Intel, Oracle, Marvell, Alibaba, and More Stocks That Explain Today’s Market",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T10:43:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Sandisk, Micron to Advance",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-103403952.html",
-        "pubTime": "2026-08-17T10:34:03Z",
-        "source": "yfinance"
-      }
-    ],
-    "FCEL": [
-      {
-        "title": "1 Small-Cap Stock for Long-Term Investors and 2 We Ignore",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-long-153300217.html",
-        "pubTime": "2026-08-16T15:33:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "New Era Energy & Digital, Inc. (NUAI) Reports Q2 Loss, Misses Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-225001614.html",
-        "pubTime": "2026-08-14T22:50:01Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "FuelCell Energy (FCEL) Stock May Trade At A Premium As Hydrogen Rivalry Heats Up",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-fcel-stock-may-071331218.html",
-        "pubTime": "2026-08-14T07:13:31Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "FuelCell Energy (FCEL) Pushes Carbon Capture, Is The Stock Fully Valued?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-fcel-pushes-carbon-231256679.html",
-        "pubTime": "2026-08-13T23:12:56Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Bloom Energy Stock Carries A Multiple Built On Quarters It Has Outgrown",
-        "publisher": "Trefis",
-        "link": "https://www.trefis.com/articles/611358/bloom-energy-stock-carries-a-multiple-built-on-quarters-it-has-outgrown/2026-08-13",
-        "pubTime": "2026-08-13T23:04:40Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Nano Nuclear Energy Inc. (NNE) Reports Q3 Loss, Misses Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-energy-inc-nne-221503321.html",
-        "pubTime": "2026-08-12T22:15:03Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Can FCEL Boost Returns From Existing Fossil-Fuel Plants?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/energy/articles/fcel-boost-returns-existing-fossil-123900071.html",
-        "pubTime": "2026-08-11T12:39:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "FCEL vs. PLUG: Which Hydrogen Stock Wins This Face-Off?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/energy/articles/fcel-vs-plug-hydrogen-stock-133100361.html",
-        "pubTime": "2026-08-07T13:31:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Bloom Energy Is Down 20% in a Month. Is It Time to Switch to Plug Power or FuelCell Energy?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/06/bloom-energy-is-down-20-in-a-month-is-it-time-to-switch-to-plug-power-or-fuelcell-energy/",
-        "pubTime": "2026-08-06T19:19:34Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "2 Unprofitable Stocks for Long-Term Investors and 1 We Ignore",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/2-unprofitable-stocks-long-term-212502869.html",
-        "pubTime": "2026-07-30T21:25:02Z",
         "source": "yfinance"
       }
     ],
@@ -362,6 +218,222 @@
         "source": "yfinance"
       }
     ],
+    "SNDK": [
+      {
+        "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
+        "pubTime": "2026-08-17T13:51:55Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Update: US Equity Indexes Mixed as Tech Gains Lift Nasdaq, Trump Threatens to Bomb Oman as Iran Peace Deal Deadline Expires",
+        "publisher": "MT Newswires",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-tech-165624845.html",
+        "pubTime": "2026-08-17T16:56:24Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Not Micron, Not Sandisk. This AI Stock Will Be the Biggest Beneficiary of the Next Infrastructure Bottleneck",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/08/17/not-micron-not-sandisk-this-ai-stock-will-be-the-b/",
+        "pubTime": "2026-08-17T16:43:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Micron Stock Claws Back From Lows To A Buy Point",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-17T16:41:31Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Investors Remember Why They Love Memory-Chip Stocks",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-17T16:06:20Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Chip stocks rally as US pressure on Chinese memory suppliers boosts sentiment",
+        "publisher": "Proactive",
+        "link": "https://www.proactiveinvestors.com/companies/news/1097146/chip-stocks-rally-as-us-pressure-on-chinese-memory-suppliers-boosts-sentiment-1097146.html",
+        "pubTime": "2026-08-17T16:03:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Prediction: Micron Is Up 240% This Year, and Here Is the Next Catalyst",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/prediction-micron-is-up-240-this-year-and-here-is-the-next-catalyst/",
+        "pubTime": "2026-08-17T16:00:16Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Memory Shares Start Week Strong as Sandisk Stock Climbs",
+        "publisher": "Investopedia",
+        "link": "https://www.investopedia.com/market-update-memory-stocks-monday-trading-markets-tech-12061198",
+        "pubTime": "2026-08-17T15:47:37Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage)",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-17T15:39:17Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "BofA sees Micron EPS topping $230 by FY30, calls peak fears overblown",
+        "publisher": "Investing.com",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-micron-eps-topping-153202970.html",
+        "pubTime": "2026-08-17T15:32:02Z",
+        "source": "yfinance"
+      }
+    ],
+    "FCEL": [
+      {
+        "title": "1 Small-Cap Stock for Long-Term Investors and 2 We Ignore",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-long-153300217.html",
+        "pubTime": "2026-08-16T15:33:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "New Era Energy & Digital, Inc. (NUAI) Reports Q2 Loss, Misses Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-225001614.html",
+        "pubTime": "2026-08-14T22:50:01Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "FuelCell Energy (FCEL) Stock May Trade At A Premium As Hydrogen Rivalry Heats Up",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-fcel-stock-may-071331218.html",
+        "pubTime": "2026-08-14T07:13:31Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "FuelCell Energy (FCEL) Pushes Carbon Capture, Is The Stock Fully Valued?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-fcel-pushes-carbon-231256679.html",
+        "pubTime": "2026-08-13T23:12:56Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Bloom Energy Stock Carries A Multiple Built On Quarters It Has Outgrown",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611358/bloom-energy-stock-carries-a-multiple-built-on-quarters-it-has-outgrown/2026-08-13",
+        "pubTime": "2026-08-13T23:04:40Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Nano Nuclear Energy Inc. (NNE) Reports Q3 Loss, Misses Revenue Estimates",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-energy-inc-nne-221503321.html",
+        "pubTime": "2026-08-12T22:15:03Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Can FCEL Boost Returns From Existing Fossil-Fuel Plants?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/energy/articles/fcel-boost-returns-existing-fossil-123900071.html",
+        "pubTime": "2026-08-11T12:39:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "FCEL vs. PLUG: Which Hydrogen Stock Wins This Face-Off?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/energy/articles/fcel-vs-plug-hydrogen-stock-133100361.html",
+        "pubTime": "2026-08-07T13:31:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Bloom Energy Is Down 20% in a Month. Is It Time to Switch to Plug Power or FuelCell Energy?",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/06/bloom-energy-is-down-20-in-a-month-is-it-time-to-switch-to-plug-power-or-fuelcell-energy/",
+        "pubTime": "2026-08-06T19:19:34Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "2 Unprofitable Stocks for Long-Term Investors and 1 We Ignore",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/2-unprofitable-stocks-long-term-212502869.html",
+        "pubTime": "2026-07-30T21:25:02Z",
+        "source": "yfinance"
+      }
+    ],
+    "COHR": [
+      {
+        "title": "AXT Soars Again on Monday to Lead Optics Stocks. Coherent and Lumentum Rally on Indium Phosphide Price Hikes",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/axt-soars-again-on-monday-to-lead-optics-stocks-coherent-and-lumentum-rally-on-indium-phosphide-price-hikes/",
+        "pubTime": "2026-08-17T15:40:07Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Chip Stocks Make Another Run at a New Bull Market",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/chip-stocks-make-another-run-at-a-new-bull-market-snIpi7Xy4PRjWZctpRBB?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-17T14:22:42Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Tradr to Launch Leveraged ETFs on AXTI, COHR, LWLG & META",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/business/others/tradr-to-launch-leveraged-et-fs-on-axti-cohr-lwlg-and-meta/cZYG3cURJ1L",
+        "pubTime": "2026-08-17T14:16:37Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Sandisk, Micron, Nvidia, SpaceX, Amazon, L3Harris, and More Stocks That Explain Today’s Market",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-17T14:02:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "COHR Q2 Deep Dive: Data Center Demand and Capacity Expansion Define Outlook",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cohr-q2-deep-dive-data-222100277.html",
+        "pubTime": "2026-08-15T22:21:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
+        "publisher": "Barchart",
+        "link": "https://www.barchart.com/story/news/3870011/nvidia-is-turning-its-massive-cash-flow-into-another-ai-growth-engine",
+        "pubTime": "2026-08-15T15:45:02Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-lumentum-lite-233522087.html",
+        "pubTime": "2026-08-14T23:35:22Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Is Coherent (COHR) Stock Rocketing Higher Today",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-cohr-stock-rocketing-190900411.html",
+        "pubTime": "2026-08-14T19:09:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Corning, Lumentum And Applied Optoelectronics Shares Popping To End The Week",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/14/corning-lumentum-and-applied-optoelectronics-shares-popping-to-end-the-week/",
+        "pubTime": "2026-08-14T16:17:30Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "AAOI Rides on Datacenter & CATV Growth: Can It Beat LITE and COHR?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/aaoi-rides-datacenter-catv-growth-154400049.html",
+        "pubTime": "2026-08-14T15:44:00Z",
+        "source": "yfinance"
+      }
+    ],
     "EXAS": [
       {
         "title": "Abbott Laboratories (ABT) Announces Completion of Acquisition of Exact Sciences",
@@ -434,61 +506,133 @@
         "source": "yfinance"
       }
     ],
-    "PYXS": [
+    "IRWD": [
       {
-        "title": "Pyxis Oncology Secures Up to $114 Million Private Placement",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/healthcare/articles/pyxis-oncology-secures-114-million-143054646.html",
-        "pubTime": "2026-06-30T14:30:54Z",
+        "title": "Ironwood (IRWD) Q2 2026 Earnings Call Transcript",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/13/ironwood-irwd-q2-2026-earnings-call-transcript/",
+        "pubTime": "2026-08-13T17:43:54Z",
         "source": "yfinance"
       },
       {
-        "title": "Analysts See Nearly 3X Upside in Pyxis Oncology (PYXS)",
+        "title": "Ironwood Pharmaceuticals, Inc. Q2 2026 Earnings Call Summary",
+        "publisher": "Moby",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ironwood-pharmaceuticals-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+        "pubTime": "2026-08-07T12:30:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Ironwood Pharmaceuticals (IRWD) Is Up 14.2% After Raising 2026 Revenue Guidance – Has The Bull Case Changed?",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-14-2-043111081.html",
+        "pubTime": "2026-08-07T04:31:11Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Ironwood Pharmaceuticals Inc (IRWD) (Q2 2026) Earnings Call Highlights: Strong LINZESS Growth ...",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/healthcare/articles/ironwood-pharmaceuticals-inc-irwd-q2-231659050.html",
+        "pubTime": "2026-08-06T23:16:59Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Ironwood Pharmaceuticals Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/ironwood-pharmaceuticals-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-06T20:04:15Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "BioCryst (BCRX) Surges 8.1%: Is This an Indication of Further Gains?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/biocryst-bcrx-surges-8-1-141400956.html",
+        "pubTime": "2026-07-08T14:14:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "4 Defensive Stocks to Take Refuge in as Tech Sell-off Continues",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/4-defensive-stocks-refuge-tech-122500473.html",
+        "pubTime": "2026-07-08T12:25:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "​Ironwood Pharmaceuticals (IRWD) Gains From Strong Fiscal Q1 2026 Earnings Momentum",
         "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/analysts-see-nearly-3x-upside-182244737.html",
-        "pubTime": "2026-06-10T18:22:44Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-gains-strong-131204151.html",
+        "pubTime": "2026-07-03T13:12:04Z",
         "source": "yfinance"
       },
       {
-        "title": "Creative Global Technology Holdings And 2 Other Promising Penny Stocks",
+        "title": "Zacks Industry Outlook Indivior, Aurinia, Ironwood, Altimmune and Marker",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-indivior-aurinia-085900669.html",
+        "pubTime": "2026-06-26T08:59:00Z",
+        "source": "yfinance"
+      }
+    ],
+    "STTK": [
+      {
+        "title": "Wall Street Analysts Believe Shattuck Labs (STTK) Could Rally 85.31%: Here's is How to Trade",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-believe-shattuck-135503983.html",
+        "pubTime": "2026-08-13T13:55:03Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Shattuck Labs Stock Flew Nearly 5% Higher on Friday",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/07/24/why-shattuck-labs-stock-flew-nearly-5-higher-on-fr/",
+        "pubTime": "2026-07-24T22:27:47Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "SpaceX initiated, PayPal upgraded: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiated-paypal-upgraded-wall-133248895.html",
+        "pubTime": "2026-07-24T13:32:48Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: Albertsons, Blue Owl Capital, Cleveland-Cliffs, Chime Financial, Digital Realty, Dover, PayPal Holdings, SpaceX, and More",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/07/24/here-are-fridays-top-wall-street-analyst-research-calls-albertsons-blue-owl-capital-cleveland-cliffs-chime-financial-digital-realty-dover-paypal-holdings-spacex-and-more/",
+        "pubTime": "2026-07-24T12:00:51Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-upgraded-carvana-downgraded-wall-135411903.html",
+        "pubTime": "2026-07-20T13:39:11Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "We're Not Very Worried About Shattuck Labs' (NASDAQ:STTK) Cash Burn Rate",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/creative-global-technology-holdings-2-120459193.html",
-        "pubTime": "2026-05-12T12:04:59Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/were-not-very-worried-shattuck-113348386.html",
+        "pubTime": "2026-05-11T11:33:48Z",
         "source": "yfinance"
       },
       {
-        "title": "NanoViricides’ Measles Treatment Granted Orphan Drug Designation by FDA",
-        "publisher": "Exec Edge",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/nanoviricides-measles-treatment-granted-orphan-123533417.html",
-        "pubTime": "2026-05-06T12:35:33Z",
+        "title": "Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK)",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-initiates-coverage-shattuck-081752393.html",
+        "pubTime": "2026-05-01T08:17:52Z",
         "source": "yfinance"
       },
       {
-        "title": "3 Penny Stocks With Market Caps Under $400M To Consider",
+        "title": "Why Shattuck Labs Stock Soared More Than 53% Higher This Week",
+        "publisher": "Motley Fool",
+        "link": "https://www.fool.com/investing/2026/03/06/why-shattuck-labs-stock-soared-more-than-53-higher/",
+        "pubTime": "2026-03-06T22:02:08Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Several Insiders Invested In Shattuck Labs Flagging Positive News",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-market-caps-180513167.html",
-        "pubTime": "2026-04-13T18:05:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "3 Promising Penny Stocks With Market Caps Up To $300M",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/news/3-promising-penny-stocks-market-180546323.html",
-        "pubTime": "2026-01-07T18:05:46Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Wall Street Set to Open Higher Thursday as Inflation Rises Less Than Expected; Jobless Claims Decline",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/news/wall-street-set-open-higher-142313999.html",
-        "pubTime": "2025-12-18T14:23:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Investors Await Key Inflation, Employment Data as US Futures Rise Thursday Pre-Bell",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/news/investors-await-key-inflation-employment-131550410.html",
-        "pubTime": "2025-12-18T13:15:50Z",
+        "link": "https://finance.yahoo.com/news/several-insiders-invested-shattuck-labs-131343081.html",
+        "pubTime": "2026-01-05T13:13:43Z",
         "source": "yfinance"
       }
     ],
@@ -564,91 +708,40 @@
         "source": "yfinance"
       }
     ],
-    "IRWD": [
-      {
-        "title": "Ironwood (IRWD) Q2 2026 Earnings Call Transcript",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/earnings/call-transcripts/2026/08/13/ironwood-irwd-q2-2026-earnings-call-transcript/",
-        "pubTime": "2026-08-13T17:43:54Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Ironwood Pharmaceuticals, Inc. Q2 2026 Earnings Call Summary",
-        "publisher": "Moby",
-        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ironwood-pharmaceuticals-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-        "pubTime": "2026-08-07T12:30:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Ironwood Pharmaceuticals (IRWD) Is Up 14.2% After Raising 2026 Revenue Guidance – Has The Bull Case Changed?",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-14-2-043111081.html",
-        "pubTime": "2026-08-07T04:31:11Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Ironwood Pharmaceuticals Inc (IRWD) (Q2 2026) Earnings Call Highlights: Strong LINZESS Growth ...",
-        "publisher": "GuruFocus.com",
-        "link": "https://finance.yahoo.com/healthcare/articles/ironwood-pharmaceuticals-inc-irwd-q2-231659050.html",
-        "pubTime": "2026-08-06T23:16:59Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Ironwood Pharmaceuticals Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/ironwood-pharmaceuticals-q2-earnings-call-highlights-2026-08-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-06T20:04:15Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "BioCryst (BCRX) Surges 8.1%: Is This an Indication of Further Gains?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/biocryst-bcrx-surges-8-1-141400956.html",
-        "pubTime": "2026-07-08T14:14:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "4 Defensive Stocks to Take Refuge in as Tech Sell-off Continues",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/4-defensive-stocks-refuge-tech-122500473.html",
-        "pubTime": "2026-07-08T12:25:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "​Ironwood Pharmaceuticals (IRWD) Gains From Strong Fiscal Q1 2026 Earnings Momentum",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ironwood-pharmaceuticals-irwd-gains-strong-131204151.html",
-        "pubTime": "2026-07-03T13:12:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Zacks Industry Outlook Indivior, Aurinia, Ironwood, Altimmune and Marker",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-indivior-aurinia-085900669.html",
-        "pubTime": "2026-06-26T08:59:00Z",
-        "source": "yfinance"
-      }
-    ],
     "STX": [
+      {
+        "title": "Chip stocks rally as US pressure on Chinese memory suppliers boosts sentiment",
+        "publisher": "Proactive",
+        "link": "https://www.proactiveinvestors.com/companies/news/1097146/chip-stocks-rally-as-us-pressure-on-chinese-memory-suppliers-boosts-sentiment-1097146.html",
+        "pubTime": "2026-08-17T16:03:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Memory Shares Start Week Strong as Sandisk Stock Climbs",
+        "publisher": "Investopedia",
+        "link": "https://www.investopedia.com/market-update-memory-stocks-monday-trading-markets-tech-12061198",
+        "pubTime": "2026-08-17T15:47:37Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "SanDisk Rallies 8%, Western Digital Rises 6%, Micron Gains 5% as Elon Musk Flags a Memory Bottleneck",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/sandisk-rallies-8-western-digital-rises-6-micron-gains-5-as-elon-musk-flags-a-memory-bottleneck/",
+        "pubTime": "2026-08-17T14:30:01Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Sandisk, Micron, Nvidia, SpaceX, Amazon, L3Harris, and More Stocks That Explain Today’s Market",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-17T14:02:00Z",
+        "source": "yfinance"
+      },
       {
         "title": "Can Strong End Markets & Pricing Tailwinds Keep WDC's Momentum Alive?",
         "publisher": "Zacks",
         "link": "https://finance.yahoo.com/markets/stocks/articles/strong-end-markets-pricing-tailwinds-125000706.html",
         "pubTime": "2026-08-17T12:50:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Sandisk Stock Is Getting Its Mojo Back",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/sandisk-stock-memory-chip-china-cd80db15?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T12:19:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Intel, Oracle, Marvell, Alibaba, and More Stocks That Explain Today’s Market",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T10:43:00Z",
         "source": "yfinance"
       },
       {
@@ -684,92 +777,6 @@
         "publisher": "Trefis",
         "link": "https://www.trefis.com/articles/611554/sandisk-has-delivered-a-return-the-index-cannot-and-the-swings-that-come-with-it/2026-08-14",
         "pubTime": "2026-08-14T18:56:52Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/sandisk-stock-buy-ai-9c3b7580?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-14T17:08:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "S&P Slips Back From Records",
-        "publisher": "The Wall Street Journal",
-        "link": "https://www.wsj.com/finance/stocks/u-s-futures-fall-gold-on-track-for-weekly-loss-54d90885",
-        "pubTime": "2026-08-14T16:44:00Z",
-        "source": "yfinance"
-      }
-    ],
-    "FORM": [
-      {
-        "title": "3 Profitable Stocks That Fall Short",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-fall-short-112500365.html",
-        "pubTime": "2026-08-16T11:25:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "3 of Wall Street’s Favorite Stocks We Keep Off Our Radar",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-042100756.html",
-        "pubTime": "2026-08-16T04:21:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "FormFactor (FORM) Shares Skyrocket, What You Need To Know",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-form-shares-skyrocket-know-192500089.html",
-        "pubTime": "2026-08-14T19:25:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Aehr Test Systems Soars Again Friday. Shares Now Up More than 500% On the Year.",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/14/aehr-test-systems-soars-again-friday-shares-now-up-more-than-500-on-the-year/",
-        "pubTime": "2026-08-14T16:11:43Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Can Aehr's $22M AI Order Unlock a Bigger WLBI Opportunity?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/technology/ai/articles/aehrs-22m-ai-order-unlock-154800690.html",
-        "pubTime": "2026-08-13T15:48:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "4 Semiconductor Stocks to Buy Amid Top Hyperscalers' $745B AI CapEx Bet",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/technology/ai/articles/4-semiconductor-stocks-buy-amid-131600083.html",
-        "pubTime": "2026-08-12T13:16:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Earnings Estimates Rising for FormFactor (FORM): Will It Gain?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-formfactor-form-162002164.html",
-        "pubTime": "2026-08-05T16:20:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "ASE Technology Surges 82% in 6 Months: Buy, Sell or Hold the Stock?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ase-technology-surges-82-6-143800073.html",
-        "pubTime": "2026-08-04T14:38:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "All You Need to Know About FormFactor (FORM) Rating Upgrade to Strong Buy",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/know-formfactor-form-rating-upgrade-160005562.html",
-        "pubTime": "2026-08-03T16:00:05Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "New Strong Buy Stocks for August 3rd",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-august-3rd-083500620.html",
-        "pubTime": "2026-08-03T08:35:00Z",
         "source": "yfinance"
       }
     ],
@@ -845,219 +852,61 @@
         "source": "yfinance"
       }
     ],
-    "COHR": [
+    "PYXS": [
       {
-        "title": "Intel, Oracle, Marvell, Alibaba, and More Stocks That Explain Today’s Market",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T10:43:00Z",
+        "title": "Pyxis Oncology Secures Up to $114 Million Private Placement",
+        "publisher": "MT Newswires",
+        "link": "https://finance.yahoo.com/healthcare/articles/pyxis-oncology-secures-114-million-143054646.html",
+        "pubTime": "2026-06-30T14:30:54Z",
         "source": "yfinance"
       },
       {
-        "title": "COHR Q2 Deep Dive: Data Center Demand and Capacity Expansion Define Outlook",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cohr-q2-deep-dive-data-222100277.html",
-        "pubTime": "2026-08-15T22:21:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Nvidia Is Turning Its Massive Cash Flow Into Another AI Growth Engine",
-        "publisher": "Barchart",
-        "link": "https://www.barchart.com/story/news/3870011/nvidia-is-turning-its-massive-cash-flow-into-another-ai-growth-engine",
-        "pubTime": "2026-08-15T15:45:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Jim Cramer Weighs In on Lumentum (LITE) and Coherent (COHR) Post-Earnings",
+        "title": "Analysts See Nearly 3X Upside in Pyxis Oncology (PYXS)",
         "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-lumentum-lite-233522087.html",
-        "pubTime": "2026-08-14T23:35:22Z",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/analysts-see-nearly-3x-upside-182244737.html",
+        "pubTime": "2026-06-10T18:22:44Z",
         "source": "yfinance"
       },
       {
-        "title": "Why Is Coherent (COHR) Stock Rocketing Higher Today",
-        "publisher": "StockStory",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-cohr-stock-rocketing-190900411.html",
-        "pubTime": "2026-08-14T19:09:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Corning, Lumentum And Applied Optoelectronics Shares Popping To End The Week",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/14/corning-lumentum-and-applied-optoelectronics-shares-popping-to-end-the-week/",
-        "pubTime": "2026-08-14T16:17:30Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AAOI Rides on Datacenter & CATV Growth: Can It Beat LITE and COHR?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/aaoi-rides-datacenter-catv-growth-154400049.html",
-        "pubTime": "2026-08-14T15:44:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Stock Market Hits Highs; Cisco, Lumentum, Super Micro, Sandisk Key Movers: Weekly Review",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/news/stock-market-hits-highs-cisco-lumentum-super-micro-sandisk-key-movers-weekly-review/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-14T14:21:23Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Reddit is Up 11% Premarket After S&P 500 Addition. Here’s How Other New S&P 500 Stocks Performed.",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/14/reddit-is-up-11-premarket-after-sp-500-addition-heres-how-other-new-sp-500-stocks-performed/",
-        "pubTime": "2026-08-14T13:05:21Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Dow Jones Futures: Sandisk, Memory Stocks Extend Gains; Applied Materials Tumbles",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-14T12:20:22Z",
-        "source": "yfinance"
-      }
-    ],
-    "LRCX": [
-      {
-        "title": "KLA Corporation Had a Tough Month: 60% Returns Will Come According to This Wall Street Stalwart",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/17/kla-corporation-had-a-tough-month-60-returns-will-come-according-to-this-wall-street-stalwart/",
-        "pubTime": "2026-08-17T12:49:13Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Wall Street’s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the ‘Smart Money?’",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/16/wall-streets-biggest-funds-are-dumping-broadcom-and-adding-taiwan-semiconductor-time-to-follow-the-smart-money/",
-        "pubTime": "2026-08-16T22:13:14Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Third Point Exited Nvidia and Broadcom, Made New Bet on Warner Bros. Discovery in Second Quarter",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/third-point-nvidia-broadcom-warner-bros-discovery-stock-1f4560da?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-14T22:43:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Lam Research bets $3 billion on speed, not size",
-        "publisher": "TheStreet",
-        "link": "https://www.thestreet.com/technology/lam-research-3b-lab-investment-chip-bottleneck",
-        "pubTime": "2026-08-14T19:13:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Lam Research’s Etch Moat Could Become the Most Profitable Lever in Next‑Gen Semiconductor Manufacturing",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/14/lam-researchs-etch-moat-could-become-the-most-profitable-lever-in-next%e2%80%91gen-semiconductor-manufacturing/",
-        "pubTime": "2026-08-14T15:25:31Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AMKR Stock Slides 18% in Three Months: Is the Dip Worth Buying?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amkr-stock-slides-18-three-134400152.html",
-        "pubTime": "2026-08-14T13:44:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Why Lam Research (LRCX) Became This Portfolio’s Top Performer",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-lam-research-lrcx-became-132837845.html",
-        "pubTime": "2026-08-14T13:28:37Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "AMAT Stock Falls After Wall Street Split On Q3 Results — Morgan Stanley Says Earnings Were 'Good, But Not Great'",
-        "publisher": "Stocktwits",
-        "link": "https://stocktwits.com/news-articles/markets/equity/amat-stock-falls-wall-street-split-q3-results-morgan-stanley-good-not-great/cZotjQHRJ0B",
-        "pubTime": "2026-08-14T13:28:34Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Applied Materials is Down 6% Premarket. Will It Drag Down Lam Research, KLA, and Other Semi Equipment Stocks?",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/14/applied-materials-is-down-6-premarket-will-it-drag-down-lam-research-kla-and-other-semi-equipment-stocks/",
-        "pubTime": "2026-08-14T13:16:38Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Here's How Much a $1000 Investment in Lam Research Made 10 Years Ago Would Be Worth Today",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-lam-123002819.html",
-        "pubTime": "2026-08-14T12:30:02Z",
-        "source": "yfinance"
-      }
-    ],
-    "CIEN": [
-      {
-        "title": "Will Ciena's Rising Backlog Improve Revenue Visibility Into 2027?",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cienas-rising-backlog-improve-revenue-134300241.html",
-        "pubTime": "2026-08-14T13:43:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Two Stocks Are Quietly Beating Nvidia, and Wall Street Wants Them 30% Higher",
-        "publisher": "BeInCrypto",
-        "link": "https://beincrypto.com/nvidia-stock-earnings-selloff-tsmc-ciena-analysis/",
-        "pubTime": "2026-08-14T11:27:14Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Arista Networks Stock Is Priced For Its Peak Margin",
-        "publisher": "Trefis",
-        "link": "https://www.trefis.com/articles/611360/arista-networks-stock-is-priced-for-its-peak-margin/2026-08-13",
-        "pubTime": "2026-08-13T23:58:44Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Lumentum Puts The Insane Opportunity for Companies like Marvell and Ciena Into Focus With One Stunning Quote",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/13/lumentum-puts-the-insane-opportunity-for-companies-like-marvell-and-ciena-into-focus-with-one-stunning-quote/",
-        "pubTime": "2026-08-13T18:35:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Collect 13% On CIEN Stock Now, Own It 60% Cheaper If It Dips",
-        "publisher": "Trefis",
-        "link": "https://www.trefis.com/articles/611295/collect-13-on-cien-stock-now-own-it-60-cheaper-if-it-dips/2026-08-13",
-        "pubTime": "2026-08-13T17:53:30Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Optics Stocks Divide: Coherent and Cisco Drop After Earnings While Nokia and Ciena Soar",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/13/optics-stocks-divide-coherent-and-cisco-drop-after-earnings-while-nokia-and-ciena-soar/",
-        "pubTime": "2026-08-13T17:15:05Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Cisco Drops 7% on Gross Margin Fears: Five Firms Raise CSCO Price Target Anyway",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/13/cisco-drops-7-on-gross-margin-fears-five-firms-raise-cisco-price-target-anyway/",
-        "pubTime": "2026-08-13T14:31:27Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Ciena Stock Outlook: Is Wall Street Bullish or Bearish?",
-        "publisher": "Barchart",
-        "link": "https://www.barchart.com/story/news/3831319/ciena-stock-outlook-is-wall-street-bullish-or-bearish",
-        "pubTime": "2026-08-13T14:05:29Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Lumentum Still Down Over 90 Days: A Respected Analyst Sees 22% Gains Ahead Following Sharp Upturn",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/13/lumentum-still-down-over-90-days-a-respected-analyst-sees-22-gains-ahead-following-sharp-upturn/",
-        "pubTime": "2026-08-13T12:24:18Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Ciena (CIEN) Stock Looks Reasonable On Cash Flow While Earnings Look Stretched",
+        "title": "Creative Global Technology Holdings And 2 Other Promising Penny Stocks",
         "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-cien-stock-looks-reasonable-051351936.html",
-        "pubTime": "2026-08-13T05:13:51Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/creative-global-technology-holdings-2-120459193.html",
+        "pubTime": "2026-05-12T12:04:59Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "NanoViricides’ Measles Treatment Granted Orphan Drug Designation by FDA",
+        "publisher": "Exec Edge",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/nanoviricides-measles-treatment-granted-orphan-123533417.html",
+        "pubTime": "2026-05-06T12:35:33Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 Penny Stocks With Market Caps Under $400M To Consider",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-penny-stocks-market-caps-180513167.html",
+        "pubTime": "2026-04-13T18:05:13Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 Promising Penny Stocks With Market Caps Up To $300M",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/news/3-promising-penny-stocks-market-180546323.html",
+        "pubTime": "2026-01-07T18:05:46Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Wall Street Set to Open Higher Thursday as Inflation Rises Less Than Expected; Jobless Claims Decline",
+        "publisher": "MT Newswires",
+        "link": "https://finance.yahoo.com/news/wall-street-set-open-higher-142313999.html",
+        "pubTime": "2025-12-18T14:23:13Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Investors Await Key Inflation, Employment Data as US Futures Rise Thursday Pre-Bell",
+        "publisher": "MT Newswires",
+        "link": "https://finance.yahoo.com/news/investors-await-key-inflation-employment-131550410.html",
+        "pubTime": "2025-12-18T13:15:50Z",
         "source": "yfinance"
       }
     ],
@@ -1133,84 +982,105 @@
         "source": "yfinance"
       }
     ],
-    "CAMP": [
+    "MU": [
       {
-        "title": "CAMP4 Therapeutics Corporation (CAMP) Reports Q2 Loss, Tops Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/camp4-therapeutics-corporation-camp-reports-225002537.html",
-        "pubTime": "2026-08-13T22:50:02Z",
+        "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
+        "pubTime": "2026-08-17T13:51:55Z",
         "source": "yfinance"
       },
       {
-        "title": "Ocugen (OCGN) Reports Q2 Loss, Beats Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/ocugen-ocgn-reports-q2-loss-135008498.html",
-        "pubTime": "2026-08-06T13:50:08Z",
+        "title": "Micron stock heats up again, crossing $1,000",
+        "publisher": "Yahoo Finance",
+        "link": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
+        "pubTime": "2026-08-17T11:53:04Z",
         "source": "yfinance"
       },
       {
-        "title": "MannKind (MNKD) Reports Q2 Loss, Beats Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/mannkind-mnkd-reports-q2-loss-221004054.html",
-        "pubTime": "2026-08-05T22:10:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "CRISPR Therapeutics AG (CRSP) Reports Q2 Loss, Tops Revenue Estimates",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/healthcare/articles/crispr-therapeutics-ag-crsp-reports-224504341.html",
-        "pubTime": "2026-08-03T22:45:04Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "New Strong Sell Stocks for July 16th",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-july-16th-083200543.html",
-        "pubTime": "2026-07-16T08:32:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Is CAMP4 THERAPEUTICS CORPORATION (CAMP) Stock Undervalued Ahead of Key CMP-002 Clinical Development Milestones?",
-        "publisher": "Insider Monkey",
-        "link": "https://finance.yahoo.com/healthcare/articles/camp4-therapeutics-corporation-camp-stock-200621360.html",
-        "pubTime": "2026-07-02T20:06:21Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Here's Why We're Not Too Worried About Camp4 Therapeutics' (NASDAQ:CAMP) Cash Burn Situation",
-        "publisher": "Simply Wall St.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-were-not-too-125746501.html",
-        "pubTime": "2026-06-06T12:57:46Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "CAMP4 Therapeutics Unveils Gene-Upregulation ASO Platform, Targets SYNGAP1 Clinic Entry in 2H",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/camp4-therapeutics-unveils-gene-upregulation-aso-platform-targets-syngap1-clinic-entry-in-2h-2026-04-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-04-13T17:36:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Biotech Stock Jumps 288% Amid Massive Raise as One Early Backer Reports $14 Million Exit",
+        "title": "Not Micron, Not Sandisk. This AI Stock Will Be the Biggest Beneficiary of the Next Infrastructure Bottleneck",
         "publisher": "Motley Fool",
-        "link": "https://www.fool.com/coverage/filings/2026/03/18/biotech-stock-jumps-288-amid-massive-raise-as-one-early-backer-reports-usd14-million-exit/",
-        "pubTime": "2026-03-18T18:08:40Z",
+        "link": "https://www.fool.com/investing/2026/08/17/not-micron-not-sandisk-this-ai-stock-will-be-the-b/",
+        "pubTime": "2026-08-17T16:43:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Micron Stock Claws Back From Lows To A Buy Point",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-17T16:41:31Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Micron Technology (MU) Watches As A Major Customer Weighs Chinese Memory Chips",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-watches-major-160851847.html",
+        "pubTime": "2026-08-17T16:08:51Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Investors Remember Why They Love Memory-Chip Stocks",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-17T16:06:20Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Chip stocks rally as US pressure on Chinese memory suppliers boosts sentiment",
+        "publisher": "Proactive",
+        "link": "https://www.proactiveinvestors.com/companies/news/1097146/chip-stocks-rally-as-us-pressure-on-chinese-memory-suppliers-boosts-sentiment-1097146.html",
+        "pubTime": "2026-08-17T16:03:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Prediction: Micron Is Up 240% This Year, and Here Is the Next Catalyst",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/prediction-micron-is-up-240-this-year-and-here-is-the-next-catalyst/",
+        "pubTime": "2026-08-17T16:00:16Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Memory Shares Start Week Strong as Sandisk Stock Climbs",
+        "publisher": "Investopedia",
+        "link": "https://www.investopedia.com/market-update-memory-stocks-monday-trading-markets-tech-12061198",
+        "pubTime": "2026-08-17T15:47:37Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage)",
+        "publisher": "Investor's Business Daily",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
+        "pubTime": "2026-08-17T15:39:17Z",
         "source": "yfinance"
       }
     ],
-    "ONTO": [
+    "FORM": [
       {
-        "title": "Apple upgraded, Workday downgraded: Wall Street's top analyst calls",
-        "publisher": "The Fly",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-upgraded-brinker-initiated-wall-134131346.html",
-        "pubTime": "2026-08-17T13:36:24Z",
+        "title": "Here's Why AXTI Stock Is a Buy Despite Its Premium 48.12X Valuation",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-axti-stock-buy-142400926.html",
+        "pubTime": "2026-08-17T14:24:00Z",
         "source": "yfinance"
       },
       {
-        "title": "KLA Corporation Had a Tough Month: 60% Returns Will Come According to This Wall Street Stalwart",
-        "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/17/kla-corporation-had-a-tough-month-60-returns-will-come-according-to-this-wall-street-stalwart/",
-        "pubTime": "2026-08-17T12:49:13Z",
+        "title": "3 Profitable Stocks That Fall Short",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-fall-short-112500365.html",
+        "pubTime": "2026-08-16T11:25:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "3 of Wall Street’s Favorite Stocks We Keep Off Our Radar",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-042100756.html",
+        "pubTime": "2026-08-16T04:21:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "FormFactor (FORM) Shares Skyrocket, What You Need To Know",
+        "publisher": "StockStory",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/formfactor-form-shares-skyrocket-know-192500089.html",
+        "pubTime": "2026-08-14T19:25:00Z",
         "source": "yfinance"
       },
       {
@@ -1221,52 +1091,182 @@
         "source": "yfinance"
       },
       {
-        "title": "Earnings Estimates Rising for Onto Innovation (ONTO): Will It Gain?",
+        "title": "Can Aehr's $22M AI Order Unlock a Bigger WLBI Opportunity?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-onto-innovation-162002925.html",
-        "pubTime": "2026-08-13T16:20:02Z",
+        "link": "https://finance.yahoo.com/technology/ai/articles/aehrs-22m-ai-order-unlock-154800690.html",
+        "pubTime": "2026-08-13T15:48:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Onto Innovation Jumps 6% Tuesday Following Camtek Earnings and NVIDIA’s $500 Billion Partnership",
+        "title": "4 Semiconductor Stocks to Buy Amid Top Hyperscalers' $745B AI CapEx Bet",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/technology/ai/articles/4-semiconductor-stocks-buy-amid-131600083.html",
+        "pubTime": "2026-08-12T13:16:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Earnings Estimates Rising for FormFactor (FORM): Will It Gain?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-formfactor-form-162002164.html",
+        "pubTime": "2026-08-05T16:20:02Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "ASE Technology Surges 82% in 6 Months: Buy, Sell or Hold the Stock?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ase-technology-surges-82-6-143800073.html",
+        "pubTime": "2026-08-04T14:38:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "All You Need to Know About FormFactor (FORM) Rating Upgrade to Strong Buy",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/know-formfactor-form-rating-upgrade-160005562.html",
+        "pubTime": "2026-08-03T16:00:05Z",
+        "source": "yfinance"
+      }
+    ],
+    "CIEN": [
+      {
+        "title": "Will Ciena's Rising Backlog Improve Revenue Visibility Into 2027?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cienas-rising-backlog-improve-revenue-134300241.html",
+        "pubTime": "2026-08-14T13:43:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Two Stocks Are Quietly Beating Nvidia, and Wall Street Wants Them 30% Higher",
+        "publisher": "BeInCrypto",
+        "link": "https://beincrypto.com/nvidia-stock-earnings-selloff-tsmc-ciena-analysis/",
+        "pubTime": "2026-08-14T11:27:14Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Arista Networks Stock Is Priced For Its Peak Margin",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611360/arista-networks-stock-is-priced-for-its-peak-margin/2026-08-13",
+        "pubTime": "2026-08-13T23:58:44Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Puts The Insane Opportunity for Companies like Marvell and Ciena Into Focus With One Stunning Quote",
         "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/11/onto-innovation-jumps-6-tuesday-following-camtek-earnings-and-nvidias-500-billion-partnership/",
-        "pubTime": "2026-08-11T16:48:52Z",
+        "link": "https://247wallst.com/investing/2026/08/13/lumentum-puts-the-insane-opportunity-for-companies-like-marvell-and-ciena-into-focus-with-one-stunning-quote/",
+        "pubTime": "2026-08-13T18:35:00Z",
         "source": "yfinance"
       },
       {
-        "title": "Onto Innovation (ONTO) Upgraded to Strong Buy: Here's What You Should Know",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-onto-upgraded-strong-160003127.html",
-        "pubTime": "2026-08-11T16:00:03Z",
+        "title": "Collect 13% On CIEN Stock Now, Own It 60% Cheaper If It Dips",
+        "publisher": "Trefis",
+        "link": "https://www.trefis.com/articles/611295/collect-13-on-cien-stock-now-own-it-60-cheaper-if-it-dips/2026-08-13",
+        "pubTime": "2026-08-13T17:53:30Z",
         "source": "yfinance"
       },
       {
-        "title": "The Zacks Analyst Blog Highlights SpaceX, Tesla KLA Corp, Onto Innovation, Applied Materials and Lam Research",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-spacex-145600132.html",
-        "pubTime": "2026-08-10T14:56:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Unlocking Onto Innovation (ONTO) International Revenues: Trends, Surprises, and Prospects",
-        "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/unlocking-onto-innovation-onto-international-131509595.html",
-        "pubTime": "2026-08-10T13:15:09Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Onto Innovation Q2 Earnings Call Highlights",
-        "publisher": "MarketBeat",
-        "link": "https://www.marketbeat.com/instant-alerts/onto-innovation-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "pubTime": "2026-08-08T23:03:48Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It",
+        "title": "Optics Stocks Divide: Coherent and Cisco Drop After Earnings While Nokia and Ciena Soar",
         "publisher": "24/7 Wall St.",
-        "link": "https://247wallst.com/investing/2026/08/08/kla-corporation-has-had-a-rough-month-a-wall-street-pro-sees-70-upside-because-of-it/",
-        "pubTime": "2026-08-08T12:01:37Z",
+        "link": "https://247wallst.com/investing/2026/08/13/optics-stocks-divide-coherent-and-cisco-drop-after-earnings-while-nokia-and-ciena-soar/",
+        "pubTime": "2026-08-13T17:15:05Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Cisco Drops 7% on Gross Margin Fears: Five Firms Raise CSCO Price Target Anyway",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/cisco-drops-7-on-gross-margin-fears-five-firms-raise-cisco-price-target-anyway/",
+        "pubTime": "2026-08-13T14:31:27Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Ciena Stock Outlook: Is Wall Street Bullish or Bearish?",
+        "publisher": "Barchart",
+        "link": "https://www.barchart.com/story/news/3831319/ciena-stock-outlook-is-wall-street-bullish-or-bearish",
+        "pubTime": "2026-08-13T14:05:29Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lumentum Still Down Over 90 Days: A Respected Analyst Sees 22% Gains Ahead Following Sharp Upturn",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/13/lumentum-still-down-over-90-days-a-respected-analyst-sees-22-gains-ahead-following-sharp-upturn/",
+        "pubTime": "2026-08-13T12:24:18Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Ciena (CIEN) Stock Looks Reasonable On Cash Flow While Earnings Look Stretched",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-cien-stock-looks-reasonable-051351936.html",
+        "pubTime": "2026-08-13T05:13:51Z",
+        "source": "yfinance"
+      }
+    ],
+    "LRCX": [
+      {
+        "title": "Lam Research (LRCX) Stock Looks Fully Valued After Its 499% Run",
+        "publisher": "Simply Wall St.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-lrcx-stock-looks-160840773.html",
+        "pubTime": "2026-08-17T16:08:40Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Billionaire Stanley Druckenmiller and Brad Gerstner Both Dumped Broadcom (AVGO) and Bought This AI Stock Instead",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-brad-gerstner-144900858.html",
+        "pubTime": "2026-08-17T14:49:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "KLA Corporation Had a Tough Month: 60% Returns Will Come According to This Wall Street Stalwart",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/kla-corporation-had-a-tough-month-60-returns-will-come-according-to-this-wall-street-stalwart/",
+        "pubTime": "2026-08-17T12:49:13Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Wall Street’s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the ‘Smart Money?’",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/16/wall-streets-biggest-funds-are-dumping-broadcom-and-adding-taiwan-semiconductor-time-to-follow-the-smart-money/",
+        "pubTime": "2026-08-16T22:13:14Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Third Point Exited Nvidia and Broadcom, Made New Bet on Warner Bros. Discovery in Second Quarter",
+        "publisher": "Barrons.com",
+        "link": "https://www.barrons.com/articles/third-point-nvidia-broadcom-warner-bros-discovery-stock-1f4560da?siteid=yhoof2&yptr=yahoo",
+        "pubTime": "2026-08-14T22:43:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lam Research bets $3 billion on speed, not size",
+        "publisher": "TheStreet",
+        "link": "https://www.thestreet.com/technology/lam-research-3b-lab-investment-chip-bottleneck",
+        "pubTime": "2026-08-14T19:13:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Lam Research’s Etch Moat Could Become the Most Profitable Lever in Next‑Gen Semiconductor Manufacturing",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/14/lam-researchs-etch-moat-could-become-the-most-profitable-lever-in-next%e2%80%91gen-semiconductor-manufacturing/",
+        "pubTime": "2026-08-14T15:25:31Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "AMKR Stock Slides 18% in Three Months: Is the Dip Worth Buying?",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amkr-stock-slides-18-three-134400152.html",
+        "pubTime": "2026-08-14T13:44:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Why Lam Research (LRCX) Became This Portfolio’s Top Performer",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-lam-research-lrcx-became-132837845.html",
+        "pubTime": "2026-08-14T13:28:37Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "AMAT Stock Falls After Wall Street Split On Q3 Results — Morgan Stanley Says Earnings Were 'Good, But Not Great'",
+        "publisher": "Stocktwits",
+        "link": "https://stocktwits.com/news-articles/markets/equity/amat-stock-falls-wall-street-split-q3-results-morgan-stanley-good-not-great/cZotjQHRJ0B",
+        "pubTime": "2026-08-14T13:28:34Z",
         "source": "yfinance"
       }
     ],
@@ -1342,75 +1342,75 @@
         "source": "yfinance"
       }
     ],
-    "MU": [
+    "ONTO": [
       {
-        "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
-        "pubTime": "2026-08-17T13:51:55Z",
+        "title": "Apple upgraded, Workday downgraded: Wall Street's top analyst calls",
+        "publisher": "The Fly",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-upgraded-brinker-initiated-wall-134131346.html",
+        "pubTime": "2026-08-17T13:36:24Z",
         "source": "yfinance"
       },
       {
-        "title": "Micron stock heats up again, crossing $1,000",
-        "publisher": "Yahoo Finance",
-        "link": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
-        "pubTime": "2026-08-17T11:53:04Z",
+        "title": "KLA Corporation Had a Tough Month: 60% Returns Will Come According to This Wall Street Stalwart",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/17/kla-corporation-had-a-tough-month-60-returns-will-come-according-to-this-wall-street-stalwart/",
+        "pubTime": "2026-08-17T12:49:13Z",
         "source": "yfinance"
       },
       {
-        "title": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)",
-        "publisher": "Investor's Business Daily",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo",
-        "pubTime": "2026-08-17T13:44:48Z",
+        "title": "Aehr Test Systems Soars Again Friday. Shares Now Up More than 500% On the Year.",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/14/aehr-test-systems-soars-again-friday-shares-now-up-more-than-500-on-the-year/",
+        "pubTime": "2026-08-14T16:11:43Z",
         "source": "yfinance"
       },
       {
-        "title": "Sandisk Just Gave Micron Technology Investors Great News",
-        "publisher": "Motley Fool",
-        "link": "https://www.fool.com/investing/2026/08/17/sandisk-just-gave-micron-technology-investors-grea/",
-        "pubTime": "2026-08-17T13:15:02Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Micron rises as White House presses Apple to avoid Chinese memory chips",
-        "publisher": "Investing.com",
-        "link": "https://finance.yahoo.com/economy/policy/articles/micron-rises-white-house-presses-131450433.html",
-        "pubTime": "2026-08-17T13:14:50Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "Update: US Equity Futures Mixed Pre-Bell as 60-Day US-Iran Ceasefire Expires",
-        "publisher": "MT Newswires",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-125500559.html",
-        "pubTime": "2026-08-17T12:55:00Z",
-        "source": "yfinance"
-      },
-      {
-        "title": "If You Invested $1000 in Micron a Decade Ago, This is How Much It'd Be Worth Now",
+        "title": "Earnings Estimates Rising for Onto Innovation (ONTO): Will It Gain?",
         "publisher": "Zacks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-micron-decade-ago-123002217.html",
-        "pubTime": "2026-08-17T12:30:02Z",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-estimates-rising-onto-innovation-162002925.html",
+        "pubTime": "2026-08-13T16:20:02Z",
         "source": "yfinance"
       },
       {
-        "title": "Stocks to Watch: Alibaba, L3Harris, Diana Shipping, BHP",
-        "publisher": "The Wall Street Journal",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T12:22:40Z",
+        "title": "Onto Innovation Jumps 6% Tuesday Following Camtek Earnings and NVIDIA’s $500 Billion Partnership",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/11/onto-innovation-jumps-6-tuesday-following-camtek-earnings-and-nvidias-500-billion-partnership/",
+        "pubTime": "2026-08-11T16:48:52Z",
         "source": "yfinance"
       },
       {
-        "title": "Why Sandisk Stock Is Getting Its Mojo Back",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/sandisk-stock-memory-chip-china-cd80db15?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T12:19:00Z",
+        "title": "Onto Innovation (ONTO) Upgraded to Strong Buy: Here's What You Should Know",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/onto-innovation-onto-upgraded-strong-160003127.html",
+        "pubTime": "2026-08-11T16:00:03Z",
         "source": "yfinance"
       },
       {
-        "title": "Oracle, Software Stocks Fall as AI Trade Seesaws",
-        "publisher": "Barrons.com",
-        "link": "https://www.barrons.com/articles/oracle-software-stocks-fall-as-ai-trade-seesaws-0e0c47d4?siteid=yhoof2&yptr=yahoo",
-        "pubTime": "2026-08-17T12:15:00Z",
+        "title": "The Zacks Analyst Blog Highlights SpaceX, Tesla KLA Corp, Onto Innovation, Applied Materials and Lam Research",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-spacex-145600132.html",
+        "pubTime": "2026-08-10T14:56:00Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Unlocking Onto Innovation (ONTO) International Revenues: Trends, Surprises, and Prospects",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/unlocking-onto-innovation-onto-international-131509595.html",
+        "pubTime": "2026-08-10T13:15:09Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "Onto Innovation Q2 Earnings Call Highlights",
+        "publisher": "MarketBeat",
+        "link": "https://www.marketbeat.com/instant-alerts/onto-innovation-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "pubTime": "2026-08-08T23:03:48Z",
+        "source": "yfinance"
+      },
+      {
+        "title": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It",
+        "publisher": "24/7 Wall St.",
+        "link": "https://247wallst.com/investing/2026/08/08/kla-corporation-has-had-a-rough-month-a-wall-street-pro-sees-70-upside-because-of-it/",
+        "pubTime": "2026-08-08T12:01:37Z",
         "source": "yfinance"
       }
     ]
