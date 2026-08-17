@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786974943992,
+  "generatedAt": 1786986299986,
   "sectors": [
     {
       "sym": "0050.TW",
@@ -14,9 +14,9 @@
       "sym": "0056.TW",
       "name": "高股息",
       "group": "dividend",
-      "price": 53.0,
-      "changePct": -0.75,
-      "distHigh": -3.46,
+      "price": 53.4,
+      "changePct": 0.75,
+      "distHigh": -2.73,
       "_failed": false
     },
     {
@@ -32,36 +32,36 @@
       "sym": "0053.TW",
       "name": "中型 100",
       "group": "broad",
-      "price": 242.1,
-      "changePct": -0.06,
-      "distHigh": -4.87,
+      "price": 242.25,
+      "changePct": -0.37,
+      "distHigh": -4.81,
       "_failed": false
     },
     {
       "sym": "0055.TW",
       "name": "金融",
       "group": "financial",
-      "price": 43.79,
-      "changePct": -1.04,
-      "distHigh": -2.3,
+      "price": 44.25,
+      "changePct": 1.21,
+      "distHigh": -1.27,
       "_failed": false
     },
     {
       "sym": "00692.TW",
       "name": "公司治理 100",
       "group": "broad",
-      "price": 91.2,
-      "changePct": 0.16,
-      "distHigh": -5.59,
+      "price": 91.05,
+      "changePct": -0.27,
+      "distHigh": -5.75,
       "_failed": false
     },
     {
       "sym": "00878.TW",
       "name": "國泰永續高股息",
       "group": "dividend",
-      "price": 33.75,
-      "changePct": -0.35,
-      "distHigh": -2.51,
+      "price": 33.87,
+      "changePct": 0.27,
+      "distHigh": -2.17,
       "_failed": false
     },
     {
@@ -77,9 +77,9 @@
       "sym": "00929.TW",
       "name": "復華台灣科技",
       "group": "growth",
-      "price": 29.2,
-      "changePct": -0.82,
-      "distHigh": -11.08,
+      "price": 29.44,
+      "changePct": -0.78,
+      "distHigh": -10.35,
       "_failed": false
     },
     {
