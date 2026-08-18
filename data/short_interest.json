@@ -1,141 +1,21 @@
 {
-  "generatedAt": 1787073131143,
-  "count": 41,
+  "generatedAt": 1787083395807,
+  "count": 40,
   "bySymbol": {
-    "CVNA": {
-      "shortPercent": 13.34,
-      "shortRatio": 6.79,
-      "sharesShort": 71271408,
-      "reportDate": "1785456000",
-      "squeezeScore": 70,
-      "conviction": "moderate_si"
-    },
-    "MP": {
-      "shortPercent": 17.29,
-      "shortRatio": 5.27,
-      "sharesShort": 28307745,
-      "reportDate": "1785456000",
-      "squeezeScore": 91,
-      "conviction": "squeeze_setup"
-    },
-    "AI": {
-      "shortPercent": 32.38,
-      "shortRatio": 8.78,
-      "sharesShort": 46307686,
-      "reportDate": "1785456000",
-      "squeezeScore": 90,
-      "conviction": "squeeze_setup"
-    },
-    "NKTR": {
-      "shortPercent": 20.58,
-      "shortRatio": 6.99,
-      "sharesShort": 6302638,
+    "KOD": {
+      "shortPercent": 25.93,
+      "shortRatio": 15.39,
+      "sharesShort": 10229369,
       "reportDate": "1785456000",
       "squeezeScore": 100,
       "conviction": "squeeze_setup"
     },
-    "MYO": {
-      "shortPercent": 5.29,
-      "shortRatio": 4.94,
-      "sharesShort": 1847205,
+    "TSHA": {
+      "shortPercent": 14.83,
+      "shortRatio": 15.14,
+      "sharesShort": 46691810,
       "reportDate": "1785456000",
-      "squeezeScore": 45,
-      "conviction": "normal"
-    },
-    "MSTR": {
-      "shortPercent": 8.92,
-      "shortRatio": 1.75,
-      "sharesShort": 32480941,
-      "reportDate": "1785456000",
-      "squeezeScore": 37,
-      "conviction": "moderate_si"
-    },
-    "AAOI": {
-      "shortPercent": 12.81,
-      "shortRatio": 1.18,
-      "sharesShort": 10434298,
-      "reportDate": "1785456000",
-      "squeezeScore": 55,
-      "conviction": "moderate_si"
-    },
-    "STTK": {
-      "shortPercent": 6.58,
-      "shortRatio": 4.87,
-      "sharesShort": 6394445,
-      "reportDate": "1785456000",
-      "squeezeScore": 58,
-      "conviction": "normal"
-    },
-    "OMER": {
-      "shortPercent": 22.09,
-      "shortRatio": 10.47,
-      "sharesShort": 15420416,
-      "reportDate": "1785456000",
-      "squeezeScore": 100,
-      "conviction": "squeeze_setup"
-    },
-    "RVMD": {
-      "shortPercent": 5.68,
-      "shortRatio": 5.62,
-      "sharesShort": 11519784,
-      "reportDate": "1785456000",
-      "squeezeScore": 57,
-      "conviction": "normal"
-    },
-    "PLTR": {
-      "shortPercent": 3.17,
-      "shortRatio": 1.87,
-      "sharesShort": 68066419,
-      "reportDate": "1785456000",
-      "squeezeScore": 20,
-      "conviction": "normal"
-    },
-    "HOOD": {
-      "shortPercent": 4.24,
-      "shortRatio": 1.48,
-      "sharesShort": 33162605,
-      "reportDate": "1785456000",
-      "squeezeScore": 21,
-      "conviction": "normal"
-    },
-    "KLIC": {
-      "shortPercent": 4.81,
-      "shortRatio": 1.94,
-      "sharesShort": 2035215,
-      "reportDate": "1785456000",
-      "squeezeScore": 36,
-      "conviction": "normal"
-    },
-    "ZNTL": {
-      "shortPercent": 9.73,
-      "shortRatio": 4.57,
-      "sharesShort": 5578646,
-      "reportDate": "1785456000",
-      "squeezeScore": 66,
-      "conviction": "moderate_si"
-    },
-    "DIOD": {
-      "shortPercent": 6.39,
-      "shortRatio": 3.6,
-      "sharesShort": 1731705,
-      "reportDate": "1785456000",
-      "squeezeScore": 40,
-      "conviction": "normal"
-    },
-    "ESTC": {
-      "shortPercent": 6.25,
-      "shortRatio": 3.57,
-      "sharesShort": 5683128,
-      "reportDate": "1785456000",
-      "squeezeScore": 40,
-      "conviction": "normal"
-    },
-    "IRWD": {
-      "shortPercent": 10.94,
-      "shortRatio": 7.62,
-      "sharesShort": 16542403,
-      "reportDate": "1785456000",
-      "squeezeScore": 72,
+      "squeezeScore": 84,
       "conviction": "moderate_si"
     },
     "GME": {
@@ -146,6 +26,54 @@
       "squeezeScore": 69,
       "conviction": "moderate_si"
     },
+    "AFRM": {
+      "shortPercent": 5.27,
+      "shortRatio": 4.24,
+      "sharesShort": 15391541,
+      "reportDate": "1785456000",
+      "squeezeScore": 41,
+      "conviction": "normal"
+    },
+    "BFLY": {
+      "shortPercent": 15.28,
+      "shortRatio": 4.05,
+      "sharesShort": 32688557,
+      "reportDate": "1785456000",
+      "squeezeScore": 80,
+      "conviction": "squeeze_setup"
+    },
+    "HL": {
+      "shortPercent": 0,
+      "shortRatio": 0,
+      "sharesShort": 2230,
+      "reportDate": "1785456000",
+      "squeezeScore": 0,
+      "conviction": "normal"
+    },
+    "UPST": {
+      "shortPercent": 29.65,
+      "shortRatio": 6.95,
+      "sharesShort": 25223623,
+      "reportDate": "1785456000",
+      "squeezeScore": 90,
+      "conviction": "squeeze_setup"
+    },
+    "AI": {
+      "shortPercent": 32.38,
+      "shortRatio": 8.78,
+      "sharesShort": 46307686,
+      "reportDate": "1785456000",
+      "squeezeScore": 90,
+      "conviction": "squeeze_setup"
+    },
+    "OMER": {
+      "shortPercent": 22.09,
+      "shortRatio": 10.47,
+      "sharesShort": 15420416,
+      "reportDate": "1785456000",
+      "squeezeScore": 100,
+      "conviction": "squeeze_setup"
+    },
     "NBTX": {
       "shortPercent": 0.27,
       "shortRatio": 0.8,
@@ -154,50 +82,34 @@
       "squeezeScore": 15,
       "conviction": "normal"
     },
-    "OCUL": {
-      "shortPercent": 14.37,
-      "shortRatio": 12.94,
-      "sharesShort": 26735397,
+    "KURA": {
+      "shortPercent": 15.22,
+      "shortRatio": 9.11,
+      "sharesShort": 13160945,
       "reportDate": "1785456000",
-      "squeezeScore": 73,
-      "conviction": "moderate_si"
+      "squeezeScore": 75,
+      "conviction": "squeeze_setup"
     },
-    "COIN": {
-      "shortPercent": 9.91,
-      "shortRatio": 2.86,
-      "sharesShort": 21790827,
+    "RCUS": {
+      "shortPercent": 16.82,
+      "shortRatio": 12.25,
+      "sharesShort": 13118220,
       "reportDate": "1785456000",
-      "squeezeScore": 46,
-      "conviction": "moderate_si"
+      "squeezeScore": 90,
+      "conviction": "squeeze_setup"
     },
-    "ETON": {
-      "shortPercent": 6.74,
-      "shortRatio": 2.47,
-      "sharesShort": 1313359,
+    "WIX": {
+      "shortPercent": 25.77,
+      "shortRatio": 6.52,
+      "sharesShort": 8721172,
       "reportDate": "1785456000",
-      "squeezeScore": 45,
-      "conviction": "normal"
+      "squeezeScore": 90,
+      "conviction": "squeeze_setup"
     },
-    "VSAT": {
-      "shortPercent": 11.09,
-      "shortRatio": 4.71,
-      "sharesShort": 11738028,
-      "reportDate": "1785456000",
-      "squeezeScore": 71,
-      "conviction": "moderate_si"
-    },
-    "LITE": {
-      "shortPercent": 12.16,
-      "shortRatio": 1.96,
-      "sharesShort": 8551325,
-      "reportDate": "1785456000",
-      "squeezeScore": 58,
-      "conviction": "moderate_si"
-    },
-    "UPST": {
-      "shortPercent": 29.65,
-      "shortRatio": 6.95,
-      "sharesShort": 25223623,
+    "WKHS": {
+      "shortPercent": 21.54,
+      "shortRatio": 9.6,
+      "sharesShort": 918189,
       "reportDate": "1785456000",
       "squeezeScore": 90,
       "conviction": "squeeze_setup"
@@ -210,109 +122,85 @@
       "squeezeScore": 73,
       "conviction": "moderate_si"
     },
-    "AMC": {
-      "shortPercent": 5.24,
-      "shortRatio": 0.91,
-      "sharesShort": 46522596,
-      "reportDate": "1785456000",
-      "squeezeScore": 21,
-      "conviction": "normal"
-    },
-    "FSLY": {
-      "shortPercent": 16.49,
-      "shortRatio": 4.91,
-      "sharesShort": 22594904,
-      "reportDate": "1785456000",
-      "squeezeScore": 88,
-      "conviction": "squeeze_setup"
-    },
-    "GO": {
-      "shortPercent": 36.96,
-      "shortRatio": 11.2,
-      "sharesShort": 23633297,
-      "reportDate": "1785456000",
-      "squeezeScore": 90,
-      "conviction": "squeeze_setup"
-    },
-    "AFRM": {
-      "shortPercent": 5.27,
-      "shortRatio": 4.24,
-      "sharesShort": 15391541,
-      "reportDate": "1785456000",
-      "squeezeScore": 41,
-      "conviction": "normal"
-    },
-    "CIFR": {
-      "shortPercent": 16.34,
-      "shortRatio": 2.08,
-      "sharesShort": 55637694,
-      "reportDate": "1785456000",
-      "squeezeScore": 71,
-      "conviction": "squeeze_setup"
-    },
-    "CGEM": {
-      "shortPercent": 22.19,
-      "shortRatio": 16.88,
-      "sharesShort": 10254541,
+    "NKTR": {
+      "shortPercent": 20.58,
+      "shortRatio": 6.99,
+      "sharesShort": 6302638,
       "reportDate": "1785456000",
       "squeezeScore": 100,
       "conviction": "squeeze_setup"
     },
-    "BYND": {
-      "shortPercent": 25.61,
-      "shortRatio": 4.67,
-      "sharesShort": 4349230,
+    "ESTC": {
+      "shortPercent": 6.25,
+      "shortRatio": 3.57,
+      "sharesShort": 5683128,
       "reportDate": "1785456000",
-      "squeezeScore": 88,
-      "conviction": "squeeze_setup"
-    },
-    "WKHS": {
-      "shortPercent": 21.54,
-      "shortRatio": 9.6,
-      "sharesShort": 918189,
-      "reportDate": "1785456000",
-      "squeezeScore": 90,
-      "conviction": "squeeze_setup"
-    },
-    "KOD": {
-      "shortPercent": 25.93,
-      "shortRatio": 15.39,
-      "sharesShort": 10229369,
-      "reportDate": "1785456000",
-      "squeezeScore": 100,
-      "conviction": "squeeze_setup"
-    },
-    "GMAB": {
-      "shortPercent": 1.2,
-      "shortRatio": 3.63,
-      "sharesShort": 7387972,
-      "reportDate": "1785456000",
-      "squeezeScore": 25,
+      "squeezeScore": 40,
       "conviction": "normal"
     },
-    "HL": {
-      "shortPercent": 0,
-      "shortRatio": 0,
-      "sharesShort": 2230,
+    "ETON": {
+      "shortPercent": 6.74,
+      "shortRatio": 2.47,
+      "sharesShort": 1313359,
       "reportDate": "1785456000",
-      "squeezeScore": 0,
+      "squeezeScore": 45,
       "conviction": "normal"
     },
-    "CMPS": {
-      "shortPercent": 9.98,
-      "shortRatio": 3.11,
-      "sharesShort": 13640893,
+    "LITE": {
+      "shortPercent": 12.16,
+      "shortRatio": 1.96,
+      "sharesShort": 8551325,
       "reportDate": "1785456000",
       "squeezeScore": 58,
       "conviction": "moderate_si"
     },
-    "STX": {
-      "shortPercent": 4.06,
-      "shortRatio": 1.5,
-      "sharesShort": 8047106,
+    "PLTR": {
+      "shortPercent": 3.17,
+      "shortRatio": 1.87,
+      "sharesShort": 68066419,
       "reportDate": "1785456000",
-      "squeezeScore": 31,
+      "squeezeScore": 20,
       "conviction": "normal"
+    },
+    "CVNA": {
+      "shortPercent": 13.34,
+      "shortRatio": 6.79,
+      "sharesShort": 71271408,
+      "reportDate": "1785456000",
+      "squeezeScore": 70,
+      "conviction": "moderate_si"
+    },
+    "CAMP": {
+      "shortPercent": 4.22,
+      "shortRatio": 8.38,
+      "sharesShort": 1482311,
+      "reportDate": "1785456000",
+      "squeezeScore": 52,
+      "conviction": "normal"
+    },
+    "ONTO": {
+      "shortPercent": 6.85,
+      "shortRatio": 2.05,
+      "sharesShort": 2646567,
+      "reportDate": "1785456000",
+      "squeezeScore": 42,
+      "conviction": "normal"
+    },
+    "ATI": {
+      "shortPercent": 4.12,
+      "shortRatio": 2.63,
+      "sharesShort": 3685690,
+      "reportDate": "1785456000",
+      "squeezeScore": 38,
+      "conviction": "normal"
+    },
+    "VSAT": {
+      "shortPercent": 11.09,
+      "shortRatio": 4.71,
+      "sharesShort": 11738028,
+      "reportDate": "1785456000",
+      "squeezeScore": 71,
+      "conviction": "moderate_si"
     },
     "ARWR": {
       "shortPercent": 9.51,
@@ -322,6 +210,22 @@
       "squeezeScore": 63,
       "conviction": "moderate_si"
     },
+    "AMC": {
+      "shortPercent": 5.24,
+      "shortRatio": 0.91,
+      "sharesShort": 46522596,
+      "reportDate": "1785456000",
+      "squeezeScore": 21,
+      "conviction": "normal"
+    },
+    "STTK": {
+      "shortPercent": 6.58,
+      "shortRatio": 4.87,
+      "sharesShort": 6394445,
+      "reportDate": "1785456000",
+      "squeezeScore": 58,
+      "conviction": "normal"
+    },
     "WBD": {
       "shortPercent": 2.88,
       "shortRatio": 3.16,
@@ -329,6 +233,94 @@
       "reportDate": "1785456000",
       "squeezeScore": 37,
       "conviction": "normal"
+    },
+    "OCUL": {
+      "shortPercent": 14.37,
+      "shortRatio": 12.94,
+      "sharesShort": 26735397,
+      "reportDate": "1785456000",
+      "squeezeScore": 73,
+      "conviction": "moderate_si"
+    },
+    "HOOD": {
+      "shortPercent": 4.24,
+      "shortRatio": 1.48,
+      "sharesShort": 33162605,
+      "reportDate": "1785456000",
+      "squeezeScore": 21,
+      "conviction": "normal"
+    },
+    "RVMD": {
+      "shortPercent": 5.68,
+      "shortRatio": 5.62,
+      "sharesShort": 11519784,
+      "reportDate": "1785456000",
+      "squeezeScore": 57,
+      "conviction": "normal"
+    },
+    "CGEM": {
+      "shortPercent": 22.19,
+      "shortRatio": 16.88,
+      "sharesShort": 10254541,
+      "reportDate": "1785456000",
+      "squeezeScore": 100,
+      "conviction": "squeeze_setup"
+    },
+    "FORM": {
+      "shortPercent": 4.5,
+      "shortRatio": 1.56,
+      "sharesShort": 2479456,
+      "reportDate": "1785456000",
+      "squeezeScore": 32,
+      "conviction": "normal"
+    },
+    "IRWD": {
+      "shortPercent": 10.94,
+      "shortRatio": 7.62,
+      "sharesShort": 16542403,
+      "reportDate": "1785456000",
+      "squeezeScore": 72,
+      "conviction": "moderate_si"
+    },
+    "MSTR": {
+      "shortPercent": 8.92,
+      "shortRatio": 1.75,
+      "sharesShort": 32480941,
+      "reportDate": "1785456000",
+      "squeezeScore": 37,
+      "conviction": "moderate_si"
+    },
+    "COIN": {
+      "shortPercent": 9.91,
+      "shortRatio": 2.86,
+      "sharesShort": 21790827,
+      "reportDate": "1785456000",
+      "squeezeScore": 46,
+      "conviction": "moderate_si"
+    },
+    "CMPS": {
+      "shortPercent": 9.98,
+      "shortRatio": 3.11,
+      "sharesShort": 13640893,
+      "reportDate": "1785456000",
+      "squeezeScore": 58,
+      "conviction": "moderate_si"
+    },
+    "FSLY": {
+      "shortPercent": 16.49,
+      "shortRatio": 4.91,
+      "sharesShort": 22594904,
+      "reportDate": "1785456000",
+      "squeezeScore": 88,
+      "conviction": "squeeze_setup"
+    },
+    "BYND": {
+      "shortPercent": 25.61,
+      "shortRatio": 4.67,
+      "sharesShort": 4349230,
+      "reportDate": "1785456000",
+      "squeezeScore": 88,
+      "conviction": "squeeze_setup"
     }
   }
 }
