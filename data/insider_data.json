@@ -1,9 +1,9 @@
 {
-  "generatedAt": 1786947925095,
-  "scannedAt": "2026-08-17T06:25:25.095Z",
-  "universeSize": 37,
-  "matched": 36,
-  "hits": 3,
+  "generatedAt": 1787033958380,
+  "scannedAt": "2026-08-18T06:19:18.381Z",
+  "universeSize": 29,
+  "matched": 27,
+  "hits": 2,
   "bySymbol": {
     "FCEL": {
       "filings": [
@@ -57,21 +57,6 @@
       ],
       "totalValue30d": 59451,
       "buyerCount30d": 4,
-      "clusterBuy": true
-    },
-    "PTLO": {
-      "filings": [
-        {
-          "insider": "LEE EUGENE I JR",
-          "title": "Director",
-          "date": "2026-08-12",
-          "shares": 65355,
-          "price": 4.59,
-          "value": 299979
-        }
-      ],
-      "totalValue30d": 299979,
-      "buyerCount30d": 1,
       "clusterBuy": true
     }
   }
