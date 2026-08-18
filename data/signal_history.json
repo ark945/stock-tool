@@ -51107,6 +51107,138 @@
       "stopLoss": 10.0096,
       "target": 12.512,
       "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-18_RCUS",
+      "type": "rs_leader",
+      "symbol": "RCUS",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 29.6,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 27.232,
+      "target": 34.04,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-18_CAMP",
+      "type": "rs_leader",
+      "symbol": "CAMP",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 4.9,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 4.508,
+      "target": 5.635,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-18_LABU",
+      "type": "rs_leader",
+      "symbol": "LABU",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 290.16,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 266.9472,
+      "target": 333.684,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-18_TSHA",
+      "type": "rs_leader",
+      "symbol": "TSHA",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 6.22,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 5.7224,
+      "target": 7.153,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-18_WIX",
+      "type": "discovery",
+      "symbol": "WIX",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 76.65,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 70.518,
+      "target": 88.1475,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-18_KURA",
+      "type": "discovery",
+      "symbol": "KURA",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 12.27,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 11.2884,
+      "target": 14.1105,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-18_FORM",
+      "type": "triple_resonance",
+      "symbol": "FORM",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 124.68,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 114.7056,
+      "target": 143.382,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-18_RCUS",
+      "type": "vcp_breakout",
+      "symbol": "RCUS",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 29.6,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 27.232,
+      "target": 34.04,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-18_FORM",
+      "type": "vcp_breakout",
+      "symbol": "FORM",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 124.68,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 114.7056,
+      "target": 143.382,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-18_LABU",
+      "type": "vcp_breakout",
+      "symbol": "LABU",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 290.16,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 266.9472,
+      "target": 333.684,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-18_TSHA",
+      "type": "vcp_breakout",
+      "symbol": "TSHA",
+      "triggeredAt": "2026-08-18T20:02:34.013Z",
+      "entryPrice": 6.22,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 5.7224,
+      "target": 7.153,
+      "status": "open"
     }
   ]
 }
