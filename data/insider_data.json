@@ -1,25 +1,10 @@
 {
-  "generatedAt": 1787033958380,
-  "scannedAt": "2026-08-18T06:19:18.381Z",
-  "universeSize": 29,
-  "matched": 27,
-  "hits": 2,
+  "generatedAt": 1787120421566,
+  "scannedAt": "2026-08-19T06:20:21.566Z",
+  "universeSize": 30,
+  "matched": 28,
+  "hits": 3,
   "bySymbol": {
-    "FCEL": {
-      "filings": [
-        {
-          "insider": "Livingston III Homer John",
-          "title": "Director",
-          "date": "2026-07-16",
-          "shares": 26343,
-          "price": 18.7893,
-          "value": 494967
-        }
-      ],
-      "totalValue30d": 494967,
-      "buyerCount30d": 1,
-      "clusterBuy": true
-    },
     "CAMP": {
       "filings": [
         {
@@ -57,6 +42,36 @@
       ],
       "totalValue30d": 59451,
       "buyerCount30d": 4,
+      "clusterBuy": true
+    },
+    "BFLY": {
+      "filings": [
+        {
+          "insider": "Phanstiel S. Louise",
+          "title": "Director",
+          "date": "2026-08-14",
+          "shares": 115200,
+          "price": 8.6763,
+          "value": 999510
+        }
+      ],
+      "totalValue30d": 999510,
+      "buyerCount30d": 1,
+      "clusterBuy": true
+    },
+    "KURA": {
+      "filings": [
+        {
+          "insider": "WILSON TROY EDWARD",
+          "title": "President and CEO",
+          "date": "2026-08-17",
+          "shares": 100000,
+          "price": 11.12,
+          "value": 1112000
+        }
+      ],
+      "totalValue30d": 1112000,
+      "buyerCount30d": 1,
       "clusterBuy": true
     }
   }
