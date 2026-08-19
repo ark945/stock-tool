@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-19T17:12:14.711Z",
+  "scannedAt": "2026-08-19T20:04:28.353Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 29,
@@ -52,7 +52,7 @@
         },
         {
           "qtr": "2026-03-31 00:00:00",
-          "actual": 2.0,
+          "actual": 2,
           "estimate": 1.90061,
           "surprisePct": 0.0523
         },
