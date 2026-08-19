@@ -52043,6 +52043,90 @@
       "stopLoss": 79.1384,
       "target": 98.923,
       "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-19_STTK",
+      "type": "rs_leader",
+      "symbol": "STTK",
+      "triggeredAt": "2026-08-19T20:04:25.697Z",
+      "entryPrice": 7.63,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.0196,
+      "target": 8.7745,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-19_MYO",
+      "type": "discovery",
+      "symbol": "MYO",
+      "triggeredAt": "2026-08-19T20:04:25.697Z",
+      "entryPrice": 1.87,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 1.7204,
+      "target": 2.1505,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-19_BNTX",
+      "type": "discovery",
+      "symbol": "BNTX",
+      "triggeredAt": "2026-08-19T20:04:25.697Z",
+      "entryPrice": 113.14,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 104.0888,
+      "target": 130.111,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-19_GMAB",
+      "type": "discovery",
+      "symbol": "GMAB",
+      "triggeredAt": "2026-08-19T20:04:25.697Z",
+      "entryPrice": 34.12,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 31.3904,
+      "target": 39.238,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-19_MRK",
+      "type": "discovery",
+      "symbol": "MRK",
+      "triggeredAt": "2026-08-19T20:04:25.697Z",
+      "entryPrice": 152.32,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 140.1344,
+      "target": 175.168,
+      "status": "open"
+    },
+    {
+      "id": "triple_resonance_2026-08-19_STTK",
+      "type": "triple_resonance",
+      "symbol": "STTK",
+      "triggeredAt": "2026-08-19T20:04:25.697Z",
+      "entryPrice": 7.63,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.0196,
+      "target": 8.7745,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-19_STTK",
+      "type": "vcp_breakout",
+      "symbol": "STTK",
+      "triggeredAt": "2026-08-19T20:04:25.697Z",
+      "entryPrice": 7.63,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 7.0196,
+      "target": 8.7745,
+      "status": "open"
     }
   ]
 }
