@@ -52679,6 +52679,66 @@
       "stopLoss": 61.5388,
       "target": 76.9235,
       "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-20_NBTX",
+      "type": "rs_leader",
+      "symbol": "NBTX",
+      "triggeredAt": "2026-08-20T17:17:43.400Z",
+      "entryPrice": 43.45,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 39.974,
+      "target": 49.9675,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-20_CRNX",
+      "type": "rs_leader",
+      "symbol": "CRNX",
+      "triggeredAt": "2026-08-20T17:17:43.400Z",
+      "entryPrice": 84.71,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 77.9332,
+      "target": 97.4165,
+      "status": "open"
+    },
+    {
+      "id": "rs_leader_2026-08-20_LITE",
+      "type": "rs_leader",
+      "symbol": "LITE",
+      "triggeredAt": "2026-08-20T17:17:43.400Z",
+      "entryPrice": 875.52,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 805.4784,
+      "target": 1006.848,
+      "status": "open"
+    },
+    {
+      "id": "discovery_2026-08-20_MYO",
+      "type": "discovery",
+      "symbol": "MYO",
+      "triggeredAt": "2026-08-20T17:17:43.400Z",
+      "entryPrice": 1.72,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 1.5824,
+      "target": 1.978,
+      "status": "open"
+    },
+    {
+      "id": "vcp_breakout_2026-08-20_CRNX",
+      "type": "vcp_breakout",
+      "symbol": "CRNX",
+      "triggeredAt": "2026-08-20T17:17:43.400Z",
+      "entryPrice": 84.71,
+      "exitPrice": null,
+      "exitDate": null,
+      "stopLoss": 77.9332,
+      "target": 97.4165,
+      "status": "open"
     }
   ]
 }
