@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-20T17:17:46.056Z",
+  "scannedAt": "2026-08-20T20:06:49.976Z",
   "universeSize": 104,
   "scannedCount": 104,
   "passedCount": 28,
@@ -268,7 +268,7 @@
       "surpriseHistory": [],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
@@ -1699,13 +1699,13 @@
           "qtr": "2026-03-31 00:00:00",
           "actual": 0.62,
           "estimate": 0.62,
-          "surprisePct": 0.0
+          "surprisePct": 0
         },
         {
           "qtr": "2026-06-30 00:00:00",
           "actual": 0.7,
           "estimate": 0.7,
-          "surprisePct": 0.0
+          "surprisePct": 0
         }
       ],
       "recommendation": {
@@ -1850,7 +1850,7 @@
       ],
       "recommendation": null,
       "epsRevision": {
-        "current": 0.0,
+        "current": 0,
         "pct90d": null,
         "pct30d": null,
         "pct7d": null
