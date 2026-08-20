@@ -1,9 +1,9 @@
 {
-  "generatedAt": 1787120421566,
-  "scannedAt": "2026-08-19T06:20:21.566Z",
-  "universeSize": 30,
-  "matched": 28,
-  "hits": 3,
+  "generatedAt": 1787206868476,
+  "scannedAt": "2026-08-20T06:21:08.476Z",
+  "universeSize": 32,
+  "matched": 30,
+  "hits": 2,
   "bySymbol": {
     "CAMP": {
       "filings": [
@@ -56,21 +56,6 @@
         }
       ],
       "totalValue30d": 999510,
-      "buyerCount30d": 1,
-      "clusterBuy": true
-    },
-    "KURA": {
-      "filings": [
-        {
-          "insider": "WILSON TROY EDWARD",
-          "title": "President and CEO",
-          "date": "2026-08-17",
-          "shares": 100000,
-          "price": 11.12,
-          "value": 1112000
-        }
-      ],
-      "totalValue30d": 1112000,
       "buyerCount30d": 1,
       "clusterBuy": true
     }
